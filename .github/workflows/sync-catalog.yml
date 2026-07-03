@@ -1,0 +1,35 @@
+name: Sync Fossy Catalog
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"   # Every Monday 3am UTC
+  workflow_dispatch:
+
+jobs:
+  build-catalog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests pyyaml
+
+      - name: Run catalog builder
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python build_catalog.py
+
+      - name: Commit updated catalog
+        run: |
+          git config --global user.name  "Fossy Catalog Bot"
+          git config --global user.email "bot@fossy.store"
+          git add fossy-catalog.json
+          git diff --staged --quiet || git commit -m "chore: sync catalog [$(date -u +%Y-%m-%d)]"
+          git push
