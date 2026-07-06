@@ -1,6 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-07-06T06:58:07Z",
+  "generated": "2026-07-06T19:47:44Z",
+  "total": 59,
   "apps": [
     {
       "id": "Brave.Brave",
@@ -196,59 +197,6 @@
       }
     },
     {
-      "id": "FreeCAD.FreeCAD",
-      "name": "FreeCAD",
-      "version": "1.1.1",
-      "publisher": "FreeCAD Team",
-      "description": "A general purpose open source parametric 3D CAD modeler",
-      "license": "LGPL-2.0-or-later",
-      "homepage": "https://www.freecad.org/downloads.php",
-      "category": "Design",
-      "tags": [
-        "3d-modeler",
-        "cad",
-        "engineer",
-        "engineering"
-      ],
-      "installer": {
-        "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.1/FreeCAD_1.1.1-Windows-x86_64-py311-installer.exe",
-        "type": "exe",
-        "architecture": "x64",
-        "sha256": "3E4CAF58CC1D82E4E8D726572F741AE664B6E91A77C4D3CB59102D9B8BD51FEB",
-        "silentArgs": "/S"
-      }
-    },
-    {
-      "id": "GIMP.GIMP",
-      "name": "GIMP",
-      "version": "3.2.4",
-      "publisher": "The GIMP Team",
-      "description": "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.",
-      "license": "GPLv3",
-      "homepage": "https://www.gimp.org/downloads/",
-      "category": "Design",
-      "tags": [
-        "gnu-image-manipulation-program",
-        "gnuimagemanipulationprogram",
-        "image-editor",
-        "image-editing",
-        "imageediting",
-        "paint",
-        "painting",
-        "photoediting",
-        "photo-editing",
-        "pictures",
-        "9pnsjclxdz0v"
-      ],
-      "installer": {
-        "url": "https://download.gimp.org/gimp/v3.2/windows/gimp-3.2.4-setup.exe",
-        "type": "exe",
-        "architecture": "x64",
-        "sha256": "EC31D757DD82831D201FFCF47FFEAC4175DF739E0C02D5122E89AEEADFB988CC",
-        "silentArgs": "/S"
-      }
-    },
-    {
       "id": "Inkscape.Inkscape",
       "name": "Inkscape",
       "version": "1.4.4",
@@ -272,54 +220,7 @@
         "type": "wix",
         "architecture": "x64",
         "sha256": "2FA033E95113AE83D6430B2479E7E63E4266D0632A5B03F99EE3DB9360E3B8B8",
-        "silentArgs": "/S"
-      }
-    },
-    {
-      "id": "LibreCAD.LibreCAD",
-      "name": "LibreCAD",
-      "version": "2.2.1.5",
-      "publisher": "LibreCAD Team",
-      "description": "LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.",
-      "license": "GPLv2",
-      "homepage": "https://librecad.org/",
-      "category": "Design",
-      "tags": [
-        "cad",
-        "drawing",
-        "dxf",
-        "qt"
-      ],
-      "installer": {
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.5/LibreCAD-v2.2.1.5-win64-msvc.exe",
-        "type": "exe",
-        "architecture": "x64",
-        "sha256": "738912FEA40ACA934689444AF9C5CD281572417983CC081C204FE6C779F6941D",
-        "silentArgs": "/S"
-      }
-    },
-    {
-      "id": "OpenSCAD.OpenSCAD",
-      "name": "OpenSCAD",
-      "version": "2021.01",
-      "publisher": "OpenSCAD",
-      "description": "OpenSCAD is software for creating solid 3D CAD objects.",
-      "license": "GNU GPLv2",
-      "homepage": "https://www.openscad.org/",
-      "category": "Design",
-      "tags": [
-        "3d",
-        "3d-graphics",
-        "3d-printing",
-        "cad",
-        "openscad"
-      ],
-      "installer": {
-        "url": "https://files.openscad.org/OpenSCAD-2021.01-x86-64-Installer.exe",
-        "type": "exe",
-        "architecture": "x64",
-        "sha256": "FBE1E590E1AF2AF863F5D92BD263EB4644D0EE29352E3AB566366E87A8F6ED12",
-        "silentArgs": "/S"
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -417,11 +318,11 @@
         "github"
       ],
       "installer": {
-        "url": "https://desktop.githubusercontent.com/releases/3.6.2-57f0b637/GitHubDesktopSetup-x64.exe",
-        "type": "exe",
+        "url": "https://desktop.githubusercontent.com/releases/3.6.2-57f0b637/GitHubDesktopSetup-x64.msi",
+        "type": "wix",
         "architecture": "x64",
-        "sha256": "DEAC92B3AD54074D02BF8D9B94681B00D52B981605D448068F21D8A8BE962880",
-        "silentArgs": "--silent"
+        "sha256": "36A7A7FAF601F0726214D14DDAAF2EA9AE1C39D3526B1F4B7C8C432FD8E770B8",
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -442,10 +343,10 @@
       ],
       "installer": {
         "url": "https://go.dev/dl/go1.26.4.windows-amd64.msi",
-        "type": "exe",
+        "type": "msi",
         "architecture": "x64",
         "sha256": "55902C036634C7AB3159CF259AF692ABC86989AAEFCC7F75BEF888F3263031C4",
-        "silentArgs": "/S"
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -547,10 +448,10 @@
       ],
       "installer": {
         "url": "https://download.gnome.org/binaries/win32/meld/3.22/Meld-3.22.2-mingw.msi",
-        "type": "exe",
+        "type": "msi",
         "architecture": "x64",
         "sha256": "E1525657FF0E0D9762619B4930FA758756D5E766967764BD12C2F3914F16ECE8",
-        "silentArgs": "/S"
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -578,11 +479,11 @@
         "v8"
       ],
       "installer": {
-        "url": "https://nodejs.org/dist/v24.18.0/node-v24.18.0-win-x64.zip",
-        "type": "zip",
+        "url": "https://nodejs.org/dist/v24.18.0/node-v24.18.0-x64.msi",
+        "type": "wix",
         "architecture": "x64",
-        "sha256": "0AE68406B42D7725661DA979B1403EC9926DA205C6770827F33AAC9D8F26E821",
-        "silentArgs": "/S"
+        "sha256": "E30CD4CA15529583AFE0EFC978F1AE3AB3A93C2400C222D0752D17900552EBB3",
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -604,36 +505,11 @@
         "text-editor"
       ],
       "installer": {
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.6.4/npp.8.9.6.4.portable.x64.zip",
-        "type": "zip",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.6.4/npp.8.9.6.4.Installer.x64.msi",
+        "type": "wix",
         "architecture": "x64",
-        "sha256": "7B3618195757EED0D47DEBC28661FE998E68D3822A06A3621EE669EE358FC952",
-        "silentArgs": "/S"
-      }
-    },
-    {
-      "id": "Python.Python.3.12",
-      "name": "Python 3.12",
-      "version": "3.12.10",
-      "publisher": "Python Software Foundation",
-      "description": "Python is a programming language that lets you work more quickly and integrate your systems more effectively.",
-      "license": "PSF-2.0",
-      "homepage": "https://www.python.org/",
-      "category": "Development",
-      "tags": [
-        "language",
-        "programming",
-        "programming-language",
-        "python",
-        "python3",
-        "script"
-      ],
-      "installer": {
-        "url": "https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe",
-        "type": "exe",
-        "architecture": "x64",
-        "sha256": "67B5635E80EA51072B87941312D00EC8927C4DB9BA18938F7AD2D27B328B95FB",
-        "silentArgs": "/S"
+        "sha256": "CAF99C55ACF3B9DC40BD0B1C414A2DF3ADDD580E2C0184DA9A1F8A3C4BEC3F7A",
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -671,10 +547,10 @@
       ],
       "installer": {
         "url": "https://github.com/astral-sh/uv/releases/download/0.11.26/uv-x86_64-pc-windows-msvc.zip",
-        "type": "exe",
+        "type": "zip",
         "architecture": "x64",
         "sha256": "4E1278EDE866BE6C0BF32D2F466CC6DE7A9FB399ECF20C9CE2D186E52424BE47",
-        "silentArgs": "/S"
+        "silentArgs": ""
       }
     },
     {
@@ -723,11 +599,11 @@
         "traffic"
       ],
       "installer": {
-        "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.6-x64.exe",
-        "type": "nullsoft",
+        "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.6-x64.msi",
+        "type": "wix",
         "architecture": "x64",
-        "sha256": "AB28D13695ACE992307FB1AAEA7144F977D5B6562ACEC1F465C9C0A9FA04190C",
-        "silentArgs": "/S"
+        "sha256": "90104F6EAE9B1FB4B1C8EBF6313D73E42F34EE274D3BC26BDC86741D47466C9D",
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -780,10 +656,10 @@
       ],
       "installer": {
         "url": "https://github.com/nextcloud-releases/desktop/releases/download/v33.0.7/Nextcloud-33.0.7-x64.msi",
-        "type": "exe",
+        "type": "msi",
         "architecture": "x64",
         "sha256": "88D47F551082E6284D5C0845261A8110E361B6D9CE3FE805AF6BEC711514A34E",
-        "silentArgs": "/S"
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -836,10 +712,10 @@
       ],
       "installer": {
         "url": "https://github.com/rclone/rclone/releases/download/v1.74.3/rclone-v1.74.3-windows-amd64.zip",
-        "type": "exe",
+        "type": "zip",
         "architecture": "x64",
         "sha256": "ECB0ED9006E0D1A693757007716A11DAB6C2CDE6DAC3F2FD87DA962EAA73D11D",
-        "silentArgs": "/S"
+        "silentArgs": ""
       }
     },
     {
@@ -901,10 +777,10 @@
       ],
       "installer": {
         "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.1/syncthing-windows-amd64-v2.1.1.zip",
-        "type": "exe",
+        "type": "zip",
         "architecture": "x64",
         "sha256": "DD4CBA5222A0B7E170203C4422E27B7908584ACE035272BCF483BC63138F54AE",
-        "silentArgs": "/S"
+        "silentArgs": ""
       }
     },
     {
@@ -931,11 +807,11 @@
         "xp8k0j757hhrdw"
       ],
       "installer": {
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.8/audacity-win-3.7.8-64bit.zip",
-        "type": "zip",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.8/audacity-win-3.7.8-64bit.exe",
+        "type": "inno",
         "architecture": "x64",
-        "sha256": "900620F6E9BB6A9F6D1C0A1A10B58EAF480C0C8A4BFCE134F89E80EDDC83979F",
-        "silentArgs": "/S"
+        "sha256": "4A6D77F023C0209A396FCF2F3C7C04E240B6BA9897B3231A6ED18E14C10CAA16",
+        "silentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
       }
     },
     {
@@ -1045,10 +921,10 @@
         "video-recording"
       ],
       "installer": {
-        "url": "https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Windows-x64.zip",
-        "type": "zip",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
+        "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "8D97E4563BD8D22D03E63042AA7DCCEDE1D555C9BD35CE8A9E5019B0D0201BF6",
+        "sha256": "94D180C1FC481CCC307B95513F795D088D63AC4F61AD3253C2AC0D94D0844110",
         "silentArgs": "/S"
       }
     },
@@ -1095,11 +971,11 @@
         "video-player"
       ],
       "installer": {
-        "url": "https://download.videolan.org/pub/videolan/vlc/3.0.23/win64/vlc-3.0.23-win64.zip",
-        "type": "zip",
+        "url": "https://download.videolan.org/pub/videolan/vlc/3.0.23/win64/vlc-3.0.23-win64.msi",
+        "type": "wix",
         "architecture": "x64",
-        "sha256": "992D19DBD0B8A7CDE9167D2F7780B1EF6F92ACC8A71ACFA736101A21F35181E1",
-        "silentArgs": "/S"
+        "sha256": "BC4B902A480B98A4A5479327A7F210F06369A59BF727649E320FABA5B4EF1F5E",
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -1289,41 +1165,10 @@
       ],
       "installer": {
         "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.msi",
-        "type": "exe",
+        "type": "msi",
         "architecture": "x64",
         "sha256": "E303CCED835E1A8A1041580EEAEA3B7B3658C348D77EA53A108A95926625C41A",
-        "silentArgs": "/S"
-      }
-    },
-    {
-      "id": "GnuPG.GnuPG",
-      "name": "GNU Privacy Guard",
-      "version": "2.5.21",
-      "publisher": "The GnuPG Project",
-      "description": "GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's PGP cryptographic software suite.",
-      "license": "GPLv3",
-      "homepage": "https://gnupg.org/",
-      "category": "Security",
-      "tags": [
-        "cryptography",
-        "encrypt",
-        "encryption",
-        "gnupg",
-        "gpg",
-        "pgp",
-        "privacy",
-        "s/mime",
-        "security",
-        "sign",
-        "signature",
-        "x.509"
-      ],
-      "installer": {
-        "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.21_20260702.exe",
-        "type": "exe",
-        "architecture": "x64",
-        "sha256": "6246C925A73167253444AFC24A0DEB83A3F43B7D636AF84D6AAF48A98A62F024",
-        "silentArgs": "/S"
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -1345,10 +1190,10 @@
       ],
       "installer": {
         "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.msi",
-        "type": "exe",
+        "type": "msi",
         "architecture": "x64",
         "sha256": "FEEE096C1D5D0D7BB7B36B18174818F7BAC889BE7668C550FF0E5EF9206EA9A5",
-        "silentArgs": "/S"
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -1409,11 +1254,11 @@
         "zip"
       ],
       "installer": {
-        "url": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.exe",
-        "type": "exe",
+        "url": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.msi",
+        "type": "wix",
         "architecture": "x64",
-        "sha256": "6745FA76DC2EA031596D8678F6F6B99C3C1B435B4164A63485ADBBC7B8D82EF0",
-        "silentArgs": "/S"
+        "sha256": "DB407A4F6D4999E5C7BC00CE8A882BE94717B56E7FA68140FE3F12605D91643E",
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -1539,10 +1384,10 @@
       ],
       "installer": {
         "url": "https://install.eartrumpet.app/master/EarTrumpet.Package_2.3.0.0_x86.appxbundle",
-        "type": "exe",
+        "type": "appxbundle",
         "architecture": "x86",
         "sha256": "d1602d57d862bcc67066f6912acc6e6df8ea1b6c79d3550d9d40624732be8bfc",
-        "silentArgs": "/S"
+        "silentArgs": ""
       }
     },
     {
@@ -1574,10 +1419,10 @@
       ],
       "installer": {
         "url": "https://github.com/GyanD/codexffmpeg/releases/download/8.1.2/ffmpeg-8.1.2-full_build.zip",
-        "type": "exe",
+        "type": "zip",
         "architecture": "x64",
         "sha256": "B8CDEFAB5F50590A076C27C2B56B0294A0E6154FADED28BA1BA05EBC4F801F57",
-        "silentArgs": "/S"
+        "silentArgs": ""
       }
     },
     {
@@ -1618,11 +1463,11 @@
         "shell"
       ],
       "installer": {
-        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/PowerShell-7.6.3.msixbundle",
-        "type": "msix",
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/PowerShell-7.6.3-win-x64.msi",
+        "type": "wix",
         "architecture": "x64",
-        "sha256": "5F60CCC7DB8DDD7344B70F5A69AF6B85956AC9B5EF424177D1488170F7301415",
-        "silentArgs": "/S"
+        "sha256": "4F574FDDB567F4D0756094424A1E4E2B2BBDDE21DE9F0965C0F988D24DC658E4",
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -1642,10 +1487,10 @@
       ],
       "installer": {
         "url": "https://the.earth.li/~sgtatham/putty/0.84/w64/putty-64bit-0.84-installer.msi",
-        "type": "exe",
+        "type": "msi",
         "architecture": "x64",
         "sha256": "190D00150E67AD3FF51AF4B50E76A3AB97B863A34EFD50472627B17C0CF4102B",
-        "silentArgs": "/S"
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -1702,10 +1547,10 @@
       ],
       "installer": {
         "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.12/ventoy-1.1.12-windows.zip",
-        "type": "exe",
+        "type": "zip",
         "architecture": "x64",
         "sha256": "E70C505BE08D99C55E506832F596C430A9C36F8D087F25542D3F6D332D9B6473",
-        "silentArgs": "/S"
+        "silentArgs": ""
       }
     },
     {
@@ -1728,10 +1573,10 @@
       ],
       "installer": {
         "url": "https://github.com/windirstat/windirstat/releases/download/release/v2.7.0/WinDirStat-x64.msi",
-        "type": "exe",
+        "type": "msi",
         "architecture": "x64",
         "sha256": "66643671D6B4E09EAFFBE28E0D89CC9BCA06D94495225A20020822B40536CCC4",
-        "silentArgs": "/S"
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -1754,11 +1599,11 @@
         "webdav"
       ],
       "installer": {
-        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.6/WinSCP-6.5.6-Setup.exe/download",
-        "type": "inno",
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.6/WinSCP-6.5.6.msi/download",
+        "type": "wix",
         "architecture": "x86",
-        "sha256": "4488C493BAFCA6AF4E7AE54ED39CB71479E65DC192C4D1A471647BF9CB9D6DB0",
-        "silentArgs": "/S"
+        "sha256": "D3EF315E0013479DCBCEDF8DD06AEC33DFEDA9004972E94128144329957B602F",
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
