@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated": "2026-07-06T19:47:44Z",
+  "generated": "2026-07-13T05:56:24Z",
   "total": 59,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "150.1.92.134",
+      "version": "150.1.92.139",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,17 +21,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.92.134/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.92.139/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "4726E28A23DA1B0B253EFB63736EFC9B20A580F26017F93F72EBDACF471C657A",
+        "sha256": "0E63B0614431C9EE276D7D8AA0F4A0AFCB3741663EA60F47F7ADF6D46167037C",
         "silentArgs": "/S"
       }
     },
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "152.0.4-1",
+      "version": "152.0.5-1",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -49,17 +49,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/152.0.4-1/librewolf-152.0.4-1-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/152.0.5-1/librewolf-152.0.5-1-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "FD50EC067A467DB39A75C5A8700F8F0847436D47EEB7EAF6D000C1A9A86F8EC5",
+        "sha256": "227F69A02C286F90E82B6155F7CBFD01EACC63DDAE7CA73594EC32C5F4BC84F6",
         "silentArgs": "/S"
       }
     },
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "152.0.4",
+      "version": "152.0.5",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -76,17 +76,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.4/win64/en-US/Firefox%20Setup%20152.0.4.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.5/win64/en-US/Firefox%20Setup%20152.0.5.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A1CD9B563A1C084DB7E77F6E2A7E1F07876D8E58E4E33463052D53CC0A5D7069",
+        "sha256": "6FE5DF6FD8ABF6B9A4DE021C904FFD03CBF09DDC41AEA6D4AAF333EE39EC3373",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
     {
       "id": "Waterfox.Waterfox",
       "name": "Waterfox",
-      "version": "6.6.15",
+      "version": "6.6.16.1",
       "publisher": "BrowserWorks",
       "description": "Fast and Private Web Browser",
       "license": "MPL-2.0",
@@ -105,17 +105,17 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://cdn.waterfox.com/waterfox/releases/6.6.15/WINNT_x86_64/Waterfox%20Setup%206.6.15.exe",
+        "url": "https://cdn.waterfox.com/waterfox/releases/6.6.16.1/WINNT_x86_64/Waterfox%20Setup%206.6.16.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "65CC8C1150EC6587BB75EC3FF83314C6F82E7D3A426E892F7906637482FD8FEF",
+        "sha256": "D70B78977B3C2E908F0747B9D2B160DEBAF0093B6E735E6D9A1C6E5C10B4D0B5",
         "silentArgs": "-ms"
       }
     },
     {
       "id": "Element.Element",
       "name": "Element",
-      "version": "1.12.22",
+      "version": "1.12.23",
       "publisher": "Element",
       "description": "Secure collaboration and messaging",
       "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -139,10 +139,10 @@
         "talk"
       ],
       "installer": {
-        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.22.exe",
+        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.23.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "06D7CE9433068FBC7C0B74F896D071816619F95F4058373E22740F11D4200CDD",
+        "sha256": "084A496A8D7ACFBC667A8FD316B02201474C9AFF28BAB3EFCB0C1A97E8F4BFFE",
         "silentArgs": "--silent"
       }
     },
@@ -328,7 +328,7 @@
     {
       "id": "GoLang.Go",
       "name": "Go Programming Language",
-      "version": "1.26.4",
+      "version": "1.26.5",
       "publisher": "https://go.dev",
       "description": "An open source programming language that makes it simple to build secure, scalable systems.",
       "license": "BSD-3-Clause",
@@ -342,10 +342,10 @@
         "programming-language"
       ],
       "installer": {
-        "url": "https://go.dev/dl/go1.26.4.windows-amd64.msi",
+        "url": "https://go.dev/dl/go1.26.5.windows-amd64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "55902C036634C7AB3159CF259AF692ABC86989AAEFCC7F75BEF888F3263031C4",
+        "sha256": "D554DC209403B101225FC2B54647EF47DF09BEA23291B1246FE1B35198F55F50",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -536,7 +536,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.11.26",
+      "version": "0.11.28",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -546,17 +546,17 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.11.26/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.11.28/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "4E1278EDE866BE6C0BF32D2F466CC6DE7A9FB399ECF20C9CE2D186E52424BE47",
+        "sha256": "0A23463216D09C6A72FF80EF5DC5A795F07DC1575CB84D24596C2F124A441B7B",
         "silentArgs": ""
       }
     },
     {
       "id": "VSCodium.VSCodium",
       "name": "VSCodium",
-      "version": "1.121.03429",
+      "version": "1.126.04524",
       "publisher": "VSCodium",
       "description": "VSCodium is a community-driven, freely-licensed and telemetry-free rebuilt of Microsoft's Visual Studio Code.",
       "license": "MIT",
@@ -573,17 +573,17 @@
         "vscode"
       ],
       "installer": {
-        "url": "https://github.com/VSCodium/vscodium/releases/download/1.121.03429/VSCodiumUserSetup-x64-1.121.03429.exe",
+        "url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodiumUserSetup-x64-1.126.04524.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "21B126BA82829633072836BB67DF5FBBE1DD08EC1AFC3B2483C886EFC9F72515",
+        "sha256": "A8C0516A9B17D1BA4887898F0966445BC61B386FD11578E57433F1E57E9868C9",
         "silentArgs": "/S"
       }
     },
     {
       "id": "WiresharkFoundation.Wireshark",
       "name": "Wireshark",
-      "version": "4.6.6",
+      "version": "4.6.7",
       "publisher": "The Wireshark developer community, https://www.wireshark.org",
       "description": "The world's most popular network protocol analyzer.",
       "license": "GPL-2.0",
@@ -599,10 +599,10 @@
         "traffic"
       ],
       "installer": {
-        "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.6-x64.msi",
+        "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.7-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "90104F6EAE9B1FB4B1C8EBF6313D73E42F34EE274D3BC26BDC86741D47466C9D",
+        "sha256": "CA156A40791ED9803E6028A413FE05EC22D723B09AC5F727534EDE3F5F1D0423",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -665,7 +665,7 @@
     {
       "id": "qBittorrent.qBittorrent",
       "name": "qBittorrent",
-      "version": "5.2.2",
+      "version": "5.2.3",
       "publisher": "The qBittorrent project",
       "description": "Free and reliable P2P Bittorent client.",
       "license": "GPL-3.0",
@@ -683,17 +683,17 @@
         "upload"
       ],
       "installer": {
-        "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.2.2/qbittorrent_5.2.2_x64_setup.exe/download",
+        "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.2.3/qbittorrent_5.2.3_x64_setup.exe/download",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "219DE2B0133BF8408F40450A389C227F8D1C2BB520D6D10D1833BC528CA2CD10",
+        "sha256": "FF508E2F912D59C9EABAF03633EBACFD45C2049F38DCAC027B8A7D7AD867AB2F",
         "silentArgs": "/S"
       }
     },
     {
       "id": "Rclone.Rclone",
       "name": "Rclone",
-      "version": "1.74.3",
+      "version": "1.74.4",
       "publisher": "Rclone",
       "description": "Rclone (\"rsync for cloud storage\") is a command-line program to sync files and directories to and from different cloud storage providers.",
       "license": "MIT",
@@ -711,10 +711,10 @@
         "webdav"
       ],
       "installer": {
-        "url": "https://github.com/rclone/rclone/releases/download/v1.74.3/rclone-v1.74.3-windows-amd64.zip",
+        "url": "https://github.com/rclone/rclone/releases/download/v1.74.4/rclone-v1.74.4-windows-amd64.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "ECB0ED9006E0D1A693757007716A11DAB6C2CDE6DAC3F2FD87DA962EAA73D11D",
+        "sha256": "EF097EF9DE37A57FEB7D9F9C7AFB34148AD3C65BE8025F1D8F7F521554A701EA",
         "silentArgs": ""
       }
     },
@@ -754,7 +754,7 @@
     {
       "id": "Syncthing.Syncthing",
       "name": "Syncthing",
-      "version": "2.1.1",
+      "version": "2.1.2",
       "publisher": "The Syncthing Authors",
       "description": "Open Source Continuous File Synchronization",
       "license": "MPL-2.0",
@@ -776,10 +776,10 @@
         "synchronization"
       ],
       "installer": {
-        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.1/syncthing-windows-amd64-v2.1.1.zip",
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.2/syncthing-windows-amd64-v2.1.2.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "DD4CBA5222A0B7E170203C4422E27B7908584ACE035272BCF483BC63138F54AE",
+        "sha256": "4626C13012E9620ECE2393BFC3300AEAFEAD654695D5DC096A873C27A7543C96",
         "silentArgs": ""
       }
     },
@@ -845,7 +845,7 @@
     {
       "id": "KDE.Kdenlive",
       "name": "Kdenlive",
-      "version": "26.04.2",
+      "version": "26.04.3",
       "publisher": "KDE e.V.",
       "description": "Free and Open Source Video Editor",
       "license": "GPL-3.0",
@@ -864,10 +864,10 @@
         "video-editor"
       ],
       "installer": {
-        "url": "https://download.kde.org/stable/kdenlive/26.04/windows/kdenlive-26.04.2.exe",
+        "url": "https://download.kde.org/stable/kdenlive/26.04/windows/kdenlive-26.04.3.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A9FC060AA7D026126DC68BB24D0F5ADB4F610A3D91BF6775DAAF25FD1BD63145",
+        "sha256": "F5DCD8DDB7A8EF6754CEE7515513D6C777BC68079C6FEC37E20373F628F65FE1",
         "silentArgs": "/S"
       }
     },
@@ -1264,7 +1264,7 @@
     {
       "id": "BleachBit.BleachBit",
       "name": "BleachBit",
-      "version": "6.0.0.3482",
+      "version": "6.0.2.3702",
       "publisher": "BleachBit",
       "description": "Clean Your System and Free Disk Space",
       "license": "GPL-3.0",
@@ -1286,10 +1286,10 @@
         "wipe"
       ],
       "installer": {
-        "url": "https://download.bleachbit.org/BleachBit-6.0.0-setup.exe",
+        "url": "https://download.bleachbit.org/BleachBit-6.0.2-setup.exe",
         "type": "exe",
         "architecture": "x86",
-        "sha256": "D8B2A8F98A677283E13BCF7F8D91DF10E6DAF3870A70AC8F7479C082ED67AC39",
+        "sha256": "16532BC640315F87BD66E04F78B137E1EC90DB2D0B7357BFCC47AF8873E0076E",
         "silentArgs": "/S"
       }
     },
