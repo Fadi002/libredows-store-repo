@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated": "2026-07-13T05:56:24Z",
+  "generated": "2026-07-20T05:57:05Z",
   "total": 59,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "150.1.92.139",
+      "version": "150.1.92.141",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,17 +21,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.92.139/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.92.141/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "0E63B0614431C9EE276D7D8AA0F4A0AFCB3741663EA60F47F7ADF6D46167037C",
+        "sha256": "245D7C2657EC2DDF9AEE5D6883E54EFB6EEDB13FE42978EB713DB37417252930",
         "silentArgs": "/S"
       }
     },
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "152.0.5-1",
+      "version": "152.0.6-1",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -49,17 +49,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/152.0.5-1/librewolf-152.0.5-1-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/152.0.6-1/librewolf-152.0.6-1-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "227F69A02C286F90E82B6155F7CBFD01EACC63DDAE7CA73594EC32C5F4BC84F6",
+        "sha256": "92BCBB6ADFAD4F0120EAC26E07B773E599B79541E6378A9D5649AF0D7867F65C",
         "silentArgs": "/S"
       }
     },
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "152.0.5",
+      "version": "152.0.6",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -76,10 +76,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.5/win64/en-US/Firefox%20Setup%20152.0.5.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.6/win64/en-US/Firefox%20Setup%20152.0.6.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "6FE5DF6FD8ABF6B9A4DE021C904FFD03CBF09DDC41AEA6D4AAF333EE39EC3373",
+        "sha256": "3D4FCC5370BB183C9535D64B98D946C2DACF664A394EBCC02844E361D58D59B4",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
@@ -251,7 +251,7 @@
     {
       "id": "DBeaver.DBeaver.Community",
       "name": "DBeaver",
-      "version": "26.1.2",
+      "version": "26.1.3",
       "publisher": "DBeaver Corp",
       "description": "Free Universal Database Tool",
       "license": "Apache-2.0",
@@ -276,17 +276,17 @@
         "tool"
       ],
       "installer": {
-        "url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.2/dbeaver-ce-26.1.2-windows-x86_64.exe",
+        "url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.3/dbeaver-ce-26.1.3-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "C1EC4978244AD1305C90A99E2B74741749066E105038C3621AD319DE988ECE74",
+        "sha256": "DF3E522E3DBD4E6A7F91DCD8E422A0BE13220D2E895A681B5B6732ADB518297D",
         "silentArgs": "/S"
       }
     },
     {
       "id": "Git.Git",
       "name": "Git",
-      "version": "2.55.0.2",
+      "version": "2.55.0.3",
       "publisher": "The Git Development Community",
       "description": "A free and open source distributed version control system",
       "license": "GPL-2.0",
@@ -297,17 +297,17 @@
         "vcs"
       ],
       "installer": {
-        "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.2/Git-2.55.0.2-64-bit.exe",
+        "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/Git-2.55.0.3-64-bit.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "74300DA8DFE0D844C5449FFB809662F8EEAC47916F83730C879C4084890C6C0E",
+        "sha256": "AF12577D0FDFF74243A5988197AA49B957D5044EDC17004F6DDF0768996F1DCA",
         "silentArgs": "/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
       }
     },
     {
       "id": "GitHub.GitHubDesktop",
       "name": "GitHub Desktop",
-      "version": "3.6.2",
+      "version": "3.6.3",
       "publisher": "GitHub, Inc.",
       "description": "Focus on what matters instead of fighting with Git.",
       "license": "MIT",
@@ -318,10 +318,10 @@
         "github"
       ],
       "installer": {
-        "url": "https://desktop.githubusercontent.com/releases/3.6.2-57f0b637/GitHubDesktopSetup-x64.msi",
+        "url": "https://desktop.githubusercontent.com/releases/3.6.3-931da4a1/GitHubDesktopSetup-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "36A7A7FAF601F0726214D14DDAAF2EA9AE1C39D3526B1F4B7C8C432FD8E770B8",
+        "sha256": "62613AF0723746130D17E415175A9C312929A06CE232EC34DA476912CC2E11C3",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -433,7 +433,7 @@
     {
       "id": "Meld.Meld",
       "name": "Meld",
-      "version": "3.22.2",
+      "version": "3.24.0",
       "publisher": "Kai Willadsen",
       "description": "Visual diff and merge tool",
       "license": "GPL-2.0-or-later",
@@ -447,11 +447,11 @@
         "utility"
       ],
       "installer": {
-        "url": "https://download.gnome.org/binaries/win32/meld/3.22/Meld-3.22.2-mingw.msi",
-        "type": "msi",
+        "url": "https://gitlab.gnome.org/GNOME/meld/-/package_files/3852/download",
+        "type": "exe",
         "architecture": "x64",
-        "sha256": "E1525657FF0E0D9762619B4930FA758756D5E766967764BD12C2F3914F16ECE8",
-        "silentArgs": "/quiet /norestart"
+        "sha256": "D25F98DCE5E3D07A6C98F6C7A91ACBFBACEDAC06EF5C4663DC4B614B52D2B993",
+        "silentArgs": "/S"
       }
     },
     {
@@ -489,7 +489,7 @@
     {
       "id": "Notepad++.Notepad++",
       "name": "Notepad++",
-      "version": "8.9.6.4",
+      "version": "8.9.7",
       "publisher": "Notepad++ Team",
       "description": "Notepad++ is a free source code editor that supports several languages.",
       "license": "GPL-3.0-or-later",
@@ -505,10 +505,10 @@
         "text-editor"
       ],
       "installer": {
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.6.4/npp.8.9.6.4.Installer.x64.msi",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.7/npp.8.9.7.Installer.x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "CAF99C55ACF3B9DC40BD0B1C414A2DF3ADDD580E2C0184DA9A1F8A3C4BEC3F7A",
+        "sha256": "E83A210F66EBBEC49F66B61DA1270EF213FFB36F86515247EEFCFFFE6B484943",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -536,7 +536,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.11.28",
+      "version": "0.11.29",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -546,10 +546,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.11.28/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.11.29/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "0A23463216D09C6A72FF80EF5DC5A795F07DC1575CB84D24596C2F124A441B7B",
+        "sha256": "A047D55651BC3E0CA24595B25EC4CFCB10F9DCA9FB56514E661269B37D4FAE68",
         "silentArgs": ""
       }
     },
@@ -1199,7 +1199,7 @@
     {
       "id": "TorProject.TorBrowser",
       "name": "Tor Browser",
-      "version": "15.0.17",
+      "version": "15.0.18",
       "publisher": "Tor Project",
       "description": "Protect yourself against tracking, surveillance, and censorship.",
       "license": "MPL-2.0",
@@ -1220,10 +1220,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.17/tor-browser-windows-x86_64-portable-15.0.17.exe",
+        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.18/tor-browser-windows-x86_64-portable-15.0.18.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "13D3E0A229443B643C683DE1615456ACE7632F4D801B62720A9390AD953F8C80",
+        "sha256": "0222D39AB5E0E9157AF1C5D8F01F79FDB6FD62EE337A671CA3F0CC6ED9AA1736",
         "silentArgs": "/S"
       }
     },
@@ -1522,7 +1522,7 @@
     {
       "id": "Ventoy.Ventoy",
       "name": "Ventoy",
-      "version": "1.1.12",
+      "version": "1.1.16",
       "publisher": "Ventoy",
       "description": "Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.",
       "license": "GPL-3.0",
@@ -1546,10 +1546,10 @@
         "windows"
       ],
       "installer": {
-        "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.12/ventoy-1.1.12-windows.zip",
+        "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.16/ventoy-1.1.16-windows.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "E70C505BE08D99C55E506832F596C430A9C36F8D087F25542D3F6D332D9B6473",
+        "sha256": "7DB5B3A1E23AF39D0A648843C263EB5CF51493CCBF2A38C6A4315DB80A4F9B58",
         "silentArgs": ""
       }
     },
