@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated": "2026-07-20T05:57:05Z",
+  "generated": "2026-07-27T06:14:31Z",
   "total": 59,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "150.1.92.141",
+      "version": "150.1.92.144",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,17 +21,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.92.141/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.92.144/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "245D7C2657EC2DDF9AEE5D6883E54EFB6EEDB13FE42978EB713DB37417252930",
+        "sha256": "F6458E279A873E096C279A825B79D4D8C3272155F91A6887167D797EAA552947",
         "silentArgs": "/S"
       }
     },
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "152.0.6-1",
+      "version": "153.0-3",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -49,17 +49,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/152.0.6-1/librewolf-152.0.6-1-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/153.0-3/librewolf-153.0-3-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "92BCBB6ADFAD4F0120EAC26E07B773E599B79541E6378A9D5649AF0D7867F65C",
+        "sha256": "66746F11164616200D661E6445B92200302CF8E8DFA8CACA3F33B98EEEA769E5",
         "silentArgs": "/S"
       }
     },
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "152.0.6",
+      "version": "153.0",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -76,17 +76,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0.6/win64/en-US/Firefox%20Setup%20152.0.6.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0/win64/en-US/Firefox%20Setup%20153.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "3D4FCC5370BB183C9535D64B98D946C2DACF664A394EBCC02844E361D58D59B4",
+        "sha256": "B409FF5AF3419214F11F928E67B1F44C1AD0F8A46F7DB7E697CAEDEFA02A6D2A",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
     {
       "id": "Waterfox.Waterfox",
       "name": "Waterfox",
-      "version": "6.6.16.1",
+      "version": "6.6.17",
       "publisher": "BrowserWorks",
       "description": "Fast and Private Web Browser",
       "license": "MPL-2.0",
@@ -105,17 +105,17 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://cdn.waterfox.com/waterfox/releases/6.6.16.1/WINNT_x86_64/Waterfox%20Setup%206.6.16.1.exe",
+        "url": "https://cdn.waterfox.com/waterfox/releases/6.6.17/WINNT_x86_64/Waterfox%20Setup%206.6.17.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "D70B78977B3C2E908F0747B9D2B160DEBAF0093B6E735E6D9A1C6E5C10B4D0B5",
+        "sha256": "F59DF2FD152AFD476AD941A886A61878FEC17B70D224197B229230A12E50C468",
         "silentArgs": "-ms"
       }
     },
     {
       "id": "Element.Element",
       "name": "Element",
-      "version": "1.12.23",
+      "version": "1.12.24",
       "publisher": "Element",
       "description": "Secure collaboration and messaging",
       "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -139,17 +139,17 @@
         "talk"
       ],
       "installer": {
-        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.23.exe",
+        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.24.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "084A496A8D7ACFBC667A8FD316B02201474C9AFF28BAB3EFCB0C1A97E8F4BFFE",
+        "sha256": "F0FDFBA95899066E4742159944E9CEC459A0B656DDA3CB55D08602107C17BD3F",
         "silentArgs": "--silent"
       }
     },
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "152.0.1",
+      "version": "153.0",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -160,10 +160,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/152.0.1/win64/en-US/Thunderbird%20Setup%20152.0.1.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0/win64/en-US/Thunderbird%20Setup%20153.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "8AC6473B18AA31BA2331C0C9C7242BDDBBADC1F87CEF077056BA953003A2FCE9",
+        "sha256": "A20B2C70DCDD4B6E4B419EAC0DC11C97FA688202182587CCBE79792D78607A73",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
@@ -412,7 +412,7 @@
     {
       "id": "Insomnia.Insomnia",
       "name": "Insomnia",
-      "version": "13.0.2",
+      "version": "13.1.0",
       "publisher": "Kong",
       "description": "The Desktop API client for REST and GraphQL. Make requests, inspect responses.",
       "license": "Apache-2.0",
@@ -423,10 +423,10 @@
         "insomnia-core"
       ],
       "installer": {
-        "url": "https://github.com/Kong/insomnia/releases/download/core@13.0.2/Insomnia.Core-13.0.2.exe",
+        "url": "https://github.com/Kong/insomnia/releases/download/core@13.1.0/Insomnia.Core-13.1.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "7464414C631AD21FACEBFFC9A8390A88C1F13E5F7FA585A7181620EF90FA1FC3",
+        "sha256": "F01975414027D41224D8043FD158F6C1933BA57C5B71C9337EB011E04486DD07",
         "silentArgs": "--silent"
       }
     },
@@ -536,7 +536,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.11.29",
+      "version": "0.11.32",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -546,10 +546,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.11.29/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.11.32/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "A047D55651BC3E0CA24595B25EC4CFCB10F9DCA9FB56514E661269B37D4FAE68",
+        "sha256": "ACFDE570451CFDB8689FA159A138EE805BA4E241C466432750302C86254B0984",
         "silentArgs": ""
       }
     },
@@ -874,7 +874,7 @@
     {
       "id": "clsid2.mpc-hc",
       "name": "MPC-HC",
-      "version": "2.7.3",
+      "version": "2.7.4",
       "publisher": "MPC-HC Team",
       "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
       "license": "GPL-3.0",
@@ -894,10 +894,10 @@
         "video-player"
       ],
       "installer": {
-        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.7.3/MPC-HC.2.7.3.2.x64.exe",
+        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.7.4/MPC-HC.2.7.4.x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A2F07D689FCBEF391EABA6994251CA05D3143E0260AB024052C0BD3D0E330B4A",
+        "sha256": "1B8626375BCD886FB2B53107DA8DA6F61BF9BC7DDF1E30DA9A307C3AC7E1E2AD",
         "silentArgs": "/S"
       }
     },
@@ -1121,7 +1121,7 @@
     {
       "id": "Bitwarden.Bitwarden",
       "name": "Bitwarden",
-      "version": "2026.6.1",
+      "version": "2026.7.0",
       "publisher": "Bitwarden Inc.",
       "description": "A secure and free password manager for all of your devices.",
       "license": "GPL-3.0 or Bitwarden-1.0",
@@ -1139,10 +1139,10 @@
         "vault"
       ],
       "installer": {
-        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.6.1/Bitwarden-Installer-2026.6.1.exe",
+        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.7.0/Bitwarden-Installer-2026.7.0.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "88033D2130935BBBD86A83F97FEF05976FF4CB9C51567106278220CA9D44CEEF",
+        "sha256": "B1CEAA2C0A4E479231F4D921709C8E4085D6FB460E83466F31892D77BDBA03ED",
         "silentArgs": "/S"
       }
     },
@@ -1199,7 +1199,7 @@
     {
       "id": "TorProject.TorBrowser",
       "name": "Tor Browser",
-      "version": "15.0.18",
+      "version": "15.0.19",
       "publisher": "Tor Project",
       "description": "Protect yourself against tracking, surveillance, and censorship.",
       "license": "MPL-2.0",
@@ -1220,10 +1220,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.18/tor-browser-windows-x86_64-portable-15.0.18.exe",
+        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.19/tor-browser-windows-x86_64-portable-15.0.19.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "0222D39AB5E0E9157AF1C5D8F01F79FDB6FD62EE337A671CA3F0CC6ED9AA1736",
+        "sha256": "0D4CC3A7B734A10C500217FB0DF89452EE39185709193966831677BBD43C98F8",
         "silentArgs": "/S"
       }
     },
@@ -1296,7 +1296,7 @@
     {
       "id": "CrystalDewWorld.CrystalDiskInfo",
       "name": "CrystalDiskInfo",
-      "version": "9.9.1",
+      "version": "9.9.2",
       "publisher": "Crystal Dew World",
       "description": "A HDD/SSD utility software which supports parts of USB, Intel RAID and NVMe.",
       "license": "MIT",
@@ -1321,10 +1321,10 @@
         "xp8k4rgx25g3gm"
       ],
       "installer": {
-        "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.1/CrystalDiskInfo9_9_1.exe",
+        "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.2/CrystalDiskInfo9_9_2.exe/download",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "261715A9BE7F30D5EE8597C834FCE377E1DC3E96B300D17C3FAAF38A255DA02B",
+        "sha256": "45BE8DEF3EC8876DCD1E5D299BD049140BC5D692413883AAE1049F7D24A41ABE",
         "silentArgs": "/S"
       }
     },
@@ -1448,7 +1448,7 @@
     {
       "id": "Microsoft.PowerShell",
       "name": "PowerShell",
-      "version": "7.6.3.0",
+      "version": "7.6.4.0",
       "publisher": "Microsoft Corporation",
       "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
       "license": "MIT",
@@ -1463,10 +1463,10 @@
         "shell"
       ],
       "installer": {
-        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/PowerShell-7.6.3-win-x64.msi",
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "4F574FDDB567F4D0756094424A1E4E2B2BBDDE21DE9F0965C0F988D24DC658E4",
+        "sha256": "D11942DF52FD12470169797ABFA4781D9480EFDC81000BA4FA55A5B921ED8DD0",
         "silentArgs": "/quiet /norestart"
       }
     },
