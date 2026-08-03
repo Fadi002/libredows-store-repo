@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated": "2026-07-27T06:14:31Z",
+  "generated": "2026-08-03T06:01:50Z",
   "total": 59,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "150.1.92.144",
+      "version": "151.1.93.129",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,10 +21,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.92.144/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.93.129/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F6458E279A873E096C279A825B79D4D8C3272155F91A6887167D797EAA552947",
+        "sha256": "E343F5716621B98267B7991004F822661FDA3297E7A05B308EC603FB279FDB61",
         "silentArgs": "/S"
       }
     },
@@ -59,7 +59,7 @@
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "153.0",
+      "version": "153.0.1",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -76,10 +76,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0/win64/en-US/Firefox%20Setup%20153.0.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.1/win64/en-US/Firefox%20Setup%20153.0.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "B409FF5AF3419214F11F928E67B1F44C1AD0F8A46F7DB7E697CAEDEFA02A6D2A",
+        "sha256": "0B557B2983D63278BE98DAF7582FBB7050F93310F2A9381E804E0BA14FE2892E",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
@@ -149,7 +149,7 @@
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "153.0",
+      "version": "153.0.1",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -160,10 +160,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0/win64/en-US/Thunderbird%20Setup%20153.0.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0.1/win64/en-US/Thunderbird%20Setup%20153.0.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A20B2C70DCDD4B6E4B419EAC0DC11C97FA688202182587CCBE79792D78607A73",
+        "sha256": "744A51965AE6FE36A7EC660D8C080FD108CCA732E9AEC3F9A31324321C6BE1CA",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
@@ -251,7 +251,7 @@
     {
       "id": "DBeaver.DBeaver.Community",
       "name": "DBeaver",
-      "version": "26.1.3",
+      "version": "26.1.4",
       "publisher": "DBeaver Corp",
       "description": "Free Universal Database Tool",
       "license": "Apache-2.0",
@@ -276,10 +276,10 @@
         "tool"
       ],
       "installer": {
-        "url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.3/dbeaver-ce-26.1.3-windows-x86_64.exe",
+        "url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.4/dbeaver-ce-26.1.4-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "DF3E522E3DBD4E6A7F91DCD8E422A0BE13220D2E895A681B5B6732ADB518297D",
+        "sha256": "3EE1F622C29E0097EF89157E2ABE08798F38F5C506B089E7A92CFF2DEEB2E498",
         "silentArgs": "/S"
       }
     },
@@ -457,7 +457,7 @@
     {
       "id": "OpenJS.NodeJS.LTS",
       "name": "Node.js (LTS)",
-      "version": "24.18.0",
+      "version": "24.18.1",
       "publisher": "Node.js Foundation",
       "description": "Run JavaScript Everywhere",
       "license": "MIT",
@@ -479,10 +479,10 @@
         "v8"
       ],
       "installer": {
-        "url": "https://nodejs.org/dist/v24.18.0/node-v24.18.0-x64.msi",
+        "url": "https://nodejs.org/dist/v24.18.1/node-v24.18.1-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "E30CD4CA15529583AFE0EFC978F1AE3AB3A93C2400C222D0752D17900552EBB3",
+        "sha256": "AF4A0651A26F04AC240F00FEC872F305547CA2AA56301C41DFD63A29EB2AB836",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -641,7 +641,7 @@
     {
       "id": "Nextcloud.NextcloudDesktop",
       "name": "Nextcloud",
-      "version": "33.0.7",
+      "version": "34.0.0",
       "publisher": "Nextcloud GmbH",
       "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
       "license": "GPL-2.0",
@@ -655,10 +655,10 @@
         "utility"
       ],
       "installer": {
-        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v33.0.7/Nextcloud-33.0.7-x64.msi",
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.0/Nextcloud-34.0.0-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "88D47F551082E6284D5C0845261A8110E361B6D9CE3FE805AF6BEC711514A34E",
+        "sha256": "6A04598FFC5E39EC519CDC7E3F17C87ED7556214E73FD3294755643BAC0DB349",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -693,7 +693,7 @@
     {
       "id": "Rclone.Rclone",
       "name": "Rclone",
-      "version": "1.74.4",
+      "version": "1.75.0",
       "publisher": "Rclone",
       "description": "Rclone (\"rsync for cloud storage\") is a command-line program to sync files and directories to and from different cloud storage providers.",
       "license": "MIT",
@@ -711,10 +711,10 @@
         "webdav"
       ],
       "installer": {
-        "url": "https://github.com/rclone/rclone/releases/download/v1.74.4/rclone-v1.74.4-windows-amd64.zip",
+        "url": "https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-amd64.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "EF097EF9DE37A57FEB7D9F9C7AFB34148AD3C65BE8025F1D8F7F521554A701EA",
+        "sha256": "203581F0A7BAEAE873F2347483A798C79E2EAF5C384A4E9D866AA374F1C89AC0",
         "silentArgs": ""
       }
     },
@@ -904,7 +904,7 @@
     {
       "id": "OBSProject.OBSStudio",
       "name": "OBS Studio",
-      "version": "32.1.2",
+      "version": "32.2.1",
       "publisher": "OBS Project",
       "description": "Free and open source software for video recording and live streaming.",
       "license": "GPL-2.0",
@@ -921,10 +921,10 @@
         "video-recording"
       ],
       "installer": {
-        "url": "https://github.com/obsproject/obs-studio/releases/download/32.1.2/OBS-Studio-32.1.2-Windows-x64-Installer.exe",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.1/OBS-Studio-32.2.1-Windows-x64-Installer.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "94D180C1FC481CCC307B95513F795D088D63AC4F61AD3253C2AC0D94D0844110",
+        "sha256": "BBB95E52B96AD9B7CCD5ABD13121379D29774D6CC5FDBEF82FFA249E8A24A289",
         "silentArgs": "/S"
       }
     },
@@ -1480,14 +1480,20 @@
       "homepage": "https://www.chiark.greenend.org.uk/~sgtatham/putty/",
       "category": "Utilities",
       "tags": [
+        "puttygen",
+        "plink",
+        "psftp",
         "ssh",
         "telnet",
         "tty",
-        "xterm"
+        "xterm",
+        "supdup",
+        "rlogin",
+        "xpfnzksklbp7rj"
       ],
       "installer": {
         "url": "https://the.earth.li/~sgtatham/putty/0.84/w64/putty-64bit-0.84-installer.msi",
-        "type": "msi",
+        "type": "wix",
         "architecture": "x64",
         "sha256": "190D00150E67AD3FF51AF4B50E76A3AB97B863A34EFD50472627B17C0CF4102B",
         "silentArgs": "/quiet /norestart"
@@ -1498,18 +1504,20 @@
       "name": "Rufus",
       "version": "4.15",
       "publisher": "pbatard",
-      "description": "Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.",
-      "license": "GPL-3.0",
+      "description": "A utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.",
+      "license": "GPL-3.0-or-later",
       "homepage": "https://rufus.ie/",
       "category": "Utilities",
       "tags": [
-        "boot",
+        "operating-system-booting",
+        "os-booting",
         "formatting",
         "foss",
         "uefi",
         "unetbootin",
-        "usb",
-        "utility"
+        "utility",
+        "bootable-drives",
+        "windows-to-go"
       ],
       "installer": {
         "url": "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15.exe",
@@ -1522,7 +1530,7 @@
     {
       "id": "Ventoy.Ventoy",
       "name": "Ventoy",
-      "version": "1.1.16",
+      "version": "1.1.17",
       "publisher": "Ventoy",
       "description": "Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.",
       "license": "GPL-3.0",
@@ -1546,17 +1554,17 @@
         "windows"
       ],
       "installer": {
-        "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.16/ventoy-1.1.16-windows.zip",
+        "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.17/ventoy-1.1.17-windows.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "7DB5B3A1E23AF39D0A648843C263EB5CF51493CCBF2A38C6A4315DB80A4F9B58",
+        "sha256": "D250E97A7595FDAC4F97DEBC630D7A8DA942319274A76CB32384596B659DBAEB",
         "silentArgs": ""
       }
     },
     {
       "id": "WinDirStat.WinDirStat",
       "name": "WinDirStat",
-      "version": "2.7.0",
+      "version": "2.8.0",
       "publisher": "The WinDirStat Team",
       "description": "WinDirStat is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.",
       "license": "GPL-2.0",
@@ -1572,10 +1580,10 @@
         "windows"
       ],
       "installer": {
-        "url": "https://github.com/windirstat/windirstat/releases/download/release/v2.7.0/WinDirStat-x64.msi",
+        "url": "https://github.com/windirstat/windirstat/releases/download/release/v2.8.0/WinDirStat-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "66643671D6B4E09EAFFBE28E0D89CC9BCA06D94495225A20020822B40536CCC4",
+        "sha256": "C40A6EC73497B18EB4CE2CBE071983B4F637CD04644BFCA73C176D624794F79A",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -1609,7 +1617,7 @@
     {
       "id": "Oracle.VirtualBox",
       "name": "Oracle VirtualBox",
-      "version": "7.2.12",
+      "version": "7.2.14",
       "publisher": "Oracle and/or its affiliates",
       "description": "VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm), targeted at laptop, desktop, server and embedded use.",
       "license": "GPL-3.0-only",
@@ -1622,10 +1630,10 @@
         "virtualization"
       ],
       "installer": {
-        "url": "https://download.virtualbox.org/virtualbox/7.2.12/VirtualBox-7.2.12-174389-Win.exe",
+        "url": "https://download.virtualbox.org/virtualbox/7.2.14/VirtualBox-7.2.14-174565-Win.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "5094F3D573FE2A511BFC7AE8982C2F6544AE9B5051048DC7A0E9985C74DCAC4C",
+        "sha256": "5FB111F32A15763D519BF9EF23E0111153521F641CDE7460E5B8E895CA27A1D2",
         "silentArgs": "--silent"
       }
     }
