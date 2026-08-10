@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated": "2026-08-03T06:01:50Z",
+  "generated": "2026-08-10T04:19:38Z",
   "total": 59,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "151.1.93.129",
+      "version": "151.1.93.132",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,17 +21,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.93.129/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.93.132/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "E343F5716621B98267B7991004F822661FDA3297E7A05B308EC603FB279FDB61",
+        "sha256": "A5DD2DF003548BF95711A85BC8BE7BEC39A44AD80440915F2C2073748F3B05E8",
         "silentArgs": "/S"
       }
     },
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "153.0-3",
+      "version": "153.0.3-1",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -49,17 +49,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/153.0-3/librewolf-153.0-3-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/153.0.3-1/librewolf-153.0.3-1-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "66746F11164616200D661E6445B92200302CF8E8DFA8CACA3F33B98EEEA769E5",
+        "sha256": "3A06EE806FD9CC55839AA92E7EFE4F8AE061CEF6207338475D072D61CCE6D5E3",
         "silentArgs": "/S"
       }
     },
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "153.0.1",
+      "version": "153.0.3",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -76,10 +76,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.1/win64/en-US/Firefox%20Setup%20153.0.1.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.3/win64/en-US/Firefox%20Setup%20153.0.3.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "0B557B2983D63278BE98DAF7582FBB7050F93310F2A9381E804E0BA14FE2892E",
+        "sha256": "8DE41917930C35937A46EAC6D0E16C633ED7456C771B32B89DC6FD65D55E512E",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
@@ -115,7 +115,7 @@
     {
       "id": "Element.Element",
       "name": "Element",
-      "version": "1.12.24",
+      "version": "1.12.25",
       "publisher": "Element",
       "description": "Secure collaboration and messaging",
       "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -139,17 +139,17 @@
         "talk"
       ],
       "installer": {
-        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.24.exe",
+        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.25.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F0FDFBA95899066E4742159944E9CEC459A0B656DDA3CB55D08602107C17BD3F",
+        "sha256": "B2FA7E1C51553FB11801AD36C1EBDC0CD4ACE888260079E935A50B1EBF9F45FA",
         "silentArgs": "--silent"
       }
     },
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "153.0.1",
+      "version": "153.0.2",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -160,10 +160,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0.1/win64/en-US/Thunderbird%20Setup%20153.0.1.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0.2/win64/en-US/Thunderbird%20Setup%20153.0.2.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "744A51965AE6FE36A7EC660D8C080FD108CCA732E9AEC3F9A31324321C6BE1CA",
+        "sha256": "AAA4FBE7E605594C5D75D5C97392E7226C77ECC1683ABFB7F26B81D1A1D5DA1E",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
@@ -226,7 +226,7 @@
     {
       "id": "RawTherapee.RawTherapee",
       "name": "RawTherapee",
-      "version": "5.12",
+      "version": "5.13",
       "publisher": "rawtherapee.com",
       "description": "A free, cross-platform raw image processing program",
       "license": "GPL-3.0",
@@ -241,10 +241,10 @@
         "viewer"
       ],
       "installer": {
-        "url": "https://rawtherapee.com/shared/builds/windows/RawTherapee_5.12_win64_release.exe",
+        "url": "https://github.com/RawTherapee/RawTherapee/releases/download/5.13/RawTherapee_5.13_win64_x86_64_release.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "FE0AB7E0E647130641A13CFAF54543C63EFCC62A8DA97ACB9CDE92C1BC255B8C",
+        "sha256": "D27DF7EBDE717C5EFA114338A4B1CF1C426A439E5A1A92E142E87868CBE45383",
         "silentArgs": "/S"
       }
     },
@@ -352,7 +352,7 @@
     {
       "id": "GnuPG.Gpg4win",
       "name": "Gpg4win",
-      "version": "5.0.2",
+      "version": "5.1.0",
       "publisher": "The Gpg4win Project",
       "description": "A secure solution for file and email encryption.",
       "license": "GPL-2.0",
@@ -371,17 +371,17 @@
         "signature"
       ],
       "installer": {
-        "url": "https://files.gpg4win.org/gpg4win-5.0.2.exe",
+        "url": "https://files.gpg4win.org/gpg4win-5.1.0.exe",
         "type": "exe",
-        "architecture": "x86",
-        "sha256": "11864CDC6DEDD58C5448AB1C0868886E56BDAD96972BC06DCD44B80F9E527051",
+        "architecture": "x64",
+        "sha256": "9682F2825C70DC3E7EFD8A3FCB9E676CCB9674BEBBF6BE1A30D5837F5B420A2E",
         "silentArgs": "/S"
       }
     },
     {
       "id": "HeidiSQL.HeidiSQL",
       "name": "HeidiSQL",
-      "version": "12.20.0.7320",
+      "version": "12.21.0.7344",
       "publisher": "Ansgar Becker",
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi",
       "license": "GPL-2.0",
@@ -402,10 +402,10 @@
         "sqlite"
       ],
       "installer": {
-        "url": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.20/HeidiSQL_12.20.0.7320_Setup.exe",
+        "url": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.21/HeidiSQL_12.21.0.7344_Setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "B811C5FCC43A8703DC567E0B9B3B86E01CF7A05A53B05ADDC38C5055549387FA",
+        "sha256": "97ACF0344313C11BB89C001425A615722B745669E5FFD542E732C418A00E22ED",
         "silentArgs": "/S"
       }
     },
@@ -457,7 +457,7 @@
     {
       "id": "OpenJS.NodeJS.LTS",
       "name": "Node.js (LTS)",
-      "version": "24.18.1",
+      "version": "24.19.0",
       "publisher": "Node.js Foundation",
       "description": "Run JavaScript Everywhere",
       "license": "MIT",
@@ -479,10 +479,10 @@
         "v8"
       ],
       "installer": {
-        "url": "https://nodejs.org/dist/v24.18.1/node-v24.18.1-x64.msi",
+        "url": "https://nodejs.org/dist/v24.19.0/node-v24.19.0-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "AF4A0651A26F04AC240F00FEC872F305547CA2AA56301C41DFD63A29EB2AB836",
+        "sha256": "F0F66C2A80C08A30A5AB5179EE9EA9E45F9B46289436A8CC87FF833B852DB351",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -536,7 +536,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.11.32",
+      "version": "0.12.2",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -546,10 +546,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.11.32/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.12.2/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "ACFDE570451CFDB8689FA159A138EE805BA4E241C466432750302C86254B0984",
+        "sha256": "01442D8CE5C7124151A73E697C836D252C6DA853C18C73206D3CC4C2378A91D2",
         "silentArgs": ""
       }
     },
@@ -641,7 +641,7 @@
     {
       "id": "Nextcloud.NextcloudDesktop",
       "name": "Nextcloud",
-      "version": "34.0.0",
+      "version": "34.0.1",
       "publisher": "Nextcloud GmbH",
       "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
       "license": "GPL-2.0",
@@ -655,10 +655,10 @@
         "utility"
       ],
       "installer": {
-        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.0/Nextcloud-34.0.0-x64.msi",
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.1/Nextcloud-34.0.1-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "6A04598FFC5E39EC519CDC7E3F17C87ED7556214E73FD3294755643BAC0DB349",
+        "sha256": "E81C052832383508C67136395B9304BFDD8BF7A4DBDD9B86A1BD4DD22272B485",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -754,7 +754,7 @@
     {
       "id": "Syncthing.Syncthing",
       "name": "Syncthing",
-      "version": "2.1.2",
+      "version": "2.1.3",
       "publisher": "The Syncthing Authors",
       "description": "Open Source Continuous File Synchronization",
       "license": "MPL-2.0",
@@ -776,10 +776,10 @@
         "synchronization"
       ],
       "installer": {
-        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.2/syncthing-windows-amd64-v2.1.2.zip",
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.3/syncthing-windows-amd64-v2.1.3.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "4626C13012E9620ECE2393BFC3300AEAFEAD654695D5DC096A873C27A7543C96",
+        "sha256": "C0B79CFFA6CE5DAD5ED41EDE86454F3325D13CCAC33447A528CB59D65FBC3A21",
         "silentArgs": ""
       }
     },
@@ -981,7 +981,7 @@
     {
       "id": "AppFlowy.AppFlowy",
       "name": "AppFlowy",
-      "version": "0.12.5",
+      "version": "0.13.0",
       "publisher": "AppFlowy-IO",
       "description": "The Open Source Alternative To Notion.",
       "license": "AGPL-3.0",
@@ -1006,10 +1006,10 @@
         "wiki"
       ],
       "installer": {
-        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.12.5/AppFlowy-0.12.5-windows-x86_64.exe",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.0/AppFlowy-0.13.0-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "039D6F1F96763EE4E64748BF18312CD13DB83C7BDC5A41CDD6740F239DF7D9C5",
+        "sha256": "F45A48A90487CB0A0835C75E5F5A2AB47B14D5769E6E91C39B72AB697244E288",
         "silentArgs": "/sp- /verysilent /norestart"
       }
     },
@@ -1393,7 +1393,7 @@
     {
       "id": "Gyan.FFmpeg",
       "name": "FFmpeg",
-      "version": "8.1.2",
+      "version": "9.0",
       "publisher": "Gyan",
       "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
       "license": "GPL-3.0",
@@ -1418,10 +1418,10 @@
         "video"
       ],
       "installer": {
-        "url": "https://github.com/GyanD/codexffmpeg/releases/download/8.1.2/ffmpeg-8.1.2-full_build.zip",
+        "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0/ffmpeg-9.0-full_build.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "B8CDEFAB5F50590A076C27C2B56B0294A0E6154FADED28BA1BA05EBC4F801F57",
+        "sha256": "F42F0C4B04EAE3AC918707FF66E3E0FF0CEE527BFA6D322624D4BC1160D5055E",
         "silentArgs": ""
       }
     },
