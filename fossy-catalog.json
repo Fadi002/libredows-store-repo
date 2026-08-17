@@ -1,12 +1,12 @@
 {
   "version": "1.0",
-  "generated": "2026-08-10T04:19:38Z",
+  "generated": "2026-08-17T03:37:34Z",
   "total": 59,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "151.1.93.132",
+      "version": "151.1.93.136",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,10 +21,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.93.132/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.93.136/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A5DD2DF003548BF95711A85BC8BE7BEC39A44AD80440915F2C2073748F3B05E8",
+        "sha256": "8256A29857D1B2AB6698C46FED68AA32EA46D260B806E9A6040923FC1C9F9EE7",
         "silentArgs": "/S"
       }
     },
@@ -149,7 +149,7 @@
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "153.0.2",
+      "version": "153.0.3",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -160,10 +160,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0.2/win64/en-US/Thunderbird%20Setup%20153.0.2.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0.3/win64/en-US/Thunderbird%20Setup%20153.0.3.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "AAA4FBE7E605594C5D75D5C97392E7226C77ECC1683ABFB7F26B81D1A1D5DA1E",
+        "sha256": "F8078DECEB1F80B05D75EEC92399CE01AB3027FE719FBE2AED612001BEA24AD3",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
@@ -251,7 +251,7 @@
     {
       "id": "DBeaver.DBeaver.Community",
       "name": "DBeaver",
-      "version": "26.1.4",
+      "version": "26.1.5",
       "publisher": "DBeaver Corp",
       "description": "Free Universal Database Tool",
       "license": "Apache-2.0",
@@ -276,10 +276,10 @@
         "tool"
       ],
       "installer": {
-        "url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.4/dbeaver-ce-26.1.4-windows-x86_64.exe",
+        "url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.5/dbeaver-ce-26.1.5-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "3EE1F622C29E0097EF89157E2ABE08798F38F5C506B089E7A92CFF2DEEB2E498",
+        "sha256": "949712159583714E020233099AC2FBB96572B939935E59B5D8DE1D8DE9DD56BC",
         "silentArgs": "/S"
       }
     },
@@ -307,7 +307,7 @@
     {
       "id": "GitHub.GitHubDesktop",
       "name": "GitHub Desktop",
-      "version": "3.6.3",
+      "version": "3.6.4",
       "publisher": "GitHub, Inc.",
       "description": "Focus on what matters instead of fighting with Git.",
       "license": "MIT",
@@ -318,10 +318,10 @@
         "github"
       ],
       "installer": {
-        "url": "https://desktop.githubusercontent.com/releases/3.6.3-931da4a1/GitHubDesktopSetup-x64.msi",
+        "url": "https://desktop.githubusercontent.com/releases/3.6.4-28955b81/GitHubDesktopSetup-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "62613AF0723746130D17E415175A9C312929A06CE232EC34DA476912CC2E11C3",
+        "sha256": "0AF2BEC6AD0E73B999EBD30B19C7042BEAA9B604B7A34839EC3E5975F11EC15B",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -536,7 +536,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.12.2",
+      "version": "0.12.5",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -546,10 +546,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.12.2/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.12.5/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "01442D8CE5C7124151A73E697C836D252C6DA853C18C73206D3CC4C2378A91D2",
+        "sha256": "4C4D49D8738847D9B71BA319E49A5688C93EAC0FE6204B1DF24E98528DDDF39A",
         "silentArgs": ""
       }
     },
@@ -583,7 +583,7 @@
     {
       "id": "WiresharkFoundation.Wireshark",
       "name": "Wireshark",
-      "version": "4.6.7",
+      "version": "4.6.8",
       "publisher": "The Wireshark developer community, https://www.wireshark.org",
       "description": "The world's most popular network protocol analyzer.",
       "license": "GPL-2.0",
@@ -599,10 +599,10 @@
         "traffic"
       ],
       "installer": {
-        "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.7-x64.msi",
+        "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.8-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "CA156A40791ED9803E6028A413FE05EC22D723B09AC5F727534EDE3F5F1D0423",
+        "sha256": "779EE66F846376942A3B631A78BBA8C3D509697D07743349E1893056211D05E3",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -874,7 +874,7 @@
     {
       "id": "clsid2.mpc-hc",
       "name": "MPC-HC",
-      "version": "2.7.4",
+      "version": "2.8.0",
       "publisher": "MPC-HC Team",
       "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
       "license": "GPL-3.0",
@@ -894,10 +894,10 @@
         "video-player"
       ],
       "installer": {
-        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.7.4/MPC-HC.2.7.4.x64.exe",
+        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.0/MPC-HC.2.8.0.x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "1B8626375BCD886FB2B53107DA8DA6F61BF9BC7DDF1E30DA9A307C3AC7E1E2AD",
+        "sha256": "EF6B884916B63B314B0A5A1B9F52FFDDABDC0084D861999EB23B1FFC6EAD66AD",
         "silentArgs": "/S"
       }
     },
@@ -981,7 +981,7 @@
     {
       "id": "AppFlowy.AppFlowy",
       "name": "AppFlowy",
-      "version": "0.13.0",
+      "version": "0.13.2",
       "publisher": "AppFlowy-IO",
       "description": "The Open Source Alternative To Notion.",
       "license": "AGPL-3.0",
@@ -1006,10 +1006,10 @@
         "wiki"
       ],
       "installer": {
-        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.0/AppFlowy-0.13.0-windows-x86_64.exe",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F45A48A90487CB0A0835C75E5F5A2AB47B14D5769E6E91C39B72AB697244E288",
+        "sha256": "56719B46CDA2A68A60B0A64B496DC2CF157B404A73B2FE378895E0F20C00C3DD",
         "silentArgs": "/sp- /verysilent /norestart"
       }
     },
@@ -1448,7 +1448,7 @@
     {
       "id": "Microsoft.PowerShell",
       "name": "PowerShell",
-      "version": "7.6.4.0",
+      "version": "7.6.5.0",
       "publisher": "Microsoft Corporation",
       "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
       "license": "MIT",
@@ -1463,10 +1463,10 @@
         "shell"
       ],
       "installer": {
-        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.4/PowerShell-7.6.4-win-x64.msi",
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.5/PowerShell-7.6.5-win-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "D11942DF52FD12470169797ABFA4781D9480EFDC81000BA4FA55A5B921ED8DD0",
+        "sha256": "3A87C24E044EC792047D734C841917EE4323A535E25F645AE6C33141A35FCA8D",
         "silentArgs": "/quiet /norestart"
       }
     },
