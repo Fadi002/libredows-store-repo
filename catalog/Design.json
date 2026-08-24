@@ -1,0 +1,265 @@
+[
+  {
+    "id": "BlenderFoundation.Blender",
+    "name": "blender",
+    "version": "5.2.0",
+    "publisher": "Blender Foundation",
+    "description": "Free and Open 3D Creation Software",
+    "license": "GPL-3.0-or-later",
+    "homepage": "",
+    "category": "Design",
+    "tags": [
+      "3d",
+      "animation",
+      "model",
+      "modeling",
+      "render",
+      "vfx"
+    ],
+    "installer": {
+      "url": "https://download.blender.org/release/Blender5.2/blender-5.2.0-windows-x64.msi",
+      "type": "msi",
+      "architecture": "x64",
+      "sha256": "8BA59AED79DFC35D65C5E9E0CCC828D618796499483CCDEEE0B534A915140606",
+      "silentArgs": "/quiet /norestart"
+    }
+  },
+  {
+    "id": "darktable.darktable",
+    "name": "darktable",
+    "version": "5.6.0",
+    "publisher": "the darktable project",
+    "description": "Photography workflow application and raw developer",
+    "license": "GPL-3.0",
+    "homepage": "https://www.darktable.org/",
+    "category": "Design",
+    "tags": [
+      "darkroom",
+      "editor",
+      "image",
+      "lighttable",
+      "negative",
+      "photo",
+      "photography",
+      "picture",
+      "raw",
+      "viewer"
+    ],
+    "installer": {
+      "url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.0/darktable-5.6.0-win64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "B42989195DFFF44540C0B767B407987329CA99853612304CBBF14C48D1D3F803",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/darktable-darktable.png",
+      "url": "https://avatars.githubusercontent.com/darktable-org?size=256"
+    }
+  },
+  {
+    "id": "FreeCAD.FreeCAD",
+    "name": "FreeCAD",
+    "version": "1.1.3",
+    "publisher": "FreeCAD Team",
+    "description": "A general purpose open source parametric 3D CAD modeler",
+    "license": "LGPL-2.0-or-later",
+    "homepage": "https://www.freecad.org/downloads.php",
+    "category": "Design",
+    "tags": [
+      "3d-modeler",
+      "cad",
+      "engineer",
+      "engineering"
+    ],
+    "installer": {
+      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.3/FreeCAD_1.1.3-Windows-x86_64-py311-installer.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "3DE56676DEDB7C68F4DA9734C79ABEAFF9BBBF09F6A2C01DF72A82BEEEE81C11",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/freecad-freecad.png",
+      "url": "https://avatars.githubusercontent.com/FreeCAD?size=256"
+    }
+  },
+  {
+    "id": "GIMP.GIMP",
+    "name": "GIMP",
+    "version": "3.2.4",
+    "publisher": "The GIMP Team",
+    "description": "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.",
+    "license": "GPLv3",
+    "homepage": "https://www.gimp.org/downloads/",
+    "category": "Design",
+    "tags": [
+      "gnu-image-manipulation-program",
+      "gnuimagemanipulationprogram",
+      "image-editor",
+      "image-editing",
+      "imageediting",
+      "paint",
+      "painting",
+      "photoediting",
+      "photo-editing",
+      "pictures",
+      "9pnsjclxdz0v"
+    ],
+    "installer": {
+      "url": "https://download.gimp.org/gimp/v3.2/windows/gimp-3.2.4-setup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "EC31D757DD82831D201FFCF47FFEAC4175DF739E0C02D5122E89AEEADFB988CC",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/gimp-gimp.png",
+      "url": "https://icons.duckduckgo.com/ip3/www.gimp.org.ico"
+    }
+  },
+  {
+    "id": "Inkscape.Inkscape",
+    "name": "Inkscape",
+    "version": "1.4.4",
+    "publisher": "Inkscape",
+    "description": "A professional vector graphics software which runs on Linux, macOS and Windows desktop computers.",
+    "license": "GPL-2.0",
+    "homepage": "https://inkscape.org/release/",
+    "category": "Design",
+    "tags": [
+      "9pd9bhglfc7h",
+      "art",
+      "draw",
+      "drawing",
+      "editor",
+      "graphics",
+      "svg",
+      "vector-graphics"
+    ],
+    "installer": {
+      "url": "https://media.inkscape.org/dl/resources/file/inkscape-1.4.4_2026-05-05_dcaf3e7-x64.signed_xMx7DJV.msi",
+      "type": "wix",
+      "architecture": "x64",
+      "sha256": "2FA033E95113AE83D6430B2479E7E63E4266D0632A5B03F99EE3DB9360E3B8B8",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/inkscape-inkscape.png",
+      "url": "https://icons.duckduckgo.com/ip3/inkscape.org.ico"
+    }
+  },
+  {
+    "id": "KDE.Krita",
+    "name": "Krita",
+    "version": "5.3.3.0",
+    "publisher": "Krita Foundation",
+    "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
+    "license": "GPL-3.0",
+    "homepage": "https://krita.org/",
+    "category": "Design",
+    "tags": [
+      "art",
+      "draw",
+      "drawing",
+      "paint",
+      "painting",
+      "sketching"
+    ],
+    "installer": {
+      "url": "https://download.kde.org/stable/krita/5.3.3/krita-x64-5.3.3-setup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "CF6DC324C1F3BDB5D3069A7F7D7456FCBB6176FAB1F09683A52B836FA0D97A05",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/kde-krita.ico",
+      "url": "https://icons.duckduckgo.com/ip3/krita.org.ico"
+    }
+  },
+  {
+    "id": "LibreCAD.LibreCAD",
+    "name": "LibreCAD",
+    "version": "2.2.1.5",
+    "publisher": "LibreCAD Team",
+    "description": "LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.",
+    "license": "GPLv2",
+    "homepage": "https://librecad.org/",
+    "category": "Design",
+    "tags": [
+      "cad",
+      "drawing",
+      "dxf",
+      "qt"
+    ],
+    "installer": {
+      "url": "https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.5/LibreCAD-v2.2.1.5-win64-msvc.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "738912FEA40ACA934689444AF9C5CD281572417983CC081C204FE6C779F6941D",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/librecad-librecad.png",
+      "url": "https://avatars.githubusercontent.com/LibreCAD?size=256"
+    }
+  },
+  {
+    "id": "OpenSCAD.OpenSCAD",
+    "name": "OpenSCAD",
+    "version": "2021.01",
+    "publisher": "OpenSCAD",
+    "description": "OpenSCAD is software for creating solid 3D CAD objects.",
+    "license": "GNU GPLv2",
+    "homepage": "https://www.openscad.org/",
+    "category": "Design",
+    "tags": [
+      "3d",
+      "3d-graphics",
+      "3d-printing",
+      "cad",
+      "openscad"
+    ],
+    "installer": {
+      "url": "https://files.openscad.org/OpenSCAD-2021.01-x86-64-Installer.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "FBE1E590E1AF2AF863F5D92BD263EB4644D0EE29352E3AB566366E87A8F6ED12",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/openscad-openscad.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.openscad.org.ico"
+    }
+  },
+  {
+    "id": "RawTherapee.RawTherapee",
+    "name": "RawTherapee",
+    "version": "5.13",
+    "publisher": "rawtherapee.com",
+    "description": "A free, cross-platform raw image processing program",
+    "license": "GPL-3.0",
+    "homepage": "https://www.rawtherapee.com/downloads/",
+    "category": "Design",
+    "tags": [
+      "image",
+      "photo",
+      "photography",
+      "picture",
+      "raw",
+      "viewer"
+    ],
+    "installer": {
+      "url": "https://github.com/RawTherapee/RawTherapee/releases/download/5.13/RawTherapee_5.13_win64_x86_64_release.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "D27DF7EBDE717C5EFA114338A4B1CF1C426A439E5A1A92E142E87868CBE45383",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/rawtherapee-rawtherapee.png",
+      "url": "https://avatars.githubusercontent.com/RawTherapee?size=256"
+    }
+  }
+]

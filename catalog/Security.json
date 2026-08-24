@@ -1,0 +1,272 @@
+[
+  {
+    "id": "Bitwarden.Bitwarden",
+    "name": "Bitwarden",
+    "version": "2026.8.0",
+    "publisher": "Bitwarden Inc.",
+    "description": "A secure and free password manager for all of your devices.",
+    "license": "GPL-3.0 or Bitwarden-1.0",
+    "homepage": "https://bitwarden.com/",
+    "category": "Security",
+    "tags": [
+      "card-storage",
+      "credentials",
+      "passphrases",
+      "password-manager",
+      "protect",
+      "protection",
+      "security",
+      "ssh-keys",
+      "vault"
+    ],
+    "installer": {
+      "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.8.0/Bitwarden-Installer-2026.8.0.exe",
+      "type": "nullsoft",
+      "architecture": "x64",
+      "sha256": "0263CBA73432578B2F5CEF90815F374F78B34B6CEDA9FD3F22343316803CDB98",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/bitwarden-bitwarden.png",
+      "url": "https://avatars.githubusercontent.com/bitwarden?size=256"
+    }
+  },
+  {
+    "id": "Cryptomator.Cryptomator",
+    "name": "Cryptomator",
+    "version": "1.19.3",
+    "publisher": "Skymatic GmbH",
+    "description": "Encryption made easy and optimized for the cloud",
+    "license": "GPL-3.0",
+    "homepage": "https://cryptomator.org/",
+    "category": "Security",
+    "tags": [
+      "cloud-storage",
+      "crypto",
+      "cryptography",
+      "cryptomator",
+      "privacy",
+      "security"
+    ],
+    "installer": {
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.msi",
+      "type": "msi",
+      "architecture": "x64",
+      "sha256": "E303CCED835E1A8A1041580EEAEA3B7B3658C348D77EA53A108A95926625C41A",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/cryptomator-cryptomator.png",
+      "url": "https://avatars.githubusercontent.com/cryptomator?size=256"
+    }
+  },
+  {
+    "id": "GnuPG.GnuPG",
+    "name": "GNU Privacy Guard",
+    "version": "2.5.21",
+    "publisher": "The GnuPG Project",
+    "description": "GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's PGP cryptographic software suite.",
+    "license": "GPLv3",
+    "homepage": "https://gnupg.org/",
+    "category": "Security",
+    "tags": [
+      "cryptography",
+      "encrypt",
+      "encryption",
+      "gnupg",
+      "gpg",
+      "pgp",
+      "privacy",
+      "s/mime",
+      "security",
+      "sign",
+      "signature",
+      "x.509"
+    ],
+    "installer": {
+      "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.21_20260702.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "6246C925A73167253444AFC24A0DEB83A3F43B7D636AF84D6AAF48A98A62F024",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/gnupg-gnupg.ico",
+      "url": "https://icons.duckduckgo.com/ip3/gnupg.org.ico"
+    }
+  },
+  {
+    "id": "i2p.I2PEasyInstallBundle",
+    "name": "I2P Easy Install Bundle",
+    "version": "2.12.0",
+    "publisher": "i2p",
+    "description": "The Invisible Internet Project (I2P) is a fully encrypted private network layer.",
+    "license": "Various open-source licenses",
+    "homepage": "https://geti2p.net/en/download/easyinstall",
+    "category": "Security",
+    "tags": [
+      "internetproxy",
+      "invisibleinternetproject",
+      "java",
+      "networkencryption",
+      "onlineserver"
+    ],
+    "installer": {
+      "url": "https://files.i2p.net/2.12.0/I2P-Easy-Install-Bundle-2.12.0.exe",
+      "type": "exe",
+      "architecture": "x86",
+      "sha256": "55DAC4050D9A42AEDE07DD4F2C0004354FF74429A21510ABDF5AC83939E9A5F7",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/i2p-i2peasyinstallbundle.webp",
+      "url": "https://icons.duckduckgo.com/ip3/geti2p.net.ico"
+    }
+  },
+  {
+    "id": "KeePassXCTeam.KeePassXC",
+    "name": "KeePassXC",
+    "version": "2.7.12",
+    "publisher": "KeePassXC Team",
+    "description": "KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://keepassxc.org/",
+    "category": "Security",
+    "tags": [
+      "credential",
+      "password",
+      "protect",
+      "protection",
+      "security",
+      "vault"
+    ],
+    "installer": {
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.msi",
+      "type": "msi",
+      "architecture": "x64",
+      "sha256": "FEEE096C1D5D0D7BB7B36B18174818F7BAC889BE7668C550FF0E5EF9206EA9A5",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/keepassxcteam-keepassxc.png",
+      "url": "https://avatars.githubusercontent.com/keepassxreboot?size=256"
+    }
+  },
+  {
+    "id": "Proton.ProtonVPN",
+    "name": "Proton VPN",
+    "version": "5.1.7",
+    "publisher": "Proton AG",
+    "description": "High-speed Swiss VPN that safeguards your privacy.",
+    "license": "GPL-3.0",
+    "homepage": "https://protonvpn.com/",
+    "category": "Security",
+    "tags": [
+      "network",
+      "open-source",
+      "privacy",
+      "private",
+      "private-network",
+      "security",
+      "vpn"
+    ],
+    "installer": {
+      "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.7_x64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "AB8C87D7DB3CB76271DF72186C1AF0831362671B145ACC449A8443A415379C8A",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/proton-protonvpn.png",
+      "url": "https://icons.duckduckgo.com/ip3/protonvpn.com.ico"
+    }
+  },
+  {
+    "id": "Henry++.simplewall",
+    "name": "simplewall",
+    "version": "3.8.7",
+    "publisher": "Henry++",
+    "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+    "license": "GPL-3.0",
+    "homepage": "https://github.com/henrypp/simplewall/releases/tag/v.3.8.7",
+    "category": "Security",
+    "tags": [
+      "administration",
+      "firewall",
+      "foss",
+      "internet",
+      "network",
+      "network-monitor",
+      "open-source"
+    ],
+    "installer": {
+      "url": "https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "1864B3E2830C5FFADEFB01A25D0AEDBA36A9ACBDB8F257A722718B0B1D1AA144",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/henry-simplewall.jpg",
+      "url": "https://avatars.githubusercontent.com/henrypp?size=256"
+    }
+  },
+  {
+    "id": "TorProject.TorBrowser",
+    "name": "Tor Browser",
+    "version": "15.0.20",
+    "publisher": "Tor Project",
+    "description": "Protect yourself against tracking, surveillance, and censorship.",
+    "license": "MPL-2.0",
+    "homepage": "https://www.torproject.org/",
+    "category": "Security",
+    "tags": [
+      "anonymity",
+      "browser",
+      "cross-platform",
+      "foss",
+      "gecko",
+      "network",
+      "open-source",
+      "privacy",
+      "relay",
+      "security",
+      "tor",
+      "web-browser"
+    ],
+    "installer": {
+      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.20/tor-browser-windows-x86_64-portable-15.0.20.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "508331E09A3484993CB018AC7C62B927F3B4B4FEB901F2BE2252EFE7B4DA6620",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/torproject-torbrowser.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.torproject.org.ico"
+    }
+  },
+  {
+    "id": "IDRIX.VeraCrypt",
+    "name": "VeraCrypt",
+    "version": "1.26.29",
+    "publisher": "veracrypt",
+    "description": "Disk encryption with strong security based on TrueCrypt",
+    "license": "apache-2.0",
+    "homepage": "https://github.com/veracrypt/VeraCrypt",
+    "category": "Security",
+    "tags": [],
+    "installer": {
+      "url": "https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.29/VeraCrypt_Setup_x64_1.26.29.msi",
+      "type": "msi",
+      "architecture": "x64",
+      "sha256": "",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/idrix-veracrypt.png",
+      "url": "https://avatars.githubusercontent.com/veracrypt?size=256"
+    }
+  }
+]

@@ -1,0 +1,201 @@
+[
+  {
+    "id": "ToEverything.AFFiNE",
+    "name": "AFFiNE",
+    "version": "0.27.3",
+    "publisher": "AFFiNE",
+    "description": "A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds.",
+    "license": "Proprietary",
+    "homepage": "https://github.com/toeverything/AFFiNE",
+    "category": "Productivity",
+    "tags": [
+      "backlink",
+      "bi-directional-link",
+      "block",
+      "collaborate",
+      "collaboration",
+      "docs",
+      "document",
+      "editor",
+      "knowledge",
+      "knowledge-base",
+      "markdown",
+      "miro",
+      "notes",
+      "notion",
+      "reference",
+      "share"
+    ],
+    "installer": {
+      "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.3/affine-0.27.3-stable-windows-x64.nsis.exe",
+      "type": "nullsoft",
+      "architecture": "x64",
+      "sha256": "10E19E21135D5843219C1EF4152EB2286B4AE207A8CF5BBEB0A98F3D7EBBE494",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/toeverything-affine.jpg",
+      "url": "https://avatars.githubusercontent.com/toeverything?size=256"
+    }
+  },
+  {
+    "id": "AppFlowy.AppFlowy",
+    "name": "AppFlowy",
+    "version": "0.13.2",
+    "publisher": "AppFlowy-IO",
+    "description": "The Open Source Alternative To Notion.",
+    "license": "AGPL-3.0",
+    "homepage": "https://github.com/AppFlowy-IO/AppFlowy",
+    "category": "Productivity",
+    "tags": [
+      "content-management",
+      "content-services",
+      "editor",
+      "flutter",
+      "flutter-app",
+      "flutter-apps",
+      "flutter-examples",
+      "flutter-ui",
+      "low-code",
+      "no-code",
+      "notion",
+      "notion-alternative",
+      "rust",
+      "rust-lang",
+      "rust-language",
+      "wiki"
+    ],
+    "installer": {
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-windows-x86_64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "56719B46CDA2A68A60B0A64B496DC2CF157B404A73B2FE378895E0F20C00C3DD",
+      "silentArgs": "/sp- /verysilent /norestart"
+    },
+    "icon": {
+      "file": "icons/appflowy-appflowy.png",
+      "url": "https://avatars.githubusercontent.com/AppFlowy-IO?size=256"
+    }
+  },
+  {
+    "id": "Joplin.Joplin",
+    "name": "Joplin",
+    "version": "3.6.16",
+    "publisher": "Laurent Cozic",
+    "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
+    "license": "AGPL-3.0-or-later",
+    "homepage": "https://joplinapp.org/",
+    "category": "Productivity",
+    "tags": [
+      "checklist",
+      "list",
+      "memo",
+      "memorandum",
+      "notes",
+      "schedule",
+      "task",
+      "to-do",
+      "todo"
+    ],
+    "installer": {
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.6.16/Joplin-Setup-3.6.16.exe",
+      "type": "exe",
+      "architecture": "x86",
+      "sha256": "BB26FA0BAB6905CF7A22F2D1DCB18EF7F7C0F62C2E10C84CD8E743F7CA962C50",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/joplin-joplin.png",
+      "url": "https://avatars.githubusercontent.com/laurent22?size=256"
+    }
+  },
+  {
+    "id": "MarkText.MarkText",
+    "name": "MarkText",
+    "version": "0.19.1",
+    "publisher": "Jocs",
+    "description": "A simple and elegant Markdown editor focused on speed and usability.",
+    "license": "MIT",
+    "homepage": "https://github.com/marktext",
+    "category": "Productivity",
+    "tags": [
+      "editor",
+      "markdown"
+    ],
+    "installer": {
+      "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-win-x64-0.19.1-setup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "0DE6C0AA854728F3E5C21D74B4138F0A515D70CD80921EB3AED6B8E975838A2F",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/marktext-marktext.png",
+      "url": "https://avatars.githubusercontent.com/marktext?size=256"
+    }
+  },
+  {
+    "id": "ONLYOFFICE.DesktopEditors",
+    "name": "ONLYOFFICE Desktop Editors",
+    "version": "9.4.0",
+    "publisher": "Ascensio System SIA",
+    "description": "All the tools you need to work with text documents, spreadsheets, presentations, and fillable forms on Windows, Linux, and macOS.",
+    "license": "AGPL-3.0",
+    "homepage": "https://www.onlyoffice.com/en/desktop.aspx",
+    "category": "Productivity",
+    "tags": [
+      "document",
+      "editor",
+      "excel",
+      "office",
+      "powerpoint",
+      "presentation",
+      "spreadsheet",
+      "text-editor",
+      "word"
+    ],
+    "installer": {
+      "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.4.0/DesktopEditors_x64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "A3B4A7353946A2D836EADFB8F59799F98B906AB961421C05C0BEE00BE9307A9F",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/onlyoffice-desktopeditors.png",
+      "url": "https://avatars.githubusercontent.com/ONLYOFFICE?size=256"
+    }
+  },
+  {
+    "id": "StandardNotes.StandardNotes",
+    "name": "Standard Notes",
+    "version": "3.201.21",
+    "publisher": "Standard Notes",
+    "description": "An end-to-end encrypted notes app for digitalists and professionals.",
+    "license": "AGPL-3.0",
+    "homepage": "https://standardnotes.com/",
+    "category": "Productivity",
+    "tags": [
+      "encrypted",
+      "evernote",
+      "markdown",
+      "note-taking",
+      "notes",
+      "privacy",
+      "secure",
+      "snippets",
+      "standardnotes"
+    ],
+    "installer": {
+      "url": "https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.201.21/standard-notes-3.201.21-win-x64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "DA034509C6FBFDD05F0AD7C4106BA7D8E562CCA680486AF7EDCBCC1AB81F148E",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/standardnotes-standardnotes.png",
+      "url": "https://avatars.githubusercontent.com/standardnotes?size=256"
+    }
+  }
+]

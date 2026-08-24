@@ -1,0 +1,5 @@
+key.txt
+.fossy-cache.json
+.fossy-http-cache.json
+.tmp_*
+__pycache__/

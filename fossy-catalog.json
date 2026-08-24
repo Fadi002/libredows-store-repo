@@ -1,7 +1,7 @@
 {
-  "version": "1.0",
-  "generated": "2026-08-24T03:41:29Z",
-  "total": 59,
+  "version": "1.1",
+  "generated": "2026-08-24T20:48:20Z",
+  "total": 84,
   "apps": [
     {
       "id": "Brave.Brave",
@@ -26,6 +26,10 @@
         "architecture": "x64",
         "sha256": "8256A29857D1B2AB6698C46FED68AA32EA46D260B806E9A6040923FC1C9F9EE7",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/brave-brave.png",
+        "url": "https://avatars.githubusercontent.com/brave?size=256"
       }
     },
     {
@@ -54,6 +58,10 @@
         "architecture": "x64",
         "sha256": "8D239C3A9F221E7469B82090389F24D99F17E0883EE3F3FD4AA6C2FC9609316F",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/librewolf-librewolf.ico",
+        "url": "https://icons.duckduckgo.com/ip3/librewolf.net.ico"
       }
     },
     {
@@ -81,6 +89,32 @@
         "architecture": "x64",
         "sha256": "6EBA9F98AD90C016FD3DB19FEECF77469EB99E861358578EE90C4D9C3A481AAE",
         "silentArgs": "/S /PreventRebootRequired=true"
+      },
+      "icon": {
+        "file": "icons/mozilla-firefox.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.mozilla.org.ico"
+      }
+    },
+    {
+      "id": "UngoogledChromium.UngoogledChromium",
+      "name": "Ungoogled Chromium",
+      "version": "151.0.7922.173-1.1",
+      "publisher": "ungoogled-software",
+      "description": "Windows packaging for ungoogled-chromium",
+      "license": "BSD-3-Clause",
+      "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
+      "category": "Browsers",
+      "tags": [],
+      "installer": {
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/151.0.7922.173-1.1/ungoogled-chromium_151.0.7922.173-1.1_installer_x64.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/ungoogledchromium-ungoogledchromium.png",
+        "url": "https://avatars.githubusercontent.com/ungoogled-software?size=256"
       }
     },
     {
@@ -110,6 +144,10 @@
         "architecture": "x64",
         "sha256": "F59DF2FD152AFD476AD941A886A61878FEC17B70D224197B229230A12E50C468",
         "silentArgs": "-ms"
+      },
+      "icon": {
+        "file": "icons/waterfox-waterfox.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.waterfox.net.ico"
       }
     },
     {
@@ -144,6 +182,70 @@
         "architecture": "x64",
         "sha256": "BFDE3EEE3AA31B44B907CADAA433CBFD29C5ED9D84ECF75F38EA73EC863A5F1E",
         "silentArgs": "--silent"
+      },
+      "icon": {
+        "file": "icons/element-element.png",
+        "url": "https://icons.duckduckgo.com/ip3/element.io.ico"
+      }
+    },
+    {
+      "id": "Jitsi.Meet",
+      "name": "Jitsi Meet",
+      "version": "2026.8.0",
+      "publisher": "Jitsi Team",
+      "description": "Jitsi Meet is an open-source (Apache) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, secure and scalable video conferences.",
+      "license": "Apache-2.0",
+      "homepage": "https://jitsi.org/",
+      "category": "Communication",
+      "tags": [
+        "chat",
+        "jitsi",
+        "jitsi-meet",
+        "meeting",
+        "video-conferencing"
+      ],
+      "installer": {
+        "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.8.0/jitsi-meet.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "7879FD567241DC741FFCE9CBC3AB6D52A52A2F2142A24A39D28DD091AC6C54E2",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/jitsi-meet.png",
+        "url": "https://avatars.githubusercontent.com/jitsi?size=256"
+      }
+    },
+    {
+      "id": "Mattermost.MattermostDesktop",
+      "name": "Mattermost",
+      "version": "6.3.0",
+      "publisher": "Mattermost, Inc.",
+      "description": "Access your Mattermost instance with your credentials using the desktop app",
+      "license": "Apache-2.0",
+      "homepage": "https://mattermost.com/apps/",
+      "category": "Communication",
+      "tags": [
+        "business",
+        "collaborate",
+        "collaboration",
+        "communicate",
+        "comunication",
+        "enterprise",
+        "office",
+        "team",
+        "working"
+      ],
+      "installer": {
+        "url": "https://github.com/mattermost/desktop/releases/download/v6.3.0/mattermost-desktop-6.3.0-win-x64.msi",
+        "type": "msi",
+        "architecture": "x64",
+        "sha256": "0615EE83C6A94ED24B6AE08A7CA4CD27D1EA079B957E6B788204B1A49A3494BC",
+        "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/mattermost-mattermostdesktop.png",
+        "url": "https://avatars.githubusercontent.com/mattermost?size=256"
       }
     },
     {
@@ -165,6 +267,67 @@
         "architecture": "x64",
         "sha256": "18EE5928CF6A8B35A582BF4758D03CC3AAF3F33ED3615F54CA15E4029A1371A7",
         "silentArgs": "/S /PreventRebootRequired=true"
+      },
+      "icon": {
+        "file": "icons/mozilla-thunderbird.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.thunderbird.net.ico"
+      }
+    },
+    {
+      "id": "RocketChat.RocketChat",
+      "name": "Rocket.Chat",
+      "version": "4.16.0",
+      "publisher": "Rocket.Chat Support",
+      "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
+      "license": "MIT",
+      "homepage": "https://rocket.chat/",
+      "category": "Communication",
+      "tags": [
+        "chat",
+        "file-uploads",
+        "foss",
+        "live-chat",
+        "open-source",
+        "rocket",
+        "rocket-chat",
+        "screensharing",
+        "video-conference"
+      ],
+      "installer": {
+        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.16.0/rocketchat-4.16.0-win-x64.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "8CE01874553DA96ADD5631B25BE10BB9968EF67DA7CE8832BBABE2DA60159E87",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/rocketchat-rocketchat.png",
+        "url": "https://avatars.githubusercontent.com/RocketChat?size=256"
+      }
+    },
+    {
+      "id": "BlenderFoundation.Blender",
+      "name": "blender",
+      "version": "5.2.0",
+      "publisher": "Blender Foundation",
+      "description": "Free and Open 3D Creation Software",
+      "license": "GPL-3.0-or-later",
+      "homepage": "",
+      "category": "Design",
+      "tags": [
+        "3d",
+        "animation",
+        "model",
+        "modeling",
+        "render",
+        "vfx"
+      ],
+      "installer": {
+        "url": "https://download.blender.org/release/Blender5.2/blender-5.2.0-windows-x64.msi",
+        "type": "msi",
+        "architecture": "x64",
+        "sha256": "8BA59AED79DFC35D65C5E9E0CCC828D618796499483CCDEEE0B534A915140606",
+        "silentArgs": "/quiet /norestart"
       }
     },
     {
@@ -194,6 +357,71 @@
         "architecture": "x64",
         "sha256": "B42989195DFFF44540C0B767B407987329CA99853612304CBBF14C48D1D3F803",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/darktable-darktable.png",
+        "url": "https://avatars.githubusercontent.com/darktable-org?size=256"
+      }
+    },
+    {
+      "id": "FreeCAD.FreeCAD",
+      "name": "FreeCAD",
+      "version": "1.1.3",
+      "publisher": "FreeCAD Team",
+      "description": "A general purpose open source parametric 3D CAD modeler",
+      "license": "LGPL-2.0-or-later",
+      "homepage": "https://www.freecad.org/downloads.php",
+      "category": "Design",
+      "tags": [
+        "3d-modeler",
+        "cad",
+        "engineer",
+        "engineering"
+      ],
+      "installer": {
+        "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.3/FreeCAD_1.1.3-Windows-x86_64-py311-installer.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "3DE56676DEDB7C68F4DA9734C79ABEAFF9BBBF09F6A2C01DF72A82BEEEE81C11",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/freecad-freecad.png",
+        "url": "https://avatars.githubusercontent.com/FreeCAD?size=256"
+      }
+    },
+    {
+      "id": "GIMP.GIMP",
+      "name": "GIMP",
+      "version": "3.2.4",
+      "publisher": "The GIMP Team",
+      "description": "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.",
+      "license": "GPLv3",
+      "homepage": "https://www.gimp.org/downloads/",
+      "category": "Design",
+      "tags": [
+        "gnu-image-manipulation-program",
+        "gnuimagemanipulationprogram",
+        "image-editor",
+        "image-editing",
+        "imageediting",
+        "paint",
+        "painting",
+        "photoediting",
+        "photo-editing",
+        "pictures",
+        "9pnsjclxdz0v"
+      ],
+      "installer": {
+        "url": "https://download.gimp.org/gimp/v3.2/windows/gimp-3.2.4-setup.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "EC31D757DD82831D201FFCF47FFEAC4175DF739E0C02D5122E89AEEADFB988CC",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/gimp-gimp.png",
+        "url": "https://icons.duckduckgo.com/ip3/www.gimp.org.ico"
       }
     },
     {
@@ -221,6 +449,94 @@
         "architecture": "x64",
         "sha256": "2FA033E95113AE83D6430B2479E7E63E4266D0632A5B03F99EE3DB9360E3B8B8",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/inkscape-inkscape.png",
+        "url": "https://icons.duckduckgo.com/ip3/inkscape.org.ico"
+      }
+    },
+    {
+      "id": "KDE.Krita",
+      "name": "Krita",
+      "version": "5.3.3.0",
+      "publisher": "Krita Foundation",
+      "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
+      "license": "GPL-3.0",
+      "homepage": "https://krita.org/",
+      "category": "Design",
+      "tags": [
+        "art",
+        "draw",
+        "drawing",
+        "paint",
+        "painting",
+        "sketching"
+      ],
+      "installer": {
+        "url": "https://download.kde.org/stable/krita/5.3.3/krita-x64-5.3.3-setup.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "CF6DC324C1F3BDB5D3069A7F7D7456FCBB6176FAB1F09683A52B836FA0D97A05",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/kde-krita.ico",
+        "url": "https://icons.duckduckgo.com/ip3/krita.org.ico"
+      }
+    },
+    {
+      "id": "LibreCAD.LibreCAD",
+      "name": "LibreCAD",
+      "version": "2.2.1.5",
+      "publisher": "LibreCAD Team",
+      "description": "LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.",
+      "license": "GPLv2",
+      "homepage": "https://librecad.org/",
+      "category": "Design",
+      "tags": [
+        "cad",
+        "drawing",
+        "dxf",
+        "qt"
+      ],
+      "installer": {
+        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.5/LibreCAD-v2.2.1.5-win64-msvc.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "738912FEA40ACA934689444AF9C5CD281572417983CC081C204FE6C779F6941D",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/librecad-librecad.png",
+        "url": "https://avatars.githubusercontent.com/LibreCAD?size=256"
+      }
+    },
+    {
+      "id": "OpenSCAD.OpenSCAD",
+      "name": "OpenSCAD",
+      "version": "2021.01",
+      "publisher": "OpenSCAD",
+      "description": "OpenSCAD is software for creating solid 3D CAD objects.",
+      "license": "GNU GPLv2",
+      "homepage": "https://www.openscad.org/",
+      "category": "Design",
+      "tags": [
+        "3d",
+        "3d-graphics",
+        "3d-printing",
+        "cad",
+        "openscad"
+      ],
+      "installer": {
+        "url": "https://files.openscad.org/OpenSCAD-2021.01-x86-64-Installer.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "FBE1E590E1AF2AF863F5D92BD263EB4644D0EE29352E3AB566366E87A8F6ED12",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/openscad-openscad.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.openscad.org.ico"
       }
     },
     {
@@ -246,6 +562,10 @@
         "architecture": "x64",
         "sha256": "D27DF7EBDE717C5EFA114338A4B1CF1C426A439E5A1A92E142E87868CBE45383",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/rawtherapee-rawtherapee.png",
+        "url": "https://avatars.githubusercontent.com/RawTherapee?size=256"
       }
     },
     {
@@ -281,6 +601,10 @@
         "architecture": "x64",
         "sha256": "949712159583714E020233099AC2FBB96572B939935E59B5D8DE1D8DE9DD56BC",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/dbeaver-dbeaver-community.png",
+        "url": "https://avatars.githubusercontent.com/dbeaver?size=256"
       }
     },
     {
@@ -302,6 +626,10 @@
         "architecture": "x64",
         "sha256": "AF12577D0FDFF74243A5988197AA49B957D5044EDC17004F6DDF0768996F1DCA",
         "silentArgs": "/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+      },
+      "icon": {
+        "file": "icons/git-git.png",
+        "url": "https://avatars.githubusercontent.com/git-for-windows?size=256"
       }
     },
     {
@@ -323,6 +651,10 @@
         "architecture": "x64",
         "sha256": "0AF2BEC6AD0E73B999EBD30B19C7042BEAA9B604B7A34839EC3E5975F11EC15B",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/github-githubdesktop.png",
+        "url": "https://avatars.githubusercontent.com/apps?size=256"
       }
     },
     {
@@ -347,6 +679,10 @@
         "architecture": "x64",
         "sha256": "C6E7AA52FA607F93E6E3A7E2FFD733782F3BDB2AA8CD0559A6CD9927AEF49C34",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/golang-go.png",
+        "url": "https://icons.duckduckgo.com/ip3/go.dev.ico"
       }
     },
     {
@@ -407,27 +743,10 @@
         "architecture": "x64",
         "sha256": "97ACF0344313C11BB89C001425A615722B745669E5FFD542E732C418A00E22ED",
         "silentArgs": "/S"
-      }
-    },
-    {
-      "id": "Insomnia.Insomnia",
-      "name": "Insomnia",
-      "version": "13.1.0",
-      "publisher": "Kong",
-      "description": "The Desktop API client for REST and GraphQL. Make requests, inspect responses.",
-      "license": "Apache-2.0",
-      "homepage": "https://insomnia.rest/",
-      "category": "Development",
-      "tags": [
-        "insomnia",
-        "insomnia-core"
-      ],
-      "installer": {
-        "url": "https://github.com/Kong/insomnia/releases/download/core@13.1.0/Insomnia.Core-13.1.0.exe",
-        "type": "exe",
-        "architecture": "x64",
-        "sha256": "F01975414027D41224D8043FD158F6C1933BA57C5B71C9337EB011E04486DD07",
-        "silentArgs": "--silent"
+      },
+      "icon": {
+        "file": "icons/heidisql-heidisql.png",
+        "url": "https://avatars.githubusercontent.com/HeidiSQL?size=256"
       }
     },
     {
@@ -452,6 +771,10 @@
         "architecture": "x64",
         "sha256": "D25F98DCE5E3D07A6C98F6C7A91ACBFBACEDAC06EF5C4663DC4B614B52D2B993",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/meld-meld.png",
+        "url": "https://icons.duckduckgo.com/ip3/meldmerge.org.ico"
       }
     },
     {
@@ -484,6 +807,10 @@
         "architecture": "x64",
         "sha256": "F0F66C2A80C08A30A5AB5179EE9EA9E45F9B46289436A8CC87FF833B852DB351",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/openjs-nodejs-lts.png",
+        "url": "https://icons.duckduckgo.com/ip3/nodejs.org.ico"
       }
     },
     {
@@ -510,6 +837,43 @@
         "architecture": "x64",
         "sha256": "C29CBE1A9AAEF322CC3F316CEEABE8A8071B18441A5E3C3EC348069739E59E80",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/notepad-notepad.png",
+        "url": "https://avatars.githubusercontent.com/notepad-plus-plus?size=256"
+      }
+    },
+    {
+      "id": "Python.Python",
+      "name": "Python 3.14",
+      "version": "3.14.7",
+      "publisher": "Python Software Foundation",
+      "description": "A programming language that lets you work more quickly and integrate your systems more effectively.",
+      "license": "PSF-2.0",
+      "homepage": "https://www.python.org/",
+      "category": "Development",
+      "tags": [
+        "9pnrbtzxmb4z",
+        "idna",
+        "language",
+        "pip3",
+        "programming",
+        "programming-language",
+        "python",
+        "python3",
+        "requirescmd",
+        "script"
+      ],
+      "installer": {
+        "url": "https://www.python.org/ftp/python/3.14.7/python-3.14.7-amd64.exe",
+        "type": "burn",
+        "architecture": "x64",
+        "sha256": "9D9EB2709EF81BF5CD30DB3C2096BDBC4EA10087C22E62F27D356B36F6AE9649",
+        "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/python-python.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.python.org.ico"
       }
     },
     {
@@ -551,6 +915,10 @@
         "architecture": "x64",
         "sha256": "4C4D49D8738847D9B71BA319E49A5688C93EAC0FE6204B1DF24E98528DDDF39A",
         "silentArgs": ""
+      },
+      "icon": {
+        "file": "icons/astral-sh-uv.png",
+        "url": "https://avatars.githubusercontent.com/astral-sh?size=256"
       }
     },
     {
@@ -578,6 +946,10 @@
         "architecture": "x64",
         "sha256": "A8C0516A9B17D1BA4887898F0966445BC61B386FD11578E57433F1E57E9868C9",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/vscodium-vscodium.png",
+        "url": "https://avatars.githubusercontent.com/VSCodium?size=256"
       }
     },
     {
@@ -604,6 +976,10 @@
         "architecture": "x64",
         "sha256": "779EE66F846376942A3B631A78BBA8C3D509697D07743349E1893056211D05E3",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/wiresharkfoundation-wireshark.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.wireshark.org.ico"
       }
     },
     {
@@ -636,6 +1012,41 @@
         "architecture": "x64",
         "sha256": "52FE3C26DCF71FBDC85B528589020BB0B8E383155CFA81B64DD447BBE35E24B8",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/yt-dlp-yt-dlp.png",
+        "url": "https://avatars.githubusercontent.com/yt-dlp?size=256"
+      }
+    },
+    {
+      "id": "LocalSend.LocalSend",
+      "name": "LocalSend",
+      "version": "1.17.0",
+      "publisher": "Tien Do Nam",
+      "description": "Share files to nearby devices. Free, open source, cross-platform. An open source cross-platform alternative to AirDrop.",
+      "license": "Apache-2.0",
+      "homepage": "https://localsend.org/",
+      "category": "File Sharing",
+      "tags": [
+        "cross-platform",
+        "file-sharing",
+        "flutter",
+        "local",
+        "shareit",
+        "sharik",
+        "trebleshot",
+        "wifi"
+      ],
+      "installer": {
+        "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "E554DCF9DC94DD842B54D464B559AC1D3631427BB02480C9A74785EC47CE639C",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/localsend-localsend.png",
+        "url": "https://avatars.githubusercontent.com/localsend?size=256"
       }
     },
     {
@@ -660,6 +1071,10 @@
         "architecture": "x64",
         "sha256": "77E1D3067B8A236D3AC1068421C7AF6E52C4BD593E45695332F05EF4045E4B6F",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/nextcloud-nextclouddesktop.png",
+        "url": "https://avatars.githubusercontent.com/nextcloud-releases?size=256"
       }
     },
     {
@@ -688,6 +1103,10 @@
         "architecture": "x64",
         "sha256": "FF508E2F912D59C9EABAF03633EBACFD45C2049F38DCAC027B8A7D7AD867AB2F",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/qbittorrent-qbittorrent.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.qbittorrent.org.ico"
       }
     },
     {
@@ -716,6 +1135,10 @@
         "architecture": "x64",
         "sha256": "203581F0A7BAEAE873F2347483A798C79E2EAF5C384A4E9D866AA374F1C89AC0",
         "silentArgs": ""
+      },
+      "icon": {
+        "file": "icons/rclone-rclone.png",
+        "url": "https://avatars.githubusercontent.com/rclone?size=256"
       }
     },
     {
@@ -749,6 +1172,10 @@
         "architecture": "x64",
         "sha256": "F213ACA04D30E0E2DC7C43BC79ACAE8622BE291CEE6014A90962ED87EA5F10CC",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/sharex-sharex.png",
+        "url": "https://avatars.githubusercontent.com/ShareX?size=256"
       }
     },
     {
@@ -781,6 +1208,61 @@
         "architecture": "x64",
         "sha256": "C0B79CFFA6CE5DAD5ED41EDE86454F3325D13CCAC33447A528CB59D65FBC3A21",
         "silentArgs": ""
+      },
+      "icon": {
+        "file": "icons/syncthing-syncthing.png",
+        "url": "https://avatars.githubusercontent.com/syncthing?size=256"
+      }
+    },
+    {
+      "id": "HeroicGamesLauncher.HeroicGamesLauncher",
+      "name": "Heroic",
+      "version": "2.22.1",
+      "publisher": "Heroic Games Launcher",
+      "description": "Heroic is an Open Source Game Launcher for Linux, Windows and MacOS.",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+      "category": "Games",
+      "tags": [
+        "epicgames",
+        "games-launcher",
+        "gaming",
+        "launcher"
+      ],
+      "installer": {
+        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.1/Heroic-2.22.1-Setup-x64.exe",
+        "type": "nullsoft",
+        "architecture": "x64",
+        "sha256": "67D0693E113DDE712A2FE1E0449B27E59C260BBC8554F30941B492B0362CA6D2",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/heroicgameslauncher-heroicgameslauncher.png",
+        "url": "https://avatars.githubusercontent.com/Heroic-Games-Launcher?size=256"
+      }
+    },
+    {
+      "id": "ItchIo.Itch",
+      "name": "itch",
+      "version": "26.18.0",
+      "publisher": "itch corp.",
+      "description": "Install, update and play indie games",
+      "license": "MIT",
+      "homepage": "https://itch.io/app",
+      "category": "Games",
+      "tags": [
+        "game"
+      ],
+      "installer": {
+        "url": "https://broth.itch.zone/install-itch/windows-amd64/1.29.0+808e1c8/archive/default",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "90B1C102D63B8AFEC9A4DC67B07FCD7D0C6404720BAC53682F863F33CCAC4770",
+        "silentArgs": "--silent"
+      },
+      "icon": {
+        "file": "icons/itchio-itch.ico",
+        "url": "https://icons.duckduckgo.com/ip3/itch.io.ico"
       }
     },
     {
@@ -812,6 +1294,10 @@
         "architecture": "x64",
         "sha256": "4A6D77F023C0209A396FCF2F3C7C04E240B6BA9897B3231A6ED18E14C10CAA16",
         "silentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
+      },
+      "icon": {
+        "file": "icons/audacity-audacity.png",
+        "url": "https://avatars.githubusercontent.com/audacity?size=256"
       }
     },
     {
@@ -840,6 +1326,10 @@
         "architecture": "x64",
         "sha256": "6BECB8E5A041941D5F2FD6FE83C66FC15B2B16190E2E79F5AD47EB4CD18DF8CD",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/handbrake-handbrake.png",
+        "url": "https://avatars.githubusercontent.com/HandBrake?size=256"
       }
     },
     {
@@ -868,6 +1358,34 @@
         "type": "exe",
         "architecture": "x64",
         "sha256": "F5DCD8DDB7A8EF6754CEE7515513D6C777BC68079C6FEC37E20373F628F65FE1",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/kde-kdenlive.png",
+        "url": "https://icons.duckduckgo.com/ip3/kdenlive.org.ico"
+      }
+    },
+    {
+      "id": "MoritzBunkus.MKVToolNix",
+      "name": "MKVToolNix",
+      "version": "100.0.0",
+      "publisher": "Moritz Bunkus",
+      "description": "MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.",
+      "license": "GPL-2.0",
+      "homepage": "https://mkvtoolnix.download/",
+      "category": "Media",
+      "tags": [
+        "mkv",
+        "mkvextract",
+        "mkvinfo",
+        "mkvmerge",
+        "mkvpropedit"
+      ],
+      "installer": {
+        "url": "https://mkvtoolnix.download/windows/releases/100.0/mkvtoolnix-64-bit-100.0-setup.exe",
+        "type": "nullsoft",
+        "architecture": "x64",
+        "sha256": "F0E53E5459610583E972EBB1A5C923816BB461BAFB9831455680343C68CC4074",
         "silentArgs": "/S"
       }
     },
@@ -899,6 +1417,10 @@
         "architecture": "x64",
         "sha256": "242D98D054C6CDEE64A2B8B08AACD4B6CFFD67CD5B25A0D648322D0802D84D2B",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/clsid2-mpc-hc.png",
+        "url": "https://avatars.githubusercontent.com/clsid2?size=256"
       }
     },
     {
@@ -926,6 +1448,40 @@
         "architecture": "x64",
         "sha256": "BBB95E52B96AD9B7CCD5ABD13121379D29774D6CC5FDBEF82FFA249E8A24A289",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/obsproject-obsstudio.png",
+        "url": "https://avatars.githubusercontent.com/obsproject?size=256"
+      }
+    },
+    {
+      "id": "jurplel.qView",
+      "name": "qView",
+      "version": "7.1",
+      "publisher": "jurplel and qView contributors",
+      "description": "An image viewer designed with minimalism and usability in mind.",
+      "license": "GPLv3",
+      "homepage": "https://interversehq.com/qview",
+      "category": "Media",
+      "tags": [
+        "cross-platform",
+        "image-viewer",
+        "imageviewer",
+        "photo-viewer",
+        "photoviewer",
+        "view-image-files",
+        "viewimagefiles"
+      ],
+      "installer": {
+        "url": "https://github.com/jurplel/qView/releases/download/7.1/qView-7.1-win64.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "081A2ADFE9EA9858075099A927A9BC97E3423D2A4AA6D371FAE89E9CD113AEC7",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/jurplel-qview.png",
+        "url": "https://avatars.githubusercontent.com/jurplel?size=256"
       }
     },
     {
@@ -949,6 +1505,10 @@
         "architecture": "x86",
         "sha256": "2351F66E0FB4559C8941778547FC935333560991E541C99373F4858B501F8399",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/stremio-stremio.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.stremio.com.ico"
       }
     },
     {
@@ -976,6 +1536,45 @@
         "architecture": "x64",
         "sha256": "BC4B902A480B98A4A5479327A7F210F06369A59BF727649E320FABA5B4EF1F5E",
         "silentArgs": "/quiet /norestart"
+      }
+    },
+    {
+      "id": "ToEverything.AFFiNE",
+      "name": "AFFiNE",
+      "version": "0.27.3",
+      "publisher": "AFFiNE",
+      "description": "A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds.",
+      "license": "Proprietary",
+      "homepage": "https://github.com/toeverything/AFFiNE",
+      "category": "Productivity",
+      "tags": [
+        "backlink",
+        "bi-directional-link",
+        "block",
+        "collaborate",
+        "collaboration",
+        "docs",
+        "document",
+        "editor",
+        "knowledge",
+        "knowledge-base",
+        "markdown",
+        "miro",
+        "notes",
+        "notion",
+        "reference",
+        "share"
+      ],
+      "installer": {
+        "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.3/affine-0.27.3-stable-windows-x64.nsis.exe",
+        "type": "nullsoft",
+        "architecture": "x64",
+        "sha256": "10E19E21135D5843219C1EF4152EB2286B4AE207A8CF5BBEB0A98F3D7EBBE494",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/toeverything-affine.jpg",
+        "url": "https://avatars.githubusercontent.com/toeverything?size=256"
       }
     },
     {
@@ -1011,6 +1610,10 @@
         "architecture": "x64",
         "sha256": "56719B46CDA2A68A60B0A64B496DC2CF157B404A73B2FE378895E0F20C00C3DD",
         "silentArgs": "/sp- /verysilent /norestart"
+      },
+      "icon": {
+        "file": "icons/appflowy-appflowy.png",
+        "url": "https://avatars.githubusercontent.com/AppFlowy-IO?size=256"
       }
     },
     {
@@ -1039,6 +1642,10 @@
         "architecture": "x86",
         "sha256": "BB26FA0BAB6905CF7A22F2D1DCB18EF7F7C0F62C2E10C84CD8E743F7CA962C50",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/joplin-joplin.png",
+        "url": "https://avatars.githubusercontent.com/laurent22?size=256"
       }
     },
     {
@@ -1060,6 +1667,10 @@
         "architecture": "x64",
         "sha256": "0DE6C0AA854728F3E5C21D74B4138F0A515D70CD80921EB3AED6B8E975838A2F",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/marktext-marktext.png",
+        "url": "https://avatars.githubusercontent.com/marktext?size=256"
       }
     },
     {
@@ -1088,6 +1699,10 @@
         "architecture": "x64",
         "sha256": "A3B4A7353946A2D836EADFB8F59799F98B906AB961421C05C0BEE00BE9307A9F",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/onlyoffice-desktopeditors.png",
+        "url": "https://avatars.githubusercontent.com/ONLYOFFICE?size=256"
       }
     },
     {
@@ -1116,6 +1731,10 @@
         "architecture": "x64",
         "sha256": "DA034509C6FBFDD05F0AD7C4106BA7D8E562CCA680486AF7EDCBCC1AB81F148E",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/standardnotes-standardnotes.png",
+        "url": "https://avatars.githubusercontent.com/standardnotes?size=256"
       }
     },
     {
@@ -1144,6 +1763,10 @@
         "architecture": "x64",
         "sha256": "0263CBA73432578B2F5CEF90815F374F78B34B6CEDA9FD3F22343316803CDB98",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/bitwarden-bitwarden.png",
+        "url": "https://avatars.githubusercontent.com/bitwarden?size=256"
       }
     },
     {
@@ -1169,6 +1792,73 @@
         "architecture": "x64",
         "sha256": "E303CCED835E1A8A1041580EEAEA3B7B3658C348D77EA53A108A95926625C41A",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/cryptomator-cryptomator.png",
+        "url": "https://avatars.githubusercontent.com/cryptomator?size=256"
+      }
+    },
+    {
+      "id": "GnuPG.GnuPG",
+      "name": "GNU Privacy Guard",
+      "version": "2.5.21",
+      "publisher": "The GnuPG Project",
+      "description": "GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's PGP cryptographic software suite.",
+      "license": "GPLv3",
+      "homepage": "https://gnupg.org/",
+      "category": "Security",
+      "tags": [
+        "cryptography",
+        "encrypt",
+        "encryption",
+        "gnupg",
+        "gpg",
+        "pgp",
+        "privacy",
+        "s/mime",
+        "security",
+        "sign",
+        "signature",
+        "x.509"
+      ],
+      "installer": {
+        "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.21_20260702.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "6246C925A73167253444AFC24A0DEB83A3F43B7D636AF84D6AAF48A98A62F024",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/gnupg-gnupg.ico",
+        "url": "https://icons.duckduckgo.com/ip3/gnupg.org.ico"
+      }
+    },
+    {
+      "id": "i2p.I2PEasyInstallBundle",
+      "name": "I2P Easy Install Bundle",
+      "version": "2.12.0",
+      "publisher": "i2p",
+      "description": "The Invisible Internet Project (I2P) is a fully encrypted private network layer.",
+      "license": "Various open-source licenses",
+      "homepage": "https://geti2p.net/en/download/easyinstall",
+      "category": "Security",
+      "tags": [
+        "internetproxy",
+        "invisibleinternetproject",
+        "java",
+        "networkencryption",
+        "onlineserver"
+      ],
+      "installer": {
+        "url": "https://files.i2p.net/2.12.0/I2P-Easy-Install-Bundle-2.12.0.exe",
+        "type": "exe",
+        "architecture": "x86",
+        "sha256": "55DAC4050D9A42AEDE07DD4F2C0004354FF74429A21510ABDF5AC83939E9A5F7",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/i2p-i2peasyinstallbundle.webp",
+        "url": "https://icons.duckduckgo.com/ip3/geti2p.net.ico"
       }
     },
     {
@@ -1194,6 +1884,70 @@
         "architecture": "x64",
         "sha256": "FEEE096C1D5D0D7BB7B36B18174818F7BAC889BE7668C550FF0E5EF9206EA9A5",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/keepassxcteam-keepassxc.png",
+        "url": "https://avatars.githubusercontent.com/keepassxreboot?size=256"
+      }
+    },
+    {
+      "id": "Proton.ProtonVPN",
+      "name": "Proton VPN",
+      "version": "5.1.7",
+      "publisher": "Proton AG",
+      "description": "High-speed Swiss VPN that safeguards your privacy.",
+      "license": "GPL-3.0",
+      "homepage": "https://protonvpn.com/",
+      "category": "Security",
+      "tags": [
+        "network",
+        "open-source",
+        "privacy",
+        "private",
+        "private-network",
+        "security",
+        "vpn"
+      ],
+      "installer": {
+        "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.7_x64.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "AB8C87D7DB3CB76271DF72186C1AF0831362671B145ACC449A8443A415379C8A",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/proton-protonvpn.png",
+        "url": "https://icons.duckduckgo.com/ip3/protonvpn.com.ico"
+      }
+    },
+    {
+      "id": "Henry++.simplewall",
+      "name": "simplewall",
+      "version": "3.8.7",
+      "publisher": "Henry++",
+      "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/henrypp/simplewall/releases/tag/v.3.8.7",
+      "category": "Security",
+      "tags": [
+        "administration",
+        "firewall",
+        "foss",
+        "internet",
+        "network",
+        "network-monitor",
+        "open-source"
+      ],
+      "installer": {
+        "url": "https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "1864B3E2830C5FFADEFB01A25D0AEDBA36A9ACBDB8F257A722718B0B1D1AA144",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/henry-simplewall.jpg",
+        "url": "https://avatars.githubusercontent.com/henrypp?size=256"
       }
     },
     {
@@ -1225,6 +1979,32 @@
         "architecture": "x64",
         "sha256": "508331E09A3484993CB018AC7C62B927F3B4B4FEB901F2BE2252EFE7B4DA6620",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/torproject-torbrowser.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.torproject.org.ico"
+      }
+    },
+    {
+      "id": "IDRIX.VeraCrypt",
+      "name": "VeraCrypt",
+      "version": "1.26.29",
+      "publisher": "veracrypt",
+      "description": "Disk encryption with strong security based on TrueCrypt",
+      "license": "apache-2.0",
+      "homepage": "https://github.com/veracrypt/VeraCrypt",
+      "category": "Security",
+      "tags": [],
+      "installer": {
+        "url": "https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.29/VeraCrypt_Setup_x64_1.26.29.msi",
+        "type": "msi",
+        "architecture": "x64",
+        "sha256": "",
+        "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/idrix-veracrypt.png",
+        "url": "https://avatars.githubusercontent.com/veracrypt?size=256"
       }
     },
     {
@@ -1259,6 +2039,41 @@
         "architecture": "x64",
         "sha256": "DB407A4F6D4999E5C7BC00CE8A882BE94717B56E7FA68140FE3F12605D91643E",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/7zip-7zip.png",
+        "url": "https://avatars.githubusercontent.com/ip7z?size=256"
+      }
+    },
+    {
+      "id": "Balena.Etcher",
+      "name": "balenaEtcher",
+      "version": "2.1.6",
+      "publisher": "Balena Ltd. <hello@balena.io>",
+      "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+      "license": "Apache-2.0",
+      "homepage": "https://etcher.balena.io/",
+      "category": "Utilities",
+      "tags": [
+        "boot",
+        "dd",
+        "flash",
+        "format",
+        "image",
+        "img",
+        "iso",
+        "usb"
+      ],
+      "installer": {
+        "url": "https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6.Setup.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "78D1C45A55428E65AB2AC96E462AD6D77ADBF7D1C0AA4B704B214BC00E1FCDFC",
+        "silentArgs": "--silent"
+      },
+      "icon": {
+        "file": "icons/balena-etcher.png",
+        "url": "https://avatars.githubusercontent.com/balena-io?size=256"
       }
     },
     {
@@ -1291,6 +2106,35 @@
         "architecture": "x86",
         "sha256": "16532BC640315F87BD66E04F78B137E1EC90DB2D0B7357BFCC47AF8873E0076E",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/bleachbit-bleachbit.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.bleachbit.org.ico"
+      }
+    },
+    {
+      "id": "hluk.CopyQ",
+      "name": "CopyQ",
+      "version": "16.0.0",
+      "publisher": "Lukas Holecek",
+      "description": "Clipboard manager with advanced features",
+      "license": "GPL-3.0",
+      "homepage": "https://github.com/hluk/CopyQ",
+      "category": "Utilities",
+      "tags": [
+        "clipboard",
+        "tray"
+      ],
+      "installer": {
+        "url": "https://github.com/hluk/CopyQ/releases/download/v16.0.0/copyq-16.0.0-setup.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "F271A1467589CA55CD56D1FAF727A4BC34E686B4965AC742854A93BE4B186F82",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/hluk-copyq.png",
+        "url": "https://avatars.githubusercontent.com/hluk?size=256"
       }
     },
     {
@@ -1326,6 +2170,10 @@
         "architecture": "x64",
         "sha256": "45BE8DEF3EC8876DCD1E5D299BD049140BC5D692413883AAE1049F7D24A41ABE",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/crystaldewworld-crystaldiskinfo.ico",
+        "url": "https://icons.duckduckgo.com/ip3/crystalmark.info.ico"
       }
     },
     {
@@ -1353,6 +2201,32 @@
         "architecture": "x64",
         "sha256": "1A255154E116A533F86535BC362F101E32D6171604CDE9B6B554335856917E5E",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/crystaldewworld-crystaldiskmark.ico",
+        "url": "https://icons.duckduckgo.com/ip3/crystalmark.info.ico"
+      }
+    },
+    {
+      "id": "cURL.cURL",
+      "name": "cURL",
+      "version": "8.21.0.6",
+      "publisher": "curl",
+      "description": "Command line tool and library for transferring data with URLs",
+      "license": "Freeware",
+      "homepage": "https://curl.se/",
+      "category": "Utilities",
+      "tags": [],
+      "installer": {
+        "url": "https://curl.se/windows/dl-8.21.0_6/curl-8.21.0_6-win64-mingw.zip",
+        "type": "zip",
+        "architecture": "x64",
+        "sha256": "0C119D394BAB91ECD97B64791F24BDDC247D08840431E0045BCB92BBA3275665",
+        "silentArgs": ""
+      },
+      "icon": {
+        "file": "icons/curl-curl.ico",
+        "url": "https://icons.duckduckgo.com/ip3/curl.se.ico"
       }
     },
     {
@@ -1423,6 +2297,10 @@
         "architecture": "x64",
         "sha256": "F42F0C4B04EAE3AC918707FF66E3E0FF0CEE527BFA6D322624D4BC1160D5055E",
         "silentArgs": ""
+      },
+      "icon": {
+        "file": "icons/gyan-ffmpeg.png",
+        "url": "https://avatars.githubusercontent.com/GyanD?size=256"
       }
     },
     {
@@ -1443,6 +2321,10 @@
         "architecture": "x64",
         "sha256": "A6FC67FEDAF9128A3309A1E2EBB8B986AECCF70122EE46D2CB4849E423F0C627",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/jqlang-jq.png",
+        "url": "https://avatars.githubusercontent.com/jqlang?size=256"
       }
     },
     {
@@ -1468,6 +2350,10 @@
         "architecture": "x64",
         "sha256": "3A87C24E044EC792047D734C841917EE4323A535E25F645AE6C33141A35FCA8D",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/microsoft-powershell.png",
+        "url": "https://avatars.githubusercontent.com/PowerShell?size=256"
       }
     },
     {
@@ -1525,6 +2411,39 @@
         "architecture": "x64",
         "sha256": "84C8A437F8AF89257524478489E5C85F1EDF25F761D299E2BCDE46AC0AFBE106",
         "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/rufus-rufus.png",
+        "url": "https://avatars.githubusercontent.com/pbatard?size=256"
+      }
+    },
+    {
+      "id": "uvncbvba.UltraVNC",
+      "name": "UltraVNC",
+      "version": "1.8.2.4",
+      "publisher": "uvnc bvba",
+      "description": "VNC client and server graphical desktop sharing via RFB protocol",
+      "license": "GPL-3.0",
+      "homepage": "https://uvnc.com/downloads/ultravnc.html",
+      "category": "Utilities",
+      "tags": [
+        "remote-desktop",
+        "remoteaccess",
+        "remotedesktop",
+        "remoteframebuffer",
+        "rfb",
+        "vnc"
+      ],
+      "installer": {
+        "url": "https://uvnc.eu/download/1800/UltraVNC_1824_x64_Setup.exe",
+        "type": "exe",
+        "architecture": "x64",
+        "sha256": "9EF5C8275AA0431F058369305C444D7303ADC807A9E4B80BC9FFAD7C3BF210B2",
+        "silentArgs": "/S"
+      },
+      "icon": {
+        "file": "icons/uvncbvba-ultravnc.ico",
+        "url": "https://icons.duckduckgo.com/ip3/uvnc.com.ico"
       }
     },
     {
@@ -1559,6 +2478,10 @@
         "architecture": "x64",
         "sha256": "D250E97A7595FDAC4F97DEBC630D7A8DA942319274A76CB32384596B659DBAEB",
         "silentArgs": ""
+      },
+      "icon": {
+        "file": "icons/ventoy-ventoy.png",
+        "url": "https://avatars.githubusercontent.com/ventoy?size=256"
       }
     },
     {
@@ -1585,6 +2508,10 @@
         "architecture": "x64",
         "sha256": "C40A6EC73497B18EB4CE2CBE071983B4F637CD04644BFCA73C176D624794F79A",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/windirstat-windirstat.png",
+        "url": "https://avatars.githubusercontent.com/windirstat?size=256"
       }
     },
     {
@@ -1612,6 +2539,10 @@
         "architecture": "x86",
         "sha256": "D3EF315E0013479DCBCEDF8DD06AEC33DFEDA9004972E94128144329957B602F",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/winscp-winscp.ico",
+        "url": "https://icons.duckduckgo.com/ip3/winscp.net.ico"
       }
     },
     {
@@ -1635,6 +2566,10 @@
         "architecture": "x64",
         "sha256": "9383A42BFFA5C0AC4BC5F1C7D820478D84380D3A17B65AA9B43E6778CBDB615A",
         "silentArgs": "--silent"
+      },
+      "icon": {
+        "file": "icons/oracle-virtualbox.ico",
+        "url": "https://icons.duckduckgo.com/ip3/www.virtualbox.org.ico"
       }
     }
   ]

@@ -1,0 +1,198 @@
+[
+  {
+    "id": "LocalSend.LocalSend",
+    "name": "LocalSend",
+    "version": "1.17.0",
+    "publisher": "Tien Do Nam",
+    "description": "Share files to nearby devices. Free, open source, cross-platform. An open source cross-platform alternative to AirDrop.",
+    "license": "Apache-2.0",
+    "homepage": "https://localsend.org/",
+    "category": "File Sharing",
+    "tags": [
+      "cross-platform",
+      "file-sharing",
+      "flutter",
+      "local",
+      "shareit",
+      "sharik",
+      "trebleshot",
+      "wifi"
+    ],
+    "installer": {
+      "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "E554DCF9DC94DD842B54D464B559AC1D3631427BB02480C9A74785EC47CE639C",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/localsend-localsend.png",
+      "url": "https://avatars.githubusercontent.com/localsend?size=256"
+    }
+  },
+  {
+    "id": "Nextcloud.NextcloudDesktop",
+    "name": "Nextcloud",
+    "version": "34.0.2",
+    "publisher": "Nextcloud GmbH",
+    "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
+    "license": "GPL-2.0",
+    "homepage": "https://nextcloud.com/",
+    "category": "File Sharing",
+    "tags": [
+      "cloud",
+      "cloud-sync",
+      "nextcloud-desktop-client",
+      "synchronization",
+      "utility"
+    ],
+    "installer": {
+      "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.2/Nextcloud-34.0.2-x64.msi",
+      "type": "msi",
+      "architecture": "x64",
+      "sha256": "77E1D3067B8A236D3AC1068421C7AF6E52C4BD593E45695332F05EF4045E4B6F",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/nextcloud-nextclouddesktop.png",
+      "url": "https://avatars.githubusercontent.com/nextcloud-releases?size=256"
+    }
+  },
+  {
+    "id": "qBittorrent.qBittorrent",
+    "name": "qBittorrent",
+    "version": "5.2.3",
+    "publisher": "The qBittorrent project",
+    "description": "Free and reliable P2P Bittorent client.",
+    "license": "GPL-3.0",
+    "homepage": "https://www.qbittorrent.org/",
+    "category": "File Sharing",
+    "tags": [
+      "bittorrent",
+      "bt",
+      "download",
+      "magnet",
+      "p2p",
+      "share",
+      "sharing",
+      "torrent",
+      "upload"
+    ],
+    "installer": {
+      "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.2.3/qbittorrent_5.2.3_x64_setup.exe/download",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "FF508E2F912D59C9EABAF03633EBACFD45C2049F38DCAC027B8A7D7AD867AB2F",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/qbittorrent-qbittorrent.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.qbittorrent.org.ico"
+    }
+  },
+  {
+    "id": "Rclone.Rclone",
+    "name": "Rclone",
+    "version": "1.75.0",
+    "publisher": "Rclone",
+    "description": "Rclone (\"rsync for cloud storage\") is a command-line program to sync files and directories to and from different cloud storage providers.",
+    "license": "MIT",
+    "homepage": "https://rclone.org/",
+    "category": "File Sharing",
+    "tags": [
+      "cli",
+      "cloud-storage",
+      "ftp",
+      "go",
+      "rsync",
+      "s3",
+      "sftp",
+      "sync",
+      "webdav"
+    ],
+    "installer": {
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-amd64.zip",
+      "type": "zip",
+      "architecture": "x64",
+      "sha256": "203581F0A7BAEAE873F2347483A798C79E2EAF5C384A4E9D866AA374F1C89AC0",
+      "silentArgs": ""
+    },
+    "icon": {
+      "file": "icons/rclone-rclone.png",
+      "url": "https://avatars.githubusercontent.com/rclone?size=256"
+    }
+  },
+  {
+    "id": "ShareX.ShareX",
+    "name": "ShareX",
+    "version": "21.0.0",
+    "publisher": "ShareX Team",
+    "description": "Screen capture, file sharing and productivity tool",
+    "license": "GPL-3.0",
+    "homepage": "https://getsharex.com/",
+    "category": "File Sharing",
+    "tags": [
+      "annotate",
+      "annotation",
+      "capture",
+      "color-picker",
+      "gif",
+      "ocr",
+      "record",
+      "recorder",
+      "region-capture",
+      "screen-capture",
+      "screen-recorder",
+      "screenshot",
+      "share",
+      "upload"
+    ],
+    "installer": {
+      "url": "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-setup-x64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "F213ACA04D30E0E2DC7C43BC79ACAE8622BE291CEE6014A90962ED87EA5F10CC",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/sharex-sharex.png",
+      "url": "https://avatars.githubusercontent.com/ShareX?size=256"
+    }
+  },
+  {
+    "id": "Syncthing.Syncthing",
+    "name": "Syncthing",
+    "version": "2.1.3",
+    "publisher": "The Syncthing Authors",
+    "description": "Open Source Continuous File Synchronization",
+    "license": "MPL-2.0",
+    "homepage": "https://github.com/syncthing/syncthing",
+    "category": "File Sharing",
+    "tags": [
+      "cli",
+      "continuous",
+      "file",
+      "file-synchronization",
+      "file-transfer",
+      "go",
+      "open",
+      "open-source",
+      "p2p",
+      "peer-to-peer",
+      "private",
+      "secure",
+      "synchronization"
+    ],
+    "installer": {
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.3/syncthing-windows-amd64-v2.1.3.zip",
+      "type": "zip",
+      "architecture": "x64",
+      "sha256": "C0B79CFFA6CE5DAD5ED41EDE86454F3325D13CCAC33447A528CB59D65FBC3A21",
+      "silentArgs": ""
+    },
+    "icon": {
+      "file": "icons/syncthing-syncthing.png",
+      "url": "https://avatars.githubusercontent.com/syncthing?size=256"
+    }
+  }
+]

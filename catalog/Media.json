@@ -1,0 +1,275 @@
+[
+  {
+    "id": "Audacity.Audacity",
+    "name": "Audacity",
+    "version": "3.7.8",
+    "publisher": "Audacity Team",
+    "description": "The world’s most popular free software for recording and editing audio.",
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://www.audacityteam.org/",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "audio-editor",
+      "audioeditor",
+      "musegroup",
+      "musicstudio",
+      "music-studio",
+      "audiorecording",
+      "audio-recording",
+      "soundrecording",
+      "sound-recording",
+      "soundediting",
+      "xp8k0j757hhrdw"
+    ],
+    "installer": {
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.8/audacity-win-3.7.8-64bit.exe",
+      "type": "inno",
+      "architecture": "x64",
+      "sha256": "4A6D77F023C0209A396FCF2F3C7C04E240B6BA9897B3231A6ED18E14C10CAA16",
+      "silentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
+    },
+    "icon": {
+      "file": "icons/audacity-audacity.png",
+      "url": "https://avatars.githubusercontent.com/audacity?size=256"
+    }
+  },
+  {
+    "id": "HandBrake.HandBrake",
+    "name": "HandBrake",
+    "version": "1.11.2",
+    "publisher": "The HandBrake Team",
+    "description": "HandBrake is a open-source tool, built by volunteers, for converting video from nearly any format to a selection of modern, widely supported codecs.",
+    "license": "GPL-2.0",
+    "homepage": "https://handbrake.fr/",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "convert",
+      "decode",
+      "encode",
+      "filter",
+      "media",
+      "multimedia",
+      "rip",
+      "video"
+    ],
+    "installer": {
+      "url": "https://github.com/HandBrake/HandBrake/releases/download/1.11.2/HandBrake-1.11.2-x86_64-Win_GUI.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "6BECB8E5A041941D5F2FD6FE83C66FC15B2B16190E2E79F5AD47EB4CD18DF8CD",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/handbrake-handbrake.png",
+      "url": "https://avatars.githubusercontent.com/HandBrake?size=256"
+    }
+  },
+  {
+    "id": "KDE.Kdenlive",
+    "name": "Kdenlive",
+    "version": "26.04.3",
+    "publisher": "KDE e.V.",
+    "description": "Free and Open Source Video Editor",
+    "license": "GPL-3.0",
+    "homepage": "https://kdenlive.org/",
+    "category": "Media",
+    "tags": [
+      "clip",
+      "creative",
+      "creativity",
+      "edit",
+      "editor",
+      "film",
+      "movie",
+      "video",
+      "video-editing",
+      "video-editor"
+    ],
+    "installer": {
+      "url": "https://download.kde.org/stable/kdenlive/26.04/windows/kdenlive-26.04.3.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "F5DCD8DDB7A8EF6754CEE7515513D6C777BC68079C6FEC37E20373F628F65FE1",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/kde-kdenlive.png",
+      "url": "https://icons.duckduckgo.com/ip3/kdenlive.org.ico"
+    }
+  },
+  {
+    "id": "MoritzBunkus.MKVToolNix",
+    "name": "MKVToolNix",
+    "version": "100.0.0",
+    "publisher": "Moritz Bunkus",
+    "description": "MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.",
+    "license": "GPL-2.0",
+    "homepage": "https://mkvtoolnix.download/",
+    "category": "Media",
+    "tags": [
+      "mkv",
+      "mkvextract",
+      "mkvinfo",
+      "mkvmerge",
+      "mkvpropedit"
+    ],
+    "installer": {
+      "url": "https://mkvtoolnix.download/windows/releases/100.0/mkvtoolnix-64-bit-100.0-setup.exe",
+      "type": "nullsoft",
+      "architecture": "x64",
+      "sha256": "F0E53E5459610583E972EBB1A5C923816BB461BAFB9831455680343C68CC4074",
+      "silentArgs": "/S"
+    }
+  },
+  {
+    "id": "clsid2.mpc-hc",
+    "name": "MPC-HC",
+    "version": "2.8.1",
+    "publisher": "MPC-HC Team",
+    "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
+    "license": "GPL-3.0",
+    "homepage": "https://github.com/clsid2/mpc-hc",
+    "category": "Media",
+    "tags": [
+      "audio",
+      "cinema",
+      "fork",
+      "foss",
+      "media",
+      "media-player",
+      "music",
+      "open-source",
+      "player",
+      "video",
+      "video-player"
+    ],
+    "installer": {
+      "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "242D98D054C6CDEE64A2B8B08AACD4B6CFFD67CD5B25A0D648322D0802D84D2B",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/clsid2-mpc-hc.png",
+      "url": "https://avatars.githubusercontent.com/clsid2?size=256"
+    }
+  },
+  {
+    "id": "OBSProject.OBSStudio",
+    "name": "OBS Studio",
+    "version": "32.2.1",
+    "publisher": "OBS Project",
+    "description": "Free and open source software for video recording and live streaming.",
+    "license": "GPL-2.0",
+    "homepage": "https://obsproject.com/",
+    "category": "Media",
+    "tags": [
+      "foss",
+      "live",
+      "live-streaming",
+      "recording",
+      "screen-capture",
+      "screen-recording",
+      "streaming",
+      "video-recording"
+    ],
+    "installer": {
+      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.1/OBS-Studio-32.2.1-Windows-x64-Installer.exe",
+      "type": "nullsoft",
+      "architecture": "x64",
+      "sha256": "BBB95E52B96AD9B7CCD5ABD13121379D29774D6CC5FDBEF82FFA249E8A24A289",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/obsproject-obsstudio.png",
+      "url": "https://avatars.githubusercontent.com/obsproject?size=256"
+    }
+  },
+  {
+    "id": "jurplel.qView",
+    "name": "qView",
+    "version": "7.1",
+    "publisher": "jurplel and qView contributors",
+    "description": "An image viewer designed with minimalism and usability in mind.",
+    "license": "GPLv3",
+    "homepage": "https://interversehq.com/qview",
+    "category": "Media",
+    "tags": [
+      "cross-platform",
+      "image-viewer",
+      "imageviewer",
+      "photo-viewer",
+      "photoviewer",
+      "view-image-files",
+      "viewimagefiles"
+    ],
+    "installer": {
+      "url": "https://github.com/jurplel/qView/releases/download/7.1/qView-7.1-win64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "081A2ADFE9EA9858075099A927A9BC97E3423D2A4AA6D371FAE89E9CD113AEC7",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/jurplel-qview.png",
+      "url": "https://avatars.githubusercontent.com/jurplel?size=256"
+    }
+  },
+  {
+    "id": "Stremio.Stremio",
+    "name": "Stremio",
+    "version": "4.4.181",
+    "publisher": "Smart Code Ltd",
+    "description": "Stremio is a modern media center that's a one-stop solution for your video entertainment.",
+    "license": "GPL",
+    "homepage": "https://www.stremio.com/",
+    "category": "Media",
+    "tags": [
+      "multi-device",
+      "multi-source",
+      "streaming",
+      "video"
+    ],
+    "installer": {
+      "url": "https://dl.strem.io/shell-win/v4.4.181/Stremio+4.4.181.exe",
+      "type": "exe",
+      "architecture": "x86",
+      "sha256": "2351F66E0FB4559C8941778547FC935333560991E541C99373F4858B501F8399",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/stremio-stremio.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.stremio.com.ico"
+    }
+  },
+  {
+    "id": "VideoLAN.VLC",
+    "name": "VLC media player",
+    "version": "3.0.23",
+    "publisher": "VideoLAN",
+    "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.",
+    "license": "GPL-2.0",
+    "homepage": "https://www.videolan.org/vlc/",
+    "category": "Media",
+    "tags": [
+      "audio-player",
+      "audioplayer",
+      "cross-platform",
+      "dvd",
+      "foss",
+      "media-player",
+      "multimedia",
+      "video-player"
+    ],
+    "installer": {
+      "url": "https://download.videolan.org/pub/videolan/vlc/3.0.23/win64/vlc-3.0.23-win64.msi",
+      "type": "wix",
+      "architecture": "x64",
+      "sha256": "BC4B902A480B98A4A5479327A7F210F06369A59BF727649E320FABA5B4EF1F5E",
+      "silentArgs": "/quiet /norestart"
+    }
+  }
+]

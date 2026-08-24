@@ -1,0 +1,29 @@
+[
+  {
+    "id": "Oracle.VirtualBox",
+    "name": "Oracle VirtualBox",
+    "version": "7.2.16",
+    "publisher": "Oracle and/or its affiliates",
+    "description": "VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm), targeted at laptop, desktop, server and embedded use.",
+    "license": "GPL-3.0-only",
+    "homepage": "https://www.virtualbox.org/",
+    "category": "Virtualization",
+    "tags": [
+      "cross-platform",
+      "foss",
+      "virtual-machine",
+      "virtualization"
+    ],
+    "installer": {
+      "url": "https://download.virtualbox.org/virtualbox/7.2.16/VirtualBox-7.2.16-174877-Win.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "9383A42BFFA5C0AC4BC5F1C7D820478D84380D3A17B65AA9B43E6778CBDB615A",
+      "silentArgs": "--silent"
+    },
+    "icon": {
+      "file": "icons/oracle-virtualbox.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.virtualbox.org.ico"
+    }
+  }
+]

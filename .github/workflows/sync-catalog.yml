@@ -30,6 +30,6 @@ jobs:
         run: |
           git config --global user.name  "Fossy Catalog Bot"
           git config --global user.email "bot@fossy.store"
-          git add fossy-catalog.json
+          git add fossy-catalog.json fossy-index.json catalog icons build-report.json
           git diff --staged --quiet || git commit -m "chore: sync catalog [$(date -u +%Y-%m-%d)]"
           git push

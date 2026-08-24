@@ -1,0 +1,674 @@
+[
+  {
+    "id": "Brave.Brave",
+    "name": "Brave",
+    "version": "151.1.93.136",
+    "category": "Browsers",
+    "homepage": "https://brave.com/download",
+    "icon": "icons/brave-brave.png"
+  },
+  {
+    "id": "LibreWolf.LibreWolf",
+    "name": "LibreWolf",
+    "version": "154.0-2",
+    "category": "Browsers",
+    "homepage": "https://librewolf.net/",
+    "icon": "icons/librewolf-librewolf.ico"
+  },
+  {
+    "id": "Mozilla.Firefox",
+    "name": "Mozilla Firefox (en-US)",
+    "version": "153.0.4",
+    "category": "Browsers",
+    "homepage": "https://www.mozilla.org/firefox/",
+    "icon": "icons/mozilla-firefox.ico"
+  },
+  {
+    "id": "UngoogledChromium.UngoogledChromium",
+    "name": "Ungoogled Chromium",
+    "version": "151.0.7922.173-1.1",
+    "category": "Browsers",
+    "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
+    "icon": "icons/ungoogledchromium-ungoogledchromium.png"
+  },
+  {
+    "id": "Waterfox.Waterfox",
+    "name": "Waterfox",
+    "version": "6.6.17",
+    "category": "Browsers",
+    "homepage": "https://www.waterfox.net/",
+    "icon": "icons/waterfox-waterfox.ico"
+  },
+  {
+    "id": "Element.Element",
+    "name": "Element",
+    "version": "1.12.26",
+    "category": "Communication",
+    "homepage": "https://element.io/download",
+    "icon": "icons/element-element.png"
+  },
+  {
+    "id": "Jitsi.Meet",
+    "name": "Jitsi Meet",
+    "version": "2026.8.0",
+    "category": "Communication",
+    "homepage": "https://jitsi.org/",
+    "icon": "icons/jitsi-meet.png"
+  },
+  {
+    "id": "Mattermost.MattermostDesktop",
+    "name": "Mattermost",
+    "version": "6.3.0",
+    "category": "Communication",
+    "homepage": "https://mattermost.com/apps/",
+    "icon": "icons/mattermost-mattermostdesktop.png"
+  },
+  {
+    "id": "Mozilla.Thunderbird",
+    "name": "Mozilla Thunderbird (en-US)",
+    "version": "154.0",
+    "category": "Communication",
+    "homepage": "https://www.thunderbird.net/",
+    "icon": "icons/mozilla-thunderbird.ico"
+  },
+  {
+    "id": "RocketChat.RocketChat",
+    "name": "Rocket.Chat",
+    "version": "4.16.0",
+    "category": "Communication",
+    "homepage": "https://rocket.chat/",
+    "icon": "icons/rocketchat-rocketchat.png"
+  },
+  {
+    "id": "BlenderFoundation.Blender",
+    "name": "blender",
+    "version": "5.2.0",
+    "category": "Design",
+    "homepage": "",
+    "icon": ""
+  },
+  {
+    "id": "darktable.darktable",
+    "name": "darktable",
+    "version": "5.6.0",
+    "category": "Design",
+    "homepage": "https://www.darktable.org/",
+    "icon": "icons/darktable-darktable.png"
+  },
+  {
+    "id": "FreeCAD.FreeCAD",
+    "name": "FreeCAD",
+    "version": "1.1.3",
+    "category": "Design",
+    "homepage": "https://www.freecad.org/downloads.php",
+    "icon": "icons/freecad-freecad.png"
+  },
+  {
+    "id": "GIMP.GIMP",
+    "name": "GIMP",
+    "version": "3.2.4",
+    "category": "Design",
+    "homepage": "https://www.gimp.org/downloads/",
+    "icon": "icons/gimp-gimp.png"
+  },
+  {
+    "id": "Inkscape.Inkscape",
+    "name": "Inkscape",
+    "version": "1.4.4",
+    "category": "Design",
+    "homepage": "https://inkscape.org/release/",
+    "icon": "icons/inkscape-inkscape.png"
+  },
+  {
+    "id": "KDE.Krita",
+    "name": "Krita",
+    "version": "5.3.3.0",
+    "category": "Design",
+    "homepage": "https://krita.org/",
+    "icon": "icons/kde-krita.ico"
+  },
+  {
+    "id": "LibreCAD.LibreCAD",
+    "name": "LibreCAD",
+    "version": "2.2.1.5",
+    "category": "Design",
+    "homepage": "https://librecad.org/",
+    "icon": "icons/librecad-librecad.png"
+  },
+  {
+    "id": "OpenSCAD.OpenSCAD",
+    "name": "OpenSCAD",
+    "version": "2021.01",
+    "category": "Design",
+    "homepage": "https://www.openscad.org/",
+    "icon": "icons/openscad-openscad.ico"
+  },
+  {
+    "id": "RawTherapee.RawTherapee",
+    "name": "RawTherapee",
+    "version": "5.13",
+    "category": "Design",
+    "homepage": "https://www.rawtherapee.com/downloads/",
+    "icon": "icons/rawtherapee-rawtherapee.png"
+  },
+  {
+    "id": "DBeaver.DBeaver.Community",
+    "name": "DBeaver",
+    "version": "26.1.5",
+    "category": "Development",
+    "homepage": "https://dbeaver.io/download/",
+    "icon": "icons/dbeaver-dbeaver-community.png"
+  },
+  {
+    "id": "Git.Git",
+    "name": "Git",
+    "version": "2.55.0.3",
+    "category": "Development",
+    "homepage": "https://gitforwindows.org/",
+    "icon": "icons/git-git.png"
+  },
+  {
+    "id": "GitHub.GitHubDesktop",
+    "name": "GitHub Desktop",
+    "version": "3.6.4",
+    "category": "Development",
+    "homepage": "https://github.com/apps/desktop",
+    "icon": "icons/github-githubdesktop.png"
+  },
+  {
+    "id": "GoLang.Go",
+    "name": "Go Programming Language",
+    "version": "1.26.7",
+    "category": "Development",
+    "homepage": "https://go.dev/dl/",
+    "icon": "icons/golang-go.png"
+  },
+  {
+    "id": "GnuPG.Gpg4win",
+    "name": "Gpg4win",
+    "version": "5.1.0",
+    "category": "Development",
+    "homepage": "https://www.gpg4win.org/",
+    "icon": ""
+  },
+  {
+    "id": "HeidiSQL.HeidiSQL",
+    "name": "HeidiSQL",
+    "version": "12.21.0.7344",
+    "category": "Development",
+    "homepage": "https://www.heidisql.com/",
+    "icon": "icons/heidisql-heidisql.png"
+  },
+  {
+    "id": "Meld.Meld",
+    "name": "Meld",
+    "version": "3.24.0",
+    "category": "Development",
+    "homepage": "https://meldmerge.org/",
+    "icon": "icons/meld-meld.png"
+  },
+  {
+    "id": "OpenJS.NodeJS.LTS",
+    "name": "Node.js (LTS)",
+    "version": "24.19.0",
+    "category": "Development",
+    "homepage": "https://nodejs.org/",
+    "icon": "icons/openjs-nodejs-lts.png"
+  },
+  {
+    "id": "Notepad++.Notepad++",
+    "name": "Notepad++",
+    "version": "8.9.8",
+    "category": "Development",
+    "homepage": "https://notepad-plus-plus.org/",
+    "icon": "icons/notepad-notepad.png"
+  },
+  {
+    "id": "Python.Python",
+    "name": "Python 3.14",
+    "version": "3.14.7",
+    "category": "Development",
+    "homepage": "https://www.python.org/",
+    "icon": "icons/python-python.ico"
+  },
+  {
+    "id": "Rustlang.Rustup",
+    "name": "Rustup: the Rust toolchain installer",
+    "version": "1.29.0",
+    "category": "Development",
+    "homepage": "https://rust-lang.github.io/rustup/",
+    "icon": ""
+  },
+  {
+    "id": "astral-sh.uv",
+    "name": "uv",
+    "version": "0.12.5",
+    "category": "Development",
+    "homepage": "https://github.com/astral-sh/uv",
+    "icon": "icons/astral-sh-uv.png"
+  },
+  {
+    "id": "VSCodium.VSCodium",
+    "name": "VSCodium",
+    "version": "1.126.04524",
+    "category": "Development",
+    "homepage": "https://vscodium.com/",
+    "icon": "icons/vscodium-vscodium.png"
+  },
+  {
+    "id": "WiresharkFoundation.Wireshark",
+    "name": "Wireshark",
+    "version": "4.6.8",
+    "category": "Development",
+    "homepage": "https://www.wireshark.org/",
+    "icon": "icons/wiresharkfoundation-wireshark.ico"
+  },
+  {
+    "id": "yt-dlp.yt-dlp",
+    "name": "yt-dlp",
+    "version": "2026.07.04",
+    "category": "Development",
+    "homepage": "https://github.com/yt-dlp/yt-dlp",
+    "icon": "icons/yt-dlp-yt-dlp.png"
+  },
+  {
+    "id": "LocalSend.LocalSend",
+    "name": "LocalSend",
+    "version": "1.17.0",
+    "category": "File Sharing",
+    "homepage": "https://localsend.org/",
+    "icon": "icons/localsend-localsend.png"
+  },
+  {
+    "id": "Nextcloud.NextcloudDesktop",
+    "name": "Nextcloud",
+    "version": "34.0.2",
+    "category": "File Sharing",
+    "homepage": "https://nextcloud.com/",
+    "icon": "icons/nextcloud-nextclouddesktop.png"
+  },
+  {
+    "id": "qBittorrent.qBittorrent",
+    "name": "qBittorrent",
+    "version": "5.2.3",
+    "category": "File Sharing",
+    "homepage": "https://www.qbittorrent.org/",
+    "icon": "icons/qbittorrent-qbittorrent.ico"
+  },
+  {
+    "id": "Rclone.Rclone",
+    "name": "Rclone",
+    "version": "1.75.0",
+    "category": "File Sharing",
+    "homepage": "https://rclone.org/",
+    "icon": "icons/rclone-rclone.png"
+  },
+  {
+    "id": "ShareX.ShareX",
+    "name": "ShareX",
+    "version": "21.0.0",
+    "category": "File Sharing",
+    "homepage": "https://getsharex.com/",
+    "icon": "icons/sharex-sharex.png"
+  },
+  {
+    "id": "Syncthing.Syncthing",
+    "name": "Syncthing",
+    "version": "2.1.3",
+    "category": "File Sharing",
+    "homepage": "https://github.com/syncthing/syncthing",
+    "icon": "icons/syncthing-syncthing.png"
+  },
+  {
+    "id": "HeroicGamesLauncher.HeroicGamesLauncher",
+    "name": "Heroic",
+    "version": "2.22.1",
+    "category": "Games",
+    "homepage": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+    "icon": "icons/heroicgameslauncher-heroicgameslauncher.png"
+  },
+  {
+    "id": "ItchIo.Itch",
+    "name": "itch",
+    "version": "26.18.0",
+    "category": "Games",
+    "homepage": "https://itch.io/app",
+    "icon": "icons/itchio-itch.ico"
+  },
+  {
+    "id": "Audacity.Audacity",
+    "name": "Audacity",
+    "version": "3.7.8",
+    "category": "Media",
+    "homepage": "https://www.audacityteam.org/",
+    "icon": "icons/audacity-audacity.png"
+  },
+  {
+    "id": "HandBrake.HandBrake",
+    "name": "HandBrake",
+    "version": "1.11.2",
+    "category": "Media",
+    "homepage": "https://handbrake.fr/",
+    "icon": "icons/handbrake-handbrake.png"
+  },
+  {
+    "id": "KDE.Kdenlive",
+    "name": "Kdenlive",
+    "version": "26.04.3",
+    "category": "Media",
+    "homepage": "https://kdenlive.org/",
+    "icon": "icons/kde-kdenlive.png"
+  },
+  {
+    "id": "MoritzBunkus.MKVToolNix",
+    "name": "MKVToolNix",
+    "version": "100.0.0",
+    "category": "Media",
+    "homepage": "https://mkvtoolnix.download/",
+    "icon": ""
+  },
+  {
+    "id": "clsid2.mpc-hc",
+    "name": "MPC-HC",
+    "version": "2.8.1",
+    "category": "Media",
+    "homepage": "https://github.com/clsid2/mpc-hc",
+    "icon": "icons/clsid2-mpc-hc.png"
+  },
+  {
+    "id": "OBSProject.OBSStudio",
+    "name": "OBS Studio",
+    "version": "32.2.1",
+    "category": "Media",
+    "homepage": "https://obsproject.com/",
+    "icon": "icons/obsproject-obsstudio.png"
+  },
+  {
+    "id": "jurplel.qView",
+    "name": "qView",
+    "version": "7.1",
+    "category": "Media",
+    "homepage": "https://interversehq.com/qview",
+    "icon": "icons/jurplel-qview.png"
+  },
+  {
+    "id": "Stremio.Stremio",
+    "name": "Stremio",
+    "version": "4.4.181",
+    "category": "Media",
+    "homepage": "https://www.stremio.com/",
+    "icon": "icons/stremio-stremio.ico"
+  },
+  {
+    "id": "VideoLAN.VLC",
+    "name": "VLC media player",
+    "version": "3.0.23",
+    "category": "Media",
+    "homepage": "https://www.videolan.org/vlc/",
+    "icon": ""
+  },
+  {
+    "id": "ToEverything.AFFiNE",
+    "name": "AFFiNE",
+    "version": "0.27.3",
+    "category": "Productivity",
+    "homepage": "https://github.com/toeverything/AFFiNE",
+    "icon": "icons/toeverything-affine.jpg"
+  },
+  {
+    "id": "AppFlowy.AppFlowy",
+    "name": "AppFlowy",
+    "version": "0.13.2",
+    "category": "Productivity",
+    "homepage": "https://github.com/AppFlowy-IO/AppFlowy",
+    "icon": "icons/appflowy-appflowy.png"
+  },
+  {
+    "id": "Joplin.Joplin",
+    "name": "Joplin",
+    "version": "3.6.16",
+    "category": "Productivity",
+    "homepage": "https://joplinapp.org/",
+    "icon": "icons/joplin-joplin.png"
+  },
+  {
+    "id": "MarkText.MarkText",
+    "name": "MarkText",
+    "version": "0.19.1",
+    "category": "Productivity",
+    "homepage": "https://github.com/marktext",
+    "icon": "icons/marktext-marktext.png"
+  },
+  {
+    "id": "ONLYOFFICE.DesktopEditors",
+    "name": "ONLYOFFICE Desktop Editors",
+    "version": "9.4.0",
+    "category": "Productivity",
+    "homepage": "https://www.onlyoffice.com/en/desktop.aspx",
+    "icon": "icons/onlyoffice-desktopeditors.png"
+  },
+  {
+    "id": "StandardNotes.StandardNotes",
+    "name": "Standard Notes",
+    "version": "3.201.21",
+    "category": "Productivity",
+    "homepage": "https://standardnotes.com/",
+    "icon": "icons/standardnotes-standardnotes.png"
+  },
+  {
+    "id": "Bitwarden.Bitwarden",
+    "name": "Bitwarden",
+    "version": "2026.8.0",
+    "category": "Security",
+    "homepage": "https://bitwarden.com/",
+    "icon": "icons/bitwarden-bitwarden.png"
+  },
+  {
+    "id": "Cryptomator.Cryptomator",
+    "name": "Cryptomator",
+    "version": "1.19.3",
+    "category": "Security",
+    "homepage": "https://cryptomator.org/",
+    "icon": "icons/cryptomator-cryptomator.png"
+  },
+  {
+    "id": "GnuPG.GnuPG",
+    "name": "GNU Privacy Guard",
+    "version": "2.5.21",
+    "category": "Security",
+    "homepage": "https://gnupg.org/",
+    "icon": "icons/gnupg-gnupg.ico"
+  },
+  {
+    "id": "i2p.I2PEasyInstallBundle",
+    "name": "I2P Easy Install Bundle",
+    "version": "2.12.0",
+    "category": "Security",
+    "homepage": "https://geti2p.net/en/download/easyinstall",
+    "icon": "icons/i2p-i2peasyinstallbundle.webp"
+  },
+  {
+    "id": "KeePassXCTeam.KeePassXC",
+    "name": "KeePassXC",
+    "version": "2.7.12",
+    "category": "Security",
+    "homepage": "https://keepassxc.org/",
+    "icon": "icons/keepassxcteam-keepassxc.png"
+  },
+  {
+    "id": "Proton.ProtonVPN",
+    "name": "Proton VPN",
+    "version": "5.1.7",
+    "category": "Security",
+    "homepage": "https://protonvpn.com/",
+    "icon": "icons/proton-protonvpn.png"
+  },
+  {
+    "id": "Henry++.simplewall",
+    "name": "simplewall",
+    "version": "3.8.7",
+    "category": "Security",
+    "homepage": "https://github.com/henrypp/simplewall/releases/tag/v.3.8.7",
+    "icon": "icons/henry-simplewall.jpg"
+  },
+  {
+    "id": "TorProject.TorBrowser",
+    "name": "Tor Browser",
+    "version": "15.0.20",
+    "category": "Security",
+    "homepage": "https://www.torproject.org/",
+    "icon": "icons/torproject-torbrowser.ico"
+  },
+  {
+    "id": "IDRIX.VeraCrypt",
+    "name": "VeraCrypt",
+    "version": "1.26.29",
+    "category": "Security",
+    "homepage": "https://github.com/veracrypt/VeraCrypt",
+    "icon": "icons/idrix-veracrypt.png"
+  },
+  {
+    "id": "7zip.7zip",
+    "name": "7-Zip",
+    "version": "26.02",
+    "category": "Utilities",
+    "homepage": "https://7-zip.org/download.html",
+    "icon": "icons/7zip-7zip.png"
+  },
+  {
+    "id": "Balena.Etcher",
+    "name": "balenaEtcher",
+    "version": "2.1.6",
+    "category": "Utilities",
+    "homepage": "https://etcher.balena.io/",
+    "icon": "icons/balena-etcher.png"
+  },
+  {
+    "id": "BleachBit.BleachBit",
+    "name": "BleachBit",
+    "version": "6.0.2.3702",
+    "category": "Utilities",
+    "homepage": "https://www.bleachbit.org/",
+    "icon": "icons/bleachbit-bleachbit.ico"
+  },
+  {
+    "id": "hluk.CopyQ",
+    "name": "CopyQ",
+    "version": "16.0.0",
+    "category": "Utilities",
+    "homepage": "https://github.com/hluk/CopyQ",
+    "icon": "icons/hluk-copyq.png"
+  },
+  {
+    "id": "CrystalDewWorld.CrystalDiskInfo",
+    "name": "CrystalDiskInfo",
+    "version": "9.9.2",
+    "category": "Utilities",
+    "homepage": "https://crystalmark.info/en/software/crystaldiskinfo/",
+    "icon": "icons/crystaldewworld-crystaldiskinfo.ico"
+  },
+  {
+    "id": "CrystalDewWorld.CrystalDiskMark",
+    "name": "CrystalDiskMark",
+    "version": "9.0.3",
+    "category": "Utilities",
+    "homepage": "https://crystalmark.info/en/software/crystaldiskmark/",
+    "icon": "icons/crystaldewworld-crystaldiskmark.ico"
+  },
+  {
+    "id": "cURL.cURL",
+    "name": "cURL",
+    "version": "8.21.0.6",
+    "category": "Utilities",
+    "homepage": "https://curl.se/",
+    "icon": "icons/curl-curl.ico"
+  },
+  {
+    "id": "File-New-Project.EarTrumpet",
+    "name": "EarTrumpet",
+    "version": "2.3.0.0",
+    "category": "Utilities",
+    "homepage": "https://eartrumpet.app",
+    "icon": ""
+  },
+  {
+    "id": "Gyan.FFmpeg",
+    "name": "FFmpeg",
+    "version": "9.0",
+    "category": "Utilities",
+    "homepage": "https://www.gyan.dev/ffmpeg/builds/",
+    "icon": "icons/gyan-ffmpeg.png"
+  },
+  {
+    "id": "jqlang.jq",
+    "name": "jq",
+    "version": "1.8.2",
+    "category": "Utilities",
+    "homepage": "https://github.com/jqlang/jq",
+    "icon": "icons/jqlang-jq.png"
+  },
+  {
+    "id": "Microsoft.PowerShell",
+    "name": "PowerShell",
+    "version": "7.6.5.0",
+    "category": "Utilities",
+    "homepage": "https://microsoft.com/PowerShell",
+    "icon": "icons/microsoft-powershell.png"
+  },
+  {
+    "id": "PuTTY.PuTTY",
+    "name": "PuTTY",
+    "version": "0.84.0.0",
+    "category": "Utilities",
+    "homepage": "https://www.chiark.greenend.org.uk/~sgtatham/putty/",
+    "icon": ""
+  },
+  {
+    "id": "Rufus.Rufus",
+    "name": "Rufus",
+    "version": "4.15",
+    "category": "Utilities",
+    "homepage": "https://rufus.ie/",
+    "icon": "icons/rufus-rufus.png"
+  },
+  {
+    "id": "uvncbvba.UltraVNC",
+    "name": "UltraVNC",
+    "version": "1.8.2.4",
+    "category": "Utilities",
+    "homepage": "https://uvnc.com/downloads/ultravnc.html",
+    "icon": "icons/uvncbvba-ultravnc.ico"
+  },
+  {
+    "id": "Ventoy.Ventoy",
+    "name": "Ventoy",
+    "version": "1.1.17",
+    "category": "Utilities",
+    "homepage": "https://www.ventoy.net/",
+    "icon": "icons/ventoy-ventoy.png"
+  },
+  {
+    "id": "WinDirStat.WinDirStat",
+    "name": "WinDirStat",
+    "version": "2.8.0",
+    "category": "Utilities",
+    "homepage": "https://github.com/windirstat/windirstat/releases/",
+    "icon": "icons/windirstat-windirstat.png"
+  },
+  {
+    "id": "WinSCP.WinSCP",
+    "name": "WinSCP",
+    "version": "6.5.6",
+    "category": "Utilities",
+    "homepage": "https://winscp.net/",
+    "icon": "icons/winscp-winscp.ico"
+  },
+  {
+    "id": "Oracle.VirtualBox",
+    "name": "Oracle VirtualBox",
+    "version": "7.2.16",
+    "category": "Virtualization",
+    "homepage": "https://www.virtualbox.org/",
+    "icon": "icons/oracle-virtualbox.ico"
+  }
+]

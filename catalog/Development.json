@@ -1,0 +1,452 @@
+[
+  {
+    "id": "DBeaver.DBeaver.Community",
+    "name": "DBeaver",
+    "version": "26.1.5",
+    "publisher": "DBeaver Corp",
+    "description": "Free Universal Database Tool",
+    "license": "Apache-2.0",
+    "homepage": "https://dbeaver.io/download/",
+    "category": "Development",
+    "tags": [
+      "apache-hive",
+      "database",
+      "db2",
+      "firebird",
+      "mssql",
+      "mysql",
+      "oracle",
+      "phoenix",
+      "postgres",
+      "postgresql",
+      "presto",
+      "sql",
+      "sqlite",
+      "sybase",
+      "teradata",
+      "tool"
+    ],
+    "installer": {
+      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.5/dbeaver-ce-26.1.5-windows-x86_64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "949712159583714E020233099AC2FBB96572B939935E59B5D8DE1D8DE9DD56BC",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/dbeaver-dbeaver-community.png",
+      "url": "https://avatars.githubusercontent.com/dbeaver?size=256"
+    }
+  },
+  {
+    "id": "Git.Git",
+    "name": "Git",
+    "version": "2.55.0.3",
+    "publisher": "The Git Development Community",
+    "description": "A free and open source distributed version control system",
+    "license": "GPL-2.0",
+    "homepage": "https://gitforwindows.org/",
+    "category": "Development",
+    "tags": [
+      "git",
+      "vcs"
+    ],
+    "installer": {
+      "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/Git-2.55.0.3-64-bit.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "AF12577D0FDFF74243A5988197AA49B957D5044EDC17004F6DDF0768996F1DCA",
+      "silentArgs": "/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
+    },
+    "icon": {
+      "file": "icons/git-git.png",
+      "url": "https://avatars.githubusercontent.com/git-for-windows?size=256"
+    }
+  },
+  {
+    "id": "GitHub.GitHubDesktop",
+    "name": "GitHub Desktop",
+    "version": "3.6.4",
+    "publisher": "GitHub, Inc.",
+    "description": "Focus on what matters instead of fighting with Git.",
+    "license": "MIT",
+    "homepage": "https://github.com/apps/desktop",
+    "category": "Development",
+    "tags": [
+      "git",
+      "github"
+    ],
+    "installer": {
+      "url": "https://desktop.githubusercontent.com/releases/3.6.4-28955b81/GitHubDesktopSetup-x64.msi",
+      "type": "wix",
+      "architecture": "x64",
+      "sha256": "0AF2BEC6AD0E73B999EBD30B19C7042BEAA9B604B7A34839EC3E5975F11EC15B",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/github-githubdesktop.png",
+      "url": "https://avatars.githubusercontent.com/apps?size=256"
+    }
+  },
+  {
+    "id": "GoLang.Go",
+    "name": "Go Programming Language",
+    "version": "1.26.7",
+    "publisher": "https://go.dev",
+    "description": "An open source programming language that makes it simple to build secure, scalable systems.",
+    "license": "BSD-3-Clause",
+    "homepage": "https://go.dev/dl/",
+    "category": "Development",
+    "tags": [
+      "go",
+      "golang",
+      "language",
+      "programming",
+      "programming-language"
+    ],
+    "installer": {
+      "url": "https://go.dev/dl/go1.26.7.windows-amd64.msi",
+      "type": "msi",
+      "architecture": "x64",
+      "sha256": "C6E7AA52FA607F93E6E3A7E2FFD733782F3BDB2AA8CD0559A6CD9927AEF49C34",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/golang-go.png",
+      "url": "https://icons.duckduckgo.com/ip3/go.dev.ico"
+    }
+  },
+  {
+    "id": "GnuPG.Gpg4win",
+    "name": "Gpg4win",
+    "version": "5.1.0",
+    "publisher": "The Gpg4win Project",
+    "description": "A secure solution for file and email encryption.",
+    "license": "GPL-2.0",
+    "homepage": "https://www.gpg4win.org/",
+    "category": "Development",
+    "tags": [
+      "cryptology",
+      "encrypt",
+      "encryption",
+      "gnupg",
+      "gpg",
+      "pgp",
+      "privacy",
+      "security",
+      "sign",
+      "signature"
+    ],
+    "installer": {
+      "url": "https://files.gpg4win.org/gpg4win-5.1.0.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "9682F2825C70DC3E7EFD8A3FCB9E676CCB9674BEBBF6BE1A30D5837F5B420A2E",
+      "silentArgs": "/S"
+    }
+  },
+  {
+    "id": "HeidiSQL.HeidiSQL",
+    "name": "HeidiSQL",
+    "version": "12.21.0.7344",
+    "publisher": "Ansgar Becker",
+    "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi",
+    "license": "GPL-2.0",
+    "homepage": "https://www.heidisql.com/",
+    "category": "Development",
+    "tags": [
+      "database",
+      "db2",
+      "develop",
+      "development",
+      "ide",
+      "mssql",
+      "mysql",
+      "postgres",
+      "postgresql",
+      "programming",
+      "sql",
+      "sqlite"
+    ],
+    "installer": {
+      "url": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.21/HeidiSQL_12.21.0.7344_Setup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "97ACF0344313C11BB89C001425A615722B745669E5FFD542E732C418A00E22ED",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/heidisql-heidisql.png",
+      "url": "https://avatars.githubusercontent.com/HeidiSQL?size=256"
+    }
+  },
+  {
+    "id": "Meld.Meld",
+    "name": "Meld",
+    "version": "3.24.0",
+    "publisher": "Kai Willadsen",
+    "description": "Visual diff and merge tool",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://meldmerge.org/",
+    "category": "Development",
+    "tags": [
+      "compare",
+      "diff",
+      "file",
+      "tool",
+      "utility"
+    ],
+    "installer": {
+      "url": "https://gitlab.gnome.org/GNOME/meld/-/package_files/3852/download",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "D25F98DCE5E3D07A6C98F6C7A91ACBFBACEDAC06EF5C4663DC4B614B52D2B993",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/meld-meld.png",
+      "url": "https://icons.duckduckgo.com/ip3/meldmerge.org.ico"
+    }
+  },
+  {
+    "id": "OpenJS.NodeJS.LTS",
+    "name": "Node.js (LTS)",
+    "version": "24.19.0",
+    "publisher": "Node.js Foundation",
+    "description": "Run JavaScript Everywhere",
+    "license": "MIT",
+    "homepage": "https://nodejs.org/",
+    "category": "Development",
+    "tags": [
+      "coding",
+      "cross-platform",
+      "develop",
+      "development",
+      "environment",
+      "javascript",
+      "js",
+      "lts",
+      "node",
+      "npm",
+      "programming",
+      "runtime",
+      "v8"
+    ],
+    "installer": {
+      "url": "https://nodejs.org/dist/v24.19.0/node-v24.19.0-x64.msi",
+      "type": "wix",
+      "architecture": "x64",
+      "sha256": "F0F66C2A80C08A30A5AB5179EE9EA9E45F9B46289436A8CC87FF833B852DB351",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/openjs-nodejs-lts.png",
+      "url": "https://icons.duckduckgo.com/ip3/nodejs.org.ico"
+    }
+  },
+  {
+    "id": "Notepad++.Notepad++",
+    "name": "Notepad++",
+    "version": "8.9.8",
+    "publisher": "Notepad++ Team",
+    "description": "Notepad++ is a free source code editor that supports several languages.",
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://notepad-plus-plus.org/",
+    "category": "Development",
+    "tags": [
+      "development",
+      "editor",
+      "foss",
+      "notepad",
+      "open-source",
+      "text",
+      "text-editor"
+    ],
+    "installer": {
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8/npp.8.9.8.Installer.x64.msi",
+      "type": "wix",
+      "architecture": "x64",
+      "sha256": "C29CBE1A9AAEF322CC3F316CEEABE8A8071B18441A5E3C3EC348069739E59E80",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/notepad-notepad.png",
+      "url": "https://avatars.githubusercontent.com/notepad-plus-plus?size=256"
+    }
+  },
+  {
+    "id": "Python.Python",
+    "name": "Python 3.14",
+    "version": "3.14.7",
+    "publisher": "Python Software Foundation",
+    "description": "A programming language that lets you work more quickly and integrate your systems more effectively.",
+    "license": "PSF-2.0",
+    "homepage": "https://www.python.org/",
+    "category": "Development",
+    "tags": [
+      "9pnrbtzxmb4z",
+      "idna",
+      "language",
+      "pip3",
+      "programming",
+      "programming-language",
+      "python",
+      "python3",
+      "requirescmd",
+      "script"
+    ],
+    "installer": {
+      "url": "https://www.python.org/ftp/python/3.14.7/python-3.14.7-amd64.exe",
+      "type": "burn",
+      "architecture": "x64",
+      "sha256": "9D9EB2709EF81BF5CD30DB3C2096BDBC4EA10087C22E62F27D356B36F6AE9649",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/python-python.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.python.org.ico"
+    }
+  },
+  {
+    "id": "Rustlang.Rustup",
+    "name": "Rustup: the Rust toolchain installer",
+    "version": "1.29.0",
+    "publisher": "The Rust Programming Language",
+    "description": "The Rust toolchain installer",
+    "license": "Apache-2.0 or MIT",
+    "homepage": "https://rust-lang.github.io/rustup/",
+    "category": "Development",
+    "tags": [
+      "rust",
+      "rustlang"
+    ],
+    "installer": {
+      "url": "https://static.rust-lang.org/rustup/archive/1.29.0/x86_64-pc-windows-msvc/rustup-init.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "86478E53F769379D7F0EBFA7C9AA97CB76CA92233F79AA2CC0DBEE2EFAAC73C7",
+      "silentArgs": "-y -q"
+    }
+  },
+  {
+    "id": "astral-sh.uv",
+    "name": "uv",
+    "version": "0.12.5",
+    "publisher": "Astral Software Inc.",
+    "description": "An extremely fast Python package and project manager, written in Rust.",
+    "license": "Apache-2.0 or MIT",
+    "homepage": "https://github.com/astral-sh/uv",
+    "category": "Development",
+    "tags": [
+      "python"
+    ],
+    "installer": {
+      "url": "https://github.com/astral-sh/uv/releases/download/0.12.5/uv-x86_64-pc-windows-msvc.zip",
+      "type": "zip",
+      "architecture": "x64",
+      "sha256": "4C4D49D8738847D9B71BA319E49A5688C93EAC0FE6204B1DF24E98528DDDF39A",
+      "silentArgs": ""
+    },
+    "icon": {
+      "file": "icons/astral-sh-uv.png",
+      "url": "https://avatars.githubusercontent.com/astral-sh?size=256"
+    }
+  },
+  {
+    "id": "VSCodium.VSCodium",
+    "name": "VSCodium",
+    "version": "1.126.04524",
+    "publisher": "VSCodium",
+    "description": "VSCodium is a community-driven, freely-licensed and telemetry-free rebuilt of Microsoft's Visual Studio Code.",
+    "license": "MIT",
+    "homepage": "https://vscodium.com/",
+    "category": "Development",
+    "tags": [
+      "cross-platform",
+      "editor",
+      "foss",
+      "ide",
+      "javascript",
+      "open-source",
+      "typescript",
+      "vscode"
+    ],
+    "installer": {
+      "url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodiumUserSetup-x64-1.126.04524.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "A8C0516A9B17D1BA4887898F0966445BC61B386FD11578E57433F1E57E9868C9",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/vscodium-vscodium.png",
+      "url": "https://avatars.githubusercontent.com/VSCodium?size=256"
+    }
+  },
+  {
+    "id": "WiresharkFoundation.Wireshark",
+    "name": "Wireshark",
+    "version": "4.6.8",
+    "publisher": "The Wireshark developer community, https://www.wireshark.org",
+    "description": "The world's most popular network protocol analyzer.",
+    "license": "GPL-2.0",
+    "homepage": "https://www.wireshark.org/",
+    "category": "Development",
+    "tags": [
+      "analyzer",
+      "network-capture",
+      "network-sniffer",
+      "networkcapture",
+      "networksniffer",
+      "protocol",
+      "traffic"
+    ],
+    "installer": {
+      "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.8-x64.msi",
+      "type": "wix",
+      "architecture": "x64",
+      "sha256": "779EE66F846376942A3B631A78BBA8C3D509697D07743349E1893056211D05E3",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/wiresharkfoundation-wireshark.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.wireshark.org.ico"
+    }
+  },
+  {
+    "id": "yt-dlp.yt-dlp",
+    "name": "yt-dlp",
+    "version": "2026.07.04",
+    "publisher": "yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader.",
+    "license": "Unlicense",
+    "homepage": "https://github.com/yt-dlp/yt-dlp",
+    "category": "Development",
+    "tags": [
+      "audio",
+      "audio-downloader",
+      "download",
+      "downloader",
+      "media",
+      "media-downloader",
+      "video",
+      "video-downloader",
+      "youtube",
+      "youtube-dl",
+      "youtube-dlc",
+      "youtube-dlp",
+      "ytdlp"
+    ],
+    "installer": {
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.07.04/yt-dlp.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "52FE3C26DCF71FBDC85B528589020BB0B8E383155CFA81B64DD447BBE35E24B8",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/yt-dlp-yt-dlp.png",
+      "url": "https://avatars.githubusercontent.com/yt-dlp?size=256"
+    }
+  }
+]

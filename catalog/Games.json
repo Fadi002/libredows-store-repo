@@ -1,0 +1,53 @@
+[
+  {
+    "id": "HeroicGamesLauncher.HeroicGamesLauncher",
+    "name": "Heroic",
+    "version": "2.22.1",
+    "publisher": "Heroic Games Launcher",
+    "description": "Heroic is an Open Source Game Launcher for Linux, Windows and MacOS.",
+    "license": "GPL-3.0",
+    "homepage": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+    "category": "Games",
+    "tags": [
+      "epicgames",
+      "games-launcher",
+      "gaming",
+      "launcher"
+    ],
+    "installer": {
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.1/Heroic-2.22.1-Setup-x64.exe",
+      "type": "nullsoft",
+      "architecture": "x64",
+      "sha256": "67D0693E113DDE712A2FE1E0449B27E59C260BBC8554F30941B492B0362CA6D2",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/heroicgameslauncher-heroicgameslauncher.png",
+      "url": "https://avatars.githubusercontent.com/Heroic-Games-Launcher?size=256"
+    }
+  },
+  {
+    "id": "ItchIo.Itch",
+    "name": "itch",
+    "version": "26.18.0",
+    "publisher": "itch corp.",
+    "description": "Install, update and play indie games",
+    "license": "MIT",
+    "homepage": "https://itch.io/app",
+    "category": "Games",
+    "tags": [
+      "game"
+    ],
+    "installer": {
+      "url": "https://broth.itch.zone/install-itch/windows-amd64/1.29.0+808e1c8/archive/default",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "90B1C102D63B8AFEC9A4DC67B07FCD7D0C6404720BAC53682F863F33CCAC4770",
+      "silentArgs": "--silent"
+    },
+    "icon": {
+      "file": "icons/itchio-itch.ico",
+      "url": "https://icons.duckduckgo.com/ip3/itch.io.ico"
+    }
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "id": "Element.Element",
+    "name": "Element",
+    "version": "1.12.26",
+    "publisher": "Element",
+    "description": "Secure collaboration and messaging",
+    "license": "AGPL-3.0-only or GPL-3.0-only",
+    "homepage": "https://element.io/download",
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "collaborate",
+      "collaboration",
+      "encrypt",
+      "encryption",
+      "im",
+      "instant-messaging",
+      "matrix",
+      "message",
+      "privacy",
+      "riot",
+      "secure",
+      "security",
+      "send",
+      "talk"
+    ],
+    "installer": {
+      "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.26.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "BFDE3EEE3AA31B44B907CADAA433CBFD29C5ED9D84ECF75F38EA73EC863A5F1E",
+      "silentArgs": "--silent"
+    },
+    "icon": {
+      "file": "icons/element-element.png",
+      "url": "https://icons.duckduckgo.com/ip3/element.io.ico"
+    }
+  },
+  {
+    "id": "Jitsi.Meet",
+    "name": "Jitsi Meet",
+    "version": "2026.8.0",
+    "publisher": "Jitsi Team",
+    "description": "Jitsi Meet is an open-source (Apache) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, secure and scalable video conferences.",
+    "license": "Apache-2.0",
+    "homepage": "https://jitsi.org/",
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "jitsi",
+      "jitsi-meet",
+      "meeting",
+      "video-conferencing"
+    ],
+    "installer": {
+      "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.8.0/jitsi-meet.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "7879FD567241DC741FFCE9CBC3AB6D52A52A2F2142A24A39D28DD091AC6C54E2",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/jitsi-meet.png",
+      "url": "https://avatars.githubusercontent.com/jitsi?size=256"
+    }
+  },
+  {
+    "id": "Mattermost.MattermostDesktop",
+    "name": "Mattermost",
+    "version": "6.3.0",
+    "publisher": "Mattermost, Inc.",
+    "description": "Access your Mattermost instance with your credentials using the desktop app",
+    "license": "Apache-2.0",
+    "homepage": "https://mattermost.com/apps/",
+    "category": "Communication",
+    "tags": [
+      "business",
+      "collaborate",
+      "collaboration",
+      "communicate",
+      "comunication",
+      "enterprise",
+      "office",
+      "team",
+      "working"
+    ],
+    "installer": {
+      "url": "https://github.com/mattermost/desktop/releases/download/v6.3.0/mattermost-desktop-6.3.0-win-x64.msi",
+      "type": "msi",
+      "architecture": "x64",
+      "sha256": "0615EE83C6A94ED24B6AE08A7CA4CD27D1EA079B957E6B788204B1A49A3494BC",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/mattermost-mattermostdesktop.png",
+      "url": "https://avatars.githubusercontent.com/mattermost?size=256"
+    }
+  },
+  {
+    "id": "Mozilla.Thunderbird",
+    "name": "Mozilla Thunderbird (en-US)",
+    "version": "154.0",
+    "publisher": "Mozilla",
+    "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
+    "license": "MPL-2.0",
+    "homepage": "https://www.thunderbird.net/",
+    "category": "Communication",
+    "tags": [
+      "email",
+      "mail"
+    ],
+    "installer": {
+      "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/154.0/win64/en-US/Thunderbird%20Setup%20154.0.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "18EE5928CF6A8B35A582BF4758D03CC3AAF3F33ED3615F54CA15E4029A1371A7",
+      "silentArgs": "/S /PreventRebootRequired=true"
+    },
+    "icon": {
+      "file": "icons/mozilla-thunderbird.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.thunderbird.net.ico"
+    }
+  },
+  {
+    "id": "RocketChat.RocketChat",
+    "name": "Rocket.Chat",
+    "version": "4.16.0",
+    "publisher": "Rocket.Chat Support",
+    "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
+    "license": "MIT",
+    "homepage": "https://rocket.chat/",
+    "category": "Communication",
+    "tags": [
+      "chat",
+      "file-uploads",
+      "foss",
+      "live-chat",
+      "open-source",
+      "rocket",
+      "rocket-chat",
+      "screensharing",
+      "video-conference"
+    ],
+    "installer": {
+      "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.16.0/rocketchat-4.16.0-win-x64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "8CE01874553DA96ADD5631B25BE10BB9968EF67DA7CE8832BBABE2DA60159E87",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/rocketchat-rocketchat.png",
+      "url": "https://avatars.githubusercontent.com/RocketChat?size=256"
+    }
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": "Brave.Brave",
+    "name": "Brave",
+    "version": "151.1.93.136",
+    "publisher": "Brave Software Inc",
+    "description": "Secure, Fast & Private Web Browser with Adblocker",
+    "license": "MPL-2.0",
+    "homepage": "https://brave.com/download",
+    "category": "Browsers",
+    "tags": [
+      "browser",
+      "chromium",
+      "internet",
+      "privacy",
+      "web",
+      "webpage"
+    ],
+    "installer": {
+      "url": "https://github.com/brave/brave-browser/releases/download/v1.93.136/BraveBrowserStandaloneSilentSetup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "8256A29857D1B2AB6698C46FED68AA32EA46D260B806E9A6040923FC1C9F9EE7",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/brave-brave.png",
+      "url": "https://avatars.githubusercontent.com/brave?size=256"
+    }
+  },
+  {
+    "id": "LibreWolf.LibreWolf",
+    "name": "LibreWolf",
+    "version": "154.0-2",
+    "publisher": "LibreWolf",
+    "description": "A custom version of Firefox, focused on privacy, security and freedom.",
+    "license": "MPL-2.0",
+    "homepage": "https://librewolf.net/",
+    "category": "Browsers",
+    "tags": [
+      "browser",
+      "firefox",
+      "gecko",
+      "internet",
+      "quantum",
+      "spidermonkey",
+      "web",
+      "web-browser",
+      "webpage"
+    ],
+    "installer": {
+      "url": "https://dl.librewolf.net/librewolf/154.0-2/librewolf-154.0-2-windows-x86_64-setup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "8D239C3A9F221E7469B82090389F24D99F17E0883EE3F3FD4AA6C2FC9609316F",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/librewolf-librewolf.ico",
+      "url": "https://icons.duckduckgo.com/ip3/librewolf.net.ico"
+    }
+  },
+  {
+    "id": "Mozilla.Firefox",
+    "name": "Mozilla Firefox (en-US)",
+    "version": "153.0.4",
+    "publisher": "Mozilla",
+    "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
+    "license": "MPL-2.0",
+    "homepage": "https://www.mozilla.org/firefox/",
+    "category": "Browsers",
+    "tags": [
+      "browser",
+      "gecko",
+      "internet",
+      "quantum",
+      "spidermonkey",
+      "web",
+      "web-browser",
+      "webpage"
+    ],
+    "installer": {
+      "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.4/win64/en-US/Firefox%20Setup%20153.0.4.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "6EBA9F98AD90C016FD3DB19FEECF77469EB99E861358578EE90C4D9C3A481AAE",
+      "silentArgs": "/S /PreventRebootRequired=true"
+    },
+    "icon": {
+      "file": "icons/mozilla-firefox.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.mozilla.org.ico"
+    }
+  },
+  {
+    "id": "UngoogledChromium.UngoogledChromium",
+    "name": "Ungoogled Chromium",
+    "version": "151.0.7922.173-1.1",
+    "publisher": "ungoogled-software",
+    "description": "Windows packaging for ungoogled-chromium",
+    "license": "BSD-3-Clause",
+    "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
+    "category": "Browsers",
+    "tags": [],
+    "installer": {
+      "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/151.0.7922.173-1.1/ungoogled-chromium_151.0.7922.173-1.1_installer_x64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/ungoogledchromium-ungoogledchromium.png",
+      "url": "https://avatars.githubusercontent.com/ungoogled-software?size=256"
+    }
+  },
+  {
+    "id": "Waterfox.Waterfox",
+    "name": "Waterfox",
+    "version": "6.6.17",
+    "publisher": "BrowserWorks",
+    "description": "Fast and Private Web Browser",
+    "license": "MPL-2.0",
+    "homepage": "https://www.waterfox.net/",
+    "category": "Browsers",
+    "tags": [
+      "browser",
+      "container-tabs",
+      "cross-platform",
+      "gecko",
+      "internet-browser",
+      "privacy",
+      "private",
+      "secure",
+      "tracking-protection",
+      "web-browser"
+    ],
+    "installer": {
+      "url": "https://cdn.waterfox.com/waterfox/releases/6.6.17/WINNT_x86_64/Waterfox%20Setup%206.6.17.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "F59DF2FD152AFD476AD941A886A61878FEC17B70D224197B229230A12E50C468",
+      "silentArgs": "-ms"
+    },
+    "icon": {
+      "file": "icons/waterfox-waterfox.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.waterfox.net.ico"
+    }
+  }
+]

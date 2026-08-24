@@ -1,0 +1,540 @@
+[
+  {
+    "id": "7zip.7zip",
+    "name": "7-Zip",
+    "version": "26.02",
+    "publisher": "Igor Pavlov",
+    "description": "A file archiver with a high compression ratio.",
+    "license": "LGPL-2.1",
+    "homepage": "https://7-zip.org/download.html",
+    "category": "Utilities",
+    "tags": [
+      "7zfiles",
+      "archive",
+      "archiver",
+      "compress",
+      "compression",
+      "decompress",
+      "decompression",
+      "extract",
+      "extractor",
+      "rarfiles",
+      "targzfiles",
+      "unarchive",
+      "unarchiver",
+      "unzip",
+      "zip"
+    ],
+    "installer": {
+      "url": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.msi",
+      "type": "wix",
+      "architecture": "x64",
+      "sha256": "DB407A4F6D4999E5C7BC00CE8A882BE94717B56E7FA68140FE3F12605D91643E",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/7zip-7zip.png",
+      "url": "https://avatars.githubusercontent.com/ip7z?size=256"
+    }
+  },
+  {
+    "id": "Balena.Etcher",
+    "name": "balenaEtcher",
+    "version": "2.1.6",
+    "publisher": "Balena Ltd. <hello@balena.io>",
+    "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+    "license": "Apache-2.0",
+    "homepage": "https://etcher.balena.io/",
+    "category": "Utilities",
+    "tags": [
+      "boot",
+      "dd",
+      "flash",
+      "format",
+      "image",
+      "img",
+      "iso",
+      "usb"
+    ],
+    "installer": {
+      "url": "https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6.Setup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "78D1C45A55428E65AB2AC96E462AD6D77ADBF7D1C0AA4B704B214BC00E1FCDFC",
+      "silentArgs": "--silent"
+    },
+    "icon": {
+      "file": "icons/balena-etcher.png",
+      "url": "https://avatars.githubusercontent.com/balena-io?size=256"
+    }
+  },
+  {
+    "id": "BleachBit.BleachBit",
+    "name": "BleachBit",
+    "version": "6.0.2.3702",
+    "publisher": "BleachBit",
+    "description": "Clean Your System and Free Disk Space",
+    "license": "GPL-3.0",
+    "homepage": "https://www.bleachbit.org/",
+    "category": "Utilities",
+    "tags": [
+      "cache",
+      "clean",
+      "clear",
+      "cookies",
+      "delete",
+      "disk-space",
+      "junk",
+      "logs",
+      "remove",
+      "shred",
+      "temp",
+      "temporary-files",
+      "wipe"
+    ],
+    "installer": {
+      "url": "https://download.bleachbit.org/BleachBit-6.0.2-setup.exe",
+      "type": "exe",
+      "architecture": "x86",
+      "sha256": "16532BC640315F87BD66E04F78B137E1EC90DB2D0B7357BFCC47AF8873E0076E",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/bleachbit-bleachbit.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.bleachbit.org.ico"
+    }
+  },
+  {
+    "id": "hluk.CopyQ",
+    "name": "CopyQ",
+    "version": "16.0.0",
+    "publisher": "Lukas Holecek",
+    "description": "Clipboard manager with advanced features",
+    "license": "GPL-3.0",
+    "homepage": "https://github.com/hluk/CopyQ",
+    "category": "Utilities",
+    "tags": [
+      "clipboard",
+      "tray"
+    ],
+    "installer": {
+      "url": "https://github.com/hluk/CopyQ/releases/download/v16.0.0/copyq-16.0.0-setup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "F271A1467589CA55CD56D1FAF727A4BC34E686B4965AC742854A93BE4B186F82",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/hluk-copyq.png",
+      "url": "https://avatars.githubusercontent.com/hluk?size=256"
+    }
+  },
+  {
+    "id": "CrystalDewWorld.CrystalDiskInfo",
+    "name": "CrystalDiskInfo",
+    "version": "9.9.2",
+    "publisher": "Crystal Dew World",
+    "description": "A HDD/SSD utility software which supports parts of USB, Intel RAID and NVMe.",
+    "license": "MIT",
+    "homepage": "https://crystalmark.info/en/software/crystaldiskinfo/",
+    "category": "Utilities",
+    "tags": [
+      "diagnostic",
+      "disk-diagnostics",
+      "disk-utility",
+      "diskhealth",
+      "hard-disk",
+      "hard-drive",
+      "harddisk",
+      "harddrive",
+      "hdd",
+      "m.2",
+      "nvmexpress",
+      "raid",
+      "s.m.a.r.t.",
+      "solidstatedrive",
+      "ssd",
+      "xp8k4rgx25g3gm"
+    ],
+    "installer": {
+      "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.2/CrystalDiskInfo9_9_2.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "45BE8DEF3EC8876DCD1E5D299BD049140BC5D692413883AAE1049F7D24A41ABE",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/crystaldewworld-crystaldiskinfo.ico",
+      "url": "https://icons.duckduckgo.com/ip3/crystalmark.info.ico"
+    }
+  },
+  {
+    "id": "CrystalDewWorld.CrystalDiskMark",
+    "name": "CrystalDiskMark",
+    "version": "9.0.3",
+    "publisher": "Crystal Dew World",
+    "description": "A simple disk benchmark software.",
+    "license": "MIT",
+    "homepage": "https://crystalmark.info/en/software/crystaldiskmark/",
+    "category": "Utilities",
+    "tags": [
+      "benchmark",
+      "disk",
+      "drive",
+      "hdd",
+      "speed",
+      "ssd",
+      "storage",
+      "utility"
+    ],
+    "installer": {
+      "url": "https://sourceforge.net/projects/crystaldiskmark/files/9.0.3/CrystalDiskMark9_0_3.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "1A255154E116A533F86535BC362F101E32D6171604CDE9B6B554335856917E5E",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/crystaldewworld-crystaldiskmark.ico",
+      "url": "https://icons.duckduckgo.com/ip3/crystalmark.info.ico"
+    }
+  },
+  {
+    "id": "cURL.cURL",
+    "name": "cURL",
+    "version": "8.21.0.6",
+    "publisher": "curl",
+    "description": "Command line tool and library for transferring data with URLs",
+    "license": "Freeware",
+    "homepage": "https://curl.se/",
+    "category": "Utilities",
+    "tags": [],
+    "installer": {
+      "url": "https://curl.se/windows/dl-8.21.0_6/curl-8.21.0_6-win64-mingw.zip",
+      "type": "zip",
+      "architecture": "x64",
+      "sha256": "0C119D394BAB91ECD97B64791F24BDDC247D08840431E0045BCB92BBA3275665",
+      "silentArgs": ""
+    },
+    "icon": {
+      "file": "icons/curl-curl.ico",
+      "url": "https://icons.duckduckgo.com/ip3/curl.se.ico"
+    }
+  },
+  {
+    "id": "File-New-Project.EarTrumpet",
+    "name": "EarTrumpet",
+    "version": "2.3.0.0",
+    "publisher": "File-New-Project",
+    "description": "A powerful volume control app for Windows.",
+    "license": "MIT",
+    "homepage": "https://eartrumpet.app",
+    "category": "Utilities",
+    "tags": [
+      "audio-controls",
+      "audiocontrols",
+      "sound-controls",
+      "soundcontrols",
+      "audio-devices",
+      "sound-devices",
+      "sound-mixer",
+      "soundmixer",
+      "volume-settings",
+      "volumesettings",
+      "volume-controls",
+      "volumecontrols",
+      "audio-volume",
+      "audiovolume",
+      "sound-volume",
+      "9nblggh516xp"
+    ],
+    "installer": {
+      "url": "https://install.eartrumpet.app/master/EarTrumpet.Package_2.3.0.0_x86.appxbundle",
+      "type": "appxbundle",
+      "architecture": "x86",
+      "sha256": "d1602d57d862bcc67066f6912acc6e6df8ea1b6c79d3550d9d40624732be8bfc",
+      "silentArgs": ""
+    }
+  },
+  {
+    "id": "Gyan.FFmpeg",
+    "name": "FFmpeg",
+    "version": "9.0",
+    "publisher": "Gyan",
+    "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
+    "license": "GPL-3.0",
+    "homepage": "https://www.gyan.dev/ffmpeg/builds/",
+    "category": "Utilities",
+    "tags": [
+      "audio",
+      "codec",
+      "convert",
+      "decode",
+      "demux",
+      "encode",
+      "ffmpeg",
+      "filter",
+      "media",
+      "multimedia",
+      "mux",
+      "record",
+      "stream",
+      "streaming",
+      "transcode",
+      "video"
+    ],
+    "installer": {
+      "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0/ffmpeg-9.0-full_build.zip",
+      "type": "zip",
+      "architecture": "x64",
+      "sha256": "F42F0C4B04EAE3AC918707FF66E3E0FF0CEE527BFA6D322624D4BC1160D5055E",
+      "silentArgs": ""
+    },
+    "icon": {
+      "file": "icons/gyan-ffmpeg.png",
+      "url": "https://avatars.githubusercontent.com/GyanD?size=256"
+    }
+  },
+  {
+    "id": "jqlang.jq",
+    "name": "jq",
+    "version": "1.8.2",
+    "publisher": "jqlang",
+    "description": "jq is a lightweight and flexible command-line JSON processor.",
+    "license": "MIT License",
+    "homepage": "https://github.com/jqlang/jq",
+    "category": "Utilities",
+    "tags": [
+      "jq"
+    ],
+    "installer": {
+      "url": "https://github.com/jqlang/jq/releases/download/jq-1.8.2/jq-windows-amd64.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "A6FC67FEDAF9128A3309A1E2EBB8B986AECCF70122EE46D2CB4849E423F0C627",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/jqlang-jq.png",
+      "url": "https://avatars.githubusercontent.com/jqlang?size=256"
+    }
+  },
+  {
+    "id": "Microsoft.PowerShell",
+    "name": "PowerShell",
+    "version": "7.6.5.0",
+    "publisher": "Microsoft Corporation",
+    "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
+    "license": "MIT",
+    "homepage": "https://microsoft.com/PowerShell",
+    "category": "Utilities",
+    "tags": [
+      "command-line",
+      "cross-platform",
+      "open-source",
+      "powershell",
+      "pwsh",
+      "shell"
+    ],
+    "installer": {
+      "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.5/PowerShell-7.6.5-win-x64.msi",
+      "type": "wix",
+      "architecture": "x64",
+      "sha256": "3A87C24E044EC792047D734C841917EE4323A535E25F645AE6C33141A35FCA8D",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/microsoft-powershell.png",
+      "url": "https://avatars.githubusercontent.com/PowerShell?size=256"
+    }
+  },
+  {
+    "id": "PuTTY.PuTTY",
+    "name": "PuTTY",
+    "version": "0.84.0.0",
+    "publisher": "Simon Tatham",
+    "description": "A free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator.",
+    "license": "MIT",
+    "homepage": "https://www.chiark.greenend.org.uk/~sgtatham/putty/",
+    "category": "Utilities",
+    "tags": [
+      "puttygen",
+      "plink",
+      "psftp",
+      "ssh",
+      "telnet",
+      "tty",
+      "xterm",
+      "supdup",
+      "rlogin",
+      "xpfnzksklbp7rj"
+    ],
+    "installer": {
+      "url": "https://the.earth.li/~sgtatham/putty/0.84/w64/putty-64bit-0.84-installer.msi",
+      "type": "wix",
+      "architecture": "x64",
+      "sha256": "190D00150E67AD3FF51AF4B50E76A3AB97B863A34EFD50472627B17C0CF4102B",
+      "silentArgs": "/quiet /norestart"
+    }
+  },
+  {
+    "id": "Rufus.Rufus",
+    "name": "Rufus",
+    "version": "4.15",
+    "publisher": "pbatard",
+    "description": "A utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.",
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://rufus.ie/",
+    "category": "Utilities",
+    "tags": [
+      "operating-system-booting",
+      "os-booting",
+      "formatting",
+      "foss",
+      "uefi",
+      "unetbootin",
+      "utility",
+      "bootable-drives",
+      "windows-to-go"
+    ],
+    "installer": {
+      "url": "https://github.com/pbatard/rufus/releases/download/v4.15/rufus-4.15.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "84C8A437F8AF89257524478489E5C85F1EDF25F761D299E2BCDE46AC0AFBE106",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/rufus-rufus.png",
+      "url": "https://avatars.githubusercontent.com/pbatard?size=256"
+    }
+  },
+  {
+    "id": "uvncbvba.UltraVNC",
+    "name": "UltraVNC",
+    "version": "1.8.2.4",
+    "publisher": "uvnc bvba",
+    "description": "VNC client and server graphical desktop sharing via RFB protocol",
+    "license": "GPL-3.0",
+    "homepage": "https://uvnc.com/downloads/ultravnc.html",
+    "category": "Utilities",
+    "tags": [
+      "remote-desktop",
+      "remoteaccess",
+      "remotedesktop",
+      "remoteframebuffer",
+      "rfb",
+      "vnc"
+    ],
+    "installer": {
+      "url": "https://uvnc.eu/download/1800/UltraVNC_1824_x64_Setup.exe",
+      "type": "exe",
+      "architecture": "x64",
+      "sha256": "9EF5C8275AA0431F058369305C444D7303ADC807A9E4B80BC9FFAD7C3BF210B2",
+      "silentArgs": "/S"
+    },
+    "icon": {
+      "file": "icons/uvncbvba-ultravnc.ico",
+      "url": "https://icons.duckduckgo.com/ip3/uvnc.com.ico"
+    }
+  },
+  {
+    "id": "Ventoy.Ventoy",
+    "name": "Ventoy",
+    "version": "1.1.17",
+    "publisher": "Ventoy",
+    "description": "Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.",
+    "license": "GPL-3.0",
+    "homepage": "https://www.ventoy.net/",
+    "category": "Utilities",
+    "tags": [
+      "auto-install",
+      "bootable-usb",
+      "bsd",
+      "chromeos",
+      "iso-files",
+      "legacy",
+      "linux",
+      "multiboot",
+      "persistence",
+      "secure-boot",
+      "uefi",
+      "unattended",
+      "unix",
+      "usb",
+      "windows"
+    ],
+    "installer": {
+      "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.17/ventoy-1.1.17-windows.zip",
+      "type": "zip",
+      "architecture": "x64",
+      "sha256": "D250E97A7595FDAC4F97DEBC630D7A8DA942319274A76CB32384596B659DBAEB",
+      "silentArgs": ""
+    },
+    "icon": {
+      "file": "icons/ventoy-ventoy.png",
+      "url": "https://avatars.githubusercontent.com/ventoy?size=256"
+    }
+  },
+  {
+    "id": "WinDirStat.WinDirStat",
+    "name": "WinDirStat",
+    "version": "2.8.0",
+    "publisher": "The WinDirStat Team",
+    "description": "WinDirStat is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.",
+    "license": "GPL-2.0",
+    "homepage": "https://github.com/windirstat/windirstat/releases/",
+    "category": "Utilities",
+    "tags": [
+      "cleanup",
+      "disk-space-analyzer",
+      "disk-usage-analyzer",
+      "duplicate-detection",
+      "treemap",
+      "treemaps",
+      "windows"
+    ],
+    "installer": {
+      "url": "https://github.com/windirstat/windirstat/releases/download/release/v2.8.0/WinDirStat-x64.msi",
+      "type": "msi",
+      "architecture": "x64",
+      "sha256": "C40A6EC73497B18EB4CE2CBE071983B4F637CD04644BFCA73C176D624794F79A",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/windirstat-windirstat.png",
+      "url": "https://avatars.githubusercontent.com/windirstat?size=256"
+    }
+  },
+  {
+    "id": "WinSCP.WinSCP",
+    "name": "WinSCP",
+    "version": "6.5.6",
+    "publisher": "Martin Prikryl",
+    "description": "Free SFTP, SCP, S3 and FTP client for Windows",
+    "license": "GPL-3.0-or-later",
+    "homepage": "https://winscp.net/",
+    "category": "Utilities",
+    "tags": [
+      "file",
+      "ftp",
+      "ftps",
+      "s3",
+      "scp",
+      "sftp",
+      "transfer",
+      "webdav"
+    ],
+    "installer": {
+      "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.6/WinSCP-6.5.6.msi/download",
+      "type": "wix",
+      "architecture": "x86",
+      "sha256": "D3EF315E0013479DCBCEDF8DD06AEC33DFEDA9004972E94128144329957B602F",
+      "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/winscp-winscp.ico",
+      "url": "https://icons.duckduckgo.com/ip3/winscp.net.ico"
+    }
+  }
+]
