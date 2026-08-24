@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated": "2026-08-17T03:37:34Z",
+  "generated": "2026-08-24T03:41:29Z",
   "total": 59,
   "apps": [
     {
@@ -31,7 +31,7 @@
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "153.0.3-1",
+      "version": "154.0-2",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -49,17 +49,17 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/153.0.3-1/librewolf-153.0.3-1-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/154.0-2/librewolf-154.0-2-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "3A06EE806FD9CC55839AA92E7EFE4F8AE061CEF6207338475D072D61CCE6D5E3",
+        "sha256": "8D239C3A9F221E7469B82090389F24D99F17E0883EE3F3FD4AA6C2FC9609316F",
         "silentArgs": "/S"
       }
     },
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "153.0.3",
+      "version": "153.0.4",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -76,10 +76,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.3/win64/en-US/Firefox%20Setup%20153.0.3.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.4/win64/en-US/Firefox%20Setup%20153.0.4.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "8DE41917930C35937A46EAC6D0E16C633ED7456C771B32B89DC6FD65D55E512E",
+        "sha256": "6EBA9F98AD90C016FD3DB19FEECF77469EB99E861358578EE90C4D9C3A481AAE",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
@@ -115,7 +115,7 @@
     {
       "id": "Element.Element",
       "name": "Element",
-      "version": "1.12.25",
+      "version": "1.12.26",
       "publisher": "Element",
       "description": "Secure collaboration and messaging",
       "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -139,17 +139,17 @@
         "talk"
       ],
       "installer": {
-        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.25.exe",
+        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.26.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "B2FA7E1C51553FB11801AD36C1EBDC0CD4ACE888260079E935A50B1EBF9F45FA",
+        "sha256": "BFDE3EEE3AA31B44B907CADAA433CBFD29C5ED9D84ECF75F38EA73EC863A5F1E",
         "silentArgs": "--silent"
       }
     },
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "153.0.3",
+      "version": "154.0",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -160,10 +160,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/153.0.3/win64/en-US/Thunderbird%20Setup%20153.0.3.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/154.0/win64/en-US/Thunderbird%20Setup%20154.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F8078DECEB1F80B05D75EEC92399CE01AB3027FE719FBE2AED612001BEA24AD3",
+        "sha256": "18EE5928CF6A8B35A582BF4758D03CC3AAF3F33ED3615F54CA15E4029A1371A7",
         "silentArgs": "/S /PreventRebootRequired=true"
       }
     },
@@ -328,7 +328,7 @@
     {
       "id": "GoLang.Go",
       "name": "Go Programming Language",
-      "version": "1.26.5",
+      "version": "1.26.7",
       "publisher": "https://go.dev",
       "description": "An open source programming language that makes it simple to build secure, scalable systems.",
       "license": "BSD-3-Clause",
@@ -342,10 +342,10 @@
         "programming-language"
       ],
       "installer": {
-        "url": "https://go.dev/dl/go1.26.5.windows-amd64.msi",
+        "url": "https://go.dev/dl/go1.26.7.windows-amd64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "D554DC209403B101225FC2B54647EF47DF09BEA23291B1246FE1B35198F55F50",
+        "sha256": "C6E7AA52FA607F93E6E3A7E2FFD733782F3BDB2AA8CD0559A6CD9927AEF49C34",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -489,7 +489,7 @@
     {
       "id": "Notepad++.Notepad++",
       "name": "Notepad++",
-      "version": "8.9.7",
+      "version": "8.9.8",
       "publisher": "Notepad++ Team",
       "description": "Notepad++ is a free source code editor that supports several languages.",
       "license": "GPL-3.0-or-later",
@@ -505,10 +505,10 @@
         "text-editor"
       ],
       "installer": {
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.7/npp.8.9.7.Installer.x64.msi",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8/npp.8.9.8.Installer.x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "E83A210F66EBBEC49F66B61DA1270EF213FFB36F86515247EEFCFFFE6B484943",
+        "sha256": "C29CBE1A9AAEF322CC3F316CEEABE8A8071B18441A5E3C3EC348069739E59E80",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -641,7 +641,7 @@
     {
       "id": "Nextcloud.NextcloudDesktop",
       "name": "Nextcloud",
-      "version": "34.0.1",
+      "version": "34.0.2",
       "publisher": "Nextcloud GmbH",
       "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
       "license": "GPL-2.0",
@@ -655,10 +655,10 @@
         "utility"
       ],
       "installer": {
-        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.1/Nextcloud-34.0.1-x64.msi",
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.2/Nextcloud-34.0.2-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "E81C052832383508C67136395B9304BFDD8BF7A4DBDD9B86A1BD4DD22272B485",
+        "sha256": "77E1D3067B8A236D3AC1068421C7AF6E52C4BD593E45695332F05EF4045E4B6F",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -874,7 +874,7 @@
     {
       "id": "clsid2.mpc-hc",
       "name": "MPC-HC",
-      "version": "2.8.0",
+      "version": "2.8.1",
       "publisher": "MPC-HC Team",
       "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
       "license": "GPL-3.0",
@@ -894,10 +894,10 @@
         "video-player"
       ],
       "installer": {
-        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.0/MPC-HC.2.8.0.x64.exe",
+        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "EF6B884916B63B314B0A5A1B9F52FFDDABDC0084D861999EB23B1FFC6EAD66AD",
+        "sha256": "242D98D054C6CDEE64A2B8B08AACD4B6CFFD67CD5B25A0D648322D0802D84D2B",
         "silentArgs": "/S"
       }
     },
@@ -1016,7 +1016,7 @@
     {
       "id": "Joplin.Joplin",
       "name": "Joplin",
-      "version": "3.6.15",
+      "version": "3.6.16",
       "publisher": "Laurent Cozic",
       "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
       "license": "AGPL-3.0-or-later",
@@ -1034,10 +1034,10 @@
         "todo"
       ],
       "installer": {
-        "url": "https://github.com/laurent22/joplin/releases/download/v3.6.15/Joplin-Setup-3.6.15.exe",
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.6.16/Joplin-Setup-3.6.16.exe",
         "type": "exe",
         "architecture": "x86",
-        "sha256": "99E0741977F82132A9BF6C6593A57AB9C686A1C8355338D0AC1E1EA622ECC96B",
+        "sha256": "BB26FA0BAB6905CF7A22F2D1DCB18EF7F7C0F62C2E10C84CD8E743F7CA962C50",
         "silentArgs": "/S"
       }
     },
@@ -1121,7 +1121,7 @@
     {
       "id": "Bitwarden.Bitwarden",
       "name": "Bitwarden",
-      "version": "2026.7.0",
+      "version": "2026.8.0",
       "publisher": "Bitwarden Inc.",
       "description": "A secure and free password manager for all of your devices.",
       "license": "GPL-3.0 or Bitwarden-1.0",
@@ -1139,10 +1139,10 @@
         "vault"
       ],
       "installer": {
-        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.7.0/Bitwarden-Installer-2026.7.0.exe",
+        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.8.0/Bitwarden-Installer-2026.8.0.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "B1CEAA2C0A4E479231F4D921709C8E4085D6FB460E83466F31892D77BDBA03ED",
+        "sha256": "0263CBA73432578B2F5CEF90815F374F78B34B6CEDA9FD3F22343316803CDB98",
         "silentArgs": "/S"
       }
     },
@@ -1199,7 +1199,7 @@
     {
       "id": "TorProject.TorBrowser",
       "name": "Tor Browser",
-      "version": "15.0.19",
+      "version": "15.0.20",
       "publisher": "Tor Project",
       "description": "Protect yourself against tracking, surveillance, and censorship.",
       "license": "MPL-2.0",
@@ -1220,10 +1220,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.19/tor-browser-windows-x86_64-portable-15.0.19.exe",
+        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.20/tor-browser-windows-x86_64-portable-15.0.20.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "0D4CC3A7B734A10C500217FB0DF89452EE39185709193966831677BBD43C98F8",
+        "sha256": "508331E09A3484993CB018AC7C62B927F3B4B4FEB901F2BE2252EFE7B4DA6620",
         "silentArgs": "/S"
       }
     },
@@ -1321,7 +1321,7 @@
         "xp8k4rgx25g3gm"
       ],
       "installer": {
-        "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.2/CrystalDiskInfo9_9_2.exe/download",
+        "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.2/CrystalDiskInfo9_9_2.exe",
         "type": "exe",
         "architecture": "x64",
         "sha256": "45BE8DEF3EC8876DCD1E5D299BD049140BC5D692413883AAE1049F7D24A41ABE",
@@ -1617,7 +1617,7 @@
     {
       "id": "Oracle.VirtualBox",
       "name": "Oracle VirtualBox",
-      "version": "7.2.14",
+      "version": "7.2.16",
       "publisher": "Oracle and/or its affiliates",
       "description": "VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm), targeted at laptop, desktop, server and embedded use.",
       "license": "GPL-3.0-only",
@@ -1630,10 +1630,10 @@
         "virtualization"
       ],
       "installer": {
-        "url": "https://download.virtualbox.org/virtualbox/7.2.14/VirtualBox-7.2.14-174565-Win.exe",
+        "url": "https://download.virtualbox.org/virtualbox/7.2.16/VirtualBox-7.2.16-174877-Win.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "5FB111F32A15763D519BF9EF23E0111153521F641CDE7460E5B8E895CA27A1D2",
+        "sha256": "9383A42BFFA5C0AC4BC5F1C7D820478D84380D3A17B65AA9B43E6778CBDB615A",
         "silentArgs": "--silent"
       }
     }
