@@ -259,7 +259,7 @@
   {
     "id": "Gyan.FFmpeg",
     "name": "FFmpeg",
-    "version": "9.0",
+    "version": "9.0.1",
     "publisher": "Gyan",
     "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
     "license": "GPL-3.0",
@@ -284,10 +284,10 @@
       "video"
     ],
     "installer": {
-      "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0/ffmpeg-9.0-full_build.zip",
+      "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0.1/ffmpeg-9.0.1-full_build.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "F42F0C4B04EAE3AC918707FF66E3E0FF0CEE527BFA6D322624D4BC1160D5055E",
+      "sha256": "2E8E28AF97C2AE338CCEF92E36DA9B2A4CD21D0CAD9DDE093545606CB07F5B00",
       "silentArgs": ""
     },
     "icon": {

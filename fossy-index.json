@@ -2,7 +2,7 @@
   {
     "id": "Brave.Brave",
     "name": "Brave",
-    "version": "151.1.93.136",
+    "version": "151.1.93.138",
     "category": "Browsers",
     "homepage": "https://brave.com/download",
     "icon": "icons/brave-brave.png"
@@ -18,7 +18,7 @@
   {
     "id": "Mozilla.Firefox",
     "name": "Mozilla Firefox (en-US)",
-    "version": "153.0.4",
+    "version": "154.0.1",
     "category": "Browsers",
     "homepage": "https://www.mozilla.org/firefox/",
     "icon": "icons/mozilla-firefox.ico"
@@ -34,7 +34,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.6.17",
+    "version": "6.7.1.1",
     "category": "Browsers",
     "homepage": "https://www.waterfox.net/",
     "icon": "icons/waterfox-waterfox.ico"
@@ -82,7 +82,7 @@
   {
     "id": "BlenderFoundation.Blender",
     "name": "blender",
-    "version": "5.2.0",
+    "version": "5.2.1",
     "category": "Design",
     "homepage": "",
     "icon": ""
@@ -90,7 +90,7 @@
   {
     "id": "darktable.darktable",
     "name": "darktable",
-    "version": "5.6.0",
+    "version": "5.6.1",
     "category": "Design",
     "homepage": "https://www.darktable.org/",
     "icon": "icons/darktable-darktable.png"
@@ -178,7 +178,7 @@
   {
     "id": "GoLang.Go",
     "name": "Go Programming Language",
-    "version": "1.26.7",
+    "version": "1.27.0",
     "category": "Development",
     "homepage": "https://go.dev/dl/",
     "icon": "icons/golang-go.png"
@@ -242,7 +242,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.5",
+    "version": "0.12.7",
     "category": "Development",
     "homepage": "https://github.com/astral-sh/uv",
     "icon": "icons/astral-sh-uv.png"
@@ -274,7 +274,7 @@
   {
     "id": "LocalSend.LocalSend",
     "name": "LocalSend",
-    "version": "1.17.0",
+    "version": "1.18.2",
     "category": "File Sharing",
     "homepage": "https://localsend.org/",
     "icon": "icons/localsend-localsend.png"
@@ -282,7 +282,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "34.0.2",
+    "version": "34.0.3",
     "category": "File Sharing",
     "homepage": "https://nextcloud.com/",
     "icon": "icons/nextcloud-nextclouddesktop.png"
@@ -410,7 +410,7 @@
   {
     "id": "ToEverything.AFFiNE",
     "name": "AFFiNE",
-    "version": "0.27.3",
+    "version": "0.27.4",
     "category": "Productivity",
     "homepage": "https://github.com/toeverything/AFFiNE",
     "icon": "icons/toeverything-affine.jpg"
@@ -418,7 +418,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.13.2",
+    "version": "0.14.0",
     "category": "Productivity",
     "homepage": "https://github.com/AppFlowy-IO/AppFlowy",
     "icon": "icons/appflowy-appflowy.png"
@@ -594,7 +594,7 @@
   {
     "id": "Gyan.FFmpeg",
     "name": "FFmpeg",
-    "version": "9.0",
+    "version": "9.0.1",
     "category": "Utilities",
     "homepage": "https://www.gyan.dev/ffmpeg/builds/",
     "icon": "icons/gyan-ffmpeg.png"

@@ -2,7 +2,7 @@
   {
     "id": "Brave.Brave",
     "name": "Brave",
-    "version": "151.1.93.136",
+    "version": "151.1.93.138",
     "publisher": "Brave Software Inc",
     "description": "Secure, Fast & Private Web Browser with Adblocker",
     "license": "MPL-2.0",
@@ -17,10 +17,10 @@
       "webpage"
     ],
     "installer": {
-      "url": "https://github.com/brave/brave-browser/releases/download/v1.93.136/BraveBrowserStandaloneSilentSetup.exe",
+      "url": "https://github.com/brave/brave-browser/releases/download/v1.93.138/BraveBrowserStandaloneSilentSetup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "8256A29857D1B2AB6698C46FED68AA32EA46D260B806E9A6040923FC1C9F9EE7",
+      "sha256": "F43ECFC3820BBEFD7628BCBE4F755B96A2F7FB61F3C71BADCF71AE82DC7B067C",
       "silentArgs": "/S"
     },
     "icon": {
@@ -63,7 +63,7 @@
   {
     "id": "Mozilla.Firefox",
     "name": "Mozilla Firefox (en-US)",
-    "version": "153.0.4",
+    "version": "154.0.1",
     "publisher": "Mozilla",
     "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
     "license": "MPL-2.0",
@@ -80,10 +80,10 @@
       "webpage"
     ],
     "installer": {
-      "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.4/win64/en-US/Firefox%20Setup%20153.0.4.exe",
+      "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/154.0.1/win64/en-US/Firefox%20Setup%20154.0.1.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "6EBA9F98AD90C016FD3DB19FEECF77469EB99E861358578EE90C4D9C3A481AAE",
+      "sha256": "EC27C770AA951B8F11541CE5C4FA2D15EC8D7FE613662505CE9AB00B196A100E",
       "silentArgs": "/S /PreventRebootRequired=true"
     },
     "icon": {
@@ -116,7 +116,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.6.17",
+    "version": "6.7.1.1",
     "publisher": "BrowserWorks",
     "description": "Fast and Private Web Browser",
     "license": "MPL-2.0",
@@ -135,10 +135,10 @@
       "web-browser"
     ],
     "installer": {
-      "url": "https://cdn.waterfox.com/waterfox/releases/6.6.17/WINNT_x86_64/Waterfox%20Setup%206.6.17.exe",
+      "url": "https://cdn.waterfox.com/waterfox/releases/6.7.1.1/WINNT_x86_64/Waterfox%20Setup%206.7.1.1.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "F59DF2FD152AFD476AD941A886A61878FEC17B70D224197B229230A12E50C468",
+      "sha256": "16E297CDD175C2D9FF50008879E7FB2C9EBA9622D8D7E90E38038DFA826E51C0",
       "silentArgs": "-ms"
     },
     "icon": {

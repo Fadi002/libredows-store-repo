@@ -2,7 +2,7 @@
   {
     "id": "ToEverything.AFFiNE",
     "name": "AFFiNE",
-    "version": "0.27.3",
+    "version": "0.27.4",
     "publisher": "AFFiNE",
     "description": "A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds.",
     "license": "Proprietary",
@@ -27,10 +27,10 @@
       "share"
     ],
     "installer": {
-      "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.3/affine-0.27.3-stable-windows-x64.nsis.exe",
+      "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-windows-x64.nsis.exe",
       "type": "nullsoft",
       "architecture": "x64",
-      "sha256": "10E19E21135D5843219C1EF4152EB2286B4AE207A8CF5BBEB0A98F3D7EBBE494",
+      "sha256": "80B6168BCDD3776B00B311386F60525E0D9EE90AEF0E212B779087F3C8299F3C",
       "silentArgs": "/S"
     },
     "icon": {
@@ -41,7 +41,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.13.2",
+    "version": "0.14.0",
     "publisher": "AppFlowy-IO",
     "description": "The Open Source Alternative To Notion.",
     "license": "AGPL-3.0",
@@ -66,10 +66,10 @@
       "wiki"
     ],
     "installer": {
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-windows-x86_64.exe",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.0/AppFlowy-0.14.0-windows-x86_64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "56719B46CDA2A68A60B0A64B496DC2CF157B404A73B2FE378895E0F20C00C3DD",
+      "sha256": "48B5E2CFFCBDB1730B6EB78AE15CBC5285C7197F79BF5704BC5D18B49ADE9702",
       "silentArgs": "/sp- /verysilent /norestart"
     },
     "icon": {

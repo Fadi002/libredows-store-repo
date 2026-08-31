@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "generated": "2026-08-24T20:48:20Z",
+  "generated": "2026-08-31T08:57:43Z",
   "total": 84,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "151.1.93.136",
+      "version": "151.1.93.138",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,10 +21,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.93.136/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.93.138/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "8256A29857D1B2AB6698C46FED68AA32EA46D260B806E9A6040923FC1C9F9EE7",
+        "sha256": "F43ECFC3820BBEFD7628BCBE4F755B96A2F7FB61F3C71BADCF71AE82DC7B067C",
         "silentArgs": "/S"
       },
       "icon": {
@@ -67,7 +67,7 @@
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "153.0.4",
+      "version": "154.0.1",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -84,10 +84,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.4/win64/en-US/Firefox%20Setup%20153.0.4.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/154.0.1/win64/en-US/Firefox%20Setup%20154.0.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "6EBA9F98AD90C016FD3DB19FEECF77469EB99E861358578EE90C4D9C3A481AAE",
+        "sha256": "EC27C770AA951B8F11541CE5C4FA2D15EC8D7FE613662505CE9AB00B196A100E",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -120,7 +120,7 @@
     {
       "id": "Waterfox.Waterfox",
       "name": "Waterfox",
-      "version": "6.6.17",
+      "version": "6.7.1.1",
       "publisher": "BrowserWorks",
       "description": "Fast and Private Web Browser",
       "license": "MPL-2.0",
@@ -139,10 +139,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://cdn.waterfox.com/waterfox/releases/6.6.17/WINNT_x86_64/Waterfox%20Setup%206.6.17.exe",
+        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.1.1/WINNT_x86_64/Waterfox%20Setup%206.7.1.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F59DF2FD152AFD476AD941A886A61878FEC17B70D224197B229230A12E50C468",
+        "sha256": "16E297CDD175C2D9FF50008879E7FB2C9EBA9622D8D7E90E38038DFA826E51C0",
         "silentArgs": "-ms"
       },
       "icon": {
@@ -308,7 +308,7 @@
     {
       "id": "BlenderFoundation.Blender",
       "name": "blender",
-      "version": "5.2.0",
+      "version": "5.2.1",
       "publisher": "Blender Foundation",
       "description": "Free and Open 3D Creation Software",
       "license": "GPL-3.0-or-later",
@@ -323,18 +323,18 @@
         "vfx"
       ],
       "installer": {
-        "url": "https://download.blender.org/release/Blender5.2/blender-5.2.0-windows-x64.msi",
+        "url": "https://download.blender.org/release/Blender5.2/blender-5.2.1-windows-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "8BA59AED79DFC35D65C5E9E0CCC828D618796499483CCDEEE0B534A915140606",
+        "sha256": "BEBB90FC5BF7E3EC7AB4EB34F4C5A5B54E28E582A722152A47FD4EE66EC3C6FA",
         "silentArgs": "/quiet /norestart"
       }
     },
     {
       "id": "darktable.darktable",
       "name": "darktable",
-      "version": "5.6.0",
-      "publisher": "the darktable project",
+      "version": "5.6.1",
+      "publisher": "darktable team",
       "description": "Photography workflow application and raw developer",
       "license": "GPL-3.0",
       "homepage": "https://www.darktable.org/",
@@ -352,10 +352,10 @@
         "viewer"
       ],
       "installer": {
-        "url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.0/darktable-5.6.0-win64.exe",
+        "url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-win64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "B42989195DFFF44540C0B767B407987329CA99853612304CBBF14C48D1D3F803",
+        "sha256": "BB15A8E4D24C21097CFDEF0A560920F7FA0C05DEC93482448DD538F2BE02D6C4",
         "silentArgs": "/S"
       },
       "icon": {
@@ -660,7 +660,7 @@
     {
       "id": "GoLang.Go",
       "name": "Go Programming Language",
-      "version": "1.26.7",
+      "version": "1.27.0",
       "publisher": "https://go.dev",
       "description": "An open source programming language that makes it simple to build secure, scalable systems.",
       "license": "BSD-3-Clause",
@@ -674,10 +674,10 @@
         "programming-language"
       ],
       "installer": {
-        "url": "https://go.dev/dl/go1.26.7.windows-amd64.msi",
+        "url": "https://go.dev/dl/go1.27.0.windows-amd64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "C6E7AA52FA607F93E6E3A7E2FFD733782F3BDB2AA8CD0559A6CD9927AEF49C34",
+        "sha256": "728E9318C061B95082BCF167BAB8B6C6E0D91A045F89F403B3285FA39F0C455B",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -900,7 +900,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.12.5",
+      "version": "0.12.7",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -910,10 +910,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.12.5/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.12.7/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "4C4D49D8738847D9B71BA319E49A5688C93EAC0FE6204B1DF24E98528DDDF39A",
+        "sha256": "BF1518AF459A3915511A11FDC6E2F43EF9A2AFA138B9D498EEB9642FE9D85218",
         "silentArgs": ""
       },
       "icon": {
@@ -1021,7 +1021,7 @@
     {
       "id": "LocalSend.LocalSend",
       "name": "LocalSend",
-      "version": "1.17.0",
+      "version": "1.18.2",
       "publisher": "Tien Do Nam",
       "description": "Share files to nearby devices. Free, open source, cross-platform. An open source cross-platform alternative to AirDrop.",
       "license": "Apache-2.0",
@@ -1038,10 +1038,10 @@
         "wifi"
       ],
       "installer": {
-        "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.exe",
+        "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "E554DCF9DC94DD842B54D464B559AC1D3631427BB02480C9A74785EC47CE639C",
+        "sha256": "F53856750AD087A17B996309171262FA7D89071C350E0DC5DF6530F34DD8A2AE",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1052,7 +1052,7 @@
     {
       "id": "Nextcloud.NextcloudDesktop",
       "name": "Nextcloud",
-      "version": "34.0.2",
+      "version": "34.0.3",
       "publisher": "Nextcloud GmbH",
       "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
       "license": "GPL-2.0",
@@ -1066,10 +1066,10 @@
         "utility"
       ],
       "installer": {
-        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.2/Nextcloud-34.0.2-x64.msi",
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.3/Nextcloud-34.0.3-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "77E1D3067B8A236D3AC1068421C7AF6E52C4BD593E45695332F05EF4045E4B6F",
+        "sha256": "1A00F339165899E728CE4BAFA4A0195356F7BDC28F2FF45E4571AC6D95C77E9D",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -1541,7 +1541,7 @@
     {
       "id": "ToEverything.AFFiNE",
       "name": "AFFiNE",
-      "version": "0.27.3",
+      "version": "0.27.4",
       "publisher": "AFFiNE",
       "description": "A privacy-focused, local-first, open-source, and ready-to-use alternative for Notion & Miro. One hyper-fused platform for wildly creative minds.",
       "license": "Proprietary",
@@ -1566,10 +1566,10 @@
         "share"
       ],
       "installer": {
-        "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.3/affine-0.27.3-stable-windows-x64.nsis.exe",
+        "url": "https://github.com/toeverything/AFFiNE/releases/download/v0.27.4/affine-0.27.4-stable-windows-x64.nsis.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "10E19E21135D5843219C1EF4152EB2286B4AE207A8CF5BBEB0A98F3D7EBBE494",
+        "sha256": "80B6168BCDD3776B00B311386F60525E0D9EE90AEF0E212B779087F3C8299F3C",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1580,7 +1580,7 @@
     {
       "id": "AppFlowy.AppFlowy",
       "name": "AppFlowy",
-      "version": "0.13.2",
+      "version": "0.14.0",
       "publisher": "AppFlowy-IO",
       "description": "The Open Source Alternative To Notion.",
       "license": "AGPL-3.0",
@@ -1605,10 +1605,10 @@
         "wiki"
       ],
       "installer": {
-        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.13.2/AppFlowy-0.13.2-windows-x86_64.exe",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.0/AppFlowy-0.14.0-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "56719B46CDA2A68A60B0A64B496DC2CF157B404A73B2FE378895E0F20C00C3DD",
+        "sha256": "48B5E2CFFCBDB1730B6EB78AE15CBC5285C7197F79BF5704BC5D18B49ADE9702",
         "silentArgs": "/sp- /verysilent /norestart"
       },
       "icon": {
@@ -2267,7 +2267,7 @@
     {
       "id": "Gyan.FFmpeg",
       "name": "FFmpeg",
-      "version": "9.0",
+      "version": "9.0.1",
       "publisher": "Gyan",
       "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
       "license": "GPL-3.0",
@@ -2292,10 +2292,10 @@
         "video"
       ],
       "installer": {
-        "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0/ffmpeg-9.0-full_build.zip",
+        "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0.1/ffmpeg-9.0.1-full_build.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "F42F0C4B04EAE3AC918707FF66E3E0FF0CEE527BFA6D322624D4BC1160D5055E",
+        "sha256": "2E8E28AF97C2AE338CCEF92E36DA9B2A4CD21D0CAD9DDE093545606CB07F5B00",
         "silentArgs": ""
       },
       "icon": {

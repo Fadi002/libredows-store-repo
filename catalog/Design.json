@@ -2,7 +2,7 @@
   {
     "id": "BlenderFoundation.Blender",
     "name": "blender",
-    "version": "5.2.0",
+    "version": "5.2.1",
     "publisher": "Blender Foundation",
     "description": "Free and Open 3D Creation Software",
     "license": "GPL-3.0-or-later",
@@ -17,18 +17,18 @@
       "vfx"
     ],
     "installer": {
-      "url": "https://download.blender.org/release/Blender5.2/blender-5.2.0-windows-x64.msi",
+      "url": "https://download.blender.org/release/Blender5.2/blender-5.2.1-windows-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "8BA59AED79DFC35D65C5E9E0CCC828D618796499483CCDEEE0B534A915140606",
+      "sha256": "BEBB90FC5BF7E3EC7AB4EB34F4C5A5B54E28E582A722152A47FD4EE66EC3C6FA",
       "silentArgs": "/quiet /norestart"
     }
   },
   {
     "id": "darktable.darktable",
     "name": "darktable",
-    "version": "5.6.0",
-    "publisher": "the darktable project",
+    "version": "5.6.1",
+    "publisher": "darktable team",
     "description": "Photography workflow application and raw developer",
     "license": "GPL-3.0",
     "homepage": "https://www.darktable.org/",
@@ -46,10 +46,10 @@
       "viewer"
     ],
     "installer": {
-      "url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.0/darktable-5.6.0-win64.exe",
+      "url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-win64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "B42989195DFFF44540C0B767B407987329CA99853612304CBBF14C48D1D3F803",
+      "sha256": "BB15A8E4D24C21097CFDEF0A560920F7FA0C05DEC93482448DD538F2BE02D6C4",
       "silentArgs": "/S"
     },
     "icon": {

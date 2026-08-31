@@ -2,7 +2,7 @@
   {
     "id": "LocalSend.LocalSend",
     "name": "LocalSend",
-    "version": "1.17.0",
+    "version": "1.18.2",
     "publisher": "Tien Do Nam",
     "description": "Share files to nearby devices. Free, open source, cross-platform. An open source cross-platform alternative to AirDrop.",
     "license": "Apache-2.0",
@@ -19,10 +19,10 @@
       "wifi"
     ],
     "installer": {
-      "url": "https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-windows-x86-64.exe",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "E554DCF9DC94DD842B54D464B559AC1D3631427BB02480C9A74785EC47CE639C",
+      "sha256": "F53856750AD087A17B996309171262FA7D89071C350E0DC5DF6530F34DD8A2AE",
       "silentArgs": "/S"
     },
     "icon": {
@@ -33,7 +33,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "34.0.2",
+    "version": "34.0.3",
     "publisher": "Nextcloud GmbH",
     "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
     "license": "GPL-2.0",
@@ -47,10 +47,10 @@
       "utility"
     ],
     "installer": {
-      "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.2/Nextcloud-34.0.2-x64.msi",
+      "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.3/Nextcloud-34.0.3-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "77E1D3067B8A236D3AC1068421C7AF6E52C4BD593E45695332F05EF4045E4B6F",
+      "sha256": "1A00F339165899E728CE4BAFA4A0195356F7BDC28F2FF45E4571AC6D95C77E9D",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {

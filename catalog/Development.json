@@ -91,7 +91,7 @@
   {
     "id": "GoLang.Go",
     "name": "Go Programming Language",
-    "version": "1.26.7",
+    "version": "1.27.0",
     "publisher": "https://go.dev",
     "description": "An open source programming language that makes it simple to build secure, scalable systems.",
     "license": "BSD-3-Clause",
@@ -105,10 +105,10 @@
       "programming-language"
     ],
     "installer": {
-      "url": "https://go.dev/dl/go1.26.7.windows-amd64.msi",
+      "url": "https://go.dev/dl/go1.27.0.windows-amd64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "C6E7AA52FA607F93E6E3A7E2FFD733782F3BDB2AA8CD0559A6CD9927AEF49C34",
+      "sha256": "728E9318C061B95082BCF167BAB8B6C6E0D91A045F89F403B3285FA39F0C455B",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -331,7 +331,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.5",
+    "version": "0.12.7",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.12.5/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.12.7/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "4C4D49D8738847D9B71BA319E49A5688C93EAC0FE6204B1DF24E98528DDDF39A",
+      "sha256": "BF1518AF459A3915511A11FDC6E2F43EF9A2AFA138B9D498EEB9642FE9D85218",
       "silentArgs": ""
     },
     "icon": {
