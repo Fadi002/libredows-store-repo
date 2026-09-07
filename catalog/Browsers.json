@@ -2,7 +2,7 @@
   {
     "id": "Brave.Brave",
     "name": "Brave",
-    "version": "151.1.93.138",
+    "version": "152.1.94.121",
     "publisher": "Brave Software Inc",
     "description": "Secure, Fast & Private Web Browser with Adblocker",
     "license": "MPL-2.0",
@@ -17,10 +17,10 @@
       "webpage"
     ],
     "installer": {
-      "url": "https://github.com/brave/brave-browser/releases/download/v1.93.138/BraveBrowserStandaloneSilentSetup.exe",
+      "url": "https://github.com/brave/brave-browser/releases/download/v1.94.121/BraveBrowserStandaloneSilentSetup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "F43ECFC3820BBEFD7628BCBE4F755B96A2F7FB61F3C71BADCF71AE82DC7B067C",
+      "sha256": "C5A01876562758AF69424D545852BD6699F44F50389D61A3D2EC8C835231E2E9",
       "silentArgs": "/S"
     },
     "icon": {
@@ -31,7 +31,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "154.0-2",
+    "version": "155.0.1-1",
     "publisher": "LibreWolf",
     "description": "A custom version of Firefox, focused on privacy, security and freedom.",
     "license": "MPL-2.0",
@@ -49,10 +49,10 @@
       "webpage"
     ],
     "installer": {
-      "url": "https://dl.librewolf.net/librewolf/154.0-2/librewolf-154.0-2-windows-x86_64-setup.exe",
+      "url": "https://dl.librewolf.net/librewolf/155.0.1-1/librewolf-155.0.1-1-windows-x86_64-setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "8D239C3A9F221E7469B82090389F24D99F17E0883EE3F3FD4AA6C2FC9609316F",
+      "sha256": "D01C3BC787A2FA575A79F9A1D69F199058CA9900B43C430BCA9FB690F67E0AE9",
       "silentArgs": "/S"
     },
     "icon": {
@@ -63,7 +63,7 @@
   {
     "id": "Mozilla.Firefox",
     "name": "Mozilla Firefox (en-US)",
-    "version": "154.0.1",
+    "version": "155.0.1",
     "publisher": "Mozilla",
     "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
     "license": "MPL-2.0",
@@ -80,10 +80,10 @@
       "webpage"
     ],
     "installer": {
-      "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/154.0.1/win64/en-US/Firefox%20Setup%20154.0.1.exe",
+      "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0.1/win64/en-US/Firefox%20Setup%20155.0.1.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "EC27C770AA951B8F11541CE5C4FA2D15EC8D7FE613662505CE9AB00B196A100E",
+      "sha256": "27A24FCDDE805CB6A34C5C102E98EBFE5F0302078202376D2828F8797ED80298",
       "silentArgs": "/S /PreventRebootRequired=true"
     },
     "icon": {
@@ -94,7 +94,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "151.0.7922.173-1.1",
+    "version": "152.0.7977.75-1.1",
     "publisher": "ungoogled-software",
     "description": "Windows packaging for ungoogled-chromium",
     "license": "BSD-3-Clause",
@@ -102,7 +102,7 @@
     "category": "Browsers",
     "tags": [],
     "installer": {
-      "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/151.0.7922.173-1.1/ungoogled-chromium_151.0.7922.173-1.1_installer_x64.exe",
+      "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/152.0.7977.75-1.1/ungoogled-chromium_152.0.7977.75-1.1_installer_x64.exe",
       "type": "exe",
       "architecture": "x64",
       "sha256": "",

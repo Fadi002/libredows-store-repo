@@ -2,7 +2,7 @@
   {
     "id": "DBeaver.DBeaver.Community",
     "name": "DBeaver",
-    "version": "26.1.5",
+    "version": "26.2.0",
     "publisher": "DBeaver Corp",
     "description": "Free Universal Database Tool",
     "license": "Apache-2.0",
@@ -27,10 +27,10 @@
       "tool"
     ],
     "installer": {
-      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.5/dbeaver-ce-26.1.5-windows-x86_64.exe",
+      "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.0/dbeaver-ce-26.2.0-windows-x86_64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "949712159583714E020233099AC2FBB96572B939935E59B5D8DE1D8DE9DD56BC",
+      "sha256": "009E8A99BE478261D09FDEB40AB5EF64BFE1F5FAF79288CAC670164719D921D2",
       "silentArgs": "/S"
     },
     "icon": {
@@ -66,7 +66,7 @@
   {
     "id": "GitHub.GitHubDesktop",
     "name": "GitHub Desktop",
-    "version": "3.6.4",
+    "version": "3.6.5",
     "publisher": "GitHub, Inc.",
     "description": "Focus on what matters instead of fighting with Git.",
     "license": "MIT",
@@ -77,10 +77,10 @@
       "github"
     ],
     "installer": {
-      "url": "https://desktop.githubusercontent.com/releases/3.6.4-28955b81/GitHubDesktopSetup-x64.msi",
+      "url": "https://desktop.githubusercontent.com/releases/3.6.5-13b57bd2/GitHubDesktopSetup-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "0AF2BEC6AD0E73B999EBD30B19C7042BEAA9B604B7A34839EC3E5975F11EC15B",
+      "sha256": "56D6D902EB49A3651F971F3DB338F6AA7625F68F5559C4E75C7D60842104F0EE",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -310,7 +310,7 @@
   {
     "id": "Rustlang.Rustup",
     "name": "Rustup: the Rust toolchain installer",
-    "version": "1.29.0",
+    "version": "1.29.1",
     "publisher": "The Rust Programming Language",
     "description": "The Rust toolchain installer",
     "license": "Apache-2.0 or MIT",
@@ -321,17 +321,17 @@
       "rustlang"
     ],
     "installer": {
-      "url": "https://static.rust-lang.org/rustup/archive/1.29.0/x86_64-pc-windows-msvc/rustup-init.exe",
+      "url": "https://static.rust-lang.org/rustup/archive/1.29.1/x86_64-pc-windows-msvc/rustup-init.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "86478E53F769379D7F0EBFA7C9AA97CB76CA92233F79AA2CC0DBEE2EFAAC73C7",
+      "sha256": "6F4BEF66261261FCB43131BE8720BAB817D403A09EDEC7455C371974B90BDB7E",
       "silentArgs": "-y -q"
     }
   },
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.7",
+    "version": "0.12.10",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.12.7/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.12.10/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "BF1518AF459A3915511A11FDC6E2F43EF9A2AFA138B9D498EEB9642FE9D85218",
+      "sha256": "F65744F94072152B1F86BA2AACE4D01F1124D9A8ECB235805039E3718C36CAC2",
       "silentArgs": ""
     },
     "icon": {

@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "generated": "2026-08-31T08:57:43Z",
+  "generated": "2026-09-07T07:35:03Z",
   "total": 84,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "151.1.93.138",
+      "version": "152.1.94.121",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,10 +21,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.93.138/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.94.121/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F43ECFC3820BBEFD7628BCBE4F755B96A2F7FB61F3C71BADCF71AE82DC7B067C",
+        "sha256": "C5A01876562758AF69424D545852BD6699F44F50389D61A3D2EC8C835231E2E9",
         "silentArgs": "/S"
       },
       "icon": {
@@ -35,7 +35,7 @@
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "154.0-2",
+      "version": "155.0.1-1",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -53,10 +53,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/154.0-2/librewolf-154.0-2-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/155.0.1-1/librewolf-155.0.1-1-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "8D239C3A9F221E7469B82090389F24D99F17E0883EE3F3FD4AA6C2FC9609316F",
+        "sha256": "D01C3BC787A2FA575A79F9A1D69F199058CA9900B43C430BCA9FB690F67E0AE9",
         "silentArgs": "/S"
       },
       "icon": {
@@ -67,7 +67,7 @@
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "154.0.1",
+      "version": "155.0.1",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -84,10 +84,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/154.0.1/win64/en-US/Firefox%20Setup%20154.0.1.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0.1/win64/en-US/Firefox%20Setup%20155.0.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "EC27C770AA951B8F11541CE5C4FA2D15EC8D7FE613662505CE9AB00B196A100E",
+        "sha256": "27A24FCDDE805CB6A34C5C102E98EBFE5F0302078202376D2828F8797ED80298",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -98,7 +98,7 @@
     {
       "id": "UngoogledChromium.UngoogledChromium",
       "name": "Ungoogled Chromium",
-      "version": "151.0.7922.173-1.1",
+      "version": "152.0.7977.75-1.1",
       "publisher": "ungoogled-software",
       "description": "Windows packaging for ungoogled-chromium",
       "license": "BSD-3-Clause",
@@ -106,7 +106,7 @@
       "category": "Browsers",
       "tags": [],
       "installer": {
-        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/151.0.7922.173-1.1/ungoogled-chromium_151.0.7922.173-1.1_installer_x64.exe",
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/152.0.7977.75-1.1/ungoogled-chromium_152.0.7977.75-1.1_installer_x64.exe",
         "type": "exe",
         "architecture": "x64",
         "sha256": "",
@@ -153,7 +153,7 @@
     {
       "id": "Element.Element",
       "name": "Element",
-      "version": "1.12.26",
+      "version": "1.12.27",
       "publisher": "Element",
       "description": "Secure collaboration and messaging",
       "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -177,10 +177,10 @@
         "talk"
       ],
       "installer": {
-        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.26.exe",
+        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.27.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "BFDE3EEE3AA31B44B907CADAA433CBFD29C5ED9D84ECF75F38EA73EC863A5F1E",
+        "sha256": "E74C3562DF34C8897FBF0FDD72C2ACA905291227BDBBACBA718E609D1750975C",
         "silentArgs": "--silent"
       },
       "icon": {
@@ -251,7 +251,7 @@
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "154.0",
+      "version": "155.0",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -262,10 +262,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/154.0/win64/en-US/Thunderbird%20Setup%20154.0.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/155.0/win64/en-US/Thunderbird%20Setup%20155.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "18EE5928CF6A8B35A582BF4758D03CC3AAF3F33ED3615F54CA15E4029A1371A7",
+        "sha256": "8A42316B94DE77FADDBCB53D02612DBC6687369BE8F629B1752882D4BC2AAC33",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -276,7 +276,7 @@
     {
       "id": "RocketChat.RocketChat",
       "name": "Rocket.Chat",
-      "version": "4.16.0",
+      "version": "4.17.0",
       "publisher": "Rocket.Chat Support",
       "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
       "license": "MIT",
@@ -294,10 +294,10 @@
         "video-conference"
       ],
       "installer": {
-        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.16.0/rocketchat-4.16.0-win-x64.exe",
+        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.0/rocketchat-4.17.0-win-x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "8CE01874553DA96ADD5631B25BE10BB9968EF67DA7CE8832BBABE2DA60159E87",
+        "sha256": "8A12E7BD5B6812A684CA167207C0EBE45466CC5A1F73819EF16764F0DBED6219",
         "silentArgs": "/S"
       },
       "icon": {
@@ -571,7 +571,7 @@
     {
       "id": "DBeaver.DBeaver.Community",
       "name": "DBeaver",
-      "version": "26.1.5",
+      "version": "26.2.0",
       "publisher": "DBeaver Corp",
       "description": "Free Universal Database Tool",
       "license": "Apache-2.0",
@@ -596,10 +596,10 @@
         "tool"
       ],
       "installer": {
-        "url": "https://github.com/dbeaver/dbeaver/releases/download/26.1.5/dbeaver-ce-26.1.5-windows-x86_64.exe",
+        "url": "https://github.com/dbeaver/dbeaver/releases/download/26.2.0/dbeaver-ce-26.2.0-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "949712159583714E020233099AC2FBB96572B939935E59B5D8DE1D8DE9DD56BC",
+        "sha256": "009E8A99BE478261D09FDEB40AB5EF64BFE1F5FAF79288CAC670164719D921D2",
         "silentArgs": "/S"
       },
       "icon": {
@@ -635,7 +635,7 @@
     {
       "id": "GitHub.GitHubDesktop",
       "name": "GitHub Desktop",
-      "version": "3.6.4",
+      "version": "3.6.5",
       "publisher": "GitHub, Inc.",
       "description": "Focus on what matters instead of fighting with Git.",
       "license": "MIT",
@@ -646,10 +646,10 @@
         "github"
       ],
       "installer": {
-        "url": "https://desktop.githubusercontent.com/releases/3.6.4-28955b81/GitHubDesktopSetup-x64.msi",
+        "url": "https://desktop.githubusercontent.com/releases/3.6.5-13b57bd2/GitHubDesktopSetup-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "0AF2BEC6AD0E73B999EBD30B19C7042BEAA9B604B7A34839EC3E5975F11EC15B",
+        "sha256": "56D6D902EB49A3651F971F3DB338F6AA7625F68F5559C4E75C7D60842104F0EE",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -879,7 +879,7 @@
     {
       "id": "Rustlang.Rustup",
       "name": "Rustup: the Rust toolchain installer",
-      "version": "1.29.0",
+      "version": "1.29.1",
       "publisher": "The Rust Programming Language",
       "description": "The Rust toolchain installer",
       "license": "Apache-2.0 or MIT",
@@ -890,17 +890,17 @@
         "rustlang"
       ],
       "installer": {
-        "url": "https://static.rust-lang.org/rustup/archive/1.29.0/x86_64-pc-windows-msvc/rustup-init.exe",
+        "url": "https://static.rust-lang.org/rustup/archive/1.29.1/x86_64-pc-windows-msvc/rustup-init.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "86478E53F769379D7F0EBFA7C9AA97CB76CA92233F79AA2CC0DBEE2EFAAC73C7",
+        "sha256": "6F4BEF66261261FCB43131BE8720BAB817D403A09EDEC7455C371974B90BDB7E",
         "silentArgs": "-y -q"
       }
     },
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.12.7",
+      "version": "0.12.10",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -910,10 +910,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.12.7/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.12.10/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "BF1518AF459A3915511A11FDC6E2F43EF9A2AFA138B9D498EEB9642FE9D85218",
+        "sha256": "F65744F94072152B1F86BA2AACE4D01F1124D9A8ECB235805039E3718C36CAC2",
         "silentArgs": ""
       },
       "icon": {
@@ -1112,7 +1112,7 @@
     {
       "id": "Rclone.Rclone",
       "name": "Rclone",
-      "version": "1.75.0",
+      "version": "1.75.1",
       "publisher": "Rclone",
       "description": "Rclone (\"rsync for cloud storage\") is a command-line program to sync files and directories to and from different cloud storage providers.",
       "license": "MIT",
@@ -1130,10 +1130,10 @@
         "webdav"
       ],
       "installer": {
-        "url": "https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-amd64.zip",
+        "url": "https://github.com/rclone/rclone/releases/download/v1.75.1/rclone-v1.75.1-windows-amd64.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "203581F0A7BAEAE873F2347483A798C79E2EAF5C384A4E9D866AA374F1C89AC0",
+        "sha256": "200EB602C126D82AA38B51E0F6B9AE837473FF99B51278D3F6F837574C494D6E",
         "silentArgs": ""
       },
       "icon": {
@@ -1244,7 +1244,7 @@
     {
       "id": "ItchIo.Itch",
       "name": "itch",
-      "version": "26.18.0",
+      "version": "26.20.0",
       "publisher": "itch corp.",
       "description": "Install, update and play indie games",
       "license": "MIT",
@@ -1254,10 +1254,10 @@
         "game"
       ],
       "installer": {
-        "url": "https://broth.itch.zone/install-itch/windows-amd64/1.29.0+808e1c8/archive/default",
+        "url": "https://broth.itch.zone/install-itch/windows-amd64/1.31.0+808e1c8/archive/default",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "90B1C102D63B8AFEC9A4DC67B07FCD7D0C6404720BAC53682F863F33CCAC4770",
+        "sha256": "4D0E2F46EFEFEBE90A5CF4920C5B88BA93623DC2400C7733FA50D5C89DC698D5",
         "silentArgs": "--silent"
       },
       "icon": {
@@ -1268,7 +1268,7 @@
     {
       "id": "Audacity.Audacity",
       "name": "Audacity",
-      "version": "3.7.8",
+      "version": "4.0.0",
       "publisher": "Audacity Team",
       "description": "The world’s most popular free software for recording and editing audio.",
       "license": "GPL-3.0-or-later",
@@ -1277,23 +1277,23 @@
       "tags": [
         "audio",
         "audio-editor",
-        "audioeditor",
-        "musegroup",
-        "musicstudio",
-        "music-studio",
-        "audiorecording",
         "audio-recording",
-        "soundrecording",
+        "audioeditor",
+        "audiorecording",
+        "musegroup",
+        "music-studio",
+        "musicstudio",
         "sound-recording",
         "soundediting",
+        "soundrecording",
         "xp8k0j757hhrdw"
       ],
       "installer": {
-        "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.8/audacity-win-3.7.8-64bit.exe",
-        "type": "inno",
+        "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.0/audacity-win-4.0.0-x86_64.msi",
+        "type": "msi",
         "architecture": "x64",
-        "sha256": "4A6D77F023C0209A396FCF2F3C7C04E240B6BA9897B3231A6ED18E14C10CAA16",
-        "silentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
+        "sha256": "2AECC44D28A004D15AE7C23C099F232BA8C5B3E6B19EBDBAF7D6C596316DC5B3",
+        "silentArgs": "/quiet /norestart"
       },
       "icon": {
         "file": "icons/audacity-audacity.png",
@@ -1335,7 +1335,7 @@
     {
       "id": "KDE.Kdenlive",
       "name": "Kdenlive",
-      "version": "26.04.3",
+      "version": "26.08.0",
       "publisher": "KDE e.V.",
       "description": "Free and Open Source Video Editor",
       "license": "GPL-3.0",
@@ -1354,10 +1354,10 @@
         "video-editor"
       ],
       "installer": {
-        "url": "https://download.kde.org/stable/kdenlive/26.04/windows/kdenlive-26.04.3.exe",
+        "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F5DCD8DDB7A8EF6754CEE7515513D6C777BC68079C6FEC37E20373F628F65FE1",
+        "sha256": "8E40613A25F3316308EED8C6A19F2F5BF0B16374F7A495594A8DDAB4090D3514",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1580,7 +1580,7 @@
     {
       "id": "AppFlowy.AppFlowy",
       "name": "AppFlowy",
-      "version": "0.14.0",
+      "version": "0.14.1",
       "publisher": "AppFlowy-IO",
       "description": "The Open Source Alternative To Notion.",
       "license": "AGPL-3.0",
@@ -1605,10 +1605,10 @@
         "wiki"
       ],
       "installer": {
-        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.0/AppFlowy-0.14.0-windows-x86_64.exe",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.1/AppFlowy-0.14.1-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "48B5E2CFFCBDB1730B6EB78AE15CBC5285C7197F79BF5704BC5D18B49ADE9702",
+        "sha256": "168569AA33BD072E5F7F171E92B46D7BFDB608E200386133C07388D0DAE0B893",
         "silentArgs": "/sp- /verysilent /norestart"
       },
       "icon": {
@@ -1619,7 +1619,7 @@
     {
       "id": "Joplin.Joplin",
       "name": "Joplin",
-      "version": "3.6.16",
+      "version": "3.7.16",
       "publisher": "Laurent Cozic",
       "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
       "license": "AGPL-3.0-or-later",
@@ -1637,10 +1637,10 @@
         "todo"
       ],
       "installer": {
-        "url": "https://github.com/laurent22/joplin/releases/download/v3.6.16/Joplin-Setup-3.6.16.exe",
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-Setup-3.7.16.exe",
         "type": "exe",
         "architecture": "x86",
-        "sha256": "BB26FA0BAB6905CF7A22F2D1DCB18EF7F7C0F62C2E10C84CD8E743F7CA962C50",
+        "sha256": "FE1BBD9A0540BA961945E7FB74E795FB495D62421ABA0C7323875376221BC253",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1801,7 +1801,7 @@
     {
       "id": "GnuPG.GnuPG",
       "name": "GNU Privacy Guard",
-      "version": "2.5.21",
+      "version": "2.5.22",
       "publisher": "The GnuPG Project",
       "description": "GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's PGP cryptographic software suite.",
       "license": "GPLv3",
@@ -1822,10 +1822,10 @@
         "x.509"
       ],
       "installer": {
-        "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.21_20260702.exe",
+        "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.22_20260831.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "6246C925A73167253444AFC24A0DEB83A3F43B7D636AF84D6AAF48A98A62F024",
+        "sha256": "2E5841E345D56F05199351BFCF585D28C6DC2326C8F76962F1E402F41F6D10E9",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1953,7 +1953,7 @@
     {
       "id": "TorProject.TorBrowser",
       "name": "Tor Browser",
-      "version": "15.0.20",
+      "version": "15.0.21",
       "publisher": "Tor Project",
       "description": "Protect yourself against tracking, surveillance, and censorship.",
       "license": "MPL-2.0",
@@ -1974,10 +1974,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.20/tor-browser-windows-x86_64-portable-15.0.20.exe",
+        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.21/tor-browser-windows-x86_64-portable-15.0.21.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "508331E09A3484993CB018AC7C62B927F3B4B4FEB901F2BE2252EFE7B4DA6620",
+        "sha256": "85997F863265119435AF3FEB88FF617F1801119BCCBED8283A56F64EB1EE462F",
         "silentArgs": "/S"
       },
       "icon": {

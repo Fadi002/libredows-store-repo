@@ -93,7 +93,7 @@
   {
     "id": "Rclone.Rclone",
     "name": "Rclone",
-    "version": "1.75.0",
+    "version": "1.75.1",
     "publisher": "Rclone",
     "description": "Rclone (\"rsync for cloud storage\") is a command-line program to sync files and directories to and from different cloud storage providers.",
     "license": "MIT",
@@ -111,10 +111,10 @@
       "webdav"
     ],
     "installer": {
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.0/rclone-v1.75.0-windows-amd64.zip",
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.1/rclone-v1.75.1-windows-amd64.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "203581F0A7BAEAE873F2347483A798C79E2EAF5C384A4E9D866AA374F1C89AC0",
+      "sha256": "200EB602C126D82AA38B51E0F6B9AE837473FF99B51278D3F6F837574C494D6E",
       "silentArgs": ""
     },
     "icon": {

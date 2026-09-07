@@ -2,7 +2,7 @@
   {
     "id": "Element.Element",
     "name": "Element",
-    "version": "1.12.26",
+    "version": "1.12.27",
     "publisher": "Element",
     "description": "Secure collaboration and messaging",
     "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -26,10 +26,10 @@
       "talk"
     ],
     "installer": {
-      "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.26.exe",
+      "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.27.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "BFDE3EEE3AA31B44B907CADAA433CBFD29C5ED9D84ECF75F38EA73EC863A5F1E",
+      "sha256": "E74C3562DF34C8897FBF0FDD72C2ACA905291227BDBBACBA718E609D1750975C",
       "silentArgs": "--silent"
     },
     "icon": {
@@ -100,7 +100,7 @@
   {
     "id": "Mozilla.Thunderbird",
     "name": "Mozilla Thunderbird (en-US)",
-    "version": "154.0",
+    "version": "155.0",
     "publisher": "Mozilla",
     "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
     "license": "MPL-2.0",
@@ -111,10 +111,10 @@
       "mail"
     ],
     "installer": {
-      "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/154.0/win64/en-US/Thunderbird%20Setup%20154.0.exe",
+      "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/155.0/win64/en-US/Thunderbird%20Setup%20155.0.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "18EE5928CF6A8B35A582BF4758D03CC3AAF3F33ED3615F54CA15E4029A1371A7",
+      "sha256": "8A42316B94DE77FADDBCB53D02612DBC6687369BE8F629B1752882D4BC2AAC33",
       "silentArgs": "/S /PreventRebootRequired=true"
     },
     "icon": {
@@ -125,7 +125,7 @@
   {
     "id": "RocketChat.RocketChat",
     "name": "Rocket.Chat",
-    "version": "4.16.0",
+    "version": "4.17.0",
     "publisher": "Rocket.Chat Support",
     "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
     "license": "MIT",
@@ -143,10 +143,10 @@
       "video-conference"
     ],
     "installer": {
-      "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.16.0/rocketchat-4.16.0-win-x64.exe",
+      "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.0/rocketchat-4.17.0-win-x64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "8CE01874553DA96ADD5631B25BE10BB9968EF67DA7CE8832BBABE2DA60159E87",
+      "sha256": "8A12E7BD5B6812A684CA167207C0EBE45466CC5A1F73819EF16764F0DBED6219",
       "silentArgs": "/S"
     },
     "icon": {

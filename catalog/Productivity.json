@@ -41,7 +41,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.14.0",
+    "version": "0.14.1",
     "publisher": "AppFlowy-IO",
     "description": "The Open Source Alternative To Notion.",
     "license": "AGPL-3.0",
@@ -66,10 +66,10 @@
       "wiki"
     ],
     "installer": {
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.0/AppFlowy-0.14.0-windows-x86_64.exe",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.1/AppFlowy-0.14.1-windows-x86_64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "48B5E2CFFCBDB1730B6EB78AE15CBC5285C7197F79BF5704BC5D18B49ADE9702",
+      "sha256": "168569AA33BD072E5F7F171E92B46D7BFDB608E200386133C07388D0DAE0B893",
       "silentArgs": "/sp- /verysilent /norestart"
     },
     "icon": {
@@ -80,7 +80,7 @@
   {
     "id": "Joplin.Joplin",
     "name": "Joplin",
-    "version": "3.6.16",
+    "version": "3.7.16",
     "publisher": "Laurent Cozic",
     "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
     "license": "AGPL-3.0-or-later",
@@ -98,10 +98,10 @@
       "todo"
     ],
     "installer": {
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.6.16/Joplin-Setup-3.6.16.exe",
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-Setup-3.7.16.exe",
       "type": "exe",
       "architecture": "x86",
-      "sha256": "BB26FA0BAB6905CF7A22F2D1DCB18EF7F7C0F62C2E10C84CD8E743F7CA962C50",
+      "sha256": "FE1BBD9A0540BA961945E7FB74E795FB495D62421ABA0C7323875376221BC253",
       "silentArgs": "/S"
     },
     "icon": {

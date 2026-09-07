@@ -2,7 +2,7 @@
   {
     "id": "Brave.Brave",
     "name": "Brave",
-    "version": "151.1.93.138",
+    "version": "152.1.94.121",
     "category": "Browsers",
     "homepage": "https://brave.com/download",
     "icon": "icons/brave-brave.png"
@@ -10,7 +10,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "154.0-2",
+    "version": "155.0.1-1",
     "category": "Browsers",
     "homepage": "https://librewolf.net/",
     "icon": "icons/librewolf-librewolf.ico"
@@ -18,7 +18,7 @@
   {
     "id": "Mozilla.Firefox",
     "name": "Mozilla Firefox (en-US)",
-    "version": "154.0.1",
+    "version": "155.0.1",
     "category": "Browsers",
     "homepage": "https://www.mozilla.org/firefox/",
     "icon": "icons/mozilla-firefox.ico"
@@ -26,7 +26,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "151.0.7922.173-1.1",
+    "version": "152.0.7977.75-1.1",
     "category": "Browsers",
     "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
     "icon": "icons/ungoogledchromium-ungoogledchromium.png"
@@ -42,7 +42,7 @@
   {
     "id": "Element.Element",
     "name": "Element",
-    "version": "1.12.26",
+    "version": "1.12.27",
     "category": "Communication",
     "homepage": "https://element.io/download",
     "icon": "icons/element-element.png"
@@ -66,7 +66,7 @@
   {
     "id": "Mozilla.Thunderbird",
     "name": "Mozilla Thunderbird (en-US)",
-    "version": "154.0",
+    "version": "155.0",
     "category": "Communication",
     "homepage": "https://www.thunderbird.net/",
     "icon": "icons/mozilla-thunderbird.ico"
@@ -74,7 +74,7 @@
   {
     "id": "RocketChat.RocketChat",
     "name": "Rocket.Chat",
-    "version": "4.16.0",
+    "version": "4.17.0",
     "category": "Communication",
     "homepage": "https://rocket.chat/",
     "icon": "icons/rocketchat-rocketchat.png"
@@ -154,7 +154,7 @@
   {
     "id": "DBeaver.DBeaver.Community",
     "name": "DBeaver",
-    "version": "26.1.5",
+    "version": "26.2.0",
     "category": "Development",
     "homepage": "https://dbeaver.io/download/",
     "icon": "icons/dbeaver-dbeaver-community.png"
@@ -170,7 +170,7 @@
   {
     "id": "GitHub.GitHubDesktop",
     "name": "GitHub Desktop",
-    "version": "3.6.4",
+    "version": "3.6.5",
     "category": "Development",
     "homepage": "https://github.com/apps/desktop",
     "icon": "icons/github-githubdesktop.png"
@@ -234,7 +234,7 @@
   {
     "id": "Rustlang.Rustup",
     "name": "Rustup: the Rust toolchain installer",
-    "version": "1.29.0",
+    "version": "1.29.1",
     "category": "Development",
     "homepage": "https://rust-lang.github.io/rustup/",
     "icon": ""
@@ -242,7 +242,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.7",
+    "version": "0.12.10",
     "category": "Development",
     "homepage": "https://github.com/astral-sh/uv",
     "icon": "icons/astral-sh-uv.png"
@@ -298,7 +298,7 @@
   {
     "id": "Rclone.Rclone",
     "name": "Rclone",
-    "version": "1.75.0",
+    "version": "1.75.1",
     "category": "File Sharing",
     "homepage": "https://rclone.org/",
     "icon": "icons/rclone-rclone.png"
@@ -330,7 +330,7 @@
   {
     "id": "ItchIo.Itch",
     "name": "itch",
-    "version": "26.18.0",
+    "version": "26.20.0",
     "category": "Games",
     "homepage": "https://itch.io/app",
     "icon": "icons/itchio-itch.ico"
@@ -338,7 +338,7 @@
   {
     "id": "Audacity.Audacity",
     "name": "Audacity",
-    "version": "3.7.8",
+    "version": "4.0.0",
     "category": "Media",
     "homepage": "https://www.audacityteam.org/",
     "icon": "icons/audacity-audacity.png"
@@ -354,7 +354,7 @@
   {
     "id": "KDE.Kdenlive",
     "name": "Kdenlive",
-    "version": "26.04.3",
+    "version": "26.08.0",
     "category": "Media",
     "homepage": "https://kdenlive.org/",
     "icon": "icons/kde-kdenlive.png"
@@ -418,7 +418,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.14.0",
+    "version": "0.14.1",
     "category": "Productivity",
     "homepage": "https://github.com/AppFlowy-IO/AppFlowy",
     "icon": "icons/appflowy-appflowy.png"
@@ -426,7 +426,7 @@
   {
     "id": "Joplin.Joplin",
     "name": "Joplin",
-    "version": "3.6.16",
+    "version": "3.7.16",
     "category": "Productivity",
     "homepage": "https://joplinapp.org/",
     "icon": "icons/joplin-joplin.png"
@@ -474,7 +474,7 @@
   {
     "id": "GnuPG.GnuPG",
     "name": "GNU Privacy Guard",
-    "version": "2.5.21",
+    "version": "2.5.22",
     "category": "Security",
     "homepage": "https://gnupg.org/",
     "icon": "icons/gnupg-gnupg.ico"
@@ -514,7 +514,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.20",
+    "version": "15.0.21",
     "category": "Security",
     "homepage": "https://www.torproject.org/",
     "icon": "icons/torproject-torbrowser.ico"

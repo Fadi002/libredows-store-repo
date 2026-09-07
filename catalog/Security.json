@@ -63,7 +63,7 @@
   {
     "id": "GnuPG.GnuPG",
     "name": "GNU Privacy Guard",
-    "version": "2.5.21",
+    "version": "2.5.22",
     "publisher": "The GnuPG Project",
     "description": "GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's PGP cryptographic software suite.",
     "license": "GPLv3",
@@ -84,10 +84,10 @@
       "x.509"
     ],
     "installer": {
-      "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.21_20260702.exe",
+      "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.22_20260831.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "6246C925A73167253444AFC24A0DEB83A3F43B7D636AF84D6AAF48A98A62F024",
+      "sha256": "2E5841E345D56F05199351BFCF585D28C6DC2326C8F76962F1E402F41F6D10E9",
       "silentArgs": "/S"
     },
     "icon": {
@@ -215,7 +215,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.20",
+    "version": "15.0.21",
     "publisher": "Tor Project",
     "description": "Protect yourself against tracking, surveillance, and censorship.",
     "license": "MPL-2.0",
@@ -236,10 +236,10 @@
       "web-browser"
     ],
     "installer": {
-      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.20/tor-browser-windows-x86_64-portable-15.0.20.exe",
+      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.21/tor-browser-windows-x86_64-portable-15.0.21.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "508331E09A3484993CB018AC7C62B927F3B4B4FEB901F2BE2252EFE7B4DA6620",
+      "sha256": "85997F863265119435AF3FEB88FF617F1801119BCCBED8283A56F64EB1EE462F",
       "silentArgs": "/S"
     },
     "icon": {

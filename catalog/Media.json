@@ -2,7 +2,7 @@
   {
     "id": "Audacity.Audacity",
     "name": "Audacity",
-    "version": "3.7.8",
+    "version": "4.0.0",
     "publisher": "Audacity Team",
     "description": "The world’s most popular free software for recording and editing audio.",
     "license": "GPL-3.0-or-later",
@@ -11,23 +11,23 @@
     "tags": [
       "audio",
       "audio-editor",
-      "audioeditor",
-      "musegroup",
-      "musicstudio",
-      "music-studio",
-      "audiorecording",
       "audio-recording",
-      "soundrecording",
+      "audioeditor",
+      "audiorecording",
+      "musegroup",
+      "music-studio",
+      "musicstudio",
       "sound-recording",
       "soundediting",
+      "soundrecording",
       "xp8k0j757hhrdw"
     ],
     "installer": {
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.7.8/audacity-win-3.7.8-64bit.exe",
-      "type": "inno",
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.0/audacity-win-4.0.0-x86_64.msi",
+      "type": "msi",
       "architecture": "x64",
-      "sha256": "4A6D77F023C0209A396FCF2F3C7C04E240B6BA9897B3231A6ED18E14C10CAA16",
-      "silentArgs": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
+      "sha256": "2AECC44D28A004D15AE7C23C099F232BA8C5B3E6B19EBDBAF7D6C596316DC5B3",
+      "silentArgs": "/quiet /norestart"
     },
     "icon": {
       "file": "icons/audacity-audacity.png",
@@ -69,7 +69,7 @@
   {
     "id": "KDE.Kdenlive",
     "name": "Kdenlive",
-    "version": "26.04.3",
+    "version": "26.08.0",
     "publisher": "KDE e.V.",
     "description": "Free and Open Source Video Editor",
     "license": "GPL-3.0",
@@ -88,10 +88,10 @@
       "video-editor"
     ],
     "installer": {
-      "url": "https://download.kde.org/stable/kdenlive/26.04/windows/kdenlive-26.04.3.exe",
+      "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.0.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "F5DCD8DDB7A8EF6754CEE7515513D6C777BC68079C6FEC37E20373F628F65FE1",
+      "sha256": "8E40613A25F3316308EED8C6A19F2F5BF0B16374F7A495594A8DDAB4090D3514",
       "silentArgs": "/S"
     },
     "icon": {
