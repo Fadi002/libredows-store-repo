@@ -41,7 +41,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.14.1",
+    "version": "0.14.2",
     "publisher": "AppFlowy-IO",
     "description": "The Open Source Alternative To Notion.",
     "license": "AGPL-3.0",
@@ -66,10 +66,10 @@
       "wiki"
     ],
     "installer": {
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.1/AppFlowy-0.14.1-windows-x86_64.exe",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.2/AppFlowy-0.14.2-windows-x86_64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "168569AA33BD072E5F7F171E92B46D7BFDB608E200386133C07388D0DAE0B893",
+      "sha256": "F9B3576625B6E003CE27F1B022913F13CFEA08D212C223D3FB94A0C173C9CDC5",
       "silentArgs": "/sp- /verysilent /norestart"
     },
     "icon": {
@@ -80,7 +80,7 @@
   {
     "id": "Joplin.Joplin",
     "name": "Joplin",
-    "version": "3.7.16",
+    "version": "3.7.18",
     "publisher": "Laurent Cozic",
     "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
     "license": "AGPL-3.0-or-later",
@@ -98,10 +98,10 @@
       "todo"
     ],
     "installer": {
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-Setup-3.7.16.exe",
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-Setup-3.7.18.exe",
       "type": "exe",
       "architecture": "x86",
-      "sha256": "FE1BBD9A0540BA961945E7FB74E795FB495D62421ABA0C7323875376221BC253",
+      "sha256": "88631FA78E352245BC5770573A0905D83876E530D97F222817177D7C9A6CAE7F",
       "silentArgs": "/S"
     },
     "icon": {
@@ -169,7 +169,7 @@
   {
     "id": "StandardNotes.StandardNotes",
     "name": "Standard Notes",
-    "version": "3.201.21",
+    "version": "3.202.0",
     "publisher": "Standard Notes",
     "description": "An end-to-end encrypted notes app for digitalists and professionals.",
     "license": "AGPL-3.0",
@@ -187,10 +187,10 @@
       "standardnotes"
     ],
     "installer": {
-      "url": "https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.201.21/standard-notes-3.201.21-win-x64.exe",
+      "url": "https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.202.0/standard-notes-3.202.0-win-x64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "DA034509C6FBFDD05F0AD7C4106BA7D8E562CCA680486AF7EDCBCC1AB81F148E",
+      "sha256": "D69D93D098665C2B62A25AB45B72BDF983A4DAE9432EE071981AFCB61035761F",
       "silentArgs": "/S"
     },
     "icon": {

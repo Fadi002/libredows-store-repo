@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "generated": "2026-09-07T07:35:03Z",
+  "generated": "2026-09-14T08:08:57Z",
   "total": 84,
   "apps": [
     {
@@ -98,7 +98,7 @@
     {
       "id": "UngoogledChromium.UngoogledChromium",
       "name": "Ungoogled Chromium",
-      "version": "152.0.7977.75-1.1",
+      "version": "152.0.7977.82-1.1",
       "publisher": "ungoogled-software",
       "description": "Windows packaging for ungoogled-chromium",
       "license": "BSD-3-Clause",
@@ -106,7 +106,7 @@
       "category": "Browsers",
       "tags": [],
       "installer": {
-        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/152.0.7977.75-1.1/ungoogled-chromium_152.0.7977.75-1.1_installer_x64.exe",
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/152.0.7977.82-1.1/ungoogled-chromium_152.0.7977.82-1.1_installer_x64.exe",
         "type": "exe",
         "architecture": "x64",
         "sha256": "",
@@ -120,7 +120,7 @@
     {
       "id": "Waterfox.Waterfox",
       "name": "Waterfox",
-      "version": "6.7.1.1",
+      "version": "6.7.2",
       "publisher": "BrowserWorks",
       "description": "Fast and Private Web Browser",
       "license": "MPL-2.0",
@@ -139,10 +139,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.1.1/WINNT_x86_64/Waterfox%20Setup%206.7.1.1.exe",
+        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.2/WINNT_x86_64/Waterfox%20Setup%206.7.2.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "16E297CDD175C2D9FF50008879E7FB2C9EBA9622D8D7E90E38038DFA826E51C0",
+        "sha256": "C423C2061E2EC2491C8436C80E1F4D890BD5DDCDB886973A40013C93D8C8B7A6",
         "silentArgs": "-ms"
       },
       "icon": {
@@ -251,7 +251,7 @@
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "155.0",
+      "version": "155.0.1",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -262,10 +262,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/155.0/win64/en-US/Thunderbird%20Setup%20155.0.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/155.0.1/win64/en-US/Thunderbird%20Setup%20155.0.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "8A42316B94DE77FADDBCB53D02612DBC6687369BE8F629B1752882D4BC2AAC33",
+        "sha256": "5804AA8C952CA263A6718D0C05509CB27283490456F724D8BBB62FDEB0F6D11D",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -900,7 +900,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.12.10",
+      "version": "0.12.13",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -910,10 +910,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.12.10/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.12.13/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "F65744F94072152B1F86BA2AACE4D01F1124D9A8ECB235805039E3718C36CAC2",
+        "sha256": "A86C9DC7BAD9B03F388583B7187C05FE9951C2E0D392217E8FD43D97787F6EC2",
         "silentArgs": ""
       },
       "icon": {
@@ -985,7 +985,7 @@
     {
       "id": "yt-dlp.yt-dlp",
       "name": "yt-dlp",
-      "version": "2026.07.04",
+      "version": "2026.08.19",
       "publisher": "yt-dlp",
       "description": "A feature-rich command-line audio/video downloader.",
       "license": "Unlicense",
@@ -1007,10 +1007,10 @@
         "ytdlp"
       ],
       "installer": {
-        "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.07.04/yt-dlp.exe",
+        "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "52FE3C26DCF71FBDC85B528589020BB0B8E383155CFA81B64DD447BBE35E24B8",
+        "sha256": "66674953FE251B89F4D08C5F0E35E0728679BD67AB3D7D05C0562AF101DD3E7A",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1181,7 +1181,7 @@
     {
       "id": "Syncthing.Syncthing",
       "name": "Syncthing",
-      "version": "2.1.3",
+      "version": "2.1.5",
       "publisher": "The Syncthing Authors",
       "description": "Open Source Continuous File Synchronization",
       "license": "MPL-2.0",
@@ -1203,10 +1203,10 @@
         "synchronization"
       ],
       "installer": {
-        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.3/syncthing-windows-amd64-v2.1.3.zip",
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-windows-amd64-v2.1.5.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "C0B79CFFA6CE5DAD5ED41EDE86454F3325D13CCAC33447A528CB59D65FBC3A21",
+        "sha256": "39571E4D0900C2A2CAB14C0B170F49751340A869E49734CCC8079D9B98A7974B",
         "silentArgs": ""
       },
       "icon": {
@@ -1268,8 +1268,8 @@
     {
       "id": "Audacity.Audacity",
       "name": "Audacity",
-      "version": "4.0.0",
-      "publisher": "Audacity Team",
+      "version": "4.0.0.262451524",
+      "publisher": "Audacity",
       "description": "The world’s most popular free software for recording and editing audio.",
       "license": "GPL-3.0-or-later",
       "homepage": "https://www.audacityteam.org/",
@@ -1335,7 +1335,7 @@
     {
       "id": "KDE.Kdenlive",
       "name": "Kdenlive",
-      "version": "26.08.0",
+      "version": "26.08.1",
       "publisher": "KDE e.V.",
       "description": "Free and Open Source Video Editor",
       "license": "GPL-3.0",
@@ -1354,10 +1354,10 @@
         "video-editor"
       ],
       "installer": {
-        "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.0.exe",
+        "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "8E40613A25F3316308EED8C6A19F2F5BF0B16374F7A495594A8DDAB4090D3514",
+        "sha256": "B436430EB7DD4B3D1DA318A53A77798CDAF3543A9F790824DF214588B07F5D1E",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1580,7 +1580,7 @@
     {
       "id": "AppFlowy.AppFlowy",
       "name": "AppFlowy",
-      "version": "0.14.1",
+      "version": "0.14.2",
       "publisher": "AppFlowy-IO",
       "description": "The Open Source Alternative To Notion.",
       "license": "AGPL-3.0",
@@ -1605,10 +1605,10 @@
         "wiki"
       ],
       "installer": {
-        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.1/AppFlowy-0.14.1-windows-x86_64.exe",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.2/AppFlowy-0.14.2-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "168569AA33BD072E5F7F171E92B46D7BFDB608E200386133C07388D0DAE0B893",
+        "sha256": "F9B3576625B6E003CE27F1B022913F13CFEA08D212C223D3FB94A0C173C9CDC5",
         "silentArgs": "/sp- /verysilent /norestart"
       },
       "icon": {
@@ -1619,7 +1619,7 @@
     {
       "id": "Joplin.Joplin",
       "name": "Joplin",
-      "version": "3.7.16",
+      "version": "3.7.18",
       "publisher": "Laurent Cozic",
       "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
       "license": "AGPL-3.0-or-later",
@@ -1637,10 +1637,10 @@
         "todo"
       ],
       "installer": {
-        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.16/Joplin-Setup-3.7.16.exe",
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-Setup-3.7.18.exe",
         "type": "exe",
         "architecture": "x86",
-        "sha256": "FE1BBD9A0540BA961945E7FB74E795FB495D62421ABA0C7323875376221BC253",
+        "sha256": "88631FA78E352245BC5770573A0905D83876E530D97F222817177D7C9A6CAE7F",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1708,7 +1708,7 @@
     {
       "id": "StandardNotes.StandardNotes",
       "name": "Standard Notes",
-      "version": "3.201.21",
+      "version": "3.202.0",
       "publisher": "Standard Notes",
       "description": "An end-to-end encrypted notes app for digitalists and professionals.",
       "license": "AGPL-3.0",
@@ -1726,10 +1726,10 @@
         "standardnotes"
       ],
       "installer": {
-        "url": "https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.201.21/standard-notes-3.201.21-win-x64.exe",
+        "url": "https://github.com/standardnotes/app/releases/download/@standardnotes/desktop@3.202.0/standard-notes-3.202.0-win-x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "DA034509C6FBFDD05F0AD7C4106BA7D8E562CCA680486AF7EDCBCC1AB81F148E",
+        "sha256": "D69D93D098665C2B62A25AB45B72BDF983A4DAE9432EE071981AFCB61035761F",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1857,7 +1857,7 @@
         "silentArgs": "/S"
       },
       "icon": {
-        "file": "icons/i2p-i2peasyinstallbundle.webp",
+        "file": "icons/i2p-i2peasyinstallbundle.png",
         "url": "https://icons.duckduckgo.com/ip3/geti2p.net.ico"
       }
     },
@@ -1893,7 +1893,7 @@
     {
       "id": "Proton.ProtonVPN",
       "name": "Proton VPN",
-      "version": "5.1.7",
+      "version": "5.1.8",
       "publisher": "Proton AG",
       "description": "High-speed Swiss VPN that safeguards your privacy.",
       "license": "GPL-3.0",
@@ -1909,10 +1909,10 @@
         "vpn"
       ],
       "installer": {
-        "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.7_x64.exe",
+        "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.8_x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "AB8C87D7DB3CB76271DF72186C1AF0831362671B145ACC449A8443A415379C8A",
+        "sha256": "C7E9D52FD4D3B65FF8EA83C24DBBE3F4AD9B3726739CF645CE15B9E24EDC4AA4",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1953,7 +1953,7 @@
     {
       "id": "TorProject.TorBrowser",
       "name": "Tor Browser",
-      "version": "15.0.21",
+      "version": "15.0.22",
       "publisher": "Tor Project",
       "description": "Protect yourself against tracking, surveillance, and censorship.",
       "license": "MPL-2.0",
@@ -1974,10 +1974,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.21/tor-browser-windows-x86_64-portable-15.0.21.exe",
+        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.22/tor-browser-windows-x86_64-portable-15.0.22.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "85997F863265119435AF3FEB88FF617F1801119BCCBED8283A56F64EB1EE462F",
+        "sha256": "1BCA1C74798F6624E35EF6BD2713C51D92F71E51F2897D8F203991AA310476DB",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2010,7 +2010,7 @@
     {
       "id": "7zip.7zip",
       "name": "7-Zip",
-      "version": "26.02",
+      "version": "26.03",
       "publisher": "Igor Pavlov",
       "description": "A file archiver with a high compression ratio.",
       "license": "LGPL-2.1",
@@ -2034,15 +2034,11 @@
         "zip"
       ],
       "installer": {
-        "url": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.msi",
+        "url": "https://www.7-zip.org/a/7z2603-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "DB407A4F6D4999E5C7BC00CE8A882BE94717B56E7FA68140FE3F12605D91643E",
+        "sha256": "C0680064D698A62DD4A5A47F403DB356A6531A5473E4C4B1D090EA2590513926",
         "silentArgs": "/quiet /norestart"
-      },
-      "icon": {
-        "file": "icons/7zip-7zip.png",
-        "url": "https://avatars.githubusercontent.com/ip7z?size=256"
       }
     },
     {
@@ -2079,7 +2075,7 @@
     {
       "id": "BleachBit.BleachBit",
       "name": "BleachBit",
-      "version": "6.0.2.3702",
+      "version": "6.0.4",
       "publisher": "BleachBit",
       "description": "Clean Your System and Free Disk Space",
       "license": "GPL-3.0",
@@ -2101,10 +2097,10 @@
         "wipe"
       ],
       "installer": {
-        "url": "https://download.bleachbit.org/BleachBit-6.0.2-setup.exe",
+        "url": "https://download.bleachbit.org/BleachBit-6.0.4-setup.exe",
         "type": "exe",
         "architecture": "x86",
-        "sha256": "16532BC640315F87BD66E04F78B137E1EC90DB2D0B7357BFCC47AF8873E0076E",
+        "sha256": "C4CD6BB1F4B163DC28B13CEF2995423DE69E6776F16387F54943DCC6E7267A6D",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2330,7 +2326,7 @@
     {
       "id": "Microsoft.PowerShell",
       "name": "PowerShell",
-      "version": "7.6.5.0",
+      "version": "7.6.6.0",
       "publisher": "Microsoft Corporation",
       "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
       "license": "MIT",
@@ -2345,10 +2341,10 @@
         "shell"
       ],
       "installer": {
-        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.5/PowerShell-7.6.5-win-x64.msi",
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.6/PowerShell-7.6.6-win-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "3A87C24E044EC792047D734C841917EE4323A535E25F645AE6C33141A35FCA8D",
+        "sha256": "958838FF55091E1C8705D89EFED0CC7E8245A3A6EF6C0CCFAE20015227108AD8",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -2359,7 +2355,7 @@
     {
       "id": "PuTTY.PuTTY",
       "name": "PuTTY",
-      "version": "0.84.0.0",
+      "version": "0.85.0.0",
       "publisher": "Simon Tatham",
       "description": "A free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator.",
       "license": "MIT",
@@ -2374,14 +2370,13 @@
         "tty",
         "xterm",
         "supdup",
-        "rlogin",
-        "xpfnzksklbp7rj"
+        "rlogin"
       ],
       "installer": {
-        "url": "https://the.earth.li/~sgtatham/putty/0.84/w64/putty-64bit-0.84-installer.msi",
+        "url": "https://the.earth.li/~sgtatham/putty/0.85/w64/putty-64bit-0.85-installer.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "190D00150E67AD3FF51AF4B50E76A3AB97B863A34EFD50472627B17C0CF4102B",
+        "sha256": "2213EBACF962B709411D654A40087508A694756BC4E41C5A1C24AD86596B2511",
         "silentArgs": "/quiet /norestart"
       }
     },

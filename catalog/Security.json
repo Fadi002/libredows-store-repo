@@ -119,7 +119,7 @@
       "silentArgs": "/S"
     },
     "icon": {
-      "file": "icons/i2p-i2peasyinstallbundle.webp",
+      "file": "icons/i2p-i2peasyinstallbundle.png",
       "url": "https://icons.duckduckgo.com/ip3/geti2p.net.ico"
     }
   },
@@ -155,7 +155,7 @@
   {
     "id": "Proton.ProtonVPN",
     "name": "Proton VPN",
-    "version": "5.1.7",
+    "version": "5.1.8",
     "publisher": "Proton AG",
     "description": "High-speed Swiss VPN that safeguards your privacy.",
     "license": "GPL-3.0",
@@ -171,10 +171,10 @@
       "vpn"
     ],
     "installer": {
-      "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.7_x64.exe",
+      "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.8_x64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "AB8C87D7DB3CB76271DF72186C1AF0831362671B145ACC449A8443A415379C8A",
+      "sha256": "C7E9D52FD4D3B65FF8EA83C24DBBE3F4AD9B3726739CF645CE15B9E24EDC4AA4",
       "silentArgs": "/S"
     },
     "icon": {
@@ -215,7 +215,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.21",
+    "version": "15.0.22",
     "publisher": "Tor Project",
     "description": "Protect yourself against tracking, surveillance, and censorship.",
     "license": "MPL-2.0",
@@ -236,10 +236,10 @@
       "web-browser"
     ],
     "installer": {
-      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.21/tor-browser-windows-x86_64-portable-15.0.21.exe",
+      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.22/tor-browser-windows-x86_64-portable-15.0.22.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "85997F863265119435AF3FEB88FF617F1801119BCCBED8283A56F64EB1EE462F",
+      "sha256": "1BCA1C74798F6624E35EF6BD2713C51D92F71E51F2897D8F203991AA310476DB",
       "silentArgs": "/S"
     },
     "icon": {

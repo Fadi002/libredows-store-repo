@@ -2,8 +2,8 @@
   {
     "id": "Audacity.Audacity",
     "name": "Audacity",
-    "version": "4.0.0",
-    "publisher": "Audacity Team",
+    "version": "4.0.0.262451524",
+    "publisher": "Audacity",
     "description": "The world’s most popular free software for recording and editing audio.",
     "license": "GPL-3.0-or-later",
     "homepage": "https://www.audacityteam.org/",
@@ -69,7 +69,7 @@
   {
     "id": "KDE.Kdenlive",
     "name": "Kdenlive",
-    "version": "26.08.0",
+    "version": "26.08.1",
     "publisher": "KDE e.V.",
     "description": "Free and Open Source Video Editor",
     "license": "GPL-3.0",
@@ -88,10 +88,10 @@
       "video-editor"
     ],
     "installer": {
-      "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.0.exe",
+      "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.1.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "8E40613A25F3316308EED8C6A19F2F5BF0B16374F7A495594A8DDAB4090D3514",
+      "sha256": "B436430EB7DD4B3D1DA318A53A77798CDAF3543A9F790824DF214588B07F5D1E",
       "silentArgs": "/S"
     },
     "icon": {

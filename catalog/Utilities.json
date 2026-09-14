@@ -2,7 +2,7 @@
   {
     "id": "7zip.7zip",
     "name": "7-Zip",
-    "version": "26.02",
+    "version": "26.03",
     "publisher": "Igor Pavlov",
     "description": "A file archiver with a high compression ratio.",
     "license": "LGPL-2.1",
@@ -26,15 +26,11 @@
       "zip"
     ],
     "installer": {
-      "url": "https://github.com/ip7z/7zip/releases/download/26.02/7z2602-x64.msi",
+      "url": "https://www.7-zip.org/a/7z2603-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "DB407A4F6D4999E5C7BC00CE8A882BE94717B56E7FA68140FE3F12605D91643E",
+      "sha256": "C0680064D698A62DD4A5A47F403DB356A6531A5473E4C4B1D090EA2590513926",
       "silentArgs": "/quiet /norestart"
-    },
-    "icon": {
-      "file": "icons/7zip-7zip.png",
-      "url": "https://avatars.githubusercontent.com/ip7z?size=256"
     }
   },
   {
@@ -71,7 +67,7 @@
   {
     "id": "BleachBit.BleachBit",
     "name": "BleachBit",
-    "version": "6.0.2.3702",
+    "version": "6.0.4",
     "publisher": "BleachBit",
     "description": "Clean Your System and Free Disk Space",
     "license": "GPL-3.0",
@@ -93,10 +89,10 @@
       "wipe"
     ],
     "installer": {
-      "url": "https://download.bleachbit.org/BleachBit-6.0.2-setup.exe",
+      "url": "https://download.bleachbit.org/BleachBit-6.0.4-setup.exe",
       "type": "exe",
       "architecture": "x86",
-      "sha256": "16532BC640315F87BD66E04F78B137E1EC90DB2D0B7357BFCC47AF8873E0076E",
+      "sha256": "C4CD6BB1F4B163DC28B13CEF2995423DE69E6776F16387F54943DCC6E7267A6D",
       "silentArgs": "/S"
     },
     "icon": {
@@ -322,7 +318,7 @@
   {
     "id": "Microsoft.PowerShell",
     "name": "PowerShell",
-    "version": "7.6.5.0",
+    "version": "7.6.6.0",
     "publisher": "Microsoft Corporation",
     "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
     "license": "MIT",
@@ -337,10 +333,10 @@
       "shell"
     ],
     "installer": {
-      "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.5/PowerShell-7.6.5-win-x64.msi",
+      "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.6/PowerShell-7.6.6-win-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "3A87C24E044EC792047D734C841917EE4323A535E25F645AE6C33141A35FCA8D",
+      "sha256": "958838FF55091E1C8705D89EFED0CC7E8245A3A6EF6C0CCFAE20015227108AD8",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -351,7 +347,7 @@
   {
     "id": "PuTTY.PuTTY",
     "name": "PuTTY",
-    "version": "0.84.0.0",
+    "version": "0.85.0.0",
     "publisher": "Simon Tatham",
     "description": "A free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator.",
     "license": "MIT",
@@ -366,14 +362,13 @@
       "tty",
       "xterm",
       "supdup",
-      "rlogin",
-      "xpfnzksklbp7rj"
+      "rlogin"
     ],
     "installer": {
-      "url": "https://the.earth.li/~sgtatham/putty/0.84/w64/putty-64bit-0.84-installer.msi",
+      "url": "https://the.earth.li/~sgtatham/putty/0.85/w64/putty-64bit-0.85-installer.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "190D00150E67AD3FF51AF4B50E76A3AB97B863A34EFD50472627B17C0CF4102B",
+      "sha256": "2213EBACF962B709411D654A40087508A694756BC4E41C5A1C24AD86596B2511",
       "silentArgs": "/quiet /norestart"
     }
   },

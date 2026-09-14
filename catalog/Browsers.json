@@ -94,7 +94,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "152.0.7977.75-1.1",
+    "version": "152.0.7977.82-1.1",
     "publisher": "ungoogled-software",
     "description": "Windows packaging for ungoogled-chromium",
     "license": "BSD-3-Clause",
@@ -102,7 +102,7 @@
     "category": "Browsers",
     "tags": [],
     "installer": {
-      "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/152.0.7977.75-1.1/ungoogled-chromium_152.0.7977.75-1.1_installer_x64.exe",
+      "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/152.0.7977.82-1.1/ungoogled-chromium_152.0.7977.82-1.1_installer_x64.exe",
       "type": "exe",
       "architecture": "x64",
       "sha256": "",
@@ -116,7 +116,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.7.1.1",
+    "version": "6.7.2",
     "publisher": "BrowserWorks",
     "description": "Fast and Private Web Browser",
     "license": "MPL-2.0",
@@ -135,10 +135,10 @@
       "web-browser"
     ],
     "installer": {
-      "url": "https://cdn.waterfox.com/waterfox/releases/6.7.1.1/WINNT_x86_64/Waterfox%20Setup%206.7.1.1.exe",
+      "url": "https://cdn.waterfox.com/waterfox/releases/6.7.2/WINNT_x86_64/Waterfox%20Setup%206.7.2.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "16E297CDD175C2D9FF50008879E7FB2C9EBA9622D8D7E90E38038DFA826E51C0",
+      "sha256": "C423C2061E2EC2491C8436C80E1F4D890BD5DDCDB886973A40013C93D8C8B7A6",
       "silentArgs": "-ms"
     },
     "icon": {

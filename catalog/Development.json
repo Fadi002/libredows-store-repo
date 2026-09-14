@@ -331,7 +331,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.10",
+    "version": "0.12.13",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.12.10/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.12.13/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "F65744F94072152B1F86BA2AACE4D01F1124D9A8ECB235805039E3718C36CAC2",
+      "sha256": "A86C9DC7BAD9B03F388583B7187C05FE9951C2E0D392217E8FD43D97787F6EC2",
       "silentArgs": ""
     },
     "icon": {
@@ -416,7 +416,7 @@
   {
     "id": "yt-dlp.yt-dlp",
     "name": "yt-dlp",
-    "version": "2026.07.04",
+    "version": "2026.08.19",
     "publisher": "yt-dlp",
     "description": "A feature-rich command-line audio/video downloader.",
     "license": "Unlicense",
@@ -438,10 +438,10 @@
       "ytdlp"
     ],
     "installer": {
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.07.04/yt-dlp.exe",
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "52FE3C26DCF71FBDC85B528589020BB0B8E383155CFA81B64DD447BBE35E24B8",
+      "sha256": "66674953FE251B89F4D08C5F0E35E0728679BD67AB3D7D05C0562AF101DD3E7A",
       "silentArgs": "/S"
     },
     "icon": {
