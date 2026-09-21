@@ -2,7 +2,7 @@
   {
     "id": "Brave.Brave",
     "name": "Brave",
-    "version": "152.1.94.121",
+    "version": "153.1.95.104",
     "category": "Browsers",
     "homepage": "https://brave.com/download",
     "icon": "icons/brave-brave.png"
@@ -10,7 +10,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "155.0.1-1",
+    "version": "156.0-1",
     "category": "Browsers",
     "homepage": "https://librewolf.net/",
     "icon": "icons/librewolf-librewolf.ico"
@@ -18,7 +18,7 @@
   {
     "id": "Mozilla.Firefox",
     "name": "Mozilla Firefox (en-US)",
-    "version": "155.0.1",
+    "version": "156.0",
     "category": "Browsers",
     "homepage": "https://www.mozilla.org/firefox/",
     "icon": "icons/mozilla-firefox.ico"
@@ -26,7 +26,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "152.0.7977.82-1.1",
+    "version": "153.0.8010.52-1.1",
     "category": "Browsers",
     "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
     "icon": "icons/ungoogledchromium-ungoogledchromium.png"
@@ -34,7 +34,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.7.2",
+    "version": "6.7.3",
     "category": "Browsers",
     "homepage": "https://www.waterfox.net/",
     "icon": "icons/waterfox-waterfox.ico"
@@ -42,7 +42,7 @@
   {
     "id": "Element.Element",
     "name": "Element",
-    "version": "1.12.27",
+    "version": "1.12.28",
     "category": "Communication",
     "homepage": "https://element.io/download",
     "icon": "icons/element-element.png"
@@ -66,7 +66,7 @@
   {
     "id": "Mozilla.Thunderbird",
     "name": "Mozilla Thunderbird (en-US)",
-    "version": "155.0.1",
+    "version": "156.0",
     "category": "Communication",
     "homepage": "https://www.thunderbird.net/",
     "icon": "icons/mozilla-thunderbird.ico"
@@ -74,7 +74,7 @@
   {
     "id": "RocketChat.RocketChat",
     "name": "Rocket.Chat",
-    "version": "4.17.0",
+    "version": "4.17.1",
     "category": "Communication",
     "homepage": "https://rocket.chat/",
     "icon": "icons/rocketchat-rocketchat.png"
@@ -122,7 +122,7 @@
   {
     "id": "KDE.Krita",
     "name": "Krita",
-    "version": "5.3.3.0",
+    "version": "5.3.4.0",
     "category": "Design",
     "homepage": "https://krita.org/",
     "icon": "icons/kde-krita.ico"
@@ -170,7 +170,7 @@
   {
     "id": "GitHub.GitHubDesktop",
     "name": "GitHub Desktop",
-    "version": "3.6.5",
+    "version": "3.6.6",
     "category": "Development",
     "homepage": "https://github.com/apps/desktop",
     "icon": "icons/github-githubdesktop.png"
@@ -242,7 +242,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.13",
+    "version": "0.12.17",
     "category": "Development",
     "homepage": "https://github.com/astral-sh/uv",
     "icon": "icons/astral-sh-uv.png"
@@ -282,7 +282,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "34.0.3",
+    "version": "34.0.4",
     "category": "File Sharing",
     "homepage": "https://nextcloud.com/",
     "icon": "icons/nextcloud-nextclouddesktop.png"
@@ -322,7 +322,7 @@
   {
     "id": "HeroicGamesLauncher.HeroicGamesLauncher",
     "name": "Heroic",
-    "version": "2.22.1",
+    "version": "2.22.3",
     "category": "Games",
     "homepage": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
     "icon": "icons/heroicgameslauncher-heroicgameslauncher.png"
@@ -370,7 +370,7 @@
   {
     "id": "clsid2.mpc-hc",
     "name": "MPC-HC",
-    "version": "2.8.1",
+    "version": "2.8.2",
     "category": "Media",
     "homepage": "https://github.com/clsid2/mpc-hc",
     "icon": "icons/clsid2-mpc-hc.png"
@@ -378,7 +378,7 @@
   {
     "id": "OBSProject.OBSStudio",
     "name": "OBS Studio",
-    "version": "32.2.1",
+    "version": "32.2.2",
     "category": "Media",
     "homepage": "https://obsproject.com/",
     "icon": "icons/obsproject-obsstudio.png"
@@ -418,7 +418,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.14.2",
+    "version": "0.14.3",
     "category": "Productivity",
     "homepage": "https://github.com/AppFlowy-IO/AppFlowy",
     "icon": "icons/appflowy-appflowy.png"
@@ -458,7 +458,7 @@
   {
     "id": "Bitwarden.Bitwarden",
     "name": "Bitwarden",
-    "version": "2026.8.0",
+    "version": "2026.9.0",
     "category": "Security",
     "homepage": "https://bitwarden.com/",
     "icon": "icons/bitwarden-bitwarden.png"
@@ -514,7 +514,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.22",
+    "version": "15.0.23",
     "category": "Security",
     "homepage": "https://www.torproject.org/",
     "icon": "icons/torproject-torbrowser.ico"
@@ -538,7 +538,7 @@
   {
     "id": "Balena.Etcher",
     "name": "balenaEtcher",
-    "version": "2.1.6",
+    "version": "2.1.7",
     "category": "Utilities",
     "homepage": "https://etcher.balena.io/",
     "icon": "icons/balena-etcher.png"
@@ -578,7 +578,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.21.0.6",
+    "version": "8.22.0.1",
     "category": "Utilities",
     "homepage": "https://curl.se/",
     "icon": "icons/curl-curl.ico"
@@ -634,7 +634,7 @@
   {
     "id": "uvncbvba.UltraVNC",
     "name": "UltraVNC",
-    "version": "1.8.2.4",
+    "version": "1.8.3.0",
     "category": "Utilities",
     "homepage": "https://uvnc.com/downloads/ultravnc.html",
     "icon": "icons/uvncbvba-ultravnc.ico"
@@ -666,7 +666,7 @@
   {
     "id": "Oracle.VirtualBox",
     "name": "Oracle VirtualBox",
-    "version": "7.2.16",
+    "version": "7.2.18",
     "category": "Virtualization",
     "homepage": "https://www.virtualbox.org/",
     "icon": "icons/oracle-virtualbox.ico"

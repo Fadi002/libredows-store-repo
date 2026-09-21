@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "generated": "2026-09-14T08:08:57Z",
+  "generated": "2026-09-21T08:14:49Z",
   "total": 84,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "152.1.94.121",
+      "version": "153.1.95.104",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,10 +21,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.94.121/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.95.104/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "C5A01876562758AF69424D545852BD6699F44F50389D61A3D2EC8C835231E2E9",
+        "sha256": "BE66313063F722729F3EC7334D22020725FB4011781177E1148E4840CCF8B5AC",
         "silentArgs": "/S"
       },
       "icon": {
@@ -35,7 +35,7 @@
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "155.0.1-1",
+      "version": "156.0-1",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -53,10 +53,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/155.0.1-1/librewolf-155.0.1-1-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/156.0-1/librewolf-156.0-1-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "D01C3BC787A2FA575A79F9A1D69F199058CA9900B43C430BCA9FB690F67E0AE9",
+        "sha256": "4B9E04095F54E8225230A5723EFABEA3DAFB629E01AE104E4E34CF824C2E3160",
         "silentArgs": "/S"
       },
       "icon": {
@@ -67,7 +67,7 @@
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "155.0.1",
+      "version": "156.0",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -84,10 +84,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/155.0.1/win64/en-US/Firefox%20Setup%20155.0.1.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0/win64/en-US/Firefox%20Setup%20156.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "27A24FCDDE805CB6A34C5C102E98EBFE5F0302078202376D2828F8797ED80298",
+        "sha256": "86A027237F7408E8A4D18637C57D487455A704CBB2466A32D0D14C2207D2699A",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -98,7 +98,7 @@
     {
       "id": "UngoogledChromium.UngoogledChromium",
       "name": "Ungoogled Chromium",
-      "version": "152.0.7977.82-1.1",
+      "version": "153.0.8010.52-1.1",
       "publisher": "ungoogled-software",
       "description": "Windows packaging for ungoogled-chromium",
       "license": "BSD-3-Clause",
@@ -106,7 +106,7 @@
       "category": "Browsers",
       "tags": [],
       "installer": {
-        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/152.0.7977.82-1.1/ungoogled-chromium_152.0.7977.82-1.1_installer_x64.exe",
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/153.0.8010.52-1.1/ungoogled-chromium_153.0.8010.52-1.1_installer_x64.exe",
         "type": "exe",
         "architecture": "x64",
         "sha256": "",
@@ -120,7 +120,7 @@
     {
       "id": "Waterfox.Waterfox",
       "name": "Waterfox",
-      "version": "6.7.2",
+      "version": "6.7.3",
       "publisher": "BrowserWorks",
       "description": "Fast and Private Web Browser",
       "license": "MPL-2.0",
@@ -139,10 +139,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.2/WINNT_x86_64/Waterfox%20Setup%206.7.2.exe",
+        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.3/WINNT_x86_64/Waterfox%20Setup%206.7.3.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "C423C2061E2EC2491C8436C80E1F4D890BD5DDCDB886973A40013C93D8C8B7A6",
+        "sha256": "0C758D5CE6A121E37DC5FB377BC168E16051733614749186D9B943E3FA6FAA91",
         "silentArgs": "-ms"
       },
       "icon": {
@@ -153,7 +153,7 @@
     {
       "id": "Element.Element",
       "name": "Element",
-      "version": "1.12.27",
+      "version": "1.12.28",
       "publisher": "Element",
       "description": "Secure collaboration and messaging",
       "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -177,10 +177,10 @@
         "talk"
       ],
       "installer": {
-        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.27.exe",
+        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.28.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "E74C3562DF34C8897FBF0FDD72C2ACA905291227BDBBACBA718E609D1750975C",
+        "sha256": "983C68B01A1423F5134135EC31898EC4E884348AB33439E1AD4E5C639A56229E",
         "silentArgs": "--silent"
       },
       "icon": {
@@ -251,7 +251,7 @@
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "155.0.1",
+      "version": "156.0",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -262,10 +262,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/155.0.1/win64/en-US/Thunderbird%20Setup%20155.0.1.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/156.0/win64/en-US/Thunderbird%20Setup%20156.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "5804AA8C952CA263A6718D0C05509CB27283490456F724D8BBB62FDEB0F6D11D",
+        "sha256": "F42D15E4A9A1EF40522AECA46DFC0ADC236DC2620C8653B6B39EF81687CF0FDD",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -276,7 +276,7 @@
     {
       "id": "RocketChat.RocketChat",
       "name": "Rocket.Chat",
-      "version": "4.17.0",
+      "version": "4.17.1",
       "publisher": "Rocket.Chat Support",
       "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
       "license": "MIT",
@@ -294,10 +294,10 @@
         "video-conference"
       ],
       "installer": {
-        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.0/rocketchat-4.17.0-win-x64.exe",
+        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.1/rocketchat-4.17.1-win-x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "8A12E7BD5B6812A684CA167207C0EBE45466CC5A1F73819EF16764F0DBED6219",
+        "sha256": "48F6157371A99D21E14347CD11A81C61FE278A2B3ACC29B73F4B84CA3C298F0C",
         "silentArgs": "/S"
       },
       "icon": {
@@ -458,7 +458,7 @@
     {
       "id": "KDE.Krita",
       "name": "Krita",
-      "version": "5.3.3.0",
+      "version": "5.3.4.0",
       "publisher": "Krita Foundation",
       "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
       "license": "GPL-3.0",
@@ -473,10 +473,10 @@
         "sketching"
       ],
       "installer": {
-        "url": "https://download.kde.org/stable/krita/5.3.3/krita-x64-5.3.3-setup.exe",
+        "url": "https://download.kde.org/stable/krita/5.3.4/krita-x64-5.3.4-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "CF6DC324C1F3BDB5D3069A7F7D7456FCBB6176FAB1F09683A52B836FA0D97A05",
+        "sha256": "0DD4D6F86878D42B058AA33BB2FDED01C888768E6F1DAA0319E5F5B5CC49E465",
         "silentArgs": "/S"
       },
       "icon": {
@@ -635,7 +635,7 @@
     {
       "id": "GitHub.GitHubDesktop",
       "name": "GitHub Desktop",
-      "version": "3.6.5",
+      "version": "3.6.6",
       "publisher": "GitHub, Inc.",
       "description": "Focus on what matters instead of fighting with Git.",
       "license": "MIT",
@@ -646,10 +646,10 @@
         "github"
       ],
       "installer": {
-        "url": "https://desktop.githubusercontent.com/releases/3.6.5-13b57bd2/GitHubDesktopSetup-x64.msi",
+        "url": "https://desktop.githubusercontent.com/releases/3.6.6-8b85519e/GitHubDesktopSetup-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "56D6D902EB49A3651F971F3DB338F6AA7625F68F5559C4E75C7D60842104F0EE",
+        "sha256": "988D17208B6801D9CF09C7CADC9831E62588C105CD680E62CE9D5C95559E2021",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -900,7 +900,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.12.13",
+      "version": "0.12.17",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -910,10 +910,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.12.13/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.12.17/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "A86C9DC7BAD9B03F388583B7187C05FE9951C2E0D392217E8FD43D97787F6EC2",
+        "sha256": "A252121D5B59398FCB137C6EA448176459A44010F33F67E0072305A637119CA7",
         "silentArgs": ""
       },
       "icon": {
@@ -1052,7 +1052,7 @@
     {
       "id": "Nextcloud.NextcloudDesktop",
       "name": "Nextcloud",
-      "version": "34.0.3",
+      "version": "34.0.4",
       "publisher": "Nextcloud GmbH",
       "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
       "license": "GPL-2.0",
@@ -1066,10 +1066,10 @@
         "utility"
       ],
       "installer": {
-        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.3/Nextcloud-34.0.3-x64.msi",
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.4/Nextcloud-34.0.4-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "1A00F339165899E728CE4BAFA4A0195356F7BDC28F2FF45E4571AC6D95C77E9D",
+        "sha256": "1DF758ADD8CB685F5573223E8DB18CAA18AD7D356913C89D937CAB0DC8444D07",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -1217,7 +1217,7 @@
     {
       "id": "HeroicGamesLauncher.HeroicGamesLauncher",
       "name": "Heroic",
-      "version": "2.22.1",
+      "version": "2.22.3",
       "publisher": "Heroic Games Launcher",
       "description": "Heroic is an Open Source Game Launcher for Linux, Windows and MacOS.",
       "license": "GPL-3.0",
@@ -1230,10 +1230,10 @@
         "launcher"
       ],
       "installer": {
-        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.1/Heroic-2.22.1-Setup-x64.exe",
+        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.3/Heroic-2.22.3-Setup-x64.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "67D0693E113DDE712A2FE1E0449B27E59C260BBC8554F30941B492B0362CA6D2",
+        "sha256": "3C74B3F1727A005D9D578880A97E0B94C8CE04C94C6E08F99E644B072878360B",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1392,7 +1392,7 @@
     {
       "id": "clsid2.mpc-hc",
       "name": "MPC-HC",
-      "version": "2.8.1",
+      "version": "2.8.2",
       "publisher": "MPC-HC Team",
       "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
       "license": "GPL-3.0",
@@ -1412,10 +1412,10 @@
         "video-player"
       ],
       "installer": {
-        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x64.exe",
+        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.2/MPC-HC.2.8.2.x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "242D98D054C6CDEE64A2B8B08AACD4B6CFFD67CD5B25A0D648322D0802D84D2B",
+        "sha256": "4A39FF780905C533F43B7E5684672A50345369B54E895E2CA6B7039194490D12",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1426,7 +1426,7 @@
     {
       "id": "OBSProject.OBSStudio",
       "name": "OBS Studio",
-      "version": "32.2.1",
+      "version": "32.2.2",
       "publisher": "OBS Project",
       "description": "Free and open source software for video recording and live streaming.",
       "license": "GPL-2.0",
@@ -1443,10 +1443,10 @@
         "video-recording"
       ],
       "installer": {
-        "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.1/OBS-Studio-32.2.1-Windows-x64-Installer.exe",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-Installer.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "BBB95E52B96AD9B7CCD5ABD13121379D29774D6CC5FDBEF82FFA249E8A24A289",
+        "sha256": "C3A0B880ADBE64DC4BCB68F93016916AB5B55AE43FD227115287BF80257D92DC",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1580,7 +1580,7 @@
     {
       "id": "AppFlowy.AppFlowy",
       "name": "AppFlowy",
-      "version": "0.14.2",
+      "version": "0.14.3",
       "publisher": "AppFlowy-IO",
       "description": "The Open Source Alternative To Notion.",
       "license": "AGPL-3.0",
@@ -1605,10 +1605,10 @@
         "wiki"
       ],
       "installer": {
-        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.2/AppFlowy-0.14.2-windows-x86_64.exe",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.3/AppFlowy-0.14.3-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F9B3576625B6E003CE27F1B022913F13CFEA08D212C223D3FB94A0C173C9CDC5",
+        "sha256": "32A57B6720E90F53A5D089EF33B2159F30B40081E1249AB083534EF9D571A412",
         "silentArgs": "/sp- /verysilent /norestart"
       },
       "icon": {
@@ -1740,7 +1740,7 @@
     {
       "id": "Bitwarden.Bitwarden",
       "name": "Bitwarden",
-      "version": "2026.8.0",
+      "version": "2026.9.0",
       "publisher": "Bitwarden Inc.",
       "description": "A secure and free password manager for all of your devices.",
       "license": "GPL-3.0 or Bitwarden-1.0",
@@ -1758,10 +1758,10 @@
         "vault"
       ],
       "installer": {
-        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.8.0/Bitwarden-Installer-2026.8.0.exe",
+        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.9.0/Bitwarden-Installer-2026.9.0.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "0263CBA73432578B2F5CEF90815F374F78B34B6CEDA9FD3F22343316803CDB98",
+        "sha256": "6AF475C43BEA3E5578F6E441AC6D90E830E77C54E0707DB738AF9F0DC53F5180",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1953,7 +1953,7 @@
     {
       "id": "TorProject.TorBrowser",
       "name": "Tor Browser",
-      "version": "15.0.22",
+      "version": "15.0.23",
       "publisher": "Tor Project",
       "description": "Protect yourself against tracking, surveillance, and censorship.",
       "license": "MPL-2.0",
@@ -1974,10 +1974,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.22/tor-browser-windows-x86_64-portable-15.0.22.exe",
+        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.23/tor-browser-windows-x86_64-portable-15.0.23.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "1BCA1C74798F6624E35EF6BD2713C51D92F71E51F2897D8F203991AA310476DB",
+        "sha256": "64BF85AD2A3E3DB115A1CA2FEA31EA5441DDD369593CB30EAA95606F9D5096DC",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2044,7 +2044,7 @@
     {
       "id": "Balena.Etcher",
       "name": "balenaEtcher",
-      "version": "2.1.6",
+      "version": "2.1.7",
       "publisher": "Balena Ltd. <hello@balena.io>",
       "description": "Flash OS images to SD cards & USB drives, safely and easily.",
       "license": "Apache-2.0",
@@ -2061,10 +2061,10 @@
         "usb"
       ],
       "installer": {
-        "url": "https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6.Setup.exe",
+        "url": "https://github.com/balena-io/etcher/releases/download/v2.1.7/balenaEtcher-2.1.7.Setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "78D1C45A55428E65AB2AC96E462AD6D77ADBF7D1C0AA4B704B214BC00E1FCDFC",
+        "sha256": "386BB45DA6E0EDEB20E065427CDEF30A876E4D2A59579F8ADD329D8510AC12F8",
         "silentArgs": "--silent"
       },
       "icon": {
@@ -2206,7 +2206,7 @@
     {
       "id": "cURL.cURL",
       "name": "cURL",
-      "version": "8.21.0.6",
+      "version": "8.22.0.1",
       "publisher": "curl",
       "description": "Command line tool and library for transferring data with URLs",
       "license": "Freeware",
@@ -2214,10 +2214,10 @@
       "category": "Utilities",
       "tags": [],
       "installer": {
-        "url": "https://curl.se/windows/dl-8.21.0_6/curl-8.21.0_6-win64-mingw.zip",
+        "url": "https://curl.se/windows/dl-8.22.0_1/curl-8.22.0_1-win64-mingw.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "0C119D394BAB91ECD97B64791F24BDDC247D08840431E0045BCB92BBA3275665",
+        "sha256": "7F23B039F6EA4197362D4468E1A0E71428201222E1BEF3B680D5EF7B2AEFB714",
         "silentArgs": ""
       },
       "icon": {
@@ -2415,7 +2415,7 @@
     {
       "id": "uvncbvba.UltraVNC",
       "name": "UltraVNC",
-      "version": "1.8.2.4",
+      "version": "1.8.3.0",
       "publisher": "uvnc bvba",
       "description": "VNC client and server graphical desktop sharing via RFB protocol",
       "license": "GPL-3.0",
@@ -2430,10 +2430,10 @@
         "vnc"
       ],
       "installer": {
-        "url": "https://uvnc.eu/download/1800/UltraVNC_1824_x64_Setup.exe",
+        "url": "https://uvnc.eu/download/1800/UltraVNC_1830_x64_Setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "9EF5C8275AA0431F058369305C444D7303ADC807A9E4B80BC9FFAD7C3BF210B2",
+        "sha256": "E9C22419EF3128A707B0D004A2C58E25459528C5C12D104DEA56E5E662BD131E",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2543,7 +2543,7 @@
     {
       "id": "Oracle.VirtualBox",
       "name": "Oracle VirtualBox",
-      "version": "7.2.16",
+      "version": "7.2.18",
       "publisher": "Oracle and/or its affiliates",
       "description": "VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm), targeted at laptop, desktop, server and embedded use.",
       "license": "GPL-3.0-only",
@@ -2556,10 +2556,10 @@
         "virtualization"
       ],
       "installer": {
-        "url": "https://download.virtualbox.org/virtualbox/7.2.16/VirtualBox-7.2.16-174877-Win.exe",
+        "url": "https://download.virtualbox.org/virtualbox/7.2.18/VirtualBox-7.2.18-175117-Win.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "9383A42BFFA5C0AC4BC5F1C7D820478D84380D3A17B65AA9B43E6778CBDB615A",
+        "sha256": "AAE27200546A21B9B7DC11CFC42BD04802329A29F69AE0ADA55682715A389D8D",
         "silentArgs": "--silent"
       },
       "icon": {

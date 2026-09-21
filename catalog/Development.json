@@ -66,7 +66,7 @@
   {
     "id": "GitHub.GitHubDesktop",
     "name": "GitHub Desktop",
-    "version": "3.6.5",
+    "version": "3.6.6",
     "publisher": "GitHub, Inc.",
     "description": "Focus on what matters instead of fighting with Git.",
     "license": "MIT",
@@ -77,10 +77,10 @@
       "github"
     ],
     "installer": {
-      "url": "https://desktop.githubusercontent.com/releases/3.6.5-13b57bd2/GitHubDesktopSetup-x64.msi",
+      "url": "https://desktop.githubusercontent.com/releases/3.6.6-8b85519e/GitHubDesktopSetup-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "56D6D902EB49A3651F971F3DB338F6AA7625F68F5559C4E75C7D60842104F0EE",
+      "sha256": "988D17208B6801D9CF09C7CADC9831E62588C105CD680E62CE9D5C95559E2021",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -331,7 +331,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.13",
+    "version": "0.12.17",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.12.13/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.12.17/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "A86C9DC7BAD9B03F388583B7187C05FE9951C2E0D392217E8FD43D97787F6EC2",
+      "sha256": "A252121D5B59398FCB137C6EA448176459A44010F33F67E0072305A637119CA7",
       "silentArgs": ""
     },
     "icon": {

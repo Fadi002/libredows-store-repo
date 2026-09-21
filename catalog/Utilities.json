@@ -36,7 +36,7 @@
   {
     "id": "Balena.Etcher",
     "name": "balenaEtcher",
-    "version": "2.1.6",
+    "version": "2.1.7",
     "publisher": "Balena Ltd. <hello@balena.io>",
     "description": "Flash OS images to SD cards & USB drives, safely and easily.",
     "license": "Apache-2.0",
@@ -53,10 +53,10 @@
       "usb"
     ],
     "installer": {
-      "url": "https://github.com/balena-io/etcher/releases/download/v2.1.6/balenaEtcher-2.1.6.Setup.exe",
+      "url": "https://github.com/balena-io/etcher/releases/download/v2.1.7/balenaEtcher-2.1.7.Setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "78D1C45A55428E65AB2AC96E462AD6D77ADBF7D1C0AA4B704B214BC00E1FCDFC",
+      "sha256": "386BB45DA6E0EDEB20E065427CDEF30A876E4D2A59579F8ADD329D8510AC12F8",
       "silentArgs": "--silent"
     },
     "icon": {
@@ -198,7 +198,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.21.0.6",
+    "version": "8.22.0.1",
     "publisher": "curl",
     "description": "Command line tool and library for transferring data with URLs",
     "license": "Freeware",
@@ -206,10 +206,10 @@
     "category": "Utilities",
     "tags": [],
     "installer": {
-      "url": "https://curl.se/windows/dl-8.21.0_6/curl-8.21.0_6-win64-mingw.zip",
+      "url": "https://curl.se/windows/dl-8.22.0_1/curl-8.22.0_1-win64-mingw.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "0C119D394BAB91ECD97B64791F24BDDC247D08840431E0045BCB92BBA3275665",
+      "sha256": "7F23B039F6EA4197362D4468E1A0E71428201222E1BEF3B680D5EF7B2AEFB714",
       "silentArgs": ""
     },
     "icon": {
@@ -407,7 +407,7 @@
   {
     "id": "uvncbvba.UltraVNC",
     "name": "UltraVNC",
-    "version": "1.8.2.4",
+    "version": "1.8.3.0",
     "publisher": "uvnc bvba",
     "description": "VNC client and server graphical desktop sharing via RFB protocol",
     "license": "GPL-3.0",
@@ -422,10 +422,10 @@
       "vnc"
     ],
     "installer": {
-      "url": "https://uvnc.eu/download/1800/UltraVNC_1824_x64_Setup.exe",
+      "url": "https://uvnc.eu/download/1800/UltraVNC_1830_x64_Setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "9EF5C8275AA0431F058369305C444D7303ADC807A9E4B80BC9FFAD7C3BF210B2",
+      "sha256": "E9C22419EF3128A707B0D004A2C58E25459528C5C12D104DEA56E5E662BD131E",
       "silentArgs": "/S"
     },
     "icon": {

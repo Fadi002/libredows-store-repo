@@ -126,7 +126,7 @@
   {
     "id": "clsid2.mpc-hc",
     "name": "MPC-HC",
-    "version": "2.8.1",
+    "version": "2.8.2",
     "publisher": "MPC-HC Team",
     "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
     "license": "GPL-3.0",
@@ -146,10 +146,10 @@
       "video-player"
     ],
     "installer": {
-      "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.1/MPC-HC.2.8.1.x64.exe",
+      "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.2/MPC-HC.2.8.2.x64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "242D98D054C6CDEE64A2B8B08AACD4B6CFFD67CD5B25A0D648322D0802D84D2B",
+      "sha256": "4A39FF780905C533F43B7E5684672A50345369B54E895E2CA6B7039194490D12",
       "silentArgs": "/S"
     },
     "icon": {
@@ -160,7 +160,7 @@
   {
     "id": "OBSProject.OBSStudio",
     "name": "OBS Studio",
-    "version": "32.2.1",
+    "version": "32.2.2",
     "publisher": "OBS Project",
     "description": "Free and open source software for video recording and live streaming.",
     "license": "GPL-2.0",
@@ -177,10 +177,10 @@
       "video-recording"
     ],
     "installer": {
-      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.1/OBS-Studio-32.2.1-Windows-x64-Installer.exe",
+      "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-Installer.exe",
       "type": "nullsoft",
       "architecture": "x64",
-      "sha256": "BBB95E52B96AD9B7CCD5ABD13121379D29774D6CC5FDBEF82FFA249E8A24A289",
+      "sha256": "C3A0B880ADBE64DC4BCB68F93016916AB5B55AE43FD227115287BF80257D92DC",
       "silentArgs": "/S"
     },
     "icon": {
