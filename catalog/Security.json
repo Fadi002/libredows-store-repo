@@ -63,7 +63,7 @@
   {
     "id": "GnuPG.GnuPG",
     "name": "GNU Privacy Guard",
-    "version": "2.5.22",
+    "version": "2.5.24",
     "publisher": "The GnuPG Project",
     "description": "GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's PGP cryptographic software suite.",
     "license": "GPLv3",
@@ -84,10 +84,10 @@
       "x.509"
     ],
     "installer": {
-      "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.22_20260831.exe",
+      "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.24_20260923.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "2E5841E345D56F05199351BFCF585D28C6DC2326C8F76962F1E402F41F6D10E9",
+      "sha256": "EA6F9DEE2CCCD83287432625B8B399173805ADD81D27067FCAF019C0C4DA1AD8",
       "silentArgs": "/S"
     },
     "icon": {

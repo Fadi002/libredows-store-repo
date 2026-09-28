@@ -198,7 +198,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.22.0.1",
+    "version": "8.22.0.2",
     "publisher": "curl",
     "description": "Command line tool and library for transferring data with URLs",
     "license": "Freeware",
@@ -206,10 +206,10 @@
     "category": "Utilities",
     "tags": [],
     "installer": {
-      "url": "https://curl.se/windows/dl-8.22.0_1/curl-8.22.0_1-win64-mingw.zip",
+      "url": "https://curl.se/windows/dl-8.22.0_2/curl-8.22.0_2-win64-mingw.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "7F23B039F6EA4197362D4468E1A0E71428201222E1BEF3B680D5EF7B2AEFB714",
+      "sha256": "7C8C6B953B4EB2953D2BDC08CCA1D5F09A964E9F86C361693559400C9A6D6DB0",
       "silentArgs": ""
     },
     "icon": {
@@ -255,7 +255,7 @@
   {
     "id": "Gyan.FFmpeg",
     "name": "FFmpeg",
-    "version": "9.0.1",
+    "version": "9.0.2",
     "publisher": "Gyan",
     "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
     "license": "GPL-3.0",
@@ -280,10 +280,10 @@
       "video"
     ],
     "installer": {
-      "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0.1/ffmpeg-9.0.1-full_build.zip",
+      "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0.2/ffmpeg-9.0.2-full_build.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "2E8E28AF97C2AE338CCEF92E36DA9B2A4CD21D0CAD9DDE093545606CB07F5B00",
+      "sha256": "759D0A9831C436A0EB331AD36F236C06CB04AAA0005DA46571F0E9D3D9206F6B",
       "silentArgs": ""
     },
     "icon": {

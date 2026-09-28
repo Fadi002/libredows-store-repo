@@ -119,7 +119,7 @@
   {
     "id": "GnuPG.Gpg4win",
     "name": "Gpg4win",
-    "version": "5.1.0",
+    "version": "5.1.1",
     "publisher": "The Gpg4win Project",
     "description": "A secure solution for file and email encryption.",
     "license": "GPL-2.0",
@@ -138,10 +138,10 @@
       "signature"
     ],
     "installer": {
-      "url": "https://files.gpg4win.org/gpg4win-5.1.0.exe",
+      "url": "https://files.gpg4win.org/gpg4win-5.1.1.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "9682F2825C70DC3E7EFD8A3FCB9E676CCB9674BEBBF6BE1A30D5837F5B420A2E",
+      "sha256": "ED19C0C89EC42FE32C52A7ABD6E3DA5F491752700546B9EED7DDF82FD303CDDF",
       "silentArgs": "/S"
     }
   },
@@ -247,7 +247,7 @@
   {
     "id": "Notepad++.Notepad++",
     "name": "Notepad++",
-    "version": "8.9.8",
+    "version": "8.9.8.1",
     "publisher": "Notepad++ Team",
     "description": "Notepad++ is a free source code editor that supports several languages.",
     "license": "GPL-3.0-or-later",
@@ -263,10 +263,10 @@
       "text-editor"
     ],
     "installer": {
-      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8/npp.8.9.8.Installer.x64.msi",
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "C29CBE1A9AAEF322CC3F316CEEABE8A8071B18441A5E3C3EC348069739E59E80",
+      "sha256": "0C4F4FE82BABD7688F5C1431B1357392491563AF6FFEDF4E37F5DE0BD71BABB4",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -331,7 +331,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.17",
+    "version": "0.12.19",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.12.17/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.12.19/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "A252121D5B59398FCB137C6EA448176459A44010F33F67E0072305A637119CA7",
+      "sha256": "6DBB02D79E419522F1C500F0ADB1CDDCFF0CDA7D59B0D66EA7F5E3B4A1B2F5F0",
       "silentArgs": ""
     },
     "icon": {

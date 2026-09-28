@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "generated": "2026-09-21T08:14:49Z",
+  "generated": "2026-09-28T09:00:32Z",
   "total": 84,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "153.1.95.104",
+      "version": "154.1.96.59",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,10 +21,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.95.104/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.96.59/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "BE66313063F722729F3EC7334D22020725FB4011781177E1148E4840CCF8B5AC",
+        "sha256": "9D8BABEE2F409A8ED11AA162DA2EC30A72BDAA8D2EF2A3BAB19DAA09A8C543E2",
         "silentArgs": "/S"
       },
       "icon": {
@@ -67,7 +67,7 @@
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "156.0",
+      "version": "156.0.1",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -84,10 +84,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0/win64/en-US/Firefox%20Setup%20156.0.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/156.0.1/win64/en-US/Firefox%20Setup%20156.0.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "86A027237F7408E8A4D18637C57D487455A704CBB2466A32D0D14C2207D2699A",
+        "sha256": "E69FF3FB4C585F88C947A673DEDCFA6C346A5092881A6E6B618005821030BC67",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -98,7 +98,7 @@
     {
       "id": "UngoogledChromium.UngoogledChromium",
       "name": "Ungoogled Chromium",
-      "version": "153.0.8010.52-1.1",
+      "version": "154.0.8037.57-1.1",
       "publisher": "ungoogled-software",
       "description": "Windows packaging for ungoogled-chromium",
       "license": "BSD-3-Clause",
@@ -106,7 +106,7 @@
       "category": "Browsers",
       "tags": [],
       "installer": {
-        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/153.0.8010.52-1.1/ungoogled-chromium_153.0.8010.52-1.1_installer_x64.exe",
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/154.0.8037.57-1.1/ungoogled-chromium_154.0.8037.57-1.1_installer_x64.exe",
         "type": "exe",
         "architecture": "x64",
         "sha256": "",
@@ -120,7 +120,7 @@
     {
       "id": "Waterfox.Waterfox",
       "name": "Waterfox",
-      "version": "6.7.3",
+      "version": "6.7.4",
       "publisher": "BrowserWorks",
       "description": "Fast and Private Web Browser",
       "license": "MPL-2.0",
@@ -139,10 +139,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.3/WINNT_x86_64/Waterfox%20Setup%206.7.3.exe",
+        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.4/WINNT_x86_64/Waterfox%20Setup%206.7.4.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "0C758D5CE6A121E37DC5FB377BC168E16051733614749186D9B943E3FA6FAA91",
+        "sha256": "8A7D7CDC7F8FB16A758CCEA84B8E01548907D865281E55D3145E8E979381CF23",
         "silentArgs": "-ms"
       },
       "icon": {
@@ -153,7 +153,7 @@
     {
       "id": "Element.Element",
       "name": "Element",
-      "version": "1.12.28",
+      "version": "1.12.29",
       "publisher": "Element",
       "description": "Secure collaboration and messaging",
       "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -177,10 +177,10 @@
         "talk"
       ],
       "installer": {
-        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.28.exe",
+        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.29.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "983C68B01A1423F5134135EC31898EC4E884348AB33439E1AD4E5C639A56229E",
+        "sha256": "AACCE2086FC3DCEAB0A7B4CBA0DB50B4C96FFFFBD1C30E5DEA5F70972546C323",
         "silentArgs": "--silent"
       },
       "icon": {
@@ -251,7 +251,7 @@
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "156.0",
+      "version": "156.0.1",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -262,10 +262,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/156.0/win64/en-US/Thunderbird%20Setup%20156.0.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/156.0.1/win64/en-US/Thunderbird%20Setup%20156.0.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F42D15E4A9A1EF40522AECA46DFC0ADC236DC2620C8653B6B39EF81687CF0FDD",
+        "sha256": "009B001C751CF21DFC89BD5A63B14343EF56EC4FD76AE24566F45B1752A425AC",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -276,7 +276,7 @@
     {
       "id": "RocketChat.RocketChat",
       "name": "Rocket.Chat",
-      "version": "4.17.1",
+      "version": "4.17.3",
       "publisher": "Rocket.Chat Support",
       "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
       "license": "MIT",
@@ -294,10 +294,10 @@
         "video-conference"
       ],
       "installer": {
-        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.1/rocketchat-4.17.1-win-x64.exe",
+        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.3/rocketchat-4.17.3-win-x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "48F6157371A99D21E14347CD11A81C61FE278A2B3ACC29B73F4B84CA3C298F0C",
+        "sha256": "45C194DB9C14A81E2BE170FAB01204EE360F9A8107DB9A5B9E848C1BD6BDD0AA",
         "silentArgs": "/S"
       },
       "icon": {
@@ -688,7 +688,7 @@
     {
       "id": "GnuPG.Gpg4win",
       "name": "Gpg4win",
-      "version": "5.1.0",
+      "version": "5.1.1",
       "publisher": "The Gpg4win Project",
       "description": "A secure solution for file and email encryption.",
       "license": "GPL-2.0",
@@ -707,10 +707,10 @@
         "signature"
       ],
       "installer": {
-        "url": "https://files.gpg4win.org/gpg4win-5.1.0.exe",
+        "url": "https://files.gpg4win.org/gpg4win-5.1.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "9682F2825C70DC3E7EFD8A3FCB9E676CCB9674BEBBF6BE1A30D5837F5B420A2E",
+        "sha256": "ED19C0C89EC42FE32C52A7ABD6E3DA5F491752700546B9EED7DDF82FD303CDDF",
         "silentArgs": "/S"
       }
     },
@@ -816,7 +816,7 @@
     {
       "id": "Notepad++.Notepad++",
       "name": "Notepad++",
-      "version": "8.9.8",
+      "version": "8.9.8.1",
       "publisher": "Notepad++ Team",
       "description": "Notepad++ is a free source code editor that supports several languages.",
       "license": "GPL-3.0-or-later",
@@ -832,10 +832,10 @@
         "text-editor"
       ],
       "installer": {
-        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8/npp.8.9.8.Installer.x64.msi",
+        "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "C29CBE1A9AAEF322CC3F316CEEABE8A8071B18441A5E3C3EC348069739E59E80",
+        "sha256": "0C4F4FE82BABD7688F5C1431B1357392491563AF6FFEDF4E37F5DE0BD71BABB4",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -900,7 +900,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.12.17",
+      "version": "0.12.19",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -910,10 +910,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.12.17/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.12.19/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "A252121D5B59398FCB137C6EA448176459A44010F33F67E0072305A637119CA7",
+        "sha256": "6DBB02D79E419522F1C500F0ADB1CDDCFF0CDA7D59B0D66EA7F5E3B4A1B2F5F0",
         "silentArgs": ""
       },
       "icon": {
@@ -1580,7 +1580,7 @@
     {
       "id": "AppFlowy.AppFlowy",
       "name": "AppFlowy",
-      "version": "0.14.3",
+      "version": "0.14.5",
       "publisher": "AppFlowy-IO",
       "description": "The Open Source Alternative To Notion.",
       "license": "AGPL-3.0",
@@ -1605,10 +1605,10 @@
         "wiki"
       ],
       "installer": {
-        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.3/AppFlowy-0.14.3-windows-x86_64.exe",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.5/AppFlowy-0.14.5-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "32A57B6720E90F53A5D089EF33B2159F30B40081E1249AB083534EF9D571A412",
+        "sha256": "B213D2AF0E31D2990E559201682BF67E1EFD9E8E4C5211F44F6796B9BA817118",
         "silentArgs": "/sp- /verysilent /norestart"
       },
       "icon": {
@@ -1619,7 +1619,7 @@
     {
       "id": "Joplin.Joplin",
       "name": "Joplin",
-      "version": "3.7.18",
+      "version": "3.7.21",
       "publisher": "Laurent Cozic",
       "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
       "license": "AGPL-3.0-or-later",
@@ -1637,10 +1637,10 @@
         "todo"
       ],
       "installer": {
-        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.18/Joplin-Setup-3.7.18.exe",
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe",
         "type": "exe",
         "architecture": "x86",
-        "sha256": "88631FA78E352245BC5770573A0905D83876E530D97F222817177D7C9A6CAE7F",
+        "sha256": "4222536C69360A30A566627B35C2E1CD8D38D0C79735EBDE4E39EDBCDDD750CD",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1801,7 +1801,7 @@
     {
       "id": "GnuPG.GnuPG",
       "name": "GNU Privacy Guard",
-      "version": "2.5.22",
+      "version": "2.5.24",
       "publisher": "The GnuPG Project",
       "description": "GNU Privacy Guard (GnuPG or GPG) is a free-software replacement for Symantec's PGP cryptographic software suite.",
       "license": "GPLv3",
@@ -1822,10 +1822,10 @@
         "x.509"
       ],
       "installer": {
-        "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.22_20260831.exe",
+        "url": "https://gnupg.org/ftp/gcrypt/binary/gnupg-w32-2.5.24_20260923.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "2E5841E345D56F05199351BFCF585D28C6DC2326C8F76962F1E402F41F6D10E9",
+        "sha256": "EA6F9DEE2CCCD83287432625B8B399173805ADD81D27067FCAF019C0C4DA1AD8",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2206,7 +2206,7 @@
     {
       "id": "cURL.cURL",
       "name": "cURL",
-      "version": "8.22.0.1",
+      "version": "8.22.0.2",
       "publisher": "curl",
       "description": "Command line tool and library for transferring data with URLs",
       "license": "Freeware",
@@ -2214,10 +2214,10 @@
       "category": "Utilities",
       "tags": [],
       "installer": {
-        "url": "https://curl.se/windows/dl-8.22.0_1/curl-8.22.0_1-win64-mingw.zip",
+        "url": "https://curl.se/windows/dl-8.22.0_2/curl-8.22.0_2-win64-mingw.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "7F23B039F6EA4197362D4468E1A0E71428201222E1BEF3B680D5EF7B2AEFB714",
+        "sha256": "7C8C6B953B4EB2953D2BDC08CCA1D5F09A964E9F86C361693559400C9A6D6DB0",
         "silentArgs": ""
       },
       "icon": {
@@ -2263,7 +2263,7 @@
     {
       "id": "Gyan.FFmpeg",
       "name": "FFmpeg",
-      "version": "9.0.1",
+      "version": "9.0.2",
       "publisher": "Gyan",
       "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
       "license": "GPL-3.0",
@@ -2288,10 +2288,10 @@
         "video"
       ],
       "installer": {
-        "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0.1/ffmpeg-9.0.1-full_build.zip",
+        "url": "https://github.com/GyanD/codexffmpeg/releases/download/9.0.2/ffmpeg-9.0.2-full_build.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "2E8E28AF97C2AE338CCEF92E36DA9B2A4CD21D0CAD9DDE093545606CB07F5B00",
+        "sha256": "759D0A9831C436A0EB331AD36F236C06CB04AAA0005DA46571F0E9D3D9206F6B",
         "silentArgs": ""
       },
       "icon": {
@@ -2543,7 +2543,7 @@
     {
       "id": "Oracle.VirtualBox",
       "name": "Oracle VirtualBox",
-      "version": "7.2.18",
+      "version": "7.2.20",
       "publisher": "Oracle and/or its affiliates",
       "description": "VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm), targeted at laptop, desktop, server and embedded use.",
       "license": "GPL-3.0-only",
@@ -2556,10 +2556,10 @@
         "virtualization"
       ],
       "installer": {
-        "url": "https://download.virtualbox.org/virtualbox/7.2.18/VirtualBox-7.2.18-175117-Win.exe",
+        "url": "https://download.virtualbox.org/virtualbox/7.2.20/VirtualBox-7.2.20-175154-Win.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "AAE27200546A21B9B7DC11CFC42BD04802329A29F69AE0ADA55682715A389D8D",
+        "sha256": "A81777D2B36380CE042A29E9C554CF032EB46A793F62E3CC82E7411E535C2C26",
         "silentArgs": "--silent"
       },
       "icon": {

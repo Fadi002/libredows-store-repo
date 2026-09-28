@@ -2,7 +2,7 @@
   {
     "id": "Oracle.VirtualBox",
     "name": "Oracle VirtualBox",
-    "version": "7.2.18",
+    "version": "7.2.20",
     "publisher": "Oracle and/or its affiliates",
     "description": "VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm), targeted at laptop, desktop, server and embedded use.",
     "license": "GPL-3.0-only",
@@ -15,10 +15,10 @@
       "virtualization"
     ],
     "installer": {
-      "url": "https://download.virtualbox.org/virtualbox/7.2.18/VirtualBox-7.2.18-175117-Win.exe",
+      "url": "https://download.virtualbox.org/virtualbox/7.2.20/VirtualBox-7.2.20-175154-Win.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "AAE27200546A21B9B7DC11CFC42BD04802329A29F69AE0ADA55682715A389D8D",
+      "sha256": "A81777D2B36380CE042A29E9C554CF032EB46A793F62E3CC82E7411E535C2C26",
       "silentArgs": "--silent"
     },
     "icon": {
