@@ -2,7 +2,7 @@
   {
     "id": "Audacity.Audacity",
     "name": "Audacity",
-    "version": "4.0.0.262451524",
+    "version": "4.0.1.262721353",
     "publisher": "Audacity",
     "description": "The world’s most popular free software for recording and editing audio.",
     "license": "GPL-3.0-or-later",
@@ -23,10 +23,10 @@
       "xp8k0j757hhrdw"
     ],
     "installer": {
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.0/audacity-win-4.0.0-x86_64.msi",
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "2AECC44D28A004D15AE7C23C099F232BA8C5B3E6B19EBDBAF7D6C596316DC5B3",
+      "sha256": "EFB652BF04168F5D4893F28B7CEFAAF5EF385D9251544540AC774E3BF54793A3",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -248,7 +248,7 @@
   {
     "id": "VideoLAN.VLC",
     "name": "VLC media player",
-    "version": "3.0.23",
+    "version": "3.0.24",
     "publisher": "VideoLAN",
     "description": "VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.",
     "license": "GPL-2.0",
@@ -265,10 +265,10 @@
       "video-player"
     ],
     "installer": {
-      "url": "https://download.videolan.org/pub/videolan/vlc/3.0.23/win64/vlc-3.0.23-win64.msi",
+      "url": "https://download.videolan.org/pub/videolan/vlc/3.0.24/win64/vlc-3.0.24-win64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "BC4B902A480B98A4A5479327A7F210F06369A59BF727649E320FABA5B4EF1F5E",
+      "sha256": "22172095CE4C2D5F5B600BB4C142D78105DB29A77FA59A931941876F3B20F6D0",
       "silentArgs": "/quiet /norestart"
     }
   }

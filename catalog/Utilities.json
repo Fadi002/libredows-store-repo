@@ -504,7 +504,7 @@
   {
     "id": "WinSCP.WinSCP",
     "name": "WinSCP",
-    "version": "6.5.6",
+    "version": "6.5.7",
     "publisher": "Martin Prikryl",
     "description": "Free SFTP, SCP, S3 and FTP client for Windows",
     "license": "GPL-3.0-or-later",
@@ -521,10 +521,10 @@
       "webdav"
     ],
     "installer": {
-      "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.6/WinSCP-6.5.6.msi/download",
+      "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.7/WinSCP-6.5.7.msi/download",
       "type": "wix",
       "architecture": "x86",
-      "sha256": "D3EF315E0013479DCBCEDF8DD06AEC33DFEDA9004972E94128144329957B602F",
+      "sha256": "D04B962C8F1C00D93F1E609E644B7A65F272843987C6206D339250D1DEFDCFB1",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {

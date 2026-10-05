@@ -41,7 +41,7 @@
   {
     "id": "Git.Git",
     "name": "Git",
-    "version": "2.55.0.3",
+    "version": "2.55.0.5",
     "publisher": "The Git Development Community",
     "description": "A free and open source distributed version control system",
     "license": "GPL-2.0",
@@ -52,10 +52,10 @@
       "vcs"
     ],
     "installer": {
-      "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.3/Git-2.55.0.3-64-bit.exe",
+      "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/Git-2.55.0.5-64-bit.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "AF12577D0FDFF74243A5988197AA49B957D5044EDC17004F6DDF0768996F1DCA",
+      "sha256": "D065A4E23C3D9A6B5073D609B5BE0830227EC3CA053C083BA385061DDFAF94C6",
       "silentArgs": "/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
     },
     "icon": {
@@ -183,7 +183,7 @@
   {
     "id": "Meld.Meld",
     "name": "Meld",
-    "version": "3.24.0",
+    "version": "3.24.1",
     "publisher": "Kai Willadsen",
     "description": "Visual diff and merge tool",
     "license": "GPL-2.0-or-later",
@@ -197,10 +197,10 @@
       "utility"
     ],
     "installer": {
-      "url": "https://gitlab.gnome.org/GNOME/meld/-/package_files/3852/download",
+      "url": "https://gitlab.gnome.org/api/v4/projects/301/packages/generic/meld/3.24.1/meld-3.24.1.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "D25F98DCE5E3D07A6C98F6C7A91ACBFBACEDAC06EF5C4663DC4B614B52D2B993",
+      "sha256": "96ADA1D7A9E40B9CECA868D5D25D5FD5BDA8A7ABBFA5BB58C8C20D70654F10E0",
       "silentArgs": "/S"
     },
     "icon": {
@@ -331,7 +331,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.19",
+    "version": "0.12.23",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.12.19/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.12.23/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "6DBB02D79E419522F1C500F0ADB1CDDCFF0CDA7D59B0D66EA7F5E3B4A1B2F5F0",
+      "sha256": "75D05DE6762778C31EE183398DE7DD15093FAD0ED90B1F236D8205EA5EC00C90",
       "silentArgs": ""
     },
     "icon": {

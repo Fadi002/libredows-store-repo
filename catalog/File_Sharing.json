@@ -61,7 +61,7 @@
   {
     "id": "qBittorrent.qBittorrent",
     "name": "qBittorrent",
-    "version": "5.2.3",
+    "version": "5.2.4",
     "publisher": "The qBittorrent project",
     "description": "Free and reliable P2P Bittorent client.",
     "license": "GPL-3.0",
@@ -79,10 +79,10 @@
       "upload"
     ],
     "installer": {
-      "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.2.3/qbittorrent_5.2.3_x64_setup.exe/download",
+      "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.2.4/qbittorrent_5.2.4_x64_setup.exe/download",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "FF508E2F912D59C9EABAF03633EBACFD45C2049F38DCAC027B8A7D7AD867AB2F",
+      "sha256": "EF6EFE581D80EFEB0A77DF281D93F93021FBDCC48E4D8F7B341DC864F53C30DD",
       "silentArgs": "/S"
     },
     "icon": {

@@ -2,7 +2,7 @@
   {
     "id": "Bitwarden.Bitwarden",
     "name": "Bitwarden",
-    "version": "2026.9.0",
+    "version": "2026.9.1",
     "publisher": "Bitwarden Inc.",
     "description": "A secure and free password manager for all of your devices.",
     "license": "GPL-3.0 or Bitwarden-1.0",
@@ -20,10 +20,10 @@
       "vault"
     ],
     "installer": {
-      "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.9.0/Bitwarden-Installer-2026.9.0.exe",
+      "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.9.1/Bitwarden-Installer-2026.9.1.exe",
       "type": "nullsoft",
       "architecture": "x64",
-      "sha256": "6AF475C43BEA3E5578F6E441AC6D90E830E77C54E0707DB738AF9F0DC53F5180",
+      "sha256": "49B10F0840E70BDD1701CC9A0B729813015A70D3D3B487682A4E4A93819A3263",
       "silentArgs": "/S"
     },
     "icon": {
@@ -215,7 +215,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.23",
+    "version": "15.0.24",
     "publisher": "Tor Project",
     "description": "Protect yourself against tracking, surveillance, and censorship.",
     "license": "MPL-2.0",
@@ -236,10 +236,10 @@
       "web-browser"
     ],
     "installer": {
-      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.23/tor-browser-windows-x86_64-portable-15.0.23.exe",
+      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.24/tor-browser-windows-x86_64-portable-15.0.24.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "64BF85AD2A3E3DB115A1CA2FEA31EA5441DDD369593CB30EAA95606F9D5096DC",
+      "sha256": "A549824C31DD9EE8143ECC6BC97B8F2D5FD5CBA8B13F528F1444A0B769758C6C",
       "silentArgs": "/S"
     },
     "icon": {

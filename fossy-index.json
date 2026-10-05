@@ -2,7 +2,7 @@
   {
     "id": "Brave.Brave",
     "name": "Brave",
-    "version": "154.1.96.59",
+    "version": "154.1.96.61",
     "category": "Browsers",
     "homepage": "https://brave.com/download",
     "icon": "icons/brave-brave.png"
@@ -10,7 +10,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "156.0-1",
+    "version": "157.0-1",
     "category": "Browsers",
     "homepage": "https://librewolf.net/",
     "icon": "icons/librewolf-librewolf.ico"
@@ -18,7 +18,7 @@
   {
     "id": "Mozilla.Firefox",
     "name": "Mozilla Firefox (en-US)",
-    "version": "156.0.1",
+    "version": "157.0",
     "category": "Browsers",
     "homepage": "https://www.mozilla.org/firefox/",
     "icon": "icons/mozilla-firefox.ico"
@@ -26,7 +26,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "154.0.8037.57-1.1",
+    "version": "154.0.8037.92-1.1",
     "category": "Browsers",
     "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
     "icon": "icons/ungoogledchromium-ungoogledchromium.png"
@@ -34,7 +34,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.7.4",
+    "version": "6.7.5",
     "category": "Browsers",
     "homepage": "https://www.waterfox.net/",
     "icon": "icons/waterfox-waterfox.ico"
@@ -42,7 +42,7 @@
   {
     "id": "Element.Element",
     "name": "Element",
-    "version": "1.12.29",
+    "version": "1.12.30",
     "category": "Communication",
     "homepage": "https://element.io/download",
     "icon": "icons/element-element.png"
@@ -66,7 +66,7 @@
   {
     "id": "Mozilla.Thunderbird",
     "name": "Mozilla Thunderbird (en-US)",
-    "version": "156.0.1",
+    "version": "157.0.1",
     "category": "Communication",
     "homepage": "https://www.thunderbird.net/",
     "icon": "icons/mozilla-thunderbird.ico"
@@ -74,7 +74,7 @@
   {
     "id": "RocketChat.RocketChat",
     "name": "Rocket.Chat",
-    "version": "4.17.3",
+    "version": "4.17.4",
     "category": "Communication",
     "homepage": "https://rocket.chat/",
     "icon": "icons/rocketchat-rocketchat.png"
@@ -82,7 +82,7 @@
   {
     "id": "BlenderFoundation.Blender",
     "name": "blender",
-    "version": "5.2.1",
+    "version": "5.2.2",
     "category": "Design",
     "homepage": "",
     "icon": ""
@@ -90,7 +90,7 @@
   {
     "id": "darktable.darktable",
     "name": "darktable",
-    "version": "5.6.1",
+    "version": "5.6.2",
     "category": "Design",
     "homepage": "https://www.darktable.org/",
     "icon": "icons/darktable-darktable.png"
@@ -98,7 +98,7 @@
   {
     "id": "FreeCAD.FreeCAD",
     "name": "FreeCAD",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "category": "Design",
     "homepage": "https://www.freecad.org/downloads.php",
     "icon": "icons/freecad-freecad.png"
@@ -162,7 +162,7 @@
   {
     "id": "Git.Git",
     "name": "Git",
-    "version": "2.55.0.3",
+    "version": "2.55.0.5",
     "category": "Development",
     "homepage": "https://gitforwindows.org/",
     "icon": "icons/git-git.png"
@@ -202,7 +202,7 @@
   {
     "id": "Meld.Meld",
     "name": "Meld",
-    "version": "3.24.0",
+    "version": "3.24.1",
     "category": "Development",
     "homepage": "https://meldmerge.org/",
     "icon": "icons/meld-meld.png"
@@ -242,7 +242,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.19",
+    "version": "0.12.23",
     "category": "Development",
     "homepage": "https://github.com/astral-sh/uv",
     "icon": "icons/astral-sh-uv.png"
@@ -290,7 +290,7 @@
   {
     "id": "qBittorrent.qBittorrent",
     "name": "qBittorrent",
-    "version": "5.2.3",
+    "version": "5.2.4",
     "category": "File Sharing",
     "homepage": "https://www.qbittorrent.org/",
     "icon": "icons/qbittorrent-qbittorrent.ico"
@@ -338,7 +338,7 @@
   {
     "id": "Audacity.Audacity",
     "name": "Audacity",
-    "version": "4.0.0.262451524",
+    "version": "4.0.1.262721353",
     "category": "Media",
     "homepage": "https://www.audacityteam.org/",
     "icon": "icons/audacity-audacity.png"
@@ -402,7 +402,7 @@
   {
     "id": "VideoLAN.VLC",
     "name": "VLC media player",
-    "version": "3.0.23",
+    "version": "3.0.24",
     "category": "Media",
     "homepage": "https://www.videolan.org/vlc/",
     "icon": ""
@@ -434,7 +434,7 @@
   {
     "id": "MarkText.MarkText",
     "name": "MarkText",
-    "version": "0.19.1",
+    "version": "0.20.0",
     "category": "Productivity",
     "homepage": "https://github.com/marktext",
     "icon": "icons/marktext-marktext.png"
@@ -458,7 +458,7 @@
   {
     "id": "Bitwarden.Bitwarden",
     "name": "Bitwarden",
-    "version": "2026.9.0",
+    "version": "2026.9.1",
     "category": "Security",
     "homepage": "https://bitwarden.com/",
     "icon": "icons/bitwarden-bitwarden.png"
@@ -514,7 +514,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.23",
+    "version": "15.0.24",
     "category": "Security",
     "homepage": "https://www.torproject.org/",
     "icon": "icons/torproject-torbrowser.ico"
@@ -658,7 +658,7 @@
   {
     "id": "WinSCP.WinSCP",
     "name": "WinSCP",
-    "version": "6.5.6",
+    "version": "6.5.7",
     "category": "Utilities",
     "homepage": "https://winscp.net/",
     "icon": "icons/winscp-winscp.ico"

@@ -2,7 +2,7 @@
   {
     "id": "BlenderFoundation.Blender",
     "name": "blender",
-    "version": "5.2.1",
+    "version": "5.2.2",
     "publisher": "Blender Foundation",
     "description": "Free and Open 3D Creation Software",
     "license": "GPL-3.0-or-later",
@@ -17,17 +17,17 @@
       "vfx"
     ],
     "installer": {
-      "url": "https://download.blender.org/release/Blender5.2/blender-5.2.1-windows-x64.msi",
+      "url": "https://download.blender.org/release/Blender5.2/blender-5.2.2-windows-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "BEBB90FC5BF7E3EC7AB4EB34F4C5A5B54E28E582A722152A47FD4EE66EC3C6FA",
+      "sha256": "8DAC2751EBE8E3867327EEC52F1EF9B344C0A27499BB6221A301B4B35F2828D1",
       "silentArgs": "/quiet /norestart"
     }
   },
   {
     "id": "darktable.darktable",
     "name": "darktable",
-    "version": "5.6.1",
+    "version": "5.6.2",
     "publisher": "darktable team",
     "description": "Photography workflow application and raw developer",
     "license": "GPL-3.0",
@@ -46,10 +46,10 @@
       "viewer"
     ],
     "installer": {
-      "url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.1/darktable-5.6.1-win64.exe",
+      "url": "https://github.com/darktable-org/darktable/releases/download/release-5.6.2/darktable-5.6.2-win64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "BB15A8E4D24C21097CFDEF0A560920F7FA0C05DEC93482448DD538F2BE02D6C4",
+      "sha256": "7F7A1EABCD0A1B548DCFACAC842C8203FC85A4175697FB09F90BB891C8931EDD",
       "silentArgs": "/S"
     },
     "icon": {
@@ -60,7 +60,7 @@
   {
     "id": "FreeCAD.FreeCAD",
     "name": "FreeCAD",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "publisher": "FreeCAD Team",
     "description": "A general purpose open source parametric 3D CAD modeler",
     "license": "LGPL-2.0-or-later",
@@ -73,10 +73,10 @@
       "engineering"
     ],
     "installer": {
-      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.3/FreeCAD_1.1.3-Windows-x86_64-py311-installer.exe",
+      "url": "https://github.com/FreeCAD/FreeCAD/releases/download/1.1.4/FreeCAD_1.1.4-Windows-x86_64-py311-installer.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "3DE56676DEDB7C68F4DA9734C79ABEAFF9BBBF09F6A2C01DF72A82BEEEE81C11",
+      "sha256": "845F7101D33FAF257A82A0CADC5F4F3804441F46EE493EB32B92FCF9C7147A24",
       "silentArgs": "/S"
     },
     "icon": {

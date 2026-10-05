@@ -112,7 +112,7 @@
   {
     "id": "MarkText.MarkText",
     "name": "MarkText",
-    "version": "0.19.1",
+    "version": "0.20.0",
     "publisher": "Jocs",
     "description": "A simple and elegant Markdown editor focused on speed and usability.",
     "license": "MIT",
@@ -123,10 +123,10 @@
       "markdown"
     ],
     "installer": {
-      "url": "https://github.com/marktext/marktext/releases/download/v0.19.1/marktext-win-x64-0.19.1-setup.exe",
+      "url": "https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-win-x64-0.20.0-setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "0DE6C0AA854728F3E5C21D74B4138F0A515D70CD80921EB3AED6B8E975838A2F",
+      "sha256": "4C825F40D1222A3D9DC3ACF397CCDF7464D9CB9D89759EE42BA7E0B7354ACE4F",
       "silentArgs": "/S"
     },
     "icon": {
