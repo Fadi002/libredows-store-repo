@@ -152,7 +152,7 @@
   {
     "id": "KDE.Krita",
     "name": "Krita",
-    "version": "5.3.4.0",
+    "version": "5.3.4.1",
     "publisher": "Krita Foundation",
     "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
     "license": "GPL-3.0",
@@ -167,10 +167,10 @@
       "sketching"
     ],
     "installer": {
-      "url": "https://download.kde.org/stable/krita/5.3.4/krita-x64-5.3.4-setup.exe",
+      "url": "https://download.kde.org/stable/krita/5.3.4.1/krita-x64-5.3.4.1-setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "0DD4D6F86878D42B058AA33BB2FDED01C888768E6F1DAA0319E5F5B5CC49E465",
+      "sha256": "025523CF1751FF209FAF7ECFE1CFF851F2CDAB64ACB8C555B307B349AD56CE8F",
       "silentArgs": "/S"
     },
     "icon": {

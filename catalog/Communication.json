@@ -125,7 +125,7 @@
   {
     "id": "RocketChat.RocketChat",
     "name": "Rocket.Chat",
-    "version": "4.17.4",
+    "version": "4.18.2",
     "publisher": "Rocket.Chat Support",
     "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
     "license": "MIT",
@@ -143,10 +143,10 @@
       "video-conference"
     ],
     "installer": {
-      "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.4/rocketchat-4.17.4-win-x64.exe",
+      "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-x64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "53F2CEAFD25D0468453F86A10C1474B89EDE2A62CCC6CF1048CB2A77C41AA8D9",
+      "sha256": "9D9EAE967EBFA3B3E077A88E06A640728D7956A840730E3A340940D490C4DE05",
       "silentArgs": "/S"
     },
     "icon": {

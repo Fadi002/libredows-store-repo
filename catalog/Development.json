@@ -66,7 +66,7 @@
   {
     "id": "GitHub.GitHubDesktop",
     "name": "GitHub Desktop",
-    "version": "3.6.6",
+    "version": "3.6.7",
     "publisher": "GitHub, Inc.",
     "description": "Focus on what matters instead of fighting with Git.",
     "license": "MIT",
@@ -77,10 +77,10 @@
       "github"
     ],
     "installer": {
-      "url": "https://desktop.githubusercontent.com/releases/3.6.6-8b85519e/GitHubDesktopSetup-x64.msi",
+      "url": "https://desktop.githubusercontent.com/releases/3.6.7-dbc92f97/GitHubDesktopSetup-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "988D17208B6801D9CF09C7CADC9831E62588C105CD680E62CE9D5C95559E2021",
+      "sha256": "E1510C4FA6BC348AADE90CDDA7ED55D8FD1E984AEBF2D66AD290741B92977053",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -211,7 +211,7 @@
   {
     "id": "OpenJS.NodeJS.LTS",
     "name": "Node.js (LTS)",
-    "version": "24.19.0",
+    "version": "24.20.0",
     "publisher": "Node.js Foundation",
     "description": "Run JavaScript Everywhere",
     "license": "MIT",
@@ -233,10 +233,10 @@
       "v8"
     ],
     "installer": {
-      "url": "https://nodejs.org/dist/v24.19.0/node-v24.19.0-x64.msi",
+      "url": "https://nodejs.org/dist/v24.20.0/node-v24.20.0-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "F0F66C2A80C08A30A5AB5179EE9EA9E45F9B46289436A8CC87FF833B852DB351",
+      "sha256": "28B69132C35CCC033BF8F2A67CD10C9D75EF5822593363309DA448F2AFFF2D8A",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -331,7 +331,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.23",
+    "version": "0.13.0",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.12.23/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.13.0/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "75D05DE6762778C31EE183398DE7DD15093FAD0ED90B1F236D8205EA5EC00C90",
+      "sha256": "088962F9E7B7BD9EA740C04C650B2A21C8928C345BD99AC24350DC924DBA656C",
       "silentArgs": ""
     },
     "icon": {

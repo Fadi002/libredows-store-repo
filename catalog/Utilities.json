@@ -2,7 +2,7 @@
   {
     "id": "7zip.7zip",
     "name": "7-Zip",
-    "version": "26.03",
+    "version": "26.04",
     "publisher": "Igor Pavlov",
     "description": "A file archiver with a high compression ratio.",
     "license": "LGPL-2.1",
@@ -26,10 +26,10 @@
       "zip"
     ],
     "installer": {
-      "url": "https://www.7-zip.org/a/7z2603-x64.msi",
+      "url": "https://www.7-zip.org/a/7z2604-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "C0680064D698A62DD4A5A47F403DB356A6531A5473E4C4B1D090EA2590513926",
+      "sha256": "0B01334A418654293513449F61D6BFC99E5196CA371E3C3DC961EDA57CD535C6",
       "silentArgs": "/quiet /norestart"
     }
   },
@@ -103,7 +103,7 @@
   {
     "id": "hluk.CopyQ",
     "name": "CopyQ",
-    "version": "16.0.0",
+    "version": "17.0.0",
     "publisher": "Lukas Holecek",
     "description": "Clipboard manager with advanced features",
     "license": "GPL-3.0",
@@ -114,10 +114,10 @@
       "tray"
     ],
     "installer": {
-      "url": "https://github.com/hluk/CopyQ/releases/download/v16.0.0/copyq-16.0.0-setup.exe",
+      "url": "https://github.com/hluk/CopyQ/releases/download/v17.0.0/copyq-17.0.0-setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "F271A1467589CA55CD56D1FAF727A4BC34E686B4965AC742854A93BE4B186F82",
+      "sha256": "33585174067273B391DF13C0332ADB60A3797EC47BFFF9C26FF7C26E7DCD85D8",
       "silentArgs": "/S"
     },
     "icon": {
@@ -128,7 +128,7 @@
   {
     "id": "CrystalDewWorld.CrystalDiskInfo",
     "name": "CrystalDiskInfo",
-    "version": "9.9.2",
+    "version": "9.9.3",
     "publisher": "Crystal Dew World",
     "description": "A HDD/SSD utility software which supports parts of USB, Intel RAID and NVMe.",
     "license": "MIT",
@@ -153,10 +153,10 @@
       "xp8k4rgx25g3gm"
     ],
     "installer": {
-      "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.2/CrystalDiskInfo9_9_2.exe",
+      "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.3/CrystalDiskInfo9_9_3.exe/download",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "45BE8DEF3EC8876DCD1E5D299BD049140BC5D692413883AAE1049F7D24A41ABE",
+      "sha256": "AEB4F4AB81C71F9B41CE65DE841162260FF64C1EC07A758A459CAC925BD0FCF6",
       "silentArgs": "/S"
     },
     "icon": {
@@ -198,7 +198,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.22.0.2",
+    "version": "8.22.0.3",
     "publisher": "curl",
     "description": "Command line tool and library for transferring data with URLs",
     "license": "Freeware",
@@ -206,10 +206,10 @@
     "category": "Utilities",
     "tags": [],
     "installer": {
-      "url": "https://curl.se/windows/dl-8.22.0_2/curl-8.22.0_2-win64-mingw.zip",
+      "url": "https://curl.se/windows/dl-8.22.0_3/curl-8.22.0_3-win64-mingw.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "7C8C6B953B4EB2953D2BDC08CCA1D5F09A964E9F86C361693559400C9A6D6DB0",
+      "sha256": "F38B0AC2E3A280FD414B607C874A21E6DD4D1ED0E2AE622AFBF0020917446561",
       "silentArgs": ""
     },
     "icon": {
@@ -474,10 +474,10 @@
   {
     "id": "WinDirStat.WinDirStat",
     "name": "WinDirStat",
-    "version": "2.8.0",
+    "version": "2.9.3",
     "publisher": "The WinDirStat Team",
     "description": "WinDirStat is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.",
-    "license": "GPL-2.0",
+    "license": "GPL-3.0",
     "homepage": "https://github.com/windirstat/windirstat/releases/",
     "category": "Utilities",
     "tags": [
@@ -490,10 +490,10 @@
       "windows"
     ],
     "installer": {
-      "url": "https://github.com/windirstat/windirstat/releases/download/release/v2.8.0/WinDirStat-x64.msi",
+      "url": "https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "C40A6EC73497B18EB4CE2CBE071983B4F637CD04644BFCA73C176D624794F79A",
+      "sha256": "96C4C4BEB63C7C5AD6B1A206F96560D7A9A2B6063F3CD175A82F392977A9AF5D",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {

@@ -2,7 +2,7 @@
   {
     "id": "Brave.Brave",
     "name": "Brave",
-    "version": "154.1.96.61",
+    "version": "155.1.97.56",
     "category": "Browsers",
     "homepage": "https://brave.com/download",
     "icon": "icons/brave-brave.png"
@@ -10,7 +10,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "157.0-1",
+    "version": "157.0.1-1",
     "category": "Browsers",
     "homepage": "https://librewolf.net/",
     "icon": "icons/librewolf-librewolf.ico"
@@ -18,7 +18,7 @@
   {
     "id": "Mozilla.Firefox",
     "name": "Mozilla Firefox (en-US)",
-    "version": "157.0",
+    "version": "157.0.1",
     "category": "Browsers",
     "homepage": "https://www.mozilla.org/firefox/",
     "icon": "icons/mozilla-firefox.ico"
@@ -26,7 +26,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "154.0.8037.92-1.1",
+    "version": "155.0.8059.39-1.1",
     "category": "Browsers",
     "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
     "icon": "icons/ungoogledchromium-ungoogledchromium.png"
@@ -74,7 +74,7 @@
   {
     "id": "RocketChat.RocketChat",
     "name": "Rocket.Chat",
-    "version": "4.17.4",
+    "version": "4.18.2",
     "category": "Communication",
     "homepage": "https://rocket.chat/",
     "icon": "icons/rocketchat-rocketchat.png"
@@ -122,7 +122,7 @@
   {
     "id": "KDE.Krita",
     "name": "Krita",
-    "version": "5.3.4.0",
+    "version": "5.3.4.1",
     "category": "Design",
     "homepage": "https://krita.org/",
     "icon": "icons/kde-krita.ico"
@@ -170,7 +170,7 @@
   {
     "id": "GitHub.GitHubDesktop",
     "name": "GitHub Desktop",
-    "version": "3.6.6",
+    "version": "3.6.7",
     "category": "Development",
     "homepage": "https://github.com/apps/desktop",
     "icon": "icons/github-githubdesktop.png"
@@ -210,7 +210,7 @@
   {
     "id": "OpenJS.NodeJS.LTS",
     "name": "Node.js (LTS)",
-    "version": "24.19.0",
+    "version": "24.20.0",
     "category": "Development",
     "homepage": "https://nodejs.org/",
     "icon": "icons/openjs-nodejs-lts.png"
@@ -242,7 +242,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.12.23",
+    "version": "0.13.0",
     "category": "Development",
     "homepage": "https://github.com/astral-sh/uv",
     "icon": "icons/astral-sh-uv.png"
@@ -282,7 +282,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "34.0.4",
+    "version": "34.0.5",
     "category": "File Sharing",
     "homepage": "https://nextcloud.com/",
     "icon": "icons/nextcloud-nextclouddesktop.png"
@@ -314,7 +314,7 @@
   {
     "id": "Syncthing.Syncthing",
     "name": "Syncthing",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "category": "File Sharing",
     "homepage": "https://github.com/syncthing/syncthing",
     "icon": "icons/syncthing-syncthing.png"
@@ -330,7 +330,7 @@
   {
     "id": "ItchIo.Itch",
     "name": "itch",
-    "version": "26.20.0",
+    "version": "26.22.0",
     "category": "Games",
     "homepage": "https://itch.io/app",
     "icon": "icons/itchio-itch.ico"
@@ -362,7 +362,7 @@
   {
     "id": "MoritzBunkus.MKVToolNix",
     "name": "MKVToolNix",
-    "version": "100.0.0",
+    "version": "102.0.0",
     "category": "Media",
     "homepage": "https://mkvtoolnix.download/",
     "icon": ""
@@ -370,7 +370,7 @@
   {
     "id": "clsid2.mpc-hc",
     "name": "MPC-HC",
-    "version": "2.8.2",
+    "version": "2.8.3",
     "category": "Media",
     "homepage": "https://github.com/clsid2/mpc-hc",
     "icon": "icons/clsid2-mpc-hc.png"
@@ -418,7 +418,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.14.5",
+    "version": "0.14.8",
     "category": "Productivity",
     "homepage": "https://github.com/AppFlowy-IO/AppFlowy",
     "icon": "icons/appflowy-appflowy.png"
@@ -434,7 +434,7 @@
   {
     "id": "MarkText.MarkText",
     "name": "MarkText",
-    "version": "0.20.0",
+    "version": "0.21.2",
     "category": "Productivity",
     "homepage": "https://github.com/marktext",
     "icon": "icons/marktext-marktext.png"
@@ -530,7 +530,7 @@
   {
     "id": "7zip.7zip",
     "name": "7-Zip",
-    "version": "26.03",
+    "version": "26.04",
     "category": "Utilities",
     "homepage": "https://7-zip.org/download.html",
     "icon": ""
@@ -554,7 +554,7 @@
   {
     "id": "hluk.CopyQ",
     "name": "CopyQ",
-    "version": "16.0.0",
+    "version": "17.0.0",
     "category": "Utilities",
     "homepage": "https://github.com/hluk/CopyQ",
     "icon": "icons/hluk-copyq.png"
@@ -562,7 +562,7 @@
   {
     "id": "CrystalDewWorld.CrystalDiskInfo",
     "name": "CrystalDiskInfo",
-    "version": "9.9.2",
+    "version": "9.9.3",
     "category": "Utilities",
     "homepage": "https://crystalmark.info/en/software/crystaldiskinfo/",
     "icon": "icons/crystaldewworld-crystaldiskinfo.ico"
@@ -578,7 +578,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.22.0.2",
+    "version": "8.22.0.3",
     "category": "Utilities",
     "homepage": "https://curl.se/",
     "icon": "icons/curl-curl.ico"
@@ -650,7 +650,7 @@
   {
     "id": "WinDirStat.WinDirStat",
     "name": "WinDirStat",
-    "version": "2.8.0",
+    "version": "2.9.3",
     "category": "Utilities",
     "homepage": "https://github.com/windirstat/windirstat/releases/",
     "icon": "icons/windirstat-windirstat.png"

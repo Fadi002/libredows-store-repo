@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "generated": "2026-10-05T09:40:12Z",
+  "generated": "2026-10-12T09:51:50Z",
   "total": 84,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "154.1.96.61",
+      "version": "155.1.97.56",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,10 +21,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.96.61/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.97.56/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "36FE4F98BFE7CAC4C3F6955106BF5B9AF52C2F26446F72FA743D0EEEC49610D8",
+        "sha256": "860FCD9B0DAAA7D2647D5230B16AA7B7F1BE0CA03DB49944A925E24A2600A9A2",
         "silentArgs": "/S"
       },
       "icon": {
@@ -35,7 +35,7 @@
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "157.0-1",
+      "version": "157.0.1-1",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -53,10 +53,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/157.0-1/librewolf-157.0-1-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/157.0.1-1/librewolf-157.0.1-1-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F3F4F882DC516F9130206F40177F5948BB2696790C5B15A8B9F6B5240E68B8E1",
+        "sha256": "42105E382146AE0C25FBD14D910C1E0A16E7768CD71DD62F4B85EA234F5B915B",
         "silentArgs": "/S"
       },
       "icon": {
@@ -67,7 +67,7 @@
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "157.0",
+      "version": "157.0.1",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -84,10 +84,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/157.0/win64/en-US/Firefox%20Setup%20157.0.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/157.0.1/win64/en-US/Firefox%20Setup%20157.0.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "58C90AFAB6E4B9A6B34D2958FE06D1A143DD9226EA8834377E5CD45E815936D7",
+        "sha256": "71DC620E7749BB65BE6DF67B99261A303805A804F9C787B76B81C095CFA7D9CA",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -98,7 +98,7 @@
     {
       "id": "UngoogledChromium.UngoogledChromium",
       "name": "Ungoogled Chromium",
-      "version": "154.0.8037.92-1.1",
+      "version": "155.0.8059.39-1.1",
       "publisher": "ungoogled-software",
       "description": "Windows packaging for ungoogled-chromium",
       "license": "BSD-3-Clause",
@@ -106,7 +106,7 @@
       "category": "Browsers",
       "tags": [],
       "installer": {
-        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/154.0.8037.92-1.1/ungoogled-chromium_154.0.8037.92-1.1_installer_x64.exe",
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/155.0.8059.39-1.1/ungoogled-chromium_155.0.8059.39-1.1_installer_x64.exe",
         "type": "exe",
         "architecture": "x64",
         "sha256": "",
@@ -276,7 +276,7 @@
     {
       "id": "RocketChat.RocketChat",
       "name": "Rocket.Chat",
-      "version": "4.17.4",
+      "version": "4.18.2",
       "publisher": "Rocket.Chat Support",
       "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
       "license": "MIT",
@@ -294,10 +294,10 @@
         "video-conference"
       ],
       "installer": {
-        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.17.4/rocketchat-4.17.4-win-x64.exe",
+        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "53F2CEAFD25D0468453F86A10C1474B89EDE2A62CCC6CF1048CB2A77C41AA8D9",
+        "sha256": "9D9EAE967EBFA3B3E077A88E06A640728D7956A840730E3A340940D490C4DE05",
         "silentArgs": "/S"
       },
       "icon": {
@@ -458,7 +458,7 @@
     {
       "id": "KDE.Krita",
       "name": "Krita",
-      "version": "5.3.4.0",
+      "version": "5.3.4.1",
       "publisher": "Krita Foundation",
       "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
       "license": "GPL-3.0",
@@ -473,10 +473,10 @@
         "sketching"
       ],
       "installer": {
-        "url": "https://download.kde.org/stable/krita/5.3.4/krita-x64-5.3.4-setup.exe",
+        "url": "https://download.kde.org/stable/krita/5.3.4.1/krita-x64-5.3.4.1-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "0DD4D6F86878D42B058AA33BB2FDED01C888768E6F1DAA0319E5F5B5CC49E465",
+        "sha256": "025523CF1751FF209FAF7ECFE1CFF851F2CDAB64ACB8C555B307B349AD56CE8F",
         "silentArgs": "/S"
       },
       "icon": {
@@ -635,7 +635,7 @@
     {
       "id": "GitHub.GitHubDesktop",
       "name": "GitHub Desktop",
-      "version": "3.6.6",
+      "version": "3.6.7",
       "publisher": "GitHub, Inc.",
       "description": "Focus on what matters instead of fighting with Git.",
       "license": "MIT",
@@ -646,10 +646,10 @@
         "github"
       ],
       "installer": {
-        "url": "https://desktop.githubusercontent.com/releases/3.6.6-8b85519e/GitHubDesktopSetup-x64.msi",
+        "url": "https://desktop.githubusercontent.com/releases/3.6.7-dbc92f97/GitHubDesktopSetup-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "988D17208B6801D9CF09C7CADC9831E62588C105CD680E62CE9D5C95559E2021",
+        "sha256": "E1510C4FA6BC348AADE90CDDA7ED55D8FD1E984AEBF2D66AD290741B92977053",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -780,7 +780,7 @@
     {
       "id": "OpenJS.NodeJS.LTS",
       "name": "Node.js (LTS)",
-      "version": "24.19.0",
+      "version": "24.20.0",
       "publisher": "Node.js Foundation",
       "description": "Run JavaScript Everywhere",
       "license": "MIT",
@@ -802,10 +802,10 @@
         "v8"
       ],
       "installer": {
-        "url": "https://nodejs.org/dist/v24.19.0/node-v24.19.0-x64.msi",
+        "url": "https://nodejs.org/dist/v24.20.0/node-v24.20.0-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "F0F66C2A80C08A30A5AB5179EE9EA9E45F9B46289436A8CC87FF833B852DB351",
+        "sha256": "28B69132C35CCC033BF8F2A67CD10C9D75EF5822593363309DA448F2AFFF2D8A",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -900,7 +900,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.12.23",
+      "version": "0.13.0",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -910,10 +910,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.12.23/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.13.0/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "75D05DE6762778C31EE183398DE7DD15093FAD0ED90B1F236D8205EA5EC00C90",
+        "sha256": "088962F9E7B7BD9EA740C04C650B2A21C8928C345BD99AC24350DC924DBA656C",
         "silentArgs": ""
       },
       "icon": {
@@ -1052,7 +1052,7 @@
     {
       "id": "Nextcloud.NextcloudDesktop",
       "name": "Nextcloud",
-      "version": "34.0.4",
+      "version": "34.0.5",
       "publisher": "Nextcloud GmbH",
       "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
       "license": "GPL-2.0",
@@ -1066,10 +1066,10 @@
         "utility"
       ],
       "installer": {
-        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.4/Nextcloud-34.0.4-x64.msi",
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.5/Nextcloud-34.0.5-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "1DF758ADD8CB685F5573223E8DB18CAA18AD7D356913C89D937CAB0DC8444D07",
+        "sha256": "AD048C193F9BBB577DC8B7BFDE2F3F0A3BE845BCD1585105CE62BE0AF4AB57CE",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -1181,7 +1181,7 @@
     {
       "id": "Syncthing.Syncthing",
       "name": "Syncthing",
-      "version": "2.1.5",
+      "version": "2.1.6",
       "publisher": "The Syncthing Authors",
       "description": "Open Source Continuous File Synchronization",
       "license": "MPL-2.0",
@@ -1203,10 +1203,10 @@
         "synchronization"
       ],
       "installer": {
-        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-windows-amd64-v2.1.5.zip",
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-amd64-v2.1.6.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "39571E4D0900C2A2CAB14C0B170F49751340A869E49734CCC8079D9B98A7974B",
+        "sha256": "589098269CABB9A5A1703A934305B4153609D7623E978E1C94F0F49D77AE5E9F",
         "silentArgs": ""
       },
       "icon": {
@@ -1244,7 +1244,7 @@
     {
       "id": "ItchIo.Itch",
       "name": "itch",
-      "version": "26.20.0",
+      "version": "26.22.0",
       "publisher": "itch corp.",
       "description": "Install, update and play indie games",
       "license": "MIT",
@@ -1368,7 +1368,7 @@
     {
       "id": "MoritzBunkus.MKVToolNix",
       "name": "MKVToolNix",
-      "version": "100.0.0",
+      "version": "102.0.0",
       "publisher": "Moritz Bunkus",
       "description": "MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.",
       "license": "GPL-2.0",
@@ -1382,17 +1382,17 @@
         "mkvpropedit"
       ],
       "installer": {
-        "url": "https://mkvtoolnix.download/windows/releases/100.0/mkvtoolnix-64-bit-100.0-setup.exe",
+        "url": "https://mkvtoolnix.download/windows/releases/102.0/mkvtoolnix-64-bit-102.0-setup.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "F0E53E5459610583E972EBB1A5C923816BB461BAFB9831455680343C68CC4074",
+        "sha256": "AEBD61C359457A05629362E46567D75A04EA0AE2797D1EA5AF719E94F8FDFBD5",
         "silentArgs": "/S"
       }
     },
     {
       "id": "clsid2.mpc-hc",
       "name": "MPC-HC",
-      "version": "2.8.2",
+      "version": "2.8.3",
       "publisher": "MPC-HC Team",
       "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
       "license": "GPL-3.0",
@@ -1412,10 +1412,10 @@
         "video-player"
       ],
       "installer": {
-        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.2/MPC-HC.2.8.2.x64.exe",
+        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.3/MPC-HC.2.8.3.x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "4A39FF780905C533F43B7E5684672A50345369B54E895E2CA6B7039194490D12",
+        "sha256": "A2F0E384A4222435AB37635E74D975F6518B81C31060CA95BC9BB7D2776E5DBC",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1580,7 +1580,7 @@
     {
       "id": "AppFlowy.AppFlowy",
       "name": "AppFlowy",
-      "version": "0.14.5",
+      "version": "0.14.8",
       "publisher": "AppFlowy-IO",
       "description": "The Open Source Alternative To Notion.",
       "license": "AGPL-3.0",
@@ -1605,10 +1605,10 @@
         "wiki"
       ],
       "installer": {
-        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.5/AppFlowy-0.14.5-windows-x86_64.exe",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "B213D2AF0E31D2990E559201682BF67E1EFD9E8E4C5211F44F6796B9BA817118",
+        "sha256": "AD8BE9C4636CDE2DAAF562BDB1EA0799D4381358319B7348754B98143DE874C4",
         "silentArgs": "/sp- /verysilent /norestart"
       },
       "icon": {
@@ -1651,7 +1651,7 @@
     {
       "id": "MarkText.MarkText",
       "name": "MarkText",
-      "version": "0.20.0",
+      "version": "0.21.2",
       "publisher": "Jocs",
       "description": "A simple and elegant Markdown editor focused on speed and usability.",
       "license": "MIT",
@@ -1662,10 +1662,10 @@
         "markdown"
       ],
       "installer": {
-        "url": "https://github.com/marktext/marktext/releases/download/v0.20.0/marktext-win-x64-0.20.0-setup.exe",
+        "url": "https://github.com/marktext/marktext/releases/download/v0.21.2/marktext-win-x64-0.21.2-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "4C825F40D1222A3D9DC3ACF397CCDF7464D9CB9D89759EE42BA7E0B7354ACE4F",
+        "sha256": "561F691DA22750797BEC07815BB8EB601B8C0C0D255D8A09031783F340B05579",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2010,7 +2010,7 @@
     {
       "id": "7zip.7zip",
       "name": "7-Zip",
-      "version": "26.03",
+      "version": "26.04",
       "publisher": "Igor Pavlov",
       "description": "A file archiver with a high compression ratio.",
       "license": "LGPL-2.1",
@@ -2034,10 +2034,10 @@
         "zip"
       ],
       "installer": {
-        "url": "https://www.7-zip.org/a/7z2603-x64.msi",
+        "url": "https://www.7-zip.org/a/7z2604-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "C0680064D698A62DD4A5A47F403DB356A6531A5473E4C4B1D090EA2590513926",
+        "sha256": "0B01334A418654293513449F61D6BFC99E5196CA371E3C3DC961EDA57CD535C6",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -2111,7 +2111,7 @@
     {
       "id": "hluk.CopyQ",
       "name": "CopyQ",
-      "version": "16.0.0",
+      "version": "17.0.0",
       "publisher": "Lukas Holecek",
       "description": "Clipboard manager with advanced features",
       "license": "GPL-3.0",
@@ -2122,10 +2122,10 @@
         "tray"
       ],
       "installer": {
-        "url": "https://github.com/hluk/CopyQ/releases/download/v16.0.0/copyq-16.0.0-setup.exe",
+        "url": "https://github.com/hluk/CopyQ/releases/download/v17.0.0/copyq-17.0.0-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F271A1467589CA55CD56D1FAF727A4BC34E686B4965AC742854A93BE4B186F82",
+        "sha256": "33585174067273B391DF13C0332ADB60A3797EC47BFFF9C26FF7C26E7DCD85D8",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2136,7 +2136,7 @@
     {
       "id": "CrystalDewWorld.CrystalDiskInfo",
       "name": "CrystalDiskInfo",
-      "version": "9.9.2",
+      "version": "9.9.3",
       "publisher": "Crystal Dew World",
       "description": "A HDD/SSD utility software which supports parts of USB, Intel RAID and NVMe.",
       "license": "MIT",
@@ -2161,10 +2161,10 @@
         "xp8k4rgx25g3gm"
       ],
       "installer": {
-        "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.2/CrystalDiskInfo9_9_2.exe",
+        "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.3/CrystalDiskInfo9_9_3.exe/download",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "45BE8DEF3EC8876DCD1E5D299BD049140BC5D692413883AAE1049F7D24A41ABE",
+        "sha256": "AEB4F4AB81C71F9B41CE65DE841162260FF64C1EC07A758A459CAC925BD0FCF6",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2206,7 +2206,7 @@
     {
       "id": "cURL.cURL",
       "name": "cURL",
-      "version": "8.22.0.2",
+      "version": "8.22.0.3",
       "publisher": "curl",
       "description": "Command line tool and library for transferring data with URLs",
       "license": "Freeware",
@@ -2214,10 +2214,10 @@
       "category": "Utilities",
       "tags": [],
       "installer": {
-        "url": "https://curl.se/windows/dl-8.22.0_2/curl-8.22.0_2-win64-mingw.zip",
+        "url": "https://curl.se/windows/dl-8.22.0_3/curl-8.22.0_3-win64-mingw.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "7C8C6B953B4EB2953D2BDC08CCA1D5F09A964E9F86C361693559400C9A6D6DB0",
+        "sha256": "F38B0AC2E3A280FD414B607C874A21E6DD4D1ED0E2AE622AFBF0020917446561",
         "silentArgs": ""
       },
       "icon": {
@@ -2482,10 +2482,10 @@
     {
       "id": "WinDirStat.WinDirStat",
       "name": "WinDirStat",
-      "version": "2.8.0",
+      "version": "2.9.3",
       "publisher": "The WinDirStat Team",
       "description": "WinDirStat is a disk usage statistics viewer and cleanup tool for various versions of Microsoft Windows.",
-      "license": "GPL-2.0",
+      "license": "GPL-3.0",
       "homepage": "https://github.com/windirstat/windirstat/releases/",
       "category": "Utilities",
       "tags": [
@@ -2498,10 +2498,10 @@
         "windows"
       ],
       "installer": {
-        "url": "https://github.com/windirstat/windirstat/releases/download/release/v2.8.0/WinDirStat-x64.msi",
+        "url": "https://github.com/windirstat/windirstat/releases/download/release/v2.9.3/WinDirStat-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "C40A6EC73497B18EB4CE2CBE071983B4F637CD04644BFCA73C176D624794F79A",
+        "sha256": "96C4C4BEB63C7C5AD6B1A206F96560D7A9A2B6063F3CD175A82F392977A9AF5D",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {

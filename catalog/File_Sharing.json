@@ -33,7 +33,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "34.0.4",
+    "version": "34.0.5",
     "publisher": "Nextcloud GmbH",
     "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
     "license": "GPL-2.0",
@@ -47,10 +47,10 @@
       "utility"
     ],
     "installer": {
-      "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.4/Nextcloud-34.0.4-x64.msi",
+      "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.5/Nextcloud-34.0.5-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "1DF758ADD8CB685F5573223E8DB18CAA18AD7D356913C89D937CAB0DC8444D07",
+      "sha256": "AD048C193F9BBB577DC8B7BFDE2F3F0A3BE845BCD1585105CE62BE0AF4AB57CE",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -162,7 +162,7 @@
   {
     "id": "Syncthing.Syncthing",
     "name": "Syncthing",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "publisher": "The Syncthing Authors",
     "description": "Open Source Continuous File Synchronization",
     "license": "MPL-2.0",
@@ -184,10 +184,10 @@
       "synchronization"
     ],
     "installer": {
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.5/syncthing-windows-amd64-v2.1.5.zip",
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-amd64-v2.1.6.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "39571E4D0900C2A2CAB14C0B170F49751340A869E49734CCC8079D9B98A7974B",
+      "sha256": "589098269CABB9A5A1703A934305B4153609D7623E978E1C94F0F49D77AE5E9F",
       "silentArgs": ""
     },
     "icon": {
