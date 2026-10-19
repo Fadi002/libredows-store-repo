@@ -87,30 +87,30 @@
   {
     "id": "GIMP.GIMP",
     "name": "GIMP",
-    "version": "3.2.4",
+    "version": "3.2.6",
     "publisher": "The GIMP Team",
     "description": "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.",
     "license": "GPLv3",
     "homepage": "https://www.gimp.org/downloads/",
     "category": "Design",
     "tags": [
+      "9pnsjclxdz0v",
       "gnu-image-manipulation-program",
       "gnuimagemanipulationprogram",
-      "image-editor",
       "image-editing",
+      "image-editor",
       "imageediting",
       "paint",
       "painting",
-      "photoediting",
       "photo-editing",
-      "pictures",
-      "9pnsjclxdz0v"
+      "photoediting",
+      "pictures"
     ],
     "installer": {
-      "url": "https://download.gimp.org/gimp/v3.2/windows/gimp-3.2.4-setup.exe",
+      "url": "https://download.gimp.org/gimp/v3.2/windows/gimp-3.2.6-setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "EC31D757DD82831D201FFCF47FFEAC4175DF739E0C02D5122E89AEEADFB988CC",
+      "sha256": "9337CCCBC01D4098EE7A3DAB215B3AFBE6ECE99C5287C92441D6F12CF541EBCA",
       "silentArgs": "/S"
     },
     "icon": {

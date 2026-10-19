@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "generated": "2026-10-12T09:51:50Z",
+  "generated": "2026-10-19T08:08:23Z",
   "total": 84,
   "apps": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "157.0.1-1",
+      "version": "158.0-1",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -53,10 +53,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/157.0.1-1/librewolf-157.0.1-1-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/158.0-1/librewolf-158.0-1-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "42105E382146AE0C25FBD14D910C1E0A16E7768CD71DD62F4B85EA234F5B915B",
+        "sha256": "BDD14E9287437E08C08F8EBA1B264DB0EF4852DDD7E4675285B938299B653984",
         "silentArgs": "/S"
       },
       "icon": {
@@ -98,7 +98,7 @@
     {
       "id": "UngoogledChromium.UngoogledChromium",
       "name": "Ungoogled Chromium",
-      "version": "155.0.8059.39-1.1",
+      "version": "155.0.8059.79-1.1",
       "publisher": "ungoogled-software",
       "description": "Windows packaging for ungoogled-chromium",
       "license": "BSD-3-Clause",
@@ -106,7 +106,7 @@
       "category": "Browsers",
       "tags": [],
       "installer": {
-        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/155.0.8059.39-1.1/ungoogled-chromium_155.0.8059.39-1.1_installer_x64.exe",
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/155.0.8059.79-1.1/ungoogled-chromium_155.0.8059.79-1.1_installer_x64.exe",
         "type": "exe",
         "architecture": "x64",
         "sha256": "",
@@ -120,7 +120,7 @@
     {
       "id": "Waterfox.Waterfox",
       "name": "Waterfox",
-      "version": "6.7.5",
+      "version": "6.7.6",
       "publisher": "BrowserWorks",
       "description": "Fast and Private Web Browser",
       "license": "MPL-2.0",
@@ -139,10 +139,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.5/WINNT_x86_64/Waterfox%20Setup%206.7.5.exe",
+        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.6/WINNT_x86_64/Waterfox%20Setup%206.7.6.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "AE7806E7A61B668BB0EC7AF13714179B794195626794852D0DFBFB5C8421643D",
+        "sha256": "7F5293ACAE538CE497829D31C7217FC89763A19A37F4451649F78DDB93F92684",
         "silentArgs": "-ms"
       },
       "icon": {
@@ -153,7 +153,7 @@
     {
       "id": "Element.Element",
       "name": "Element",
-      "version": "1.12.30",
+      "version": "1.12.32",
       "publisher": "Element",
       "description": "Secure collaboration and messaging",
       "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -177,10 +177,10 @@
         "talk"
       ],
       "installer": {
-        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.30.exe",
+        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.32.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "B9AC9617ACFA667EB5470E67E5DB744D3B595B35C285100A53AD17719F7CC6D3",
+        "sha256": "633A783365293916580FE8A589F3B0C8CAD9E2311F45F65E2F527AA6DDA72D5A",
         "silentArgs": "--silent"
       },
       "icon": {
@@ -219,7 +219,7 @@
     {
       "id": "Mattermost.MattermostDesktop",
       "name": "Mattermost",
-      "version": "6.3.0",
+      "version": "6.3.1",
       "publisher": "Mattermost, Inc.",
       "description": "Access your Mattermost instance with your credentials using the desktop app",
       "license": "Apache-2.0",
@@ -237,10 +237,10 @@
         "working"
       ],
       "installer": {
-        "url": "https://github.com/mattermost/desktop/releases/download/v6.3.0/mattermost-desktop-6.3.0-win-x64.msi",
+        "url": "https://github.com/mattermost/desktop/releases/download/v6.3.1/mattermost-desktop-6.3.1-win-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "0615EE83C6A94ED24B6AE08A7CA4CD27D1EA079B957E6B788204B1A49A3494BC",
+        "sha256": "5F47B75874680F944539F4C33BE60DE83A4572180FE0A40848669932DB88D2B8",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -251,7 +251,7 @@
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "157.0.1",
+      "version": "158.0",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -262,10 +262,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/157.0.1/win64/en-US/Thunderbird%20Setup%20157.0.1.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/158.0/win64/en-US/Thunderbird%20Setup%20158.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "DEC7ACC0E246C9BCE3AB23E02FCC55543EA96526BB0A13F5CA8D33A09E904F35",
+        "sha256": "7337E7BF74B0A0EC708BA457C446BE134A0B976ECC17622B962108A322B9270D",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -276,7 +276,7 @@
     {
       "id": "RocketChat.RocketChat",
       "name": "Rocket.Chat",
-      "version": "4.18.2",
+      "version": "4.18.3",
       "publisher": "Rocket.Chat Support",
       "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
       "license": "MIT",
@@ -294,10 +294,10 @@
         "video-conference"
       ],
       "installer": {
-        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.2/rocketchat-4.18.2-win-x64.exe",
+        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "9D9EAE967EBFA3B3E077A88E06A640728D7956A840730E3A340940D490C4DE05",
+        "sha256": "9EAB7766492ADFB84233F96690BD3A71E0437035544E097ED9E1C8EC63C24264",
         "silentArgs": "/S"
       },
       "icon": {
@@ -393,30 +393,30 @@
     {
       "id": "GIMP.GIMP",
       "name": "GIMP",
-      "version": "3.2.4",
+      "version": "3.2.6",
       "publisher": "The GIMP Team",
       "description": "GIMP is an acronym for GNU Image Manipulation Program. It is a freely distributed program for such tasks as photo retouching, image composition and image authoring.",
       "license": "GPLv3",
       "homepage": "https://www.gimp.org/downloads/",
       "category": "Design",
       "tags": [
+        "9pnsjclxdz0v",
         "gnu-image-manipulation-program",
         "gnuimagemanipulationprogram",
-        "image-editor",
         "image-editing",
+        "image-editor",
         "imageediting",
         "paint",
         "painting",
-        "photoediting",
         "photo-editing",
-        "pictures",
-        "9pnsjclxdz0v"
+        "photoediting",
+        "pictures"
       ],
       "installer": {
-        "url": "https://download.gimp.org/gimp/v3.2/windows/gimp-3.2.4-setup.exe",
+        "url": "https://download.gimp.org/gimp/v3.2/windows/gimp-3.2.6-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "EC31D757DD82831D201FFCF47FFEAC4175DF739E0C02D5122E89AEEADFB988CC",
+        "sha256": "9337CCCBC01D4098EE7A3DAB215B3AFBE6ECE99C5287C92441D6F12CF541EBCA",
         "silentArgs": "/S"
       },
       "icon": {
@@ -900,7 +900,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.13.0",
+      "version": "0.13.1",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -910,10 +910,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.13.0/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.13.1/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "088962F9E7B7BD9EA740C04C650B2A21C8928C345BD99AC24350DC924DBA656C",
+        "sha256": "3B2661A463A5BAEA7F5076EA2B25AB71D77F36A6C0D809E5350651792F80A672",
         "silentArgs": ""
       },
       "icon": {
@@ -924,7 +924,7 @@
     {
       "id": "VSCodium.VSCodium",
       "name": "VSCodium",
-      "version": "1.126.04524",
+      "version": "1.140.06880",
       "publisher": "VSCodium",
       "description": "VSCodium is a community-driven, freely-licensed and telemetry-free rebuilt of Microsoft's Visual Studio Code.",
       "license": "MIT",
@@ -941,10 +941,10 @@
         "vscode"
       ],
       "installer": {
-        "url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodiumUserSetup-x64-1.126.04524.exe",
+        "url": "https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-x64-1.140.06880.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A8C0516A9B17D1BA4887898F0966445BC61B386FD11578E57433F1E57E9868C9",
+        "sha256": "CD5B65ED9447C1D5E3028C75CCB9B294814B7ECF3CA8703ECBD82C8896B7CA52",
         "silentArgs": "/S"
       },
       "icon": {
@@ -955,7 +955,7 @@
     {
       "id": "WiresharkFoundation.Wireshark",
       "name": "Wireshark",
-      "version": "4.6.8",
+      "version": "4.6.9",
       "publisher": "The Wireshark developer community, https://www.wireshark.org",
       "description": "The world's most popular network protocol analyzer.",
       "license": "GPL-2.0",
@@ -971,10 +971,10 @@
         "traffic"
       ],
       "installer": {
-        "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.8-x64.msi",
+        "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.9-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "779EE66F846376942A3B631A78BBA8C3D509697D07743349E1893056211D05E3",
+        "sha256": "1975DFC96581A9B674FDA3F41AC1585963B4BA52EA9459F3B6D9CEDFAC3A7217",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -1052,7 +1052,7 @@
     {
       "id": "Nextcloud.NextcloudDesktop",
       "name": "Nextcloud",
-      "version": "34.0.5",
+      "version": "35.0.0",
       "publisher": "Nextcloud GmbH",
       "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
       "license": "GPL-2.0",
@@ -1066,10 +1066,10 @@
         "utility"
       ],
       "installer": {
-        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v34.0.5/Nextcloud-34.0.5-x64.msi",
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v35.0.0/Nextcloud-35.0.0-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "AD048C193F9BBB577DC8B7BFDE2F3F0A3BE845BCD1585105CE62BE0AF4AB57CE",
+        "sha256": "7DF0F2FE42519E454E14D45A34C4D8D601E98434710087CB1D6D96F315206CD7",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -1217,7 +1217,7 @@
     {
       "id": "HeroicGamesLauncher.HeroicGamesLauncher",
       "name": "Heroic",
-      "version": "2.22.3",
+      "version": "2.22.4",
       "publisher": "Heroic Games Launcher",
       "description": "Heroic is an Open Source Game Launcher for Linux, Windows and MacOS.",
       "license": "GPL-3.0",
@@ -1230,10 +1230,10 @@
         "launcher"
       ],
       "installer": {
-        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.3/Heroic-2.22.3-Setup-x64.exe",
+        "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-Setup-x64.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "3C74B3F1727A005D9D578880A97E0B94C8CE04C94C6E08F99E644B072878360B",
+        "sha256": "A0E26E782CB0D7AFA7BE6469C1D2D5502FC3B559A82F84A7E7DDE934879A6810",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1335,7 +1335,7 @@
     {
       "id": "KDE.Kdenlive",
       "name": "Kdenlive",
-      "version": "26.08.1",
+      "version": "26.08.2",
       "publisher": "KDE e.V.",
       "description": "Free and Open Source Video Editor",
       "license": "GPL-3.0",
@@ -1354,10 +1354,10 @@
         "video-editor"
       ],
       "installer": {
-        "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.1.exe",
+        "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.2.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "B436430EB7DD4B3D1DA318A53A77798CDAF3543A9F790824DF214588B07F5D1E",
+        "sha256": "9F89D8AC53B190BA506AF86FB37B31F17B60A532394BD5303AF4E505B3A5BEE6",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1676,7 +1676,7 @@
     {
       "id": "ONLYOFFICE.DesktopEditors",
       "name": "ONLYOFFICE Desktop Editors",
-      "version": "9.4.0",
+      "version": "10.0.0",
       "publisher": "Ascensio System SIA",
       "description": "All the tools you need to work with text documents, spreadsheets, presentations, and fillable forms on Windows, Linux, and macOS.",
       "license": "AGPL-3.0",
@@ -1694,10 +1694,10 @@
         "word"
       ],
       "installer": {
-        "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.4.0/DesktopEditors_x64.exe",
+        "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v10.0.0/DesktopEditors_x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A3B4A7353946A2D836EADFB8F59799F98B906AB961421C05C0BEE00BE9307A9F",
+        "sha256": "E9F6DF29BB09770CFC14C9EBB9BCE881FF7AD9705D76B3FAF038831FE248E46B",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1740,7 +1740,7 @@
     {
       "id": "Bitwarden.Bitwarden",
       "name": "Bitwarden",
-      "version": "2026.9.1",
+      "version": "2026.10.0",
       "publisher": "Bitwarden Inc.",
       "description": "A secure and free password manager for all of your devices.",
       "license": "GPL-3.0 or Bitwarden-1.0",
@@ -1758,10 +1758,10 @@
         "vault"
       ],
       "installer": {
-        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.9.1/Bitwarden-Installer-2026.9.1.exe",
+        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.0/Bitwarden-Installer-2026.10.0.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "49B10F0840E70BDD1701CC9A0B729813015A70D3D3B487682A4E4A93819A3263",
+        "sha256": "FE97E2AF272B8B44E48F62AA89F9A32DEE9EB5EA63CDB72E70C7D96240E3BCA9",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1953,7 +1953,7 @@
     {
       "id": "TorProject.TorBrowser",
       "name": "Tor Browser",
-      "version": "15.0.24",
+      "version": "15.0.25",
       "publisher": "Tor Project",
       "description": "Protect yourself against tracking, surveillance, and censorship.",
       "license": "MPL-2.0",
@@ -1974,10 +1974,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.24/tor-browser-windows-x86_64-portable-15.0.24.exe",
+        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.25/tor-browser-windows-x86_64-portable-15.0.25.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A549824C31DD9EE8143ECC6BC97B8F2D5FD5CBA8B13F528F1444A0B769758C6C",
+        "sha256": "948F79F7312C7B62DFFEB1D65A51D49EA6BCB22B47B271FDD2EDEE9D5E22D561",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2075,7 +2075,7 @@
     {
       "id": "BleachBit.BleachBit",
       "name": "BleachBit",
-      "version": "6.0.4",
+      "version": "6.0.4.310",
       "publisher": "BleachBit",
       "description": "Clean Your System and Free Disk Space",
       "license": "GPL-3.0",
@@ -2206,7 +2206,7 @@
     {
       "id": "cURL.cURL",
       "name": "cURL",
-      "version": "8.22.0.3",
+      "version": "8.23.0.1",
       "publisher": "curl",
       "description": "Command line tool and library for transferring data with URLs",
       "license": "Freeware",
@@ -2214,10 +2214,10 @@
       "category": "Utilities",
       "tags": [],
       "installer": {
-        "url": "https://curl.se/windows/dl-8.22.0_3/curl-8.22.0_3-win64-mingw.zip",
+        "url": "https://curl.se/windows/dl-8.23.0_1/curl-8.23.0_1-win64-mingw.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "F38B0AC2E3A280FD414B607C874A21E6DD4D1ED0E2AE622AFBF0020917446561",
+        "sha256": "752FF19C45BE64AF5B5F8D5222DCE64E0F7B03D740A7362A4055C220FA9637C6",
         "silentArgs": ""
       },
       "icon": {
@@ -2326,7 +2326,7 @@
     {
       "id": "Microsoft.PowerShell",
       "name": "PowerShell",
-      "version": "7.6.6.0",
+      "version": "7.6.7.0",
       "publisher": "Microsoft Corporation",
       "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
       "license": "MIT",
@@ -2341,10 +2341,10 @@
         "shell"
       ],
       "installer": {
-        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.6/PowerShell-7.6.6-win-x64.msi",
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.7/PowerShell-7.6.7-win-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "958838FF55091E1C8705D89EFED0CC7E8245A3A6EF6C0CCFAE20015227108AD8",
+        "sha256": "EC575CEF9EC56FCD905DE0D5EEAC9CB7F81A0A65ABB87BB5CD0E87FDFE2B8CC0",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -2512,7 +2512,7 @@
     {
       "id": "WinSCP.WinSCP",
       "name": "WinSCP",
-      "version": "6.5.7",
+      "version": "6.7",
       "publisher": "Martin Prikryl",
       "description": "Free SFTP, SCP, S3 and FTP client for Windows",
       "license": "GPL-3.0-or-later",
@@ -2529,10 +2529,10 @@
         "webdav"
       ],
       "installer": {
-        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.7/WinSCP-6.5.7.msi/download",
+        "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.7/WinSCP-6.7.msi/download",
         "type": "wix",
         "architecture": "x86",
-        "sha256": "D04B962C8F1C00D93F1E609E644B7A65F272843987C6206D339250D1DEFDCFB1",
+        "sha256": "BF69FB2EF3345BA7639F7EE4DCCEAC53198DB9E5644926B39B2853931299E53E",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {

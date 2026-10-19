@@ -331,7 +331,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.13.0",
+    "version": "0.13.1",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.13.0/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.13.1/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "088962F9E7B7BD9EA740C04C650B2A21C8928C345BD99AC24350DC924DBA656C",
+      "sha256": "3B2661A463A5BAEA7F5076EA2B25AB71D77F36A6C0D809E5350651792F80A672",
       "silentArgs": ""
     },
     "icon": {
@@ -355,7 +355,7 @@
   {
     "id": "VSCodium.VSCodium",
     "name": "VSCodium",
-    "version": "1.126.04524",
+    "version": "1.140.06880",
     "publisher": "VSCodium",
     "description": "VSCodium is a community-driven, freely-licensed and telemetry-free rebuilt of Microsoft's Visual Studio Code.",
     "license": "MIT",
@@ -372,10 +372,10 @@
       "vscode"
     ],
     "installer": {
-      "url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodiumUserSetup-x64-1.126.04524.exe",
+      "url": "https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-x64-1.140.06880.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "A8C0516A9B17D1BA4887898F0966445BC61B386FD11578E57433F1E57E9868C9",
+      "sha256": "CD5B65ED9447C1D5E3028C75CCB9B294814B7ECF3CA8703ECBD82C8896B7CA52",
       "silentArgs": "/S"
     },
     "icon": {
@@ -386,7 +386,7 @@
   {
     "id": "WiresharkFoundation.Wireshark",
     "name": "Wireshark",
-    "version": "4.6.8",
+    "version": "4.6.9",
     "publisher": "The Wireshark developer community, https://www.wireshark.org",
     "description": "The world's most popular network protocol analyzer.",
     "license": "GPL-2.0",
@@ -402,10 +402,10 @@
       "traffic"
     ],
     "installer": {
-      "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.8-x64.msi",
+      "url": "https://2.na.dl.wireshark.org/win64/all-versions/Wireshark-4.6.9-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "779EE66F846376942A3B631A78BBA8C3D509697D07743349E1893056211D05E3",
+      "sha256": "1975DFC96581A9B674FDA3F41AC1585963B4BA52EA9459F3B6D9CEDFAC3A7217",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {

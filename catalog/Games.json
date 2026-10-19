@@ -2,7 +2,7 @@
   {
     "id": "HeroicGamesLauncher.HeroicGamesLauncher",
     "name": "Heroic",
-    "version": "2.22.3",
+    "version": "2.22.4",
     "publisher": "Heroic Games Launcher",
     "description": "Heroic is an Open Source Game Launcher for Linux, Windows and MacOS.",
     "license": "GPL-3.0",
@@ -15,10 +15,10 @@
       "launcher"
     ],
     "installer": {
-      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.3/Heroic-2.22.3-Setup-x64.exe",
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.22.4/Heroic-2.22.4-Setup-x64.exe",
       "type": "nullsoft",
       "architecture": "x64",
-      "sha256": "3C74B3F1727A005D9D578880A97E0B94C8CE04C94C6E08F99E644B072878360B",
+      "sha256": "A0E26E782CB0D7AFA7BE6469C1D2D5502FC3B559A82F84A7E7DDE934879A6810",
       "silentArgs": "/S"
     },
     "icon": {

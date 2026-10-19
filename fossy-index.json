@@ -10,7 +10,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "157.0.1-1",
+    "version": "158.0-1",
     "category": "Browsers",
     "homepage": "https://librewolf.net/",
     "icon": "icons/librewolf-librewolf.ico"
@@ -26,7 +26,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "155.0.8059.39-1.1",
+    "version": "155.0.8059.79-1.1",
     "category": "Browsers",
     "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
     "icon": "icons/ungoogledchromium-ungoogledchromium.png"
@@ -34,7 +34,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.7.5",
+    "version": "6.7.6",
     "category": "Browsers",
     "homepage": "https://www.waterfox.net/",
     "icon": "icons/waterfox-waterfox.ico"
@@ -42,7 +42,7 @@
   {
     "id": "Element.Element",
     "name": "Element",
-    "version": "1.12.30",
+    "version": "1.12.32",
     "category": "Communication",
     "homepage": "https://element.io/download",
     "icon": "icons/element-element.png"
@@ -58,7 +58,7 @@
   {
     "id": "Mattermost.MattermostDesktop",
     "name": "Mattermost",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "category": "Communication",
     "homepage": "https://mattermost.com/apps/",
     "icon": "icons/mattermost-mattermostdesktop.png"
@@ -66,7 +66,7 @@
   {
     "id": "Mozilla.Thunderbird",
     "name": "Mozilla Thunderbird (en-US)",
-    "version": "157.0.1",
+    "version": "158.0",
     "category": "Communication",
     "homepage": "https://www.thunderbird.net/",
     "icon": "icons/mozilla-thunderbird.ico"
@@ -74,7 +74,7 @@
   {
     "id": "RocketChat.RocketChat",
     "name": "Rocket.Chat",
-    "version": "4.18.2",
+    "version": "4.18.3",
     "category": "Communication",
     "homepage": "https://rocket.chat/",
     "icon": "icons/rocketchat-rocketchat.png"
@@ -106,7 +106,7 @@
   {
     "id": "GIMP.GIMP",
     "name": "GIMP",
-    "version": "3.2.4",
+    "version": "3.2.6",
     "category": "Design",
     "homepage": "https://www.gimp.org/downloads/",
     "icon": "icons/gimp-gimp.png"
@@ -242,7 +242,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.13.0",
+    "version": "0.13.1",
     "category": "Development",
     "homepage": "https://github.com/astral-sh/uv",
     "icon": "icons/astral-sh-uv.png"
@@ -250,7 +250,7 @@
   {
     "id": "VSCodium.VSCodium",
     "name": "VSCodium",
-    "version": "1.126.04524",
+    "version": "1.140.06880",
     "category": "Development",
     "homepage": "https://vscodium.com/",
     "icon": "icons/vscodium-vscodium.png"
@@ -258,7 +258,7 @@
   {
     "id": "WiresharkFoundation.Wireshark",
     "name": "Wireshark",
-    "version": "4.6.8",
+    "version": "4.6.9",
     "category": "Development",
     "homepage": "https://www.wireshark.org/",
     "icon": "icons/wiresharkfoundation-wireshark.ico"
@@ -282,7 +282,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "34.0.5",
+    "version": "35.0.0",
     "category": "File Sharing",
     "homepage": "https://nextcloud.com/",
     "icon": "icons/nextcloud-nextclouddesktop.png"
@@ -322,7 +322,7 @@
   {
     "id": "HeroicGamesLauncher.HeroicGamesLauncher",
     "name": "Heroic",
-    "version": "2.22.3",
+    "version": "2.22.4",
     "category": "Games",
     "homepage": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
     "icon": "icons/heroicgameslauncher-heroicgameslauncher.png"
@@ -354,7 +354,7 @@
   {
     "id": "KDE.Kdenlive",
     "name": "Kdenlive",
-    "version": "26.08.1",
+    "version": "26.08.2",
     "category": "Media",
     "homepage": "https://kdenlive.org/",
     "icon": "icons/kde-kdenlive.png"
@@ -442,7 +442,7 @@
   {
     "id": "ONLYOFFICE.DesktopEditors",
     "name": "ONLYOFFICE Desktop Editors",
-    "version": "9.4.0",
+    "version": "10.0.0",
     "category": "Productivity",
     "homepage": "https://www.onlyoffice.com/en/desktop.aspx",
     "icon": "icons/onlyoffice-desktopeditors.png"
@@ -458,7 +458,7 @@
   {
     "id": "Bitwarden.Bitwarden",
     "name": "Bitwarden",
-    "version": "2026.9.1",
+    "version": "2026.10.0",
     "category": "Security",
     "homepage": "https://bitwarden.com/",
     "icon": "icons/bitwarden-bitwarden.png"
@@ -514,7 +514,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.24",
+    "version": "15.0.25",
     "category": "Security",
     "homepage": "https://www.torproject.org/",
     "icon": "icons/torproject-torbrowser.ico"
@@ -546,7 +546,7 @@
   {
     "id": "BleachBit.BleachBit",
     "name": "BleachBit",
-    "version": "6.0.4",
+    "version": "6.0.4.310",
     "category": "Utilities",
     "homepage": "https://www.bleachbit.org/",
     "icon": "icons/bleachbit-bleachbit.ico"
@@ -578,7 +578,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.22.0.3",
+    "version": "8.23.0.1",
     "category": "Utilities",
     "homepage": "https://curl.se/",
     "icon": "icons/curl-curl.ico"
@@ -610,7 +610,7 @@
   {
     "id": "Microsoft.PowerShell",
     "name": "PowerShell",
-    "version": "7.6.6.0",
+    "version": "7.6.7.0",
     "category": "Utilities",
     "homepage": "https://microsoft.com/PowerShell",
     "icon": "icons/microsoft-powershell.png"
@@ -658,7 +658,7 @@
   {
     "id": "WinSCP.WinSCP",
     "name": "WinSCP",
-    "version": "6.5.7",
+    "version": "6.7",
     "category": "Utilities",
     "homepage": "https://winscp.net/",
     "icon": "icons/winscp-winscp.ico"

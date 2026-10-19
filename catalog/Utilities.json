@@ -67,7 +67,7 @@
   {
     "id": "BleachBit.BleachBit",
     "name": "BleachBit",
-    "version": "6.0.4",
+    "version": "6.0.4.310",
     "publisher": "BleachBit",
     "description": "Clean Your System and Free Disk Space",
     "license": "GPL-3.0",
@@ -198,7 +198,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.22.0.3",
+    "version": "8.23.0.1",
     "publisher": "curl",
     "description": "Command line tool and library for transferring data with URLs",
     "license": "Freeware",
@@ -206,10 +206,10 @@
     "category": "Utilities",
     "tags": [],
     "installer": {
-      "url": "https://curl.se/windows/dl-8.22.0_3/curl-8.22.0_3-win64-mingw.zip",
+      "url": "https://curl.se/windows/dl-8.23.0_1/curl-8.23.0_1-win64-mingw.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "F38B0AC2E3A280FD414B607C874A21E6DD4D1ED0E2AE622AFBF0020917446561",
+      "sha256": "752FF19C45BE64AF5B5F8D5222DCE64E0F7B03D740A7362A4055C220FA9637C6",
       "silentArgs": ""
     },
     "icon": {
@@ -318,7 +318,7 @@
   {
     "id": "Microsoft.PowerShell",
     "name": "PowerShell",
-    "version": "7.6.6.0",
+    "version": "7.6.7.0",
     "publisher": "Microsoft Corporation",
     "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
     "license": "MIT",
@@ -333,10 +333,10 @@
       "shell"
     ],
     "installer": {
-      "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.6/PowerShell-7.6.6-win-x64.msi",
+      "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.7/PowerShell-7.6.7-win-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "958838FF55091E1C8705D89EFED0CC7E8245A3A6EF6C0CCFAE20015227108AD8",
+      "sha256": "EC575CEF9EC56FCD905DE0D5EEAC9CB7F81A0A65ABB87BB5CD0E87FDFE2B8CC0",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -504,7 +504,7 @@
   {
     "id": "WinSCP.WinSCP",
     "name": "WinSCP",
-    "version": "6.5.7",
+    "version": "6.7",
     "publisher": "Martin Prikryl",
     "description": "Free SFTP, SCP, S3 and FTP client for Windows",
     "license": "GPL-3.0-or-later",
@@ -521,10 +521,10 @@
       "webdav"
     ],
     "installer": {
-      "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.5.7/WinSCP-6.5.7.msi/download",
+      "url": "https://sourceforge.net/projects/winscp/files/WinSCP/6.7/WinSCP-6.7.msi/download",
       "type": "wix",
       "architecture": "x86",
-      "sha256": "D04B962C8F1C00D93F1E609E644B7A65F272843987C6206D339250D1DEFDCFB1",
+      "sha256": "BF69FB2EF3345BA7639F7EE4DCCEAC53198DB9E5644926B39B2853931299E53E",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {

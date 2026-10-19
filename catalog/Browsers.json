@@ -31,7 +31,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "157.0.1-1",
+    "version": "158.0-1",
     "publisher": "LibreWolf",
     "description": "A custom version of Firefox, focused on privacy, security and freedom.",
     "license": "MPL-2.0",
@@ -49,10 +49,10 @@
       "webpage"
     ],
     "installer": {
-      "url": "https://dl.librewolf.net/librewolf/157.0.1-1/librewolf-157.0.1-1-windows-x86_64-setup.exe",
+      "url": "https://dl.librewolf.net/librewolf/158.0-1/librewolf-158.0-1-windows-x86_64-setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "42105E382146AE0C25FBD14D910C1E0A16E7768CD71DD62F4B85EA234F5B915B",
+      "sha256": "BDD14E9287437E08C08F8EBA1B264DB0EF4852DDD7E4675285B938299B653984",
       "silentArgs": "/S"
     },
     "icon": {
@@ -94,7 +94,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "155.0.8059.39-1.1",
+    "version": "155.0.8059.79-1.1",
     "publisher": "ungoogled-software",
     "description": "Windows packaging for ungoogled-chromium",
     "license": "BSD-3-Clause",
@@ -102,7 +102,7 @@
     "category": "Browsers",
     "tags": [],
     "installer": {
-      "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/155.0.8059.39-1.1/ungoogled-chromium_155.0.8059.39-1.1_installer_x64.exe",
+      "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/155.0.8059.79-1.1/ungoogled-chromium_155.0.8059.79-1.1_installer_x64.exe",
       "type": "exe",
       "architecture": "x64",
       "sha256": "",
@@ -116,7 +116,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.7.5",
+    "version": "6.7.6",
     "publisher": "BrowserWorks",
     "description": "Fast and Private Web Browser",
     "license": "MPL-2.0",
@@ -135,10 +135,10 @@
       "web-browser"
     ],
     "installer": {
-      "url": "https://cdn.waterfox.com/waterfox/releases/6.7.5/WINNT_x86_64/Waterfox%20Setup%206.7.5.exe",
+      "url": "https://cdn.waterfox.com/waterfox/releases/6.7.6/WINNT_x86_64/Waterfox%20Setup%206.7.6.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "AE7806E7A61B668BB0EC7AF13714179B794195626794852D0DFBFB5C8421643D",
+      "sha256": "7F5293ACAE538CE497829D31C7217FC89763A19A37F4451649F78DDB93F92684",
       "silentArgs": "-ms"
     },
     "icon": {
