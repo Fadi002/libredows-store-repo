@@ -2,7 +2,7 @@
   {
     "id": "7zip.7zip",
     "name": "7-Zip",
-    "version": "26.04",
+    "version": "26.05",
     "publisher": "Igor Pavlov",
     "description": "A file archiver with a high compression ratio.",
     "license": "LGPL-2.1",
@@ -26,17 +26,21 @@
       "zip"
     ],
     "installer": {
-      "url": "https://www.7-zip.org/a/7z2604-x64.msi",
+      "url": "https://github.com/ip7z/7zip/releases/download/26.05/7z2605-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "0B01334A418654293513449F61D6BFC99E5196CA371E3C3DC961EDA57CD535C6",
+      "sha256": "3FE4AB99FA15629C652944309A2B2BC6E41FC933FC6B63F5DF1EBCF3AEA68263",
       "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/7zip-7zip.png",
+      "url": "https://avatars.githubusercontent.com/ip7z?size=256"
     }
   },
   {
     "id": "Balena.Etcher",
     "name": "balenaEtcher",
-    "version": "2.1.7",
+    "version": "2.1.9",
     "publisher": "Balena Ltd. <hello@balena.io>",
     "description": "Flash OS images to SD cards & USB drives, safely and easily.",
     "license": "Apache-2.0",
@@ -53,10 +57,10 @@
       "usb"
     ],
     "installer": {
-      "url": "https://github.com/balena-io/etcher/releases/download/v2.1.7/balenaEtcher-2.1.7.Setup.exe",
+      "url": "https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-2.1.9.Setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "386BB45DA6E0EDEB20E065427CDEF30A876E4D2A59579F8ADD329D8510AC12F8",
+      "sha256": "3FA63EA453E75C0338F8F1444B511F38DECDD002E17922A910AEC5E29B85B751",
       "silentArgs": "--silent"
     },
     "icon": {
@@ -67,7 +71,7 @@
   {
     "id": "BleachBit.BleachBit",
     "name": "BleachBit",
-    "version": "6.0.4.310",
+    "version": "6.0.6.633",
     "publisher": "BleachBit",
     "description": "Clean Your System and Free Disk Space",
     "license": "GPL-3.0",
@@ -89,10 +93,10 @@
       "wipe"
     ],
     "installer": {
-      "url": "https://download.bleachbit.org/BleachBit-6.0.4-setup.exe",
+      "url": "https://download.bleachbit.org/BleachBit-6.0.6-setup.exe",
       "type": "exe",
       "architecture": "x86",
-      "sha256": "C4CD6BB1F4B163DC28B13CEF2995423DE69E6776F16387F54943DCC6E7267A6D",
+      "sha256": "A8D27535CDC53E89C21090EABCA6026D32C4D385863F8DFC6FC8814BDA7881C4",
       "silentArgs": "/S"
     },
     "icon": {
@@ -198,7 +202,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.23.0.1",
+    "version": "8.23.0.5",
     "publisher": "curl",
     "description": "Command line tool and library for transferring data with URLs",
     "license": "Freeware",
@@ -206,10 +210,10 @@
     "category": "Utilities",
     "tags": [],
     "installer": {
-      "url": "https://curl.se/windows/dl-8.23.0_1/curl-8.23.0_1-win64-mingw.zip",
+      "url": "https://curl.se/windows/dl-8.23.0_5/curl-8.23.0_5-win64-mingw.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "752FF19C45BE64AF5B5F8D5222DCE64E0F7B03D740A7362A4055C220FA9637C6",
+      "sha256": "B0AF3896433242213F6D1388A104115E6DFDD3B16727E5B00C2AB0F48FBC904A",
       "silentArgs": ""
     },
     "icon": {
@@ -318,7 +322,7 @@
   {
     "id": "Microsoft.PowerShell",
     "name": "PowerShell",
-    "version": "7.6.7.0",
+    "version": "7.6.9.0",
     "publisher": "Microsoft Corporation",
     "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
     "license": "MIT",
@@ -333,10 +337,10 @@
       "shell"
     ],
     "installer": {
-      "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.7/PowerShell-7.6.7-win-x64.msi",
+      "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.9/PowerShell-7.6.9-win-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "EC575CEF9EC56FCD905DE0D5EEAC9CB7F81A0A65ABB87BB5CD0E87FDFE2B8CC0",
+      "sha256": "50D33C7494AAF82B987CFD4DE3F232D04F91FDD4C0DEECA8A669CCED3E7CF8F9",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -427,16 +431,12 @@
       "architecture": "x64",
       "sha256": "E9C22419EF3128A707B0D004A2C58E25459528C5C12D104DEA56E5E662BD131E",
       "silentArgs": "/S"
-    },
-    "icon": {
-      "file": "icons/uvncbvba-ultravnc.ico",
-      "url": "https://icons.duckduckgo.com/ip3/uvnc.com.ico"
     }
   },
   {
     "id": "Ventoy.Ventoy",
     "name": "Ventoy",
-    "version": "1.1.17",
+    "version": "1.1.18",
     "publisher": "Ventoy",
     "description": "Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.",
     "license": "GPL-3.0",
@@ -460,10 +460,10 @@
       "windows"
     ],
     "installer": {
-      "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.17/ventoy-1.1.17-windows.zip",
+      "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.18/ventoy-1.1.18-windows.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "D250E97A7595FDAC4F97DEBC630D7A8DA942319274A76CB32384596B659DBAEB",
+      "sha256": "082C478E8C432E1AC653899FCF50E3A4077A2851BC6112B5DDD30545962164A9",
       "silentArgs": ""
     },
     "icon": {

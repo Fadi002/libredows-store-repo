@@ -1,6 +1,6 @@
 {
   "version": "1.1",
-  "generated": "2026-10-19T08:08:23Z",
+  "generated": "2026-10-26T08:10:29Z",
   "total": 84,
   "apps": [
     {
@@ -35,7 +35,7 @@
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "158.0-1",
+      "version": "158.0.1-2",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -53,10 +53,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/158.0-1/librewolf-158.0-1-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/158.0.1-2/librewolf-158.0.1-2-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "BDD14E9287437E08C08F8EBA1B264DB0EF4852DDD7E4675285B938299B653984",
+        "sha256": "3566F58BB6E2EDBD92DD63024309EDADBCF9CEF5DB3BE3C40A3E5B63031068DB",
         "silentArgs": "/S"
       },
       "icon": {
@@ -98,7 +98,7 @@
     {
       "id": "UngoogledChromium.UngoogledChromium",
       "name": "Ungoogled Chromium",
-      "version": "155.0.8059.79-1.1",
+      "version": "156.0.8078.47-1.1",
       "publisher": "ungoogled-software",
       "description": "Windows packaging for ungoogled-chromium",
       "license": "BSD-3-Clause",
@@ -106,7 +106,7 @@
       "category": "Browsers",
       "tags": [],
       "installer": {
-        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/155.0.8059.79-1.1/ungoogled-chromium_155.0.8059.79-1.1_installer_x64.exe",
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/156.0.8078.47-1.1/ungoogled-chromium_156.0.8078.47-1.1_installer_x64.exe",
         "type": "exe",
         "architecture": "x64",
         "sha256": "",
@@ -191,7 +191,7 @@
     {
       "id": "Jitsi.Meet",
       "name": "Jitsi Meet",
-      "version": "2026.8.0",
+      "version": "2026.10.0",
       "publisher": "Jitsi Team",
       "description": "Jitsi Meet is an open-source (Apache) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, secure and scalable video conferences.",
       "license": "Apache-2.0",
@@ -205,10 +205,10 @@
         "video-conferencing"
       ],
       "installer": {
-        "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.8.0/jitsi-meet.exe",
+        "url": "https://github.com/jitsi/jitsi-meet-electron/releases/download/v2026.10.0/jitsi-meet.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "7879FD567241DC741FFCE9CBC3AB6D52A52A2F2142A24A39D28DD091AC6C54E2",
+        "sha256": "30E56EA530EFD1EEEE44EF9EF9F8DB9E3D2890F1543024574DE5D56BFFE5D9DC",
         "silentArgs": "/S"
       },
       "icon": {
@@ -251,7 +251,7 @@
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "158.0",
+      "version": "158.0.1",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -262,10 +262,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/158.0/win64/en-US/Thunderbird%20Setup%20158.0.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/158.0.1/win64/en-US/Thunderbird%20Setup%20158.0.1.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "7337E7BF74B0A0EC708BA457C446BE134A0B976ECC17622B962108A322B9270D",
+        "sha256": "980331D65CB00D965F911E5F7E3E058C22B5F72A98853160A6D000C79FCB5DA6",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -276,7 +276,7 @@
     {
       "id": "RocketChat.RocketChat",
       "name": "Rocket.Chat",
-      "version": "4.18.3",
+      "version": "4.18.5",
       "publisher": "Rocket.Chat Support",
       "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
       "license": "MIT",
@@ -294,10 +294,10 @@
         "video-conference"
       ],
       "installer": {
-        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.3/rocketchat-4.18.3-win-x64.exe",
+        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.5/rocketchat-4.18.5-win-x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "9EAB7766492ADFB84233F96690BD3A71E0437035544E097ED9E1C8EC63C24264",
+        "sha256": "B3AEA1E93DE2594F4FF7D86EADD90177A07D51C65AD9B5C2A711282F7263E828",
         "silentArgs": "/S"
       },
       "icon": {
@@ -308,7 +308,7 @@
     {
       "id": "BlenderFoundation.Blender",
       "name": "blender",
-      "version": "5.2.2",
+      "version": "5.2.3",
       "publisher": "Blender Foundation",
       "description": "Free and Open 3D Creation Software",
       "license": "GPL-3.0-or-later",
@@ -323,10 +323,10 @@
         "vfx"
       ],
       "installer": {
-        "url": "https://download.blender.org/release/Blender5.2/blender-5.2.2-windows-x64.msi",
+        "url": "https://download.blender.org/release/Blender5.2/blender-5.2.3-windows-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "8DAC2751EBE8E3867327EEC52F1EF9B344C0A27499BB6221A301B4B35F2828D1",
+        "sha256": "A103D4ECE8D9ACFFD2A95C9D8860355B1F209977CC983B4A3D1E1CFB441C8605",
         "silentArgs": "/quiet /norestart"
       }
     },
@@ -487,7 +487,7 @@
     {
       "id": "LibreCAD.LibreCAD",
       "name": "LibreCAD",
-      "version": "2.2.1.5",
+      "version": "2.2.1.6",
       "publisher": "LibreCAD Team",
       "description": "LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.",
       "license": "GPLv2",
@@ -500,10 +500,10 @@
         "qt"
       ],
       "installer": {
-        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.5/LibreCAD-v2.2.1.5-win64-msvc.exe",
+        "url": "https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.6/LibreCAD-v2.2.1.6-win64-msvc.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "738912FEA40ACA934689444AF9C5CD281572417983CC081C204FE6C779F6941D",
+        "sha256": "0CD876D0E3FBFCDCDB85E5019080ACA243908F4AD5C3B3C93A55EE9BA154F95B",
         "silentArgs": "/S"
       },
       "icon": {
@@ -610,7 +610,7 @@
     {
       "id": "Git.Git",
       "name": "Git",
-      "version": "2.55.0.5",
+      "version": "2.56.0.3",
       "publisher": "The Git Development Community",
       "description": "A free and open source distributed version control system",
       "license": "GPL-2.0",
@@ -621,10 +621,10 @@
         "vcs"
       ],
       "installer": {
-        "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/Git-2.55.0.5-64-bit.exe",
+        "url": "https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.3/Git-2.56.0.3-64-bit.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "D065A4E23C3D9A6B5073D609B5BE0830227EC3CA053C083BA385061DDFAF94C6",
+        "sha256": "DC6D3DB061999136E139F31376C5582A9ED6F36A4EA12F15E54AD7FA2BFC0BF2",
         "silentArgs": "/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
       },
       "icon": {
@@ -635,7 +635,7 @@
     {
       "id": "GitHub.GitHubDesktop",
       "name": "GitHub Desktop",
-      "version": "3.6.7",
+      "version": "3.6.9",
       "publisher": "GitHub, Inc.",
       "description": "Focus on what matters instead of fighting with Git.",
       "license": "MIT",
@@ -646,10 +646,10 @@
         "github"
       ],
       "installer": {
-        "url": "https://desktop.githubusercontent.com/releases/3.6.7-dbc92f97/GitHubDesktopSetup-x64.msi",
+        "url": "https://desktop.githubusercontent.com/releases/3.6.9-e0ba6bb8/GitHubDesktopSetup-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "E1510C4FA6BC348AADE90CDDA7ED55D8FD1E984AEBF2D66AD290741B92977053",
+        "sha256": "E2BAB1785C348D0C29CB79C1030B07B902322E63FFD4025EF9BFD175DB600555",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -717,7 +717,7 @@
     {
       "id": "HeidiSQL.HeidiSQL",
       "name": "HeidiSQL",
-      "version": "12.21.0.7344",
+      "version": "12.22.0.7382",
       "publisher": "Ansgar Becker",
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi",
       "license": "GPL-2.0",
@@ -738,10 +738,10 @@
         "sqlite"
       ],
       "installer": {
-        "url": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.21/HeidiSQL_12.21.0.7344_Setup.exe",
+        "url": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.22/HeidiSQL_12.22.0.7382_Setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "97ACF0344313C11BB89C001425A615722B745669E5FFD542E732C418A00E22ED",
+        "sha256": "468055814DCEDC057821F2692D28CFDDE181332265240538B9ACB320CAE49904",
         "silentArgs": "/S"
       },
       "icon": {
@@ -780,7 +780,7 @@
     {
       "id": "OpenJS.NodeJS.LTS",
       "name": "Node.js (LTS)",
-      "version": "24.20.0",
+      "version": "24.22.1",
       "publisher": "Node.js Foundation",
       "description": "Run JavaScript Everywhere",
       "license": "MIT",
@@ -802,10 +802,10 @@
         "v8"
       ],
       "installer": {
-        "url": "https://nodejs.org/dist/v24.20.0/node-v24.20.0-x64.msi",
+        "url": "https://nodejs.org/dist/v24.22.1/node-v24.22.1-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "28B69132C35CCC033BF8F2A67CD10C9D75EF5822593363309DA448F2AFFF2D8A",
+        "sha256": "3BDA4BAF1EE709B33CF920DD633106DDB23951E322BFF9C03EC9F64AB8981B01",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -900,7 +900,7 @@
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.13.1",
+      "version": "0.13.5",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -910,10 +910,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.13.1/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.13.5/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "3B2661A463A5BAEA7F5076EA2B25AB71D77F36A6C0D809E5350651792F80A672",
+        "sha256": "A38B8D1902B7CFBC76B423BA1BB456F623F42064CDC72628B6075B89AFD1019A",
         "silentArgs": ""
       },
       "icon": {
@@ -985,7 +985,7 @@
     {
       "id": "yt-dlp.yt-dlp",
       "name": "yt-dlp",
-      "version": "2026.08.19",
+      "version": "2026.10.21",
       "publisher": "yt-dlp",
       "description": "A feature-rich command-line audio/video downloader.",
       "license": "Unlicense",
@@ -1007,10 +1007,10 @@
         "ytdlp"
       ],
       "installer": {
-        "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.exe",
+        "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.21/yt-dlp.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "66674953FE251B89F4D08C5F0E35E0728679BD67AB3D7D05C0562AF101DD3E7A",
+        "sha256": "33121D192D706E62F684A06F80918E3F3A8BA52AC3A65213B6951C39C7D9F555",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1038,10 +1038,10 @@
         "wifi"
       ],
       "installer": {
-        "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe",
+        "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "F53856750AD087A17B996309171262FA7D89071C350E0DC5DF6530F34DD8A2AE",
+        "sha256": "122783E6ABB4B0A1F1603D896F46A03AEDA3004479EBD3175CAB4DDAC6B60919",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1080,7 +1080,7 @@
     {
       "id": "qBittorrent.qBittorrent",
       "name": "qBittorrent",
-      "version": "5.2.4",
+      "version": "5.3.0",
       "publisher": "The qBittorrent project",
       "description": "Free and reliable P2P Bittorent client.",
       "license": "GPL-3.0",
@@ -1098,10 +1098,10 @@
         "upload"
       ],
       "installer": {
-        "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.2.4/qbittorrent_5.2.4_x64_setup.exe/download",
+        "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.3.0/qbittorrent_5.3.0_x64_setup.exe/download",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "EF6EFE581D80EFEB0A77DF281D93F93021FBDCC48E4D8F7B341DC864F53C30DD",
+        "sha256": "AFF5B3BDC00D6E5773D6099BA30F9696DD3DFD1669AB0F64CE5C4E7168486436",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1181,7 +1181,7 @@
     {
       "id": "Syncthing.Syncthing",
       "name": "Syncthing",
-      "version": "2.1.6",
+      "version": "2.1.7",
       "publisher": "The Syncthing Authors",
       "description": "Open Source Continuous File Synchronization",
       "license": "MPL-2.0",
@@ -1203,10 +1203,10 @@
         "synchronization"
       ],
       "installer": {
-        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-amd64-v2.1.6.zip",
+        "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-amd64-v2.1.7.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "589098269CABB9A5A1703A934305B4153609D7623E978E1C94F0F49D77AE5E9F",
+        "sha256": "3CE7DA770F546A8D02B65B2E7EE31F2A3B8B7C3F990EDE045590CCA4172ECFE1",
         "silentArgs": ""
       },
       "icon": {
@@ -1368,7 +1368,7 @@
     {
       "id": "MoritzBunkus.MKVToolNix",
       "name": "MKVToolNix",
-      "version": "102.0.0",
+      "version": "103.0.0",
       "publisher": "Moritz Bunkus",
       "description": "MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.",
       "license": "GPL-2.0",
@@ -1382,17 +1382,17 @@
         "mkvpropedit"
       ],
       "installer": {
-        "url": "https://mkvtoolnix.download/windows/releases/102.0/mkvtoolnix-64-bit-102.0-setup.exe",
+        "url": "https://mkvtoolnix.download/windows/releases/103.0/mkvtoolnix-64-bit-103.0-setup.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "AEBD61C359457A05629362E46567D75A04EA0AE2797D1EA5AF719E94F8FDFBD5",
+        "sha256": "3BB4B6EFE464C8B852A9813F6BE4093FA61BB79229EA755B3A70C5FA42489421",
         "silentArgs": "/S"
       }
     },
     {
       "id": "clsid2.mpc-hc",
       "name": "MPC-HC",
-      "version": "2.8.3",
+      "version": "2.8.4",
       "publisher": "MPC-HC Team",
       "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
       "license": "GPL-3.0",
@@ -1412,10 +1412,10 @@
         "video-player"
       ],
       "installer": {
-        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.3/MPC-HC.2.8.3.x64.exe",
+        "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.4/MPC-HC.2.8.4.x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A2F0E384A4222435AB37635E74D975F6518B81C31060CA95BC9BB7D2776E5DBC",
+        "sha256": "8340EB8847006EE1EFE154E3172E324565F05659439E31579CE9DFF9BB6816B8",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1426,7 +1426,7 @@
     {
       "id": "OBSProject.OBSStudio",
       "name": "OBS Studio",
-      "version": "32.2.2",
+      "version": "33.0.0",
       "publisher": "OBS Project",
       "description": "Free and open source software for video recording and live streaming.",
       "license": "GPL-2.0",
@@ -1443,10 +1443,10 @@
         "video-recording"
       ],
       "installer": {
-        "url": "https://github.com/obsproject/obs-studio/releases/download/32.2.2/OBS-Studio-32.2.2-Windows-x64-Installer.exe",
+        "url": "https://github.com/obsproject/obs-studio/releases/download/33.0.0/OBS-Studio-33.0.0-Windows-x64-Installer.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "C3A0B880ADBE64DC4BCB68F93016916AB5B55AE43FD227115287BF80257D92DC",
+        "sha256": "3BF55DAE6D9DB651505828090DE74540296C742ED2A94A28CF055CB6DDC6BED3",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1580,7 +1580,7 @@
     {
       "id": "AppFlowy.AppFlowy",
       "name": "AppFlowy",
-      "version": "0.14.8",
+      "version": "0.14.11",
       "publisher": "AppFlowy-IO",
       "description": "The Open Source Alternative To Notion.",
       "license": "AGPL-3.0",
@@ -1605,10 +1605,10 @@
         "wiki"
       ],
       "installer": {
-        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.exe",
+        "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.11/AppFlowy-0.14.11-windows-x86_64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "AD8BE9C4636CDE2DAAF562BDB1EA0799D4381358319B7348754B98143DE874C4",
+        "sha256": "ED68D452BD35D030968F9E00BA99DDECD78D286C93596089761011552C07AA15",
         "silentArgs": "/sp- /verysilent /norestart"
       },
       "icon": {
@@ -1651,7 +1651,7 @@
     {
       "id": "MarkText.MarkText",
       "name": "MarkText",
-      "version": "0.21.2",
+      "version": "0.23.0",
       "publisher": "Jocs",
       "description": "A simple and elegant Markdown editor focused on speed and usability.",
       "license": "MIT",
@@ -1662,10 +1662,10 @@
         "markdown"
       ],
       "installer": {
-        "url": "https://github.com/marktext/marktext/releases/download/v0.21.2/marktext-win-x64-0.21.2-setup.exe",
+        "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "561F691DA22750797BEC07815BB8EB601B8C0C0D255D8A09031783F340B05579",
+        "sha256": "49BF66035F92072CE7DD8FA2F88B91F7036D674C05F872355A2D6E366FC53964",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1740,7 +1740,7 @@
     {
       "id": "Bitwarden.Bitwarden",
       "name": "Bitwarden",
-      "version": "2026.10.0",
+      "version": "2026.10.1",
       "publisher": "Bitwarden Inc.",
       "description": "A secure and free password manager for all of your devices.",
       "license": "GPL-3.0 or Bitwarden-1.0",
@@ -1758,10 +1758,10 @@
         "vault"
       ],
       "installer": {
-        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.0/Bitwarden-Installer-2026.10.0.exe",
+        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.1/Bitwarden-Installer-2026.10.1.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "FE97E2AF272B8B44E48F62AA89F9A32DEE9EB5EA63CDB72E70C7D96240E3BCA9",
+        "sha256": "D4AAAD518E6A088CAE48AF41A1F49045D7579AB5957C76FCC06BBF0FBF89FE69",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1772,7 +1772,7 @@
     {
       "id": "Cryptomator.Cryptomator",
       "name": "Cryptomator",
-      "version": "1.19.3",
+      "version": "1.19.4",
       "publisher": "Skymatic GmbH",
       "description": "Encryption made easy and optimized for the cloud",
       "license": "GPL-3.0",
@@ -1787,10 +1787,10 @@
         "security"
       ],
       "installer": {
-        "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.msi",
+        "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.4/Cryptomator-1.19.4-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "E303CCED835E1A8A1041580EEAEA3B7B3658C348D77EA53A108A95926625C41A",
+        "sha256": "521C8EB33A7A65EFB8CD0EB1F78D25C9B8300AA7D680DA26A5C6203BB7AF4C55",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -1864,7 +1864,7 @@
     {
       "id": "KeePassXCTeam.KeePassXC",
       "name": "KeePassXC",
-      "version": "2.7.12",
+      "version": "2.8.0",
       "publisher": "KeePassXC Team",
       "description": "KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.",
       "license": "GPL-2.0-or-later",
@@ -1879,10 +1879,10 @@
         "vault"
       ],
       "installer": {
-        "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.msi",
+        "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "FEEE096C1D5D0D7BB7B36B18174818F7BAC889BE7668C550FF0E5EF9206EA9A5",
+        "sha256": "4F105AF5BA780428718C8BE5614CF95DECEED5CB3B474A9BD624C5DF81CEC6E5",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -1953,7 +1953,7 @@
     {
       "id": "TorProject.TorBrowser",
       "name": "Tor Browser",
-      "version": "15.0.25",
+      "version": "15.0.26",
       "publisher": "Tor Project",
       "description": "Protect yourself against tracking, surveillance, and censorship.",
       "license": "MPL-2.0",
@@ -1974,10 +1974,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.25/tor-browser-windows-x86_64-portable-15.0.25.exe",
+        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.26/tor-browser-windows-x86_64-portable-15.0.26.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "948F79F7312C7B62DFFEB1D65A51D49EA6BCB22B47B271FDD2EDEE9D5E22D561",
+        "sha256": "37C2201F31F2FD9EA8470CF8F3CAFC8DD3CD92D9ED9109B3913E1105B47D2AF5",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1988,7 +1988,7 @@
     {
       "id": "IDRIX.VeraCrypt",
       "name": "VeraCrypt",
-      "version": "1.26.29",
+      "version": "1.26.30",
       "publisher": "veracrypt",
       "description": "Disk encryption with strong security based on TrueCrypt",
       "license": "apache-2.0",
@@ -1996,11 +1996,11 @@
       "category": "Security",
       "tags": [],
       "installer": {
-        "url": "https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.29/VeraCrypt_Setup_x64_1.26.29.msi",
-        "type": "msi",
-        "architecture": "x64",
+        "url": "https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.30/VeraCrypt.Portable.1.26.30.exe",
+        "type": "exe",
+        "architecture": "neutral",
         "sha256": "",
-        "silentArgs": "/quiet /norestart"
+        "silentArgs": "/S"
       },
       "icon": {
         "file": "icons/idrix-veracrypt.png",
@@ -2010,7 +2010,7 @@
     {
       "id": "7zip.7zip",
       "name": "7-Zip",
-      "version": "26.04",
+      "version": "26.05",
       "publisher": "Igor Pavlov",
       "description": "A file archiver with a high compression ratio.",
       "license": "LGPL-2.1",
@@ -2034,17 +2034,21 @@
         "zip"
       ],
       "installer": {
-        "url": "https://www.7-zip.org/a/7z2604-x64.msi",
+        "url": "https://github.com/ip7z/7zip/releases/download/26.05/7z2605-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "0B01334A418654293513449F61D6BFC99E5196CA371E3C3DC961EDA57CD535C6",
+        "sha256": "3FE4AB99FA15629C652944309A2B2BC6E41FC933FC6B63F5DF1EBCF3AEA68263",
         "silentArgs": "/quiet /norestart"
+      },
+      "icon": {
+        "file": "icons/7zip-7zip.png",
+        "url": "https://avatars.githubusercontent.com/ip7z?size=256"
       }
     },
     {
       "id": "Balena.Etcher",
       "name": "balenaEtcher",
-      "version": "2.1.7",
+      "version": "2.1.9",
       "publisher": "Balena Ltd. <hello@balena.io>",
       "description": "Flash OS images to SD cards & USB drives, safely and easily.",
       "license": "Apache-2.0",
@@ -2061,10 +2065,10 @@
         "usb"
       ],
       "installer": {
-        "url": "https://github.com/balena-io/etcher/releases/download/v2.1.7/balenaEtcher-2.1.7.Setup.exe",
+        "url": "https://github.com/balena-io/etcher/releases/download/v2.1.9/balenaEtcher-2.1.9.Setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "386BB45DA6E0EDEB20E065427CDEF30A876E4D2A59579F8ADD329D8510AC12F8",
+        "sha256": "3FA63EA453E75C0338F8F1444B511F38DECDD002E17922A910AEC5E29B85B751",
         "silentArgs": "--silent"
       },
       "icon": {
@@ -2075,7 +2079,7 @@
     {
       "id": "BleachBit.BleachBit",
       "name": "BleachBit",
-      "version": "6.0.4.310",
+      "version": "6.0.6.633",
       "publisher": "BleachBit",
       "description": "Clean Your System and Free Disk Space",
       "license": "GPL-3.0",
@@ -2097,10 +2101,10 @@
         "wipe"
       ],
       "installer": {
-        "url": "https://download.bleachbit.org/BleachBit-6.0.4-setup.exe",
+        "url": "https://download.bleachbit.org/BleachBit-6.0.6-setup.exe",
         "type": "exe",
         "architecture": "x86",
-        "sha256": "C4CD6BB1F4B163DC28B13CEF2995423DE69E6776F16387F54943DCC6E7267A6D",
+        "sha256": "A8D27535CDC53E89C21090EABCA6026D32C4D385863F8DFC6FC8814BDA7881C4",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2206,7 +2210,7 @@
     {
       "id": "cURL.cURL",
       "name": "cURL",
-      "version": "8.23.0.1",
+      "version": "8.23.0.5",
       "publisher": "curl",
       "description": "Command line tool and library for transferring data with URLs",
       "license": "Freeware",
@@ -2214,10 +2218,10 @@
       "category": "Utilities",
       "tags": [],
       "installer": {
-        "url": "https://curl.se/windows/dl-8.23.0_1/curl-8.23.0_1-win64-mingw.zip",
+        "url": "https://curl.se/windows/dl-8.23.0_5/curl-8.23.0_5-win64-mingw.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "752FF19C45BE64AF5B5F8D5222DCE64E0F7B03D740A7362A4055C220FA9637C6",
+        "sha256": "B0AF3896433242213F6D1388A104115E6DFDD3B16727E5B00C2AB0F48FBC904A",
         "silentArgs": ""
       },
       "icon": {
@@ -2326,7 +2330,7 @@
     {
       "id": "Microsoft.PowerShell",
       "name": "PowerShell",
-      "version": "7.6.7.0",
+      "version": "7.6.9.0",
       "publisher": "Microsoft Corporation",
       "description": "PowerShell is a cross-platform task automation solution made up of a command-line shell, a scripting language, and a configuration management framework. PowerShell runs on Windows, Linux, and macOS.",
       "license": "MIT",
@@ -2341,10 +2345,10 @@
         "shell"
       ],
       "installer": {
-        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.7/PowerShell-7.6.7-win-x64.msi",
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.9/PowerShell-7.6.9-win-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "EC575CEF9EC56FCD905DE0D5EEAC9CB7F81A0A65ABB87BB5CD0E87FDFE2B8CC0",
+        "sha256": "50D33C7494AAF82B987CFD4DE3F232D04F91FDD4C0DEECA8A669CCED3E7CF8F9",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -2435,16 +2439,12 @@
         "architecture": "x64",
         "sha256": "E9C22419EF3128A707B0D004A2C58E25459528C5C12D104DEA56E5E662BD131E",
         "silentArgs": "/S"
-      },
-      "icon": {
-        "file": "icons/uvncbvba-ultravnc.ico",
-        "url": "https://icons.duckduckgo.com/ip3/uvnc.com.ico"
       }
     },
     {
       "id": "Ventoy.Ventoy",
       "name": "Ventoy",
-      "version": "1.1.17",
+      "version": "1.1.18",
       "publisher": "Ventoy",
       "description": "Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.",
       "license": "GPL-3.0",
@@ -2468,10 +2468,10 @@
         "windows"
       ],
       "installer": {
-        "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.17/ventoy-1.1.17-windows.zip",
+        "url": "https://github.com/ventoy/Ventoy/releases/download/v1.1.18/ventoy-1.1.18-windows.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "D250E97A7595FDAC4F97DEBC630D7A8DA942319274A76CB32384596B659DBAEB",
+        "sha256": "082C478E8C432E1AC653899FCF50E3A4077A2851BC6112B5DDD30545962164A9",
         "silentArgs": ""
       },
       "icon": {
@@ -2543,7 +2543,7 @@
     {
       "id": "Oracle.VirtualBox",
       "name": "Oracle VirtualBox",
-      "version": "7.2.20",
+      "version": "7.2.22",
       "publisher": "Oracle and/or its affiliates",
       "description": "VirtualBox is a general-purpose full virtualization software for x86_64 hardware (with version 7.1 additionally for macOS/Arm), targeted at laptop, desktop, server and embedded use.",
       "license": "GPL-3.0-only",
@@ -2556,10 +2556,10 @@
         "virtualization"
       ],
       "installer": {
-        "url": "https://download.virtualbox.org/virtualbox/7.2.20/VirtualBox-7.2.20-175154-Win.exe",
+        "url": "https://download.virtualbox.org/virtualbox/7.2.22/VirtualBox-7.2.22-175245-Win.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "A81777D2B36380CE042A29E9C554CF032EB46A793F62E3CC82E7411E535C2C26",
+        "sha256": "AFD0FF1656CBE04ED88CE619594AE021419D97CCE89FA9BDC443E9A963F1713F",
         "silentArgs": "--silent"
       },
       "icon": {

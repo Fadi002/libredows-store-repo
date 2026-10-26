@@ -2,7 +2,7 @@
   {
     "id": "BlenderFoundation.Blender",
     "name": "blender",
-    "version": "5.2.2",
+    "version": "5.2.3",
     "publisher": "Blender Foundation",
     "description": "Free and Open 3D Creation Software",
     "license": "GPL-3.0-or-later",
@@ -17,10 +17,10 @@
       "vfx"
     ],
     "installer": {
-      "url": "https://download.blender.org/release/Blender5.2/blender-5.2.2-windows-x64.msi",
+      "url": "https://download.blender.org/release/Blender5.2/blender-5.2.3-windows-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "8DAC2751EBE8E3867327EEC52F1EF9B344C0A27499BB6221A301B4B35F2828D1",
+      "sha256": "A103D4ECE8D9ACFFD2A95C9D8860355B1F209977CC983B4A3D1E1CFB441C8605",
       "silentArgs": "/quiet /norestart"
     }
   },
@@ -181,7 +181,7 @@
   {
     "id": "LibreCAD.LibreCAD",
     "name": "LibreCAD",
-    "version": "2.2.1.5",
+    "version": "2.2.1.6",
     "publisher": "LibreCAD Team",
     "description": "LibreCAD is a cross-platform 2D CAD program written in C++11 using the Qt framework. It can read DXF and DWG files and can write DXF, PDF and SVG files. The user interface is highly customizable, and has dozens of translations.",
     "license": "GPLv2",
@@ -194,10 +194,10 @@
       "qt"
     ],
     "installer": {
-      "url": "https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.5/LibreCAD-v2.2.1.5-win64-msvc.exe",
+      "url": "https://github.com/LibreCAD/LibreCAD/releases/download/v2.2.1.6/LibreCAD-v2.2.1.6-win64-msvc.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "738912FEA40ACA934689444AF9C5CD281572417983CC081C204FE6C779F6941D",
+      "sha256": "0CD876D0E3FBFCDCDB85E5019080ACA243908F4AD5C3B3C93A55EE9BA154F95B",
       "silentArgs": "/S"
     },
     "icon": {

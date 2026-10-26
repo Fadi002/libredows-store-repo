@@ -19,10 +19,10 @@
       "wifi"
     ],
     "installer": {
-      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64-unsigned.exe",
+      "url": "https://github.com/localsend/localsend/releases/download/v1.18.2/LocalSend-1.18.2-windows-x86-64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "F53856750AD087A17B996309171262FA7D89071C350E0DC5DF6530F34DD8A2AE",
+      "sha256": "122783E6ABB4B0A1F1603D896F46A03AEDA3004479EBD3175CAB4DDAC6B60919",
       "silentArgs": "/S"
     },
     "icon": {
@@ -61,7 +61,7 @@
   {
     "id": "qBittorrent.qBittorrent",
     "name": "qBittorrent",
-    "version": "5.2.4",
+    "version": "5.3.0",
     "publisher": "The qBittorrent project",
     "description": "Free and reliable P2P Bittorent client.",
     "license": "GPL-3.0",
@@ -79,10 +79,10 @@
       "upload"
     ],
     "installer": {
-      "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.2.4/qbittorrent_5.2.4_x64_setup.exe/download",
+      "url": "https://sourceforge.net/projects/qbittorrent/files/qbittorrent-win32/qbittorrent-5.3.0/qbittorrent_5.3.0_x64_setup.exe/download",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "EF6EFE581D80EFEB0A77DF281D93F93021FBDCC48E4D8F7B341DC864F53C30DD",
+      "sha256": "AFF5B3BDC00D6E5773D6099BA30F9696DD3DFD1669AB0F64CE5C4E7168486436",
       "silentArgs": "/S"
     },
     "icon": {
@@ -162,7 +162,7 @@
   {
     "id": "Syncthing.Syncthing",
     "name": "Syncthing",
-    "version": "2.1.6",
+    "version": "2.1.7",
     "publisher": "The Syncthing Authors",
     "description": "Open Source Continuous File Synchronization",
     "license": "MPL-2.0",
@@ -184,10 +184,10 @@
       "synchronization"
     ],
     "installer": {
-      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.6/syncthing-windows-amd64-v2.1.6.zip",
+      "url": "https://github.com/syncthing/syncthing/releases/download/v2.1.7/syncthing-windows-amd64-v2.1.7.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "589098269CABB9A5A1703A934305B4153609D7623E978E1C94F0F49D77AE5E9F",
+      "sha256": "3CE7DA770F546A8D02B65B2E7EE31F2A3B8B7C3F990EDE045590CCA4172ECFE1",
       "silentArgs": ""
     },
     "icon": {

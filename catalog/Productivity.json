@@ -41,7 +41,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.14.8",
+    "version": "0.14.11",
     "publisher": "AppFlowy-IO",
     "description": "The Open Source Alternative To Notion.",
     "license": "AGPL-3.0",
@@ -66,10 +66,10 @@
       "wiki"
     ],
     "installer": {
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.8/AppFlowy-0.14.8-windows-x86_64.exe",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.11/AppFlowy-0.14.11-windows-x86_64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "AD8BE9C4636CDE2DAAF562BDB1EA0799D4381358319B7348754B98143DE874C4",
+      "sha256": "ED68D452BD35D030968F9E00BA99DDECD78D286C93596089761011552C07AA15",
       "silentArgs": "/sp- /verysilent /norestart"
     },
     "icon": {
@@ -112,7 +112,7 @@
   {
     "id": "MarkText.MarkText",
     "name": "MarkText",
-    "version": "0.21.2",
+    "version": "0.23.0",
     "publisher": "Jocs",
     "description": "A simple and elegant Markdown editor focused on speed and usability.",
     "license": "MIT",
@@ -123,10 +123,10 @@
       "markdown"
     ],
     "installer": {
-      "url": "https://github.com/marktext/marktext/releases/download/v0.21.2/marktext-win-x64-0.21.2-setup.exe",
+      "url": "https://github.com/marktext/marktext/releases/download/v0.23.0/marktext-win-x64-0.23.0-setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "561F691DA22750797BEC07815BB8EB601B8C0C0D255D8A09031783F340B05579",
+      "sha256": "49BF66035F92072CE7DD8FA2F88B91F7036D674C05F872355A2D6E366FC53964",
       "silentArgs": "/S"
     },
     "icon": {

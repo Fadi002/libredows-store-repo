@@ -2,7 +2,7 @@
   {
     "id": "Bitwarden.Bitwarden",
     "name": "Bitwarden",
-    "version": "2026.10.0",
+    "version": "2026.10.1",
     "publisher": "Bitwarden Inc.",
     "description": "A secure and free password manager for all of your devices.",
     "license": "GPL-3.0 or Bitwarden-1.0",
@@ -20,10 +20,10 @@
       "vault"
     ],
     "installer": {
-      "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.0/Bitwarden-Installer-2026.10.0.exe",
+      "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.1/Bitwarden-Installer-2026.10.1.exe",
       "type": "nullsoft",
       "architecture": "x64",
-      "sha256": "FE97E2AF272B8B44E48F62AA89F9A32DEE9EB5EA63CDB72E70C7D96240E3BCA9",
+      "sha256": "D4AAAD518E6A088CAE48AF41A1F49045D7579AB5957C76FCC06BBF0FBF89FE69",
       "silentArgs": "/S"
     },
     "icon": {
@@ -34,7 +34,7 @@
   {
     "id": "Cryptomator.Cryptomator",
     "name": "Cryptomator",
-    "version": "1.19.3",
+    "version": "1.19.4",
     "publisher": "Skymatic GmbH",
     "description": "Encryption made easy and optimized for the cloud",
     "license": "GPL-3.0",
@@ -49,10 +49,10 @@
       "security"
     ],
     "installer": {
-      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.3/Cryptomator-1.19.3-x64.msi",
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.4/Cryptomator-1.19.4-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "E303CCED835E1A8A1041580EEAEA3B7B3658C348D77EA53A108A95926625C41A",
+      "sha256": "521C8EB33A7A65EFB8CD0EB1F78D25C9B8300AA7D680DA26A5C6203BB7AF4C55",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -126,7 +126,7 @@
   {
     "id": "KeePassXCTeam.KeePassXC",
     "name": "KeePassXC",
-    "version": "2.7.12",
+    "version": "2.8.0",
     "publisher": "KeePassXC Team",
     "description": "KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.",
     "license": "GPL-2.0-or-later",
@@ -141,10 +141,10 @@
       "vault"
     ],
     "installer": {
-      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.12/KeePassXC-2.7.12-Win64.msi",
+      "url": "https://github.com/keepassxreboot/keepassxc/releases/download/2.8.0/KeePassXC-2.8.0-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "FEEE096C1D5D0D7BB7B36B18174818F7BAC889BE7668C550FF0E5EF9206EA9A5",
+      "sha256": "4F105AF5BA780428718C8BE5614CF95DECEED5CB3B474A9BD624C5DF81CEC6E5",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -215,7 +215,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.25",
+    "version": "15.0.26",
     "publisher": "Tor Project",
     "description": "Protect yourself against tracking, surveillance, and censorship.",
     "license": "MPL-2.0",
@@ -236,10 +236,10 @@
       "web-browser"
     ],
     "installer": {
-      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.25/tor-browser-windows-x86_64-portable-15.0.25.exe",
+      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.26/tor-browser-windows-x86_64-portable-15.0.26.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "948F79F7312C7B62DFFEB1D65A51D49EA6BCB22B47B271FDD2EDEE9D5E22D561",
+      "sha256": "37C2201F31F2FD9EA8470CF8F3CAFC8DD3CD92D9ED9109B3913E1105B47D2AF5",
       "silentArgs": "/S"
     },
     "icon": {
@@ -250,7 +250,7 @@
   {
     "id": "IDRIX.VeraCrypt",
     "name": "VeraCrypt",
-    "version": "1.26.29",
+    "version": "1.26.30",
     "publisher": "veracrypt",
     "description": "Disk encryption with strong security based on TrueCrypt",
     "license": "apache-2.0",
@@ -258,11 +258,11 @@
     "category": "Security",
     "tags": [],
     "installer": {
-      "url": "https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.29/VeraCrypt_Setup_x64_1.26.29.msi",
-      "type": "msi",
-      "architecture": "x64",
+      "url": "https://github.com/veracrypt/VeraCrypt/releases/download/VeraCrypt_1.26.30/VeraCrypt.Portable.1.26.30.exe",
+      "type": "exe",
+      "architecture": "neutral",
       "sha256": "",
-      "silentArgs": "/quiet /norestart"
+      "silentArgs": "/S"
     },
     "icon": {
       "file": "icons/idrix-veracrypt.png",

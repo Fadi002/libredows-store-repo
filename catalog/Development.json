@@ -41,7 +41,7 @@
   {
     "id": "Git.Git",
     "name": "Git",
-    "version": "2.55.0.5",
+    "version": "2.56.0.3",
     "publisher": "The Git Development Community",
     "description": "A free and open source distributed version control system",
     "license": "GPL-2.0",
@@ -52,10 +52,10 @@
       "vcs"
     ],
     "installer": {
-      "url": "https://github.com/git-for-windows/git/releases/download/v2.55.0.windows.5/Git-2.55.0.5-64-bit.exe",
+      "url": "https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.3/Git-2.56.0.3-64-bit.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "D065A4E23C3D9A6B5073D609B5BE0830227EC3CA053C083BA385061DDFAF94C6",
+      "sha256": "DC6D3DB061999136E139F31376C5582A9ED6F36A4EA12F15E54AD7FA2BFC0BF2",
       "silentArgs": "/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
     },
     "icon": {
@@ -66,7 +66,7 @@
   {
     "id": "GitHub.GitHubDesktop",
     "name": "GitHub Desktop",
-    "version": "3.6.7",
+    "version": "3.6.9",
     "publisher": "GitHub, Inc.",
     "description": "Focus on what matters instead of fighting with Git.",
     "license": "MIT",
@@ -77,10 +77,10 @@
       "github"
     ],
     "installer": {
-      "url": "https://desktop.githubusercontent.com/releases/3.6.7-dbc92f97/GitHubDesktopSetup-x64.msi",
+      "url": "https://desktop.githubusercontent.com/releases/3.6.9-e0ba6bb8/GitHubDesktopSetup-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "E1510C4FA6BC348AADE90CDDA7ED55D8FD1E984AEBF2D66AD290741B92977053",
+      "sha256": "E2BAB1785C348D0C29CB79C1030B07B902322E63FFD4025EF9BFD175DB600555",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -148,7 +148,7 @@
   {
     "id": "HeidiSQL.HeidiSQL",
     "name": "HeidiSQL",
-    "version": "12.21.0.7344",
+    "version": "12.22.0.7382",
     "publisher": "Ansgar Becker",
     "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL and SQLite, written in Delphi",
     "license": "GPL-2.0",
@@ -169,10 +169,10 @@
       "sqlite"
     ],
     "installer": {
-      "url": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.21/HeidiSQL_12.21.0.7344_Setup.exe",
+      "url": "https://github.com/HeidiSQL/HeidiSQL/releases/download/v12.22/HeidiSQL_12.22.0.7382_Setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "97ACF0344313C11BB89C001425A615722B745669E5FFD542E732C418A00E22ED",
+      "sha256": "468055814DCEDC057821F2692D28CFDDE181332265240538B9ACB320CAE49904",
       "silentArgs": "/S"
     },
     "icon": {
@@ -211,7 +211,7 @@
   {
     "id": "OpenJS.NodeJS.LTS",
     "name": "Node.js (LTS)",
-    "version": "24.20.0",
+    "version": "24.22.1",
     "publisher": "Node.js Foundation",
     "description": "Run JavaScript Everywhere",
     "license": "MIT",
@@ -233,10 +233,10 @@
       "v8"
     ],
     "installer": {
-      "url": "https://nodejs.org/dist/v24.20.0/node-v24.20.0-x64.msi",
+      "url": "https://nodejs.org/dist/v24.22.1/node-v24.22.1-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "28B69132C35CCC033BF8F2A67CD10C9D75EF5822593363309DA448F2AFFF2D8A",
+      "sha256": "3BDA4BAF1EE709B33CF920DD633106DDB23951E322BFF9C03EC9F64AB8981B01",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -331,7 +331,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.13.1",
+    "version": "0.13.5",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.13.1/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.13.5/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "3B2661A463A5BAEA7F5076EA2B25AB71D77F36A6C0D809E5350651792F80A672",
+      "sha256": "A38B8D1902B7CFBC76B423BA1BB456F623F42064CDC72628B6075B89AFD1019A",
       "silentArgs": ""
     },
     "icon": {
@@ -416,7 +416,7 @@
   {
     "id": "yt-dlp.yt-dlp",
     "name": "yt-dlp",
-    "version": "2026.08.19",
+    "version": "2026.10.21",
     "publisher": "yt-dlp",
     "description": "A feature-rich command-line audio/video downloader.",
     "license": "Unlicense",
@@ -438,10 +438,10 @@
       "ytdlp"
     ],
     "installer": {
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.08.19/yt-dlp.exe",
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.21/yt-dlp.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "66674953FE251B89F4D08C5F0E35E0728679BD67AB3D7D05C0562AF101DD3E7A",
+      "sha256": "33121D192D706E62F684A06F80918E3F3A8BA52AC3A65213B6951C39C7D9F555",
       "silentArgs": "/S"
     },
     "icon": {
