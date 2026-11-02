@@ -2,7 +2,7 @@
   {
     "id": "Brave.Brave",
     "name": "Brave",
-    "version": "155.1.97.56",
+    "version": "156.1.98.63",
     "category": "Browsers",
     "homepage": "https://brave.com/download",
     "icon": "icons/brave-brave.png"
@@ -10,7 +10,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "158.0.1-2",
+    "version": "159.0-1",
     "category": "Browsers",
     "homepage": "https://librewolf.net/",
     "icon": "icons/librewolf-librewolf.ico"
@@ -18,7 +18,7 @@
   {
     "id": "Mozilla.Firefox",
     "name": "Mozilla Firefox (en-US)",
-    "version": "157.0.1",
+    "version": "159.0",
     "category": "Browsers",
     "homepage": "https://www.mozilla.org/firefox/",
     "icon": "icons/mozilla-firefox.ico"
@@ -26,7 +26,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "156.0.8078.47-1.1",
+    "version": "156.0.8078.79-1.1",
     "category": "Browsers",
     "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
     "icon": "icons/ungoogledchromium-ungoogledchromium.png"
@@ -34,7 +34,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.7.6",
+    "version": "6.7.7",
     "category": "Browsers",
     "homepage": "https://www.waterfox.net/",
     "icon": "icons/waterfox-waterfox.ico"
@@ -42,7 +42,7 @@
   {
     "id": "Element.Element",
     "name": "Element",
-    "version": "1.12.32",
+    "version": "1.12.33",
     "category": "Communication",
     "homepage": "https://element.io/download",
     "icon": "icons/element-element.png"
@@ -66,7 +66,7 @@
   {
     "id": "Mozilla.Thunderbird",
     "name": "Mozilla Thunderbird (en-US)",
-    "version": "158.0.1",
+    "version": "159.0",
     "category": "Communication",
     "homepage": "https://www.thunderbird.net/",
     "icon": "icons/mozilla-thunderbird.ico"
@@ -74,7 +74,7 @@
   {
     "id": "RocketChat.RocketChat",
     "name": "Rocket.Chat",
-    "version": "4.18.5",
+    "version": "4.19.0",
     "category": "Communication",
     "homepage": "https://rocket.chat/",
     "icon": "icons/rocketchat-rocketchat.png"
@@ -162,7 +162,7 @@
   {
     "id": "Git.Git",
     "name": "Git",
-    "version": "2.56.0.3",
+    "version": "2.56.0.4",
     "category": "Development",
     "homepage": "https://gitforwindows.org/",
     "icon": "icons/git-git.png"
@@ -170,7 +170,7 @@
   {
     "id": "GitHub.GitHubDesktop",
     "name": "GitHub Desktop",
-    "version": "3.6.9",
+    "version": "3.6.10",
     "category": "Development",
     "homepage": "https://github.com/apps/desktop",
     "icon": "icons/github-githubdesktop.png"
@@ -178,7 +178,7 @@
   {
     "id": "GoLang.Go",
     "name": "Go Programming Language",
-    "version": "1.27.0",
+    "version": "1.27.3",
     "category": "Development",
     "homepage": "https://go.dev/dl/",
     "icon": "icons/golang-go.png"
@@ -210,7 +210,7 @@
   {
     "id": "OpenJS.NodeJS.LTS",
     "name": "Node.js (LTS)",
-    "version": "24.22.1",
+    "version": "26.13.0",
     "category": "Development",
     "homepage": "https://nodejs.org/",
     "icon": "icons/openjs-nodejs-lts.png"
@@ -226,7 +226,7 @@
   {
     "id": "Python.Python",
     "name": "Python 3.14",
-    "version": "3.14.7",
+    "version": "3.14.10",
     "category": "Development",
     "homepage": "https://www.python.org/",
     "icon": "icons/python-python.ico"
@@ -234,7 +234,7 @@
   {
     "id": "Rustlang.Rustup",
     "name": "Rustup: the Rust toolchain installer",
-    "version": "1.29.1",
+    "version": "1.29.2",
     "category": "Development",
     "homepage": "https://rust-lang.github.io/rustup/",
     "icon": ""
@@ -242,7 +242,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.13.5",
+    "version": "0.13.6",
     "category": "Development",
     "homepage": "https://github.com/astral-sh/uv",
     "icon": "icons/astral-sh-uv.png"
@@ -250,7 +250,7 @@
   {
     "id": "VSCodium.VSCodium",
     "name": "VSCodium",
-    "version": "1.140.06880",
+    "version": "1.143.17232",
     "category": "Development",
     "homepage": "https://vscodium.com/",
     "icon": "icons/vscodium-vscodium.png"
@@ -266,7 +266,7 @@
   {
     "id": "yt-dlp.yt-dlp",
     "name": "yt-dlp",
-    "version": "2026.10.21",
+    "version": "2026.10.26",
     "category": "Development",
     "homepage": "https://github.com/yt-dlp/yt-dlp",
     "icon": "icons/yt-dlp-yt-dlp.png"
@@ -282,7 +282,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "35.0.0",
+    "version": "35.0.1",
     "category": "File Sharing",
     "homepage": "https://nextcloud.com/",
     "icon": "icons/nextcloud-nextclouddesktop.png"
@@ -298,7 +298,7 @@
   {
     "id": "Rclone.Rclone",
     "name": "Rclone",
-    "version": "1.75.1",
+    "version": "1.75.2",
     "category": "File Sharing",
     "homepage": "https://rclone.org/",
     "icon": "icons/rclone-rclone.png"
@@ -426,7 +426,7 @@
   {
     "id": "Joplin.Joplin",
     "name": "Joplin",
-    "version": "3.7.21",
+    "version": "3.7.22",
     "category": "Productivity",
     "homepage": "https://joplinapp.org/",
     "icon": "icons/joplin-joplin.png"
@@ -458,7 +458,7 @@
   {
     "id": "Bitwarden.Bitwarden",
     "name": "Bitwarden",
-    "version": "2026.10.1",
+    "version": "2026.10.2",
     "category": "Security",
     "homepage": "https://bitwarden.com/",
     "icon": "icons/bitwarden-bitwarden.png"
@@ -466,7 +466,7 @@
   {
     "id": "Cryptomator.Cryptomator",
     "name": "Cryptomator",
-    "version": "1.19.4",
+    "version": "1.19.6",
     "category": "Security",
     "homepage": "https://cryptomator.org/",
     "icon": "icons/cryptomator-cryptomator.png"
@@ -498,7 +498,7 @@
   {
     "id": "Proton.ProtonVPN",
     "name": "Proton VPN",
-    "version": "5.1.8",
+    "version": "5.1.9",
     "category": "Security",
     "homepage": "https://protonvpn.com/",
     "icon": "icons/proton-protonvpn.png"
@@ -514,7 +514,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.26",
+    "version": "16.0",
     "category": "Security",
     "homepage": "https://www.torproject.org/",
     "icon": "icons/torproject-torbrowser.ico"
@@ -578,7 +578,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.23.0.5",
+    "version": "8.23.0.6",
     "category": "Utilities",
     "homepage": "https://curl.se/",
     "icon": "icons/curl-curl.ico"
@@ -634,7 +634,7 @@
   {
     "id": "uvncbvba.UltraVNC",
     "name": "UltraVNC",
-    "version": "1.8.3.0",
+    "version": "1.8.3.1",
     "category": "Utilities",
     "homepage": "https://uvnc.com/downloads/ultravnc.html",
     "icon": ""

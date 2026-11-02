@@ -2,7 +2,7 @@
   {
     "id": "Brave.Brave",
     "name": "Brave",
-    "version": "155.1.97.56",
+    "version": "156.1.98.63",
     "publisher": "Brave Software Inc",
     "description": "Secure, Fast & Private Web Browser with Adblocker",
     "license": "MPL-2.0",
@@ -17,10 +17,10 @@
       "webpage"
     ],
     "installer": {
-      "url": "https://github.com/brave/brave-browser/releases/download/v1.97.56/BraveBrowserStandaloneSilentSetup.exe",
+      "url": "https://github.com/brave/brave-browser/releases/download/v1.98.63/BraveBrowserStandaloneSilentSetup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "860FCD9B0DAAA7D2647D5230B16AA7B7F1BE0CA03DB49944A925E24A2600A9A2",
+      "sha256": "6C139A6915432E72B626CE8566865F12854F744310C19543C498ECFD87D5CFFA",
       "silentArgs": "/S"
     },
     "icon": {
@@ -31,7 +31,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "158.0.1-2",
+    "version": "159.0-1",
     "publisher": "LibreWolf",
     "description": "A custom version of Firefox, focused on privacy, security and freedom.",
     "license": "MPL-2.0",
@@ -49,10 +49,10 @@
       "webpage"
     ],
     "installer": {
-      "url": "https://dl.librewolf.net/librewolf/158.0.1-2/librewolf-158.0.1-2-windows-x86_64-setup.exe",
+      "url": "https://dl.librewolf.net/librewolf/159.0-1/librewolf-159.0-1-windows-x86_64-setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "3566F58BB6E2EDBD92DD63024309EDADBCF9CEF5DB3BE3C40A3E5B63031068DB",
+      "sha256": "AEBA328856112B462A40685EF2902ED3B48952DEAAAF146F52526B22F2B1C37C",
       "silentArgs": "/S"
     },
     "icon": {
@@ -63,7 +63,7 @@
   {
     "id": "Mozilla.Firefox",
     "name": "Mozilla Firefox (en-US)",
-    "version": "157.0.1",
+    "version": "159.0",
     "publisher": "Mozilla",
     "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
     "license": "MPL-2.0",
@@ -80,10 +80,10 @@
       "webpage"
     ],
     "installer": {
-      "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/157.0.1/win64/en-US/Firefox%20Setup%20157.0.1.exe",
+      "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/159.0/win64/en-US/Firefox%20Setup%20159.0.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "71DC620E7749BB65BE6DF67B99261A303805A804F9C787B76B81C095CFA7D9CA",
+      "sha256": "8776887B79925ABBDD407FCDFE257D8382B54E24BE52A6466426B95A804D6790",
       "silentArgs": "/S /PreventRebootRequired=true"
     },
     "icon": {
@@ -94,7 +94,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "156.0.8078.47-1.1",
+    "version": "156.0.8078.79-1.1",
     "publisher": "ungoogled-software",
     "description": "Windows packaging for ungoogled-chromium",
     "license": "BSD-3-Clause",
@@ -102,7 +102,7 @@
     "category": "Browsers",
     "tags": [],
     "installer": {
-      "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/156.0.8078.47-1.1/ungoogled-chromium_156.0.8078.47-1.1_installer_x64.exe",
+      "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/156.0.8078.79-1.1/ungoogled-chromium_156.0.8078.79-1.1_installer_x64.exe",
       "type": "exe",
       "architecture": "x64",
       "sha256": "",
@@ -116,7 +116,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.7.6",
+    "version": "6.7.7",
     "publisher": "BrowserWorks",
     "description": "Fast and Private Web Browser",
     "license": "MPL-2.0",
@@ -135,10 +135,10 @@
       "web-browser"
     ],
     "installer": {
-      "url": "https://cdn.waterfox.com/waterfox/releases/6.7.6/WINNT_x86_64/Waterfox%20Setup%206.7.6.exe",
+      "url": "https://cdn.waterfox.com/waterfox/releases/6.7.7/WINNT_x86_64/Waterfox%20Setup%206.7.7.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "7F5293ACAE538CE497829D31C7217FC89763A19A37F4451649F78DDB93F92684",
+      "sha256": "5FB1D40603908D6125FAE69A4FA9DAC4BA999B90C766CA9A812238F8FE37EC42",
       "silentArgs": "-ms"
     },
     "icon": {

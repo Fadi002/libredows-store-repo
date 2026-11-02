@@ -33,7 +33,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "35.0.0",
+    "version": "35.0.1",
     "publisher": "Nextcloud GmbH",
     "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
     "license": "GPL-2.0",
@@ -47,10 +47,10 @@
       "utility"
     ],
     "installer": {
-      "url": "https://github.com/nextcloud-releases/desktop/releases/download/v35.0.0/Nextcloud-35.0.0-x64.msi",
+      "url": "https://github.com/nextcloud-releases/desktop/releases/download/v35.0.1/Nextcloud-35.0.1-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "7DF0F2FE42519E454E14D45A34C4D8D601E98434710087CB1D6D96F315206CD7",
+      "sha256": "A4F348E809742A11F36C025ED810782120C411C4D74EB05E2C6D2AC335927CA2",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -93,7 +93,7 @@
   {
     "id": "Rclone.Rclone",
     "name": "Rclone",
-    "version": "1.75.1",
+    "version": "1.75.2",
     "publisher": "Rclone",
     "description": "Rclone (\"rsync for cloud storage\") is a command-line program to sync files and directories to and from different cloud storage providers.",
     "license": "MIT",
@@ -111,10 +111,10 @@
       "webdav"
     ],
     "installer": {
-      "url": "https://github.com/rclone/rclone/releases/download/v1.75.1/rclone-v1.75.1-windows-amd64.zip",
+      "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-windows-amd64.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "200EB602C126D82AA38B51E0F6B9AE837473FF99B51278D3F6F837574C494D6E",
+      "sha256": "8A9DB2BAD1DC79A65B3348FD857069598E2AAB7CF4D118B77B1DF23055AFF818",
       "silentArgs": ""
     },
     "icon": {

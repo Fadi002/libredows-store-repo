@@ -2,7 +2,7 @@
   {
     "id": "Bitwarden.Bitwarden",
     "name": "Bitwarden",
-    "version": "2026.10.1",
+    "version": "2026.10.2",
     "publisher": "Bitwarden Inc.",
     "description": "A secure and free password manager for all of your devices.",
     "license": "GPL-3.0 or Bitwarden-1.0",
@@ -20,10 +20,10 @@
       "vault"
     ],
     "installer": {
-      "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.1/Bitwarden-Installer-2026.10.1.exe",
+      "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-Installer-2026.10.2.exe",
       "type": "nullsoft",
       "architecture": "x64",
-      "sha256": "D4AAAD518E6A088CAE48AF41A1F49045D7579AB5957C76FCC06BBF0FBF89FE69",
+      "sha256": "3316EB8516EDAE538DE3EE529C1A6329676C1C7B354A5166894BB64D9ECC0E6F",
       "silentArgs": "/S"
     },
     "icon": {
@@ -34,7 +34,7 @@
   {
     "id": "Cryptomator.Cryptomator",
     "name": "Cryptomator",
-    "version": "1.19.4",
+    "version": "1.19.6",
     "publisher": "Skymatic GmbH",
     "description": "Encryption made easy and optimized for the cloud",
     "license": "GPL-3.0",
@@ -49,10 +49,10 @@
       "security"
     ],
     "installer": {
-      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.4/Cryptomator-1.19.4-x64.msi",
+      "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "521C8EB33A7A65EFB8CD0EB1F78D25C9B8300AA7D680DA26A5C6203BB7AF4C55",
+      "sha256": "AD416A6DFF6AD969C2C346A9050B650E49FE5DA9AC30C948148AE6B8412EBBCE",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -155,7 +155,7 @@
   {
     "id": "Proton.ProtonVPN",
     "name": "Proton VPN",
-    "version": "5.1.8",
+    "version": "5.1.9",
     "publisher": "Proton AG",
     "description": "High-speed Swiss VPN that safeguards your privacy.",
     "license": "GPL-3.0",
@@ -171,10 +171,10 @@
       "vpn"
     ],
     "installer": {
-      "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.8_x64.exe",
+      "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.9_x64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "C7E9D52FD4D3B65FF8EA83C24DBBE3F4AD9B3726739CF645CE15B9E24EDC4AA4",
+      "sha256": "8454EBA06A37C0A636EC8DCFE6A7A823A68A78EE8FE2EEDA2D651CD5CD6C3D70",
       "silentArgs": "/S"
     },
     "icon": {
@@ -215,7 +215,7 @@
   {
     "id": "TorProject.TorBrowser",
     "name": "Tor Browser",
-    "version": "15.0.26",
+    "version": "16.0",
     "publisher": "Tor Project",
     "description": "Protect yourself against tracking, surveillance, and censorship.",
     "license": "MPL-2.0",
@@ -236,10 +236,10 @@
       "web-browser"
     ],
     "installer": {
-      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.26/tor-browser-windows-x86_64-portable-15.0.26.exe",
+      "url": "https://archive.torproject.org/tor-package-archive/torbrowser/16.0/tor-browser-windows-x86_64-portable-16.0.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "37C2201F31F2FD9EA8470CF8F3CAFC8DD3CD92D9ED9109B3913E1105B47D2AF5",
+      "sha256": "5BB6B180FF9F37535CC033821B3D94401E44DF159DCE9FFABAF3446B66EC940B",
       "silentArgs": "/S"
     },
     "icon": {

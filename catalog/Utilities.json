@@ -202,7 +202,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.23.0.5",
+    "version": "8.23.0.6",
     "publisher": "curl",
     "description": "Command line tool and library for transferring data with URLs",
     "license": "Freeware",
@@ -210,10 +210,10 @@
     "category": "Utilities",
     "tags": [],
     "installer": {
-      "url": "https://curl.se/windows/dl-8.23.0_5/curl-8.23.0_5-win64-mingw.zip",
+      "url": "https://curl.se/windows/dl-8.23.0_6/curl-8.23.0_6-win64-mingw.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "B0AF3896433242213F6D1388A104115E6DFDD3B16727E5B00C2AB0F48FBC904A",
+      "sha256": "E8219337F2E556E8D5A69E58FC22C4BD3D86381608D4984096AAFD7A8849B71F",
       "silentArgs": ""
     },
     "icon": {
@@ -411,7 +411,7 @@
   {
     "id": "uvncbvba.UltraVNC",
     "name": "UltraVNC",
-    "version": "1.8.3.0",
+    "version": "1.8.3.1",
     "publisher": "uvnc bvba",
     "description": "VNC client and server graphical desktop sharing via RFB protocol",
     "license": "GPL-3.0",
@@ -426,10 +426,10 @@
       "vnc"
     ],
     "installer": {
-      "url": "https://uvnc.eu/download/1800/UltraVNC_1830_x64_Setup.exe",
+      "url": "https://uvnc.eu/download/1800/UltraVNC_1831_x64_Setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "E9C22419EF3128A707B0D004A2C58E25459528C5C12D104DEA56E5E662BD131E",
+      "sha256": "A351A06E12A86A85190112CC6B200E9BDAFB2482843C2DE27F48E51F498E9242",
       "silentArgs": "/S"
     }
   },

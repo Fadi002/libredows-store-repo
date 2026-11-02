@@ -41,7 +41,7 @@
   {
     "id": "Git.Git",
     "name": "Git",
-    "version": "2.56.0.3",
+    "version": "2.56.0.4",
     "publisher": "The Git Development Community",
     "description": "A free and open source distributed version control system",
     "license": "GPL-2.0",
@@ -52,10 +52,10 @@
       "vcs"
     ],
     "installer": {
-      "url": "https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.3/Git-2.56.0.3-64-bit.exe",
+      "url": "https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.4/Git-2.56.0.4-64-bit.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "DC6D3DB061999136E139F31376C5582A9ED6F36A4EA12F15E54AD7FA2BFC0BF2",
+      "sha256": "4961A4A8CC778D8B6E00A5819E5FE4D078B754555AFF7AEDC2D77A5D74C2DE80",
       "silentArgs": "/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
     },
     "icon": {
@@ -66,7 +66,7 @@
   {
     "id": "GitHub.GitHubDesktop",
     "name": "GitHub Desktop",
-    "version": "3.6.9",
+    "version": "3.6.10",
     "publisher": "GitHub, Inc.",
     "description": "Focus on what matters instead of fighting with Git.",
     "license": "MIT",
@@ -77,10 +77,10 @@
       "github"
     ],
     "installer": {
-      "url": "https://desktop.githubusercontent.com/releases/3.6.9-e0ba6bb8/GitHubDesktopSetup-x64.msi",
+      "url": "https://desktop.githubusercontent.com/releases/3.6.10-ffeefe5d/GitHubDesktopSetup-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "E2BAB1785C348D0C29CB79C1030B07B902322E63FFD4025EF9BFD175DB600555",
+      "sha256": "7878E103E3C7870A7DF98CF06550EBE04ADED6BDE5997CB3564F09800122C829",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -91,7 +91,7 @@
   {
     "id": "GoLang.Go",
     "name": "Go Programming Language",
-    "version": "1.27.0",
+    "version": "1.27.3",
     "publisher": "https://go.dev",
     "description": "An open source programming language that makes it simple to build secure, scalable systems.",
     "license": "BSD-3-Clause",
@@ -105,10 +105,10 @@
       "programming-language"
     ],
     "installer": {
-      "url": "https://go.dev/dl/go1.27.0.windows-amd64.msi",
+      "url": "https://go.dev/dl/go1.27.3.windows-amd64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "728E9318C061B95082BCF167BAB8B6C6E0D91A045F89F403B3285FA39F0C455B",
+      "sha256": "89EC8325F667C674FE1B94A5A88E26932AA12323589881927FF54DA99D4B7FAA",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -211,7 +211,7 @@
   {
     "id": "OpenJS.NodeJS.LTS",
     "name": "Node.js (LTS)",
-    "version": "24.22.1",
+    "version": "26.13.0",
     "publisher": "Node.js Foundation",
     "description": "Run JavaScript Everywhere",
     "license": "MIT",
@@ -233,10 +233,10 @@
       "v8"
     ],
     "installer": {
-      "url": "https://nodejs.org/dist/v24.22.1/node-v24.22.1-x64.msi",
-      "type": "wix",
+      "url": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-x64.msi",
+      "type": "msi",
       "architecture": "x64",
-      "sha256": "3BDA4BAF1EE709B33CF920DD633106DDB23951E322BFF9C03EC9F64AB8981B01",
+      "sha256": "0E5EE99C7CBF922887F04AF268E3665990748945336A44956F47CC0DF695B6DF",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -277,7 +277,7 @@
   {
     "id": "Python.Python",
     "name": "Python 3.14",
-    "version": "3.14.7",
+    "version": "3.14.10",
     "publisher": "Python Software Foundation",
     "description": "A programming language that lets you work more quickly and integrate your systems more effectively.",
     "license": "PSF-2.0",
@@ -296,10 +296,10 @@
       "script"
     ],
     "installer": {
-      "url": "https://www.python.org/ftp/python/3.14.7/python-3.14.7-amd64.exe",
+      "url": "https://www.python.org/ftp/python/3.14.10/python-3.14.10-amd64.exe",
       "type": "burn",
       "architecture": "x64",
-      "sha256": "9D9EB2709EF81BF5CD30DB3C2096BDBC4EA10087C22E62F27D356B36F6AE9649",
+      "sha256": "92480239264744FE0386A1BD8275786FEFA126E3129E56A68E22B52C73329965",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -310,7 +310,7 @@
   {
     "id": "Rustlang.Rustup",
     "name": "Rustup: the Rust toolchain installer",
-    "version": "1.29.1",
+    "version": "1.29.2",
     "publisher": "The Rust Programming Language",
     "description": "The Rust toolchain installer",
     "license": "Apache-2.0 or MIT",
@@ -321,17 +321,17 @@
       "rustlang"
     ],
     "installer": {
-      "url": "https://static.rust-lang.org/rustup/archive/1.29.1/x86_64-pc-windows-msvc/rustup-init.exe",
+      "url": "https://static.rust-lang.org/rustup/archive/1.29.2/x86_64-pc-windows-msvc/rustup-init.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "6F4BEF66261261FCB43131BE8720BAB817D403A09EDEC7455C371974B90BDB7E",
+      "sha256": "00F139DA614DCED87D3C3D4121C43EEBDAC3C1BF8A5EE86B9D80DFD71C8D70FD",
       "silentArgs": "-y -q"
     }
   },
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.13.5",
+    "version": "0.13.6",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.13.5/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.13.6/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "A38B8D1902B7CFBC76B423BA1BB456F623F42064CDC72628B6075B89AFD1019A",
+      "sha256": "A2A8820D5EEA32F08EF467EF3B7F66883A9B076D5737A2FC2FBB5F458D1BB50F",
       "silentArgs": ""
     },
     "icon": {
@@ -355,7 +355,7 @@
   {
     "id": "VSCodium.VSCodium",
     "name": "VSCodium",
-    "version": "1.140.06880",
+    "version": "1.143.17232",
     "publisher": "VSCodium",
     "description": "VSCodium is a community-driven, freely-licensed and telemetry-free rebuilt of Microsoft's Visual Studio Code.",
     "license": "MIT",
@@ -372,10 +372,10 @@
       "vscode"
     ],
     "installer": {
-      "url": "https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-x64-1.140.06880.exe",
+      "url": "https://github.com/VSCodium/vscodium/releases/download/1.143.17232/VSCodiumUserSetup-x64-1.143.17232.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "CD5B65ED9447C1D5E3028C75CCB9B294814B7ECF3CA8703ECBD82C8896B7CA52",
+      "sha256": "969C878C06F823E1E48FBC4C8BC5F8B4E25A303C24BC28D1623A492560B5607E",
       "silentArgs": "/S"
     },
     "icon": {
@@ -416,7 +416,7 @@
   {
     "id": "yt-dlp.yt-dlp",
     "name": "yt-dlp",
-    "version": "2026.10.21",
+    "version": "2026.10.26",
     "publisher": "yt-dlp",
     "description": "A feature-rich command-line audio/video downloader.",
     "license": "Unlicense",
@@ -438,10 +438,10 @@
       "ytdlp"
     ],
     "installer": {
-      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.21/yt-dlp.exe",
+      "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "33121D192D706E62F684A06F80918E3F3A8BA52AC3A65213B6951C39C7D9F555",
+      "sha256": "F5389D3698ECDE4EF06F4E6B1CE0294FE9AC1396228C8990B8D3416D6D177A7D",
       "silentArgs": "/S"
     },
     "icon": {

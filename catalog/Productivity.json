@@ -80,7 +80,7 @@
   {
     "id": "Joplin.Joplin",
     "name": "Joplin",
-    "version": "3.7.21",
+    "version": "3.7.22",
     "publisher": "Laurent Cozic",
     "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
     "license": "AGPL-3.0-or-later",
@@ -98,10 +98,10 @@
       "todo"
     ],
     "installer": {
-      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe",
+      "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-Setup-3.7.22.exe",
       "type": "exe",
       "architecture": "x86",
-      "sha256": "4222536C69360A30A566627B35C2E1CD8D38D0C79735EBDE4E39EDBCDDD750CD",
+      "sha256": "EE11551239E7D680F76C6A4DDBC2362DDA850981904FDB365298E4D43BF1DF4D",
       "silentArgs": "/S"
     },
     "icon": {

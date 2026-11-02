@@ -1,12 +1,12 @@
 {
   "version": "1.1",
-  "generated": "2026-10-26T08:10:29Z",
+  "generated": "2026-11-02T10:09:04Z",
   "total": 84,
   "apps": [
     {
       "id": "Brave.Brave",
       "name": "Brave",
-      "version": "155.1.97.56",
+      "version": "156.1.98.63",
       "publisher": "Brave Software Inc",
       "description": "Secure, Fast & Private Web Browser with Adblocker",
       "license": "MPL-2.0",
@@ -21,10 +21,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://github.com/brave/brave-browser/releases/download/v1.97.56/BraveBrowserStandaloneSilentSetup.exe",
+        "url": "https://github.com/brave/brave-browser/releases/download/v1.98.63/BraveBrowserStandaloneSilentSetup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "860FCD9B0DAAA7D2647D5230B16AA7B7F1BE0CA03DB49944A925E24A2600A9A2",
+        "sha256": "6C139A6915432E72B626CE8566865F12854F744310C19543C498ECFD87D5CFFA",
         "silentArgs": "/S"
       },
       "icon": {
@@ -35,7 +35,7 @@
     {
       "id": "LibreWolf.LibreWolf",
       "name": "LibreWolf",
-      "version": "158.0.1-2",
+      "version": "159.0-1",
       "publisher": "LibreWolf",
       "description": "A custom version of Firefox, focused on privacy, security and freedom.",
       "license": "MPL-2.0",
@@ -53,10 +53,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://dl.librewolf.net/librewolf/158.0.1-2/librewolf-158.0.1-2-windows-x86_64-setup.exe",
+        "url": "https://dl.librewolf.net/librewolf/159.0-1/librewolf-159.0-1-windows-x86_64-setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "3566F58BB6E2EDBD92DD63024309EDADBCF9CEF5DB3BE3C40A3E5B63031068DB",
+        "sha256": "AEBA328856112B462A40685EF2902ED3B48952DEAAAF146F52526B22F2B1C37C",
         "silentArgs": "/S"
       },
       "icon": {
@@ -67,7 +67,7 @@
     {
       "id": "Mozilla.Firefox",
       "name": "Mozilla Firefox (en-US)",
-      "version": "157.0.1",
+      "version": "159.0",
       "publisher": "Mozilla",
       "description": "Mozilla Firefox is free and open source software, built by a community of thousands from all over the world.",
       "license": "MPL-2.0",
@@ -84,10 +84,10 @@
         "webpage"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/157.0.1/win64/en-US/Firefox%20Setup%20157.0.1.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/159.0/win64/en-US/Firefox%20Setup%20159.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "71DC620E7749BB65BE6DF67B99261A303805A804F9C787B76B81C095CFA7D9CA",
+        "sha256": "8776887B79925ABBDD407FCDFE257D8382B54E24BE52A6466426B95A804D6790",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -98,7 +98,7 @@
     {
       "id": "UngoogledChromium.UngoogledChromium",
       "name": "Ungoogled Chromium",
-      "version": "156.0.8078.47-1.1",
+      "version": "156.0.8078.79-1.1",
       "publisher": "ungoogled-software",
       "description": "Windows packaging for ungoogled-chromium",
       "license": "BSD-3-Clause",
@@ -106,7 +106,7 @@
       "category": "Browsers",
       "tags": [],
       "installer": {
-        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/156.0.8078.47-1.1/ungoogled-chromium_156.0.8078.47-1.1_installer_x64.exe",
+        "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/156.0.8078.79-1.1/ungoogled-chromium_156.0.8078.79-1.1_installer_x64.exe",
         "type": "exe",
         "architecture": "x64",
         "sha256": "",
@@ -120,7 +120,7 @@
     {
       "id": "Waterfox.Waterfox",
       "name": "Waterfox",
-      "version": "6.7.6",
+      "version": "6.7.7",
       "publisher": "BrowserWorks",
       "description": "Fast and Private Web Browser",
       "license": "MPL-2.0",
@@ -139,10 +139,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.6/WINNT_x86_64/Waterfox%20Setup%206.7.6.exe",
+        "url": "https://cdn.waterfox.com/waterfox/releases/6.7.7/WINNT_x86_64/Waterfox%20Setup%206.7.7.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "7F5293ACAE538CE497829D31C7217FC89763A19A37F4451649F78DDB93F92684",
+        "sha256": "5FB1D40603908D6125FAE69A4FA9DAC4BA999B90C766CA9A812238F8FE37EC42",
         "silentArgs": "-ms"
       },
       "icon": {
@@ -153,7 +153,7 @@
     {
       "id": "Element.Element",
       "name": "Element",
-      "version": "1.12.32",
+      "version": "1.12.33",
       "publisher": "Element",
       "description": "Secure collaboration and messaging",
       "license": "AGPL-3.0-only or GPL-3.0-only",
@@ -177,10 +177,10 @@
         "talk"
       ],
       "installer": {
-        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.32.exe",
+        "url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.33.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "633A783365293916580FE8A589F3B0C8CAD9E2311F45F65E2F527AA6DDA72D5A",
+        "sha256": "9CE1BA82EF244CD3B26333D0673769641676FA3C5477EA8C388ED11F42ED7C20",
         "silentArgs": "--silent"
       },
       "icon": {
@@ -251,7 +251,7 @@
     {
       "id": "Mozilla.Thunderbird",
       "name": "Mozilla Thunderbird (en-US)",
-      "version": "158.0.1",
+      "version": "159.0",
       "publisher": "Mozilla",
       "description": "Thunderbird is a free email application that is easy to set up and customize - and it's loaded with great features!",
       "license": "MPL-2.0",
@@ -262,10 +262,10 @@
         "mail"
       ],
       "installer": {
-        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/158.0.1/win64/en-US/Thunderbird%20Setup%20158.0.1.exe",
+        "url": "https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/159.0/win64/en-US/Thunderbird%20Setup%20159.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "980331D65CB00D965F911E5F7E3E058C22B5F72A98853160A6D000C79FCB5DA6",
+        "sha256": "70EAC5E244F67CB4FBE4386DA20F5287573233FC5139BCF0E8E522B61E4B013E",
         "silentArgs": "/S /PreventRebootRequired=true"
       },
       "icon": {
@@ -276,7 +276,7 @@
     {
       "id": "RocketChat.RocketChat",
       "name": "Rocket.Chat",
-      "version": "4.18.5",
+      "version": "4.19.0",
       "publisher": "Rocket.Chat Support",
       "description": "Rocket.Chat is the leading open source team chat software solution. Free, unlimited and completely customizable with on-premises and SaaS cloud hosting.",
       "license": "MIT",
@@ -294,10 +294,10 @@
         "video-conference"
       ],
       "installer": {
-        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.18.5/rocketchat-4.18.5-win-x64.exe",
+        "url": "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/4.19.0/rocketchat-4.19.0-win-x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "B3AEA1E93DE2594F4FF7D86EADD90177A07D51C65AD9B5C2A711282F7263E828",
+        "sha256": "28B9A29B51DC632A46AB767BBEC482DB42BB1EA1D670C8C932AE16F2CEC46E0D",
         "silentArgs": "/S"
       },
       "icon": {
@@ -610,7 +610,7 @@
     {
       "id": "Git.Git",
       "name": "Git",
-      "version": "2.56.0.3",
+      "version": "2.56.0.4",
       "publisher": "The Git Development Community",
       "description": "A free and open source distributed version control system",
       "license": "GPL-2.0",
@@ -621,10 +621,10 @@
         "vcs"
       ],
       "installer": {
-        "url": "https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.3/Git-2.56.0.3-64-bit.exe",
+        "url": "https://github.com/git-for-windows/git/releases/download/v2.56.0.windows.4/Git-2.56.0.4-64-bit.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "DC6D3DB061999136E139F31376C5582A9ED6F36A4EA12F15E54AD7FA2BFC0BF2",
+        "sha256": "4961A4A8CC778D8B6E00A5819E5FE4D078B754555AFF7AEDC2D77A5D74C2DE80",
         "silentArgs": "/SP- /VERYSILENT /SUPPRESSMSGBOXES /NORESTART"
       },
       "icon": {
@@ -635,7 +635,7 @@
     {
       "id": "GitHub.GitHubDesktop",
       "name": "GitHub Desktop",
-      "version": "3.6.9",
+      "version": "3.6.10",
       "publisher": "GitHub, Inc.",
       "description": "Focus on what matters instead of fighting with Git.",
       "license": "MIT",
@@ -646,10 +646,10 @@
         "github"
       ],
       "installer": {
-        "url": "https://desktop.githubusercontent.com/releases/3.6.9-e0ba6bb8/GitHubDesktopSetup-x64.msi",
+        "url": "https://desktop.githubusercontent.com/releases/3.6.10-ffeefe5d/GitHubDesktopSetup-x64.msi",
         "type": "wix",
         "architecture": "x64",
-        "sha256": "E2BAB1785C348D0C29CB79C1030B07B902322E63FFD4025EF9BFD175DB600555",
+        "sha256": "7878E103E3C7870A7DF98CF06550EBE04ADED6BDE5997CB3564F09800122C829",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -660,7 +660,7 @@
     {
       "id": "GoLang.Go",
       "name": "Go Programming Language",
-      "version": "1.27.0",
+      "version": "1.27.3",
       "publisher": "https://go.dev",
       "description": "An open source programming language that makes it simple to build secure, scalable systems.",
       "license": "BSD-3-Clause",
@@ -674,10 +674,10 @@
         "programming-language"
       ],
       "installer": {
-        "url": "https://go.dev/dl/go1.27.0.windows-amd64.msi",
+        "url": "https://go.dev/dl/go1.27.3.windows-amd64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "728E9318C061B95082BCF167BAB8B6C6E0D91A045F89F403B3285FA39F0C455B",
+        "sha256": "89EC8325F667C674FE1B94A5A88E26932AA12323589881927FF54DA99D4B7FAA",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -780,7 +780,7 @@
     {
       "id": "OpenJS.NodeJS.LTS",
       "name": "Node.js (LTS)",
-      "version": "24.22.1",
+      "version": "26.13.0",
       "publisher": "Node.js Foundation",
       "description": "Run JavaScript Everywhere",
       "license": "MIT",
@@ -802,10 +802,10 @@
         "v8"
       ],
       "installer": {
-        "url": "https://nodejs.org/dist/v24.22.1/node-v24.22.1-x64.msi",
-        "type": "wix",
+        "url": "https://nodejs.org/dist/v26.13.0/node-v26.13.0-x64.msi",
+        "type": "msi",
         "architecture": "x64",
-        "sha256": "3BDA4BAF1EE709B33CF920DD633106DDB23951E322BFF9C03EC9F64AB8981B01",
+        "sha256": "0E5EE99C7CBF922887F04AF268E3665990748945336A44956F47CC0DF695B6DF",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -846,7 +846,7 @@
     {
       "id": "Python.Python",
       "name": "Python 3.14",
-      "version": "3.14.7",
+      "version": "3.14.10",
       "publisher": "Python Software Foundation",
       "description": "A programming language that lets you work more quickly and integrate your systems more effectively.",
       "license": "PSF-2.0",
@@ -865,10 +865,10 @@
         "script"
       ],
       "installer": {
-        "url": "https://www.python.org/ftp/python/3.14.7/python-3.14.7-amd64.exe",
+        "url": "https://www.python.org/ftp/python/3.14.10/python-3.14.10-amd64.exe",
         "type": "burn",
         "architecture": "x64",
-        "sha256": "9D9EB2709EF81BF5CD30DB3C2096BDBC4EA10087C22E62F27D356B36F6AE9649",
+        "sha256": "92480239264744FE0386A1BD8275786FEFA126E3129E56A68E22B52C73329965",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -879,7 +879,7 @@
     {
       "id": "Rustlang.Rustup",
       "name": "Rustup: the Rust toolchain installer",
-      "version": "1.29.1",
+      "version": "1.29.2",
       "publisher": "The Rust Programming Language",
       "description": "The Rust toolchain installer",
       "license": "Apache-2.0 or MIT",
@@ -890,17 +890,17 @@
         "rustlang"
       ],
       "installer": {
-        "url": "https://static.rust-lang.org/rustup/archive/1.29.1/x86_64-pc-windows-msvc/rustup-init.exe",
+        "url": "https://static.rust-lang.org/rustup/archive/1.29.2/x86_64-pc-windows-msvc/rustup-init.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "6F4BEF66261261FCB43131BE8720BAB817D403A09EDEC7455C371974B90BDB7E",
+        "sha256": "00F139DA614DCED87D3C3D4121C43EEBDAC3C1BF8A5EE86B9D80DFD71C8D70FD",
         "silentArgs": "-y -q"
       }
     },
     {
       "id": "astral-sh.uv",
       "name": "uv",
-      "version": "0.13.5",
+      "version": "0.13.6",
       "publisher": "Astral Software Inc.",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "license": "Apache-2.0 or MIT",
@@ -910,10 +910,10 @@
         "python"
       ],
       "installer": {
-        "url": "https://github.com/astral-sh/uv/releases/download/0.13.5/uv-x86_64-pc-windows-msvc.zip",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.13.6/uv-x86_64-pc-windows-msvc.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "A38B8D1902B7CFBC76B423BA1BB456F623F42064CDC72628B6075B89AFD1019A",
+        "sha256": "A2A8820D5EEA32F08EF467EF3B7F66883A9B076D5737A2FC2FBB5F458D1BB50F",
         "silentArgs": ""
       },
       "icon": {
@@ -924,7 +924,7 @@
     {
       "id": "VSCodium.VSCodium",
       "name": "VSCodium",
-      "version": "1.140.06880",
+      "version": "1.143.17232",
       "publisher": "VSCodium",
       "description": "VSCodium is a community-driven, freely-licensed and telemetry-free rebuilt of Microsoft's Visual Studio Code.",
       "license": "MIT",
@@ -941,10 +941,10 @@
         "vscode"
       ],
       "installer": {
-        "url": "https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-x64-1.140.06880.exe",
+        "url": "https://github.com/VSCodium/vscodium/releases/download/1.143.17232/VSCodiumUserSetup-x64-1.143.17232.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "CD5B65ED9447C1D5E3028C75CCB9B294814B7ECF3CA8703ECBD82C8896B7CA52",
+        "sha256": "969C878C06F823E1E48FBC4C8BC5F8B4E25A303C24BC28D1623A492560B5607E",
         "silentArgs": "/S"
       },
       "icon": {
@@ -985,7 +985,7 @@
     {
       "id": "yt-dlp.yt-dlp",
       "name": "yt-dlp",
-      "version": "2026.10.21",
+      "version": "2026.10.26",
       "publisher": "yt-dlp",
       "description": "A feature-rich command-line audio/video downloader.",
       "license": "Unlicense",
@@ -1007,10 +1007,10 @@
         "ytdlp"
       ],
       "installer": {
-        "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.21/yt-dlp.exe",
+        "url": "https://github.com/yt-dlp/yt-dlp/releases/download/2026.10.26/yt-dlp.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "33121D192D706E62F684A06F80918E3F3A8BA52AC3A65213B6951C39C7D9F555",
+        "sha256": "F5389D3698ECDE4EF06F4E6B1CE0294FE9AC1396228C8990B8D3416D6D177A7D",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1052,7 +1052,7 @@
     {
       "id": "Nextcloud.NextcloudDesktop",
       "name": "Nextcloud",
-      "version": "35.0.0",
+      "version": "35.0.1",
       "publisher": "Nextcloud GmbH",
       "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
       "license": "GPL-2.0",
@@ -1066,10 +1066,10 @@
         "utility"
       ],
       "installer": {
-        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v35.0.0/Nextcloud-35.0.0-x64.msi",
+        "url": "https://github.com/nextcloud-releases/desktop/releases/download/v35.0.1/Nextcloud-35.0.1-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "7DF0F2FE42519E454E14D45A34C4D8D601E98434710087CB1D6D96F315206CD7",
+        "sha256": "A4F348E809742A11F36C025ED810782120C411C4D74EB05E2C6D2AC335927CA2",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -1112,7 +1112,7 @@
     {
       "id": "Rclone.Rclone",
       "name": "Rclone",
-      "version": "1.75.1",
+      "version": "1.75.2",
       "publisher": "Rclone",
       "description": "Rclone (\"rsync for cloud storage\") is a command-line program to sync files and directories to and from different cloud storage providers.",
       "license": "MIT",
@@ -1130,10 +1130,10 @@
         "webdav"
       ],
       "installer": {
-        "url": "https://github.com/rclone/rclone/releases/download/v1.75.1/rclone-v1.75.1-windows-amd64.zip",
+        "url": "https://github.com/rclone/rclone/releases/download/v1.75.2/rclone-v1.75.2-windows-amd64.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "200EB602C126D82AA38B51E0F6B9AE837473FF99B51278D3F6F837574C494D6E",
+        "sha256": "8A9DB2BAD1DC79A65B3348FD857069598E2AAB7CF4D118B77B1DF23055AFF818",
         "silentArgs": ""
       },
       "icon": {
@@ -1619,7 +1619,7 @@
     {
       "id": "Joplin.Joplin",
       "name": "Joplin",
-      "version": "3.7.21",
+      "version": "3.7.22",
       "publisher": "Laurent Cozic",
       "description": "Joplin is an open source note-taking app. Capture your thoughts and securely access them from any device.",
       "license": "AGPL-3.0-or-later",
@@ -1637,10 +1637,10 @@
         "todo"
       ],
       "installer": {
-        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe",
+        "url": "https://github.com/laurent22/joplin/releases/download/v3.7.22/Joplin-Setup-3.7.22.exe",
         "type": "exe",
         "architecture": "x86",
-        "sha256": "4222536C69360A30A566627B35C2E1CD8D38D0C79735EBDE4E39EDBCDDD750CD",
+        "sha256": "EE11551239E7D680F76C6A4DDBC2362DDA850981904FDB365298E4D43BF1DF4D",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1740,7 +1740,7 @@
     {
       "id": "Bitwarden.Bitwarden",
       "name": "Bitwarden",
-      "version": "2026.10.1",
+      "version": "2026.10.2",
       "publisher": "Bitwarden Inc.",
       "description": "A secure and free password manager for all of your devices.",
       "license": "GPL-3.0 or Bitwarden-1.0",
@@ -1758,10 +1758,10 @@
         "vault"
       ],
       "installer": {
-        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.1/Bitwarden-Installer-2026.10.1.exe",
+        "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.10.2/Bitwarden-Installer-2026.10.2.exe",
         "type": "nullsoft",
         "architecture": "x64",
-        "sha256": "D4AAAD518E6A088CAE48AF41A1F49045D7579AB5957C76FCC06BBF0FBF89FE69",
+        "sha256": "3316EB8516EDAE538DE3EE529C1A6329676C1C7B354A5166894BB64D9ECC0E6F",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1772,7 +1772,7 @@
     {
       "id": "Cryptomator.Cryptomator",
       "name": "Cryptomator",
-      "version": "1.19.4",
+      "version": "1.19.6",
       "publisher": "Skymatic GmbH",
       "description": "Encryption made easy and optimized for the cloud",
       "license": "GPL-3.0",
@@ -1787,10 +1787,10 @@
         "security"
       ],
       "installer": {
-        "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.4/Cryptomator-1.19.4-x64.msi",
+        "url": "https://github.com/cryptomator/cryptomator/releases/download/1.19.6/Cryptomator-1.19.6-x64.msi",
         "type": "msi",
         "architecture": "x64",
-        "sha256": "521C8EB33A7A65EFB8CD0EB1F78D25C9B8300AA7D680DA26A5C6203BB7AF4C55",
+        "sha256": "AD416A6DFF6AD969C2C346A9050B650E49FE5DA9AC30C948148AE6B8412EBBCE",
         "silentArgs": "/quiet /norestart"
       },
       "icon": {
@@ -1893,7 +1893,7 @@
     {
       "id": "Proton.ProtonVPN",
       "name": "Proton VPN",
-      "version": "5.1.8",
+      "version": "5.1.9",
       "publisher": "Proton AG",
       "description": "High-speed Swiss VPN that safeguards your privacy.",
       "license": "GPL-3.0",
@@ -1909,10 +1909,10 @@
         "vpn"
       ],
       "installer": {
-        "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.8_x64.exe",
+        "url": "https://vpn.protondownload.com/download/ProtonVPN_v5.1.9_x64.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "C7E9D52FD4D3B65FF8EA83C24DBBE3F4AD9B3726739CF645CE15B9E24EDC4AA4",
+        "sha256": "8454EBA06A37C0A636EC8DCFE6A7A823A68A78EE8FE2EEDA2D651CD5CD6C3D70",
         "silentArgs": "/S"
       },
       "icon": {
@@ -1953,7 +1953,7 @@
     {
       "id": "TorProject.TorBrowser",
       "name": "Tor Browser",
-      "version": "15.0.26",
+      "version": "16.0",
       "publisher": "Tor Project",
       "description": "Protect yourself against tracking, surveillance, and censorship.",
       "license": "MPL-2.0",
@@ -1974,10 +1974,10 @@
         "web-browser"
       ],
       "installer": {
-        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/15.0.26/tor-browser-windows-x86_64-portable-15.0.26.exe",
+        "url": "https://archive.torproject.org/tor-package-archive/torbrowser/16.0/tor-browser-windows-x86_64-portable-16.0.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "37C2201F31F2FD9EA8470CF8F3CAFC8DD3CD92D9ED9109B3913E1105B47D2AF5",
+        "sha256": "5BB6B180FF9F37535CC033821B3D94401E44DF159DCE9FFABAF3446B66EC940B",
         "silentArgs": "/S"
       },
       "icon": {
@@ -2210,7 +2210,7 @@
     {
       "id": "cURL.cURL",
       "name": "cURL",
-      "version": "8.23.0.5",
+      "version": "8.23.0.6",
       "publisher": "curl",
       "description": "Command line tool and library for transferring data with URLs",
       "license": "Freeware",
@@ -2218,10 +2218,10 @@
       "category": "Utilities",
       "tags": [],
       "installer": {
-        "url": "https://curl.se/windows/dl-8.23.0_5/curl-8.23.0_5-win64-mingw.zip",
+        "url": "https://curl.se/windows/dl-8.23.0_6/curl-8.23.0_6-win64-mingw.zip",
         "type": "zip",
         "architecture": "x64",
-        "sha256": "B0AF3896433242213F6D1388A104115E6DFDD3B16727E5B00C2AB0F48FBC904A",
+        "sha256": "E8219337F2E556E8D5A69E58FC22C4BD3D86381608D4984096AAFD7A8849B71F",
         "silentArgs": ""
       },
       "icon": {
@@ -2419,7 +2419,7 @@
     {
       "id": "uvncbvba.UltraVNC",
       "name": "UltraVNC",
-      "version": "1.8.3.0",
+      "version": "1.8.3.1",
       "publisher": "uvnc bvba",
       "description": "VNC client and server graphical desktop sharing via RFB protocol",
       "license": "GPL-3.0",
@@ -2434,10 +2434,10 @@
         "vnc"
       ],
       "installer": {
-        "url": "https://uvnc.eu/download/1800/UltraVNC_1830_x64_Setup.exe",
+        "url": "https://uvnc.eu/download/1800/UltraVNC_1831_x64_Setup.exe",
         "type": "exe",
         "architecture": "x64",
-        "sha256": "E9C22419EF3128A707B0D004A2C58E25459528C5C12D104DEA56E5E662BD131E",
+        "sha256": "A351A06E12A86A85190112CC6B200E9BDAFB2482843C2DE27F48E51F498E9242",
         "silentArgs": "/S"
       }
     },
