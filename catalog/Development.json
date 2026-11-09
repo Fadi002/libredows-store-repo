@@ -247,7 +247,7 @@
   {
     "id": "Notepad++.Notepad++",
     "name": "Notepad++",
-    "version": "8.9.8.1",
+    "version": "8.9.9",
     "publisher": "Notepad++ Team",
     "description": "Notepad++ is a free source code editor that supports several languages.",
     "license": "GPL-3.0-or-later",
@@ -263,10 +263,10 @@
       "text-editor"
     ],
     "installer": {
-      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.8.1/npp.8.9.8.1.Installer.x64.msi",
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.9.9/npp.8.9.9.Installer.x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "0C4F4FE82BABD7688F5C1431B1357392491563AF6FFEDF4E37F5DE0BD71BABB4",
+      "sha256": "52260E91DD98ADDA3413DE1555E042DEBEBC89615FAB7A9BB0C20E4292491D3C",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -310,7 +310,7 @@
   {
     "id": "Rustlang.Rustup",
     "name": "Rustup: the Rust toolchain installer",
-    "version": "1.29.2",
+    "version": "1.29.3",
     "publisher": "The Rust Programming Language",
     "description": "The Rust toolchain installer",
     "license": "Apache-2.0 or MIT",
@@ -321,17 +321,17 @@
       "rustlang"
     ],
     "installer": {
-      "url": "https://static.rust-lang.org/rustup/archive/1.29.2/x86_64-pc-windows-msvc/rustup-init.exe",
+      "url": "https://static.rust-lang.org/rustup/archive/1.29.3/x86_64-pc-windows-msvc/rustup-init.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "00F139DA614DCED87D3C3D4121C43EEBDAC3C1BF8A5EE86B9D80DFD71C8D70FD",
+      "sha256": "38027D51D69A5D05493627A0634DBEA52D6CD793C8F072D2373D3F4163EEC7DB",
       "silentArgs": "-y -q"
     }
   },
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.13.6",
+    "version": "0.13.7",
     "publisher": "Astral Software Inc.",
     "description": "An extremely fast Python package and project manager, written in Rust.",
     "license": "Apache-2.0 or MIT",
@@ -341,10 +341,10 @@
       "python"
     ],
     "installer": {
-      "url": "https://github.com/astral-sh/uv/releases/download/0.13.6/uv-x86_64-pc-windows-msvc.zip",
+      "url": "https://github.com/astral-sh/uv/releases/download/0.13.7/uv-x86_64-pc-windows-msvc.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "A2A8820D5EEA32F08EF467EF3B7F66883A9B076D5737A2FC2FBB5F458D1BB50F",
+      "sha256": "0CDC5B38FE5A8168ED6A25814F5BA43C21D313DD3187314FCCB37B7CEC46E021",
       "silentArgs": ""
     },
     "icon": {

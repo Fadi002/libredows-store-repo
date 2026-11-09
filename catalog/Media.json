@@ -2,7 +2,7 @@
   {
     "id": "Audacity.Audacity",
     "name": "Audacity",
-    "version": "4.0.1.262721353",
+    "version": "4.0.2.263060742",
     "publisher": "Audacity",
     "description": "The world’s most popular free software for recording and editing audio.",
     "license": "GPL-3.0-or-later",
@@ -23,10 +23,10 @@
       "xp8k0j757hhrdw"
     ],
     "installer": {
-      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.1/audacity-win-4.0.1-x86_64.msi",
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-4.0.2/audacity-win-4.0.2-x86_64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "EFB652BF04168F5D4893F28B7CEFAAF5EF385D9251544540AC774E3BF54793A3",
+      "sha256": "FF6CAD670BEFEE96FEE563056965FA5E17BFA8C7EA3ABA10C461C18799409E22",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -69,7 +69,7 @@
   {
     "id": "KDE.Kdenlive",
     "name": "Kdenlive",
-    "version": "26.08.2",
+    "version": "26.08.3",
     "publisher": "KDE e.V.",
     "description": "Free and Open Source Video Editor",
     "license": "GPL-3.0",
@@ -88,10 +88,10 @@
       "video-editor"
     ],
     "installer": {
-      "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.2.exe",
+      "url": "https://download.kde.org/stable/kdenlive/26.08/windows/kdenlive-26.08.3.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "9F89D8AC53B190BA506AF86FB37B31F17B60A532394BD5303AF4E505B3A5BEE6",
+      "sha256": "1F4027F287C3066887B1C112664B10C4E71A6772914FD5EA41074DF429652186",
       "silentArgs": "/S"
     },
     "icon": {
@@ -126,7 +126,7 @@
   {
     "id": "clsid2.mpc-hc",
     "name": "MPC-HC",
-    "version": "2.8.4",
+    "version": "2.8.5",
     "publisher": "MPC-HC Team",
     "description": "MPC-HC is an extremely light-weight, open source media player for Windows. It supports all common video and audio file formats available for playback.",
     "license": "GPL-3.0",
@@ -146,10 +146,10 @@
       "video-player"
     ],
     "installer": {
-      "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.4/MPC-HC.2.8.4.x64.exe",
+      "url": "https://github.com/clsid2/mpc-hc/releases/download/2.8.5/MPC-HC.2.8.5.x64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "8340EB8847006EE1EFE154E3172E324565F05659439E31579CE9DFF9BB6816B8",
+      "sha256": "EF3B3273130F5E4312E608DE0253BDC3B96187EF73655603719812973649437E",
       "silentArgs": "/S"
     },
     "icon": {
@@ -270,6 +270,10 @@
       "architecture": "x64",
       "sha256": "22172095CE4C2D5F5B600BB4C142D78105DB29A77FA59A931941876F3B20F6D0",
       "silentArgs": "/quiet /norestart"
+    },
+    "icon": {
+      "file": "icons/videolan-vlc.ico",
+      "url": "https://icons.duckduckgo.com/ip3/www.videolan.org.ico"
     }
   }
 ]

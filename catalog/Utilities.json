@@ -2,7 +2,7 @@
   {
     "id": "7zip.7zip",
     "name": "7-Zip",
-    "version": "26.05",
+    "version": "26.06",
     "publisher": "Igor Pavlov",
     "description": "A file archiver with a high compression ratio.",
     "license": "LGPL-2.1",
@@ -26,10 +26,10 @@
       "zip"
     ],
     "installer": {
-      "url": "https://github.com/ip7z/7zip/releases/download/26.05/7z2605-x64.msi",
+      "url": "https://github.com/ip7z/7zip/releases/download/26.06/7z2606-x64.msi",
       "type": "wix",
       "architecture": "x64",
-      "sha256": "3FE4AB99FA15629C652944309A2B2BC6E41FC933FC6B63F5DF1EBCF3AEA68263",
+      "sha256": "6DC822569E777D9A3ECD5FFCBC22B55600AF87E6C5D9810A64E8566CF5A4AF9F",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -132,7 +132,7 @@
   {
     "id": "CrystalDewWorld.CrystalDiskInfo",
     "name": "CrystalDiskInfo",
-    "version": "9.9.3",
+    "version": "9.9.4",
     "publisher": "Crystal Dew World",
     "description": "A HDD/SSD utility software which supports parts of USB, Intel RAID and NVMe.",
     "license": "MIT",
@@ -157,10 +157,10 @@
       "xp8k4rgx25g3gm"
     ],
     "installer": {
-      "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.3/CrystalDiskInfo9_9_3.exe/download",
+      "url": "https://sourceforge.net/projects/crystaldiskinfo/files/9.9.4/CrystalDiskInfo9_9_4.exe/download",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "AEB4F4AB81C71F9B41CE65DE841162260FF64C1EC07A758A459CAC925BD0FCF6",
+      "sha256": "248D99FC43041E6C9C486BEAAE3E38E7FB864D8787B31F24D7634E0032952333",
       "silentArgs": "/S"
     },
     "icon": {
@@ -202,7 +202,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.23.0.6",
+    "version": "8.23.0.8",
     "publisher": "curl",
     "description": "Command line tool and library for transferring data with URLs",
     "license": "Freeware",
@@ -210,10 +210,10 @@
     "category": "Utilities",
     "tags": [],
     "installer": {
-      "url": "https://curl.se/windows/dl-8.23.0_6/curl-8.23.0_6-win64-mingw.zip",
+      "url": "https://curl.se/windows/dl-8.23.0_8/curl-8.23.0_8-win64-mingw.zip",
       "type": "zip",
       "architecture": "x64",
-      "sha256": "E8219337F2E556E8D5A69E58FC22C4BD3D86381608D4984096AAFD7A8849B71F",
+      "sha256": "CA5B0FD6E7A6DBDE210281F545C73A89784F2E88104A2CDFE0B73EA3DFED5B3A",
       "silentArgs": ""
     },
     "icon": {
@@ -411,7 +411,7 @@
   {
     "id": "uvncbvba.UltraVNC",
     "name": "UltraVNC",
-    "version": "1.8.3.1",
+    "version": "1.8.3.2",
     "publisher": "uvnc bvba",
     "description": "VNC client and server graphical desktop sharing via RFB protocol",
     "license": "GPL-3.0",
@@ -426,10 +426,10 @@
       "vnc"
     ],
     "installer": {
-      "url": "https://uvnc.eu/download/1800/UltraVNC_1831_x64_Setup.exe",
+      "url": "https://uvnc.eu/download/1800/UltraVNC_1832_x64_Setup.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "A351A06E12A86A85190112CC6B200E9BDAFB2482843C2DE27F48E51F498E9242",
+      "sha256": "AE1BB545C59E082620997D98589E3AEF871E71494CB100144C95608C8323B4F7",
       "silentArgs": "/S"
     }
   },

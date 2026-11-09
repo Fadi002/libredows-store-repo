@@ -41,7 +41,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.14.11",
+    "version": "0.15.0",
     "publisher": "AppFlowy-IO",
     "description": "The Open Source Alternative To Notion.",
     "license": "AGPL-3.0",
@@ -66,10 +66,10 @@
       "wiki"
     ],
     "installer": {
-      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.14.11/AppFlowy-0.14.11-windows-x86_64.exe",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy/releases/download/0.15.0/AppFlowy-0.15.0-windows-x86_64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "ED68D452BD35D030968F9E00BA99DDECD78D286C93596089761011552C07AA15",
+      "sha256": "FAD56CCDB0532AE49F9841410D67ED18F5D88091A8743663EA9E073517D24676",
       "silentArgs": "/sp- /verysilent /norestart"
     },
     "icon": {

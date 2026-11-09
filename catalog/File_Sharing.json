@@ -33,7 +33,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "35.0.1",
+    "version": "35.0.3",
     "publisher": "Nextcloud GmbH",
     "description": "The Nextcloud Desktop Client is a tool to synchronize files from Nextcloud Server with your computer.",
     "license": "GPL-2.0",
@@ -47,10 +47,10 @@
       "utility"
     ],
     "installer": {
-      "url": "https://github.com/nextcloud-releases/desktop/releases/download/v35.0.1/Nextcloud-35.0.1-x64.msi",
+      "url": "https://github.com/nextcloud-releases/desktop/releases/download/v35.0.3/Nextcloud-35.0.3-x64.msi",
       "type": "msi",
       "architecture": "x64",
-      "sha256": "A4F348E809742A11F36C025ED810782120C411C4D74EB05E2C6D2AC335927CA2",
+      "sha256": "09DBAECD4585078F33CBCD62482FC244D2146A92AEEF2F3324A68478B12685D2",
       "silentArgs": "/quiet /norestart"
     },
     "icon": {
@@ -125,7 +125,7 @@
   {
     "id": "ShareX.ShareX",
     "name": "ShareX",
-    "version": "21.0.0",
+    "version": "22.4.0",
     "publisher": "ShareX Team",
     "description": "Screen capture, file sharing and productivity tool",
     "license": "GPL-3.0",
@@ -148,10 +148,10 @@
       "upload"
     ],
     "installer": {
-      "url": "https://github.com/ShareX/ShareX/releases/download/v21.0.0/ShareX-21.0.0-setup-x64.exe",
+      "url": "https://github.com/ShareX/ShareX/releases/download/v22.4.0/ShareX-22.4.0-setup-x64.exe",
       "type": "exe",
       "architecture": "x64",
-      "sha256": "F213ACA04D30E0E2DC7C43BC79ACAE8622BE291CEE6014A90962ED87EA5F10CC",
+      "sha256": "5FAC6EE58600976586D706F164B0F8A992FFF7679BF2724A1F678C4A63894A8E",
       "silentArgs": "/S"
     },
     "icon": {

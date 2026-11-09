@@ -10,7 +10,7 @@
   {
     "id": "LibreWolf.LibreWolf",
     "name": "LibreWolf",
-    "version": "159.0-1",
+    "version": "159.0.1-1",
     "category": "Browsers",
     "homepage": "https://librewolf.net/",
     "icon": "icons/librewolf-librewolf.ico"
@@ -26,7 +26,7 @@
   {
     "id": "UngoogledChromium.UngoogledChromium",
     "name": "Ungoogled Chromium",
-    "version": "156.0.8078.79-1.1",
+    "version": "157.0.8103.38-1.1",
     "category": "Browsers",
     "homepage": "https://github.com/ungoogled-software/ungoogled-chromium-windows",
     "icon": "icons/ungoogledchromium-ungoogledchromium.png"
@@ -34,7 +34,7 @@
   {
     "id": "Waterfox.Waterfox",
     "name": "Waterfox",
-    "version": "6.7.7",
+    "version": "6.7.8",
     "category": "Browsers",
     "homepage": "https://www.waterfox.net/",
     "icon": "icons/waterfox-waterfox.ico"
@@ -58,7 +58,7 @@
   {
     "id": "Mattermost.MattermostDesktop",
     "name": "Mattermost",
-    "version": "6.3.1",
+    "version": "6.3.2",
     "category": "Communication",
     "homepage": "https://mattermost.com/apps/",
     "icon": "icons/mattermost-mattermostdesktop.png"
@@ -74,7 +74,7 @@
   {
     "id": "RocketChat.RocketChat",
     "name": "Rocket.Chat",
-    "version": "4.19.0",
+    "version": "4.19.1",
     "category": "Communication",
     "homepage": "https://rocket.chat/",
     "icon": "icons/rocketchat-rocketchat.png"
@@ -218,7 +218,7 @@
   {
     "id": "Notepad++.Notepad++",
     "name": "Notepad++",
-    "version": "8.9.8.1",
+    "version": "8.9.9",
     "category": "Development",
     "homepage": "https://notepad-plus-plus.org/",
     "icon": "icons/notepad-notepad.png"
@@ -234,7 +234,7 @@
   {
     "id": "Rustlang.Rustup",
     "name": "Rustup: the Rust toolchain installer",
-    "version": "1.29.2",
+    "version": "1.29.3",
     "category": "Development",
     "homepage": "https://rust-lang.github.io/rustup/",
     "icon": ""
@@ -242,7 +242,7 @@
   {
     "id": "astral-sh.uv",
     "name": "uv",
-    "version": "0.13.6",
+    "version": "0.13.7",
     "category": "Development",
     "homepage": "https://github.com/astral-sh/uv",
     "icon": "icons/astral-sh-uv.png"
@@ -282,7 +282,7 @@
   {
     "id": "Nextcloud.NextcloudDesktop",
     "name": "Nextcloud",
-    "version": "35.0.1",
+    "version": "35.0.3",
     "category": "File Sharing",
     "homepage": "https://nextcloud.com/",
     "icon": "icons/nextcloud-nextclouddesktop.png"
@@ -306,7 +306,7 @@
   {
     "id": "ShareX.ShareX",
     "name": "ShareX",
-    "version": "21.0.0",
+    "version": "22.4.0",
     "category": "File Sharing",
     "homepage": "https://getsharex.com/",
     "icon": "icons/sharex-sharex.png"
@@ -338,7 +338,7 @@
   {
     "id": "Audacity.Audacity",
     "name": "Audacity",
-    "version": "4.0.1.262721353",
+    "version": "4.0.2.263060742",
     "category": "Media",
     "homepage": "https://www.audacityteam.org/",
     "icon": "icons/audacity-audacity.png"
@@ -354,7 +354,7 @@
   {
     "id": "KDE.Kdenlive",
     "name": "Kdenlive",
-    "version": "26.08.2",
+    "version": "26.08.3",
     "category": "Media",
     "homepage": "https://kdenlive.org/",
     "icon": "icons/kde-kdenlive.png"
@@ -370,7 +370,7 @@
   {
     "id": "clsid2.mpc-hc",
     "name": "MPC-HC",
-    "version": "2.8.4",
+    "version": "2.8.5",
     "category": "Media",
     "homepage": "https://github.com/clsid2/mpc-hc",
     "icon": "icons/clsid2-mpc-hc.png"
@@ -405,7 +405,7 @@
     "version": "3.0.24",
     "category": "Media",
     "homepage": "https://www.videolan.org/vlc/",
-    "icon": ""
+    "icon": "icons/videolan-vlc.ico"
   },
   {
     "id": "ToEverything.AFFiNE",
@@ -418,7 +418,7 @@
   {
     "id": "AppFlowy.AppFlowy",
     "name": "AppFlowy",
-    "version": "0.14.11",
+    "version": "0.15.0",
     "category": "Productivity",
     "homepage": "https://github.com/AppFlowy-IO/AppFlowy",
     "icon": "icons/appflowy-appflowy.png"
@@ -458,7 +458,7 @@
   {
     "id": "Bitwarden.Bitwarden",
     "name": "Bitwarden",
-    "version": "2026.10.2",
+    "version": "2026.10.4",
     "category": "Security",
     "homepage": "https://bitwarden.com/",
     "icon": "icons/bitwarden-bitwarden.png"
@@ -522,7 +522,7 @@
   {
     "id": "IDRIX.VeraCrypt",
     "name": "VeraCrypt",
-    "version": "1.26.30",
+    "version": "1.26.31",
     "category": "Security",
     "homepage": "https://github.com/veracrypt/VeraCrypt",
     "icon": "icons/idrix-veracrypt.png"
@@ -530,7 +530,7 @@
   {
     "id": "7zip.7zip",
     "name": "7-Zip",
-    "version": "26.05",
+    "version": "26.06",
     "category": "Utilities",
     "homepage": "https://7-zip.org/download.html",
     "icon": "icons/7zip-7zip.png"
@@ -562,7 +562,7 @@
   {
     "id": "CrystalDewWorld.CrystalDiskInfo",
     "name": "CrystalDiskInfo",
-    "version": "9.9.3",
+    "version": "9.9.4",
     "category": "Utilities",
     "homepage": "https://crystalmark.info/en/software/crystaldiskinfo/",
     "icon": "icons/crystaldewworld-crystaldiskinfo.ico"
@@ -578,7 +578,7 @@
   {
     "id": "cURL.cURL",
     "name": "cURL",
-    "version": "8.23.0.6",
+    "version": "8.23.0.8",
     "category": "Utilities",
     "homepage": "https://curl.se/",
     "icon": "icons/curl-curl.ico"
@@ -634,7 +634,7 @@
   {
     "id": "uvncbvba.UltraVNC",
     "name": "UltraVNC",
-    "version": "1.8.3.1",
+    "version": "1.8.3.2",
     "category": "Utilities",
     "homepage": "https://uvnc.com/downloads/ultravnc.html",
     "icon": ""
